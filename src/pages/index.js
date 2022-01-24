@@ -1,9 +1,9 @@
 import * as React from "react"
 import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 // import CalculatorSection from "../components/calculator/CalculatorSection"
-// import Icon from "../components/Icon"
+import Icon from "../components/Icon"
 import scrollTo from "gatsby-plugin-smoothscroll"
 import Seo from "../components/seo"
 
@@ -96,30 +96,39 @@ const Landlords = () => {
 
   return (
     <Layout className="landing">
-      hello
-      {/* <Seo title={metaTitle} description={metaDescription} />
       <section className="hero">
-        <GatsbyImage
+        {/* <GatsbyImage
           className="grid-1"
-          alt={heroHeading}
-          image={getImage(heroImg)}
+          alt="Pet Command Center"
+          image={getImage("images/banner.png")}
           formats={["auto", "webp", "avif"]}
           objectPosition={"70%"}
           objectFit="cover"
+        /> */}
+        <StaticImage
+          className="grid-1"
+          objectPosition={"70%"}
+          objectFit="cover"
+          src={"../images/banner.png"}
+          alt="Pet Command Center"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          placeholder="transparent"
         />
         <div className="banner-grid">
           <div className="container">
             <div className="hero-content">
               <div className="hero-left">
-                <h1 className="h1">{heroHeading}</h1>
-                <p className="hero-text">{heroText}</p>
+                <h1 className="h1">Pet Command Center</h1>
+                <p className="hero-text">
+                  Manage Your Pet Program From One Platform
+                </p>
                 <a
-                  href={heroBtnUrl}
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
-                  className="btn btn-lg primary"
+                  className="btn btn-lg secondary"
                 >
-                  {heroBtn}
+                  Get started
                 </a>
               </div>
               <button
@@ -133,82 +142,96 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-
-      {/*calculator*/}
-      {/* <section className="section" id="scroll-here">
-        <div className="container">
-          <div className="title text-center">
-            <h2 className="h2">{calculatorHeading}</h2>
-            <p className="title-info">{calculatorText}</p>
-          </div>
-          <CalculatorSection />
-        </div>
-      </section>
       <section className="img-text-section section">
         <div className="container">
+          <div className="img-text-header">
+            <h2 className="h2">Get Your Pet Program Out of the Dog House</h2>
+            <h5 className="h5">
+              The Complete Multi-Tenant Platform for Pet Management
+            </h5>
+          </div>
           <div className="img-text-content">
+            <div className="text">
+              <h3 className="h3">Happy Tenants, Happy Property Management</h3>
+              <p>
+                Landlord Tech specializes in providing digital tools to help
+                property owners and managers successfully manage pets in their
+                properties.
+              </p>
+              <ul>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Easy Pet Management platform for landlords and tenants
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Easy Pet Management platform for landlords and tenants
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Easy Pet Management platform for landlords and tenants
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Easy Pet Management platform for landlords and tenants
+                </li>
+              </ul>
+              <p>
+                The OPP Platform is easy to implement, with easy to use
+                on-boarding tools and platform management tools.
+              </p>
+              <p>
+                <Link to="/privacy-policy">Contact us </Link>to learn more.
+              </p>
+            </div>
             <div className="img">
-              <GatsbyImage
+              {/* <GatsbyImage
                 alt={sec1Heading}
                 image={getImage(sec1Img)}
                 formats={["AUTO", "WEBP", "AVIF"]}
+              /> */}
+              <StaticImage
+                alt="Happy Tenants, Happy Property Management"
+                src={"../images/imgText.png"}
+                formats={["AUTO", "WEBP", "AVIF"]}
               />
-            </div>
-            <div className="text">
-              <h2 className="h2">{sec1Heading}</h2>
-              <p>{sec1Text}</p>
             </div>
           </div>
         </div>
       </section>
-      <section className="no-more-section section">
-        <div className="container">
-          <div className="title">
-            <h2 className="h2">{sec2Heading}</h2>
-          </div>
-          <div className="no-more-content">
-            <div className="no-more-item">
-              <StaticImage
-                src={"../images/hand.svg"}
-                alt="rotate"
-                placeholder="transparent"
-              />
-              <h4 className="h4">{sec2Card1Heading}</h4>
-              <p>{sec2Card1Text}</p>
+      <section className="hero withOverlay">
+        <StaticImage
+          className="grid-1"
+          objectPosition={"70%"}
+          objectFit="cover"
+          src={"../images/banner.png"}
+          alt="Pet Command Center"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          placeholder="transparent"
+        />
+        <div className="banner-grid">
+          <div className="container">
+            <div className="hero-content">
+              <div className="hero-left">
+                <h2 className="h2">
+                  Animal Mapper: Track Pets Across Your Properties
+                </h2>
+                <h5 className="h5">
+                  Track pets and animals across your properties with OPP Animal
+                  Mapper. Easily know when pets and animals are in violation
+                  across your properties, and enable their owners to make the
+                  corrective action fast.
+                </h5>
+                <a
+                  href="#"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-lg primary"
+                >
+                  Get a demo
+                </a>
+              </div>
             </div>
-            <div className="no-more-item">
-              <StaticImage
-                src={"../images/file.svg"}
-                alt="rotate"
-                placeholder="transparent"
-              />
-              <h4 className="h4">{sec2Card2Heading}</h4>
-              <p>{sec2Card2Text}</p>
-            </div>
-            <div className="no-more-item">
-              <StaticImage
-                src={"../images/house.svg"}
-                alt="rotate"
-                placeholder="transparent"
-              />
-              <h4 className="h4">{sec2Card3Heading}</h4>
-              <p>{sec2Card3Text}</p>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section className="thin-section section">
-        <div className="container">
-          <div className="thin-section-content">
-            <p>{sec3Text}</p>
-            <a
-              href={sec3ButtonUrl}
-              target="_blank"
-              rel="noreferrer"
-              className="btn primary btn-lg"
-            >
-              {sec3Button}
-            </a>
           </div>
         </div>
       </section>
@@ -216,56 +239,99 @@ const Landlords = () => {
         <div className="container">
           <div className="img-text-content">
             <div className="img">
-              <GatsbyImage
-                alt={sec4Heading}
-                image={getImage(sec4Img)}
+              {/* <GatsbyImage
+                alt={sec1Heading}
+                image={getImage(sec1Img)}
+                formats={["AUTO", "WEBP", "AVIF"]}
+              /> */}
+              <StaticImage
+                alt="Take the Hassle out of ESA Letter Verification"
+                src={"../images/imgText.png"}
                 formats={["AUTO", "WEBP", "AVIF"]}
               />
             </div>
             <div className="text">
-              <h2 className="h2">{sec4Heading}</h2>
-              <p>{sec4Text}</p>
+              <h2 className="h2">
+                Take the Hassle out of ESA Letter Verification
+              </h2>
+              <p>
+                Landlord Tech provides an industry leading ESA verification
+                program that is able to recognize fraudlent ESA letters in
+                compliance with state and federal law.
+              </p>
+              <ul>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+                <li>
+                  <Icon color="#fff" size={24} icon="check" />
+                  Identify Fraudulent ESAs
+                </li>
+              </ul>
             </div>
           </div>
         </div>
       </section>
-      <section className="list-section section">
-        <div className="container">
-          <div className="list-content">
-            <div className="list">
-              <h2 className="h2">{sec5Heading}</h2>
-              <ul>
-                {sec5List.map((item, index) => {
-                  return (
-                    <li key={index}>
-                      <Icon color="#fff" size={24} icon="check" />
-                      {item.item}
-                    </li>
-                  )
-                })}
-              </ul>
-              <a
-                href={sec5BtnUrl}
-                target="_blank"
-                rel="noreferrer"
-                className="btn btn-lg secondary"
-              >
-                {sec5Btn}
-              </a>
-            </div>
-            <div className="img">
-              <StaticImage
-                src="../images/phones.png"
-                // width={300}
-                // quality={95}
-                formats={["AUTO", "WEBP", "AVIF"]}
-                alt="Why Choose OurPetPolicy?"
-                placeholder="transparent"
-              />
+      <section className="hero">
+        {/* <GatsbyImage
+          className="grid-1"
+          alt="Pet Command Center"
+          image={getImage("images/banner.png")}
+          formats={["auto", "webp", "avif"]}
+          objectPosition={"70%"}
+          objectFit="cover"
+        /> */}
+        <StaticImage
+          className="grid-1"
+          objectPosition={"70%"}
+          objectFit="cover"
+          src={"../images/banner.png"}
+          alt="Pet Command Center"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          placeholder="transparent"
+        />
+        <div className="banner-grid">
+          <div className="container">
+            <div className="hero-content centered">
+              <div className="hero-right">
+                <h2 className="h2">
+                  Take ESA Masterclass for Residential Real Estate
+                </h2>
+                <p className="hero-text">
+                  OPP offers training for all property managers and gives them
+                  resources to stay compliant in accommodations for ESA's and
+                  Service Animals.
+                </p>
+              </div>
             </div>
           </div>
         </div>
-      </section>{" "} */}
+      </section>
     </Layout>
   )
 }

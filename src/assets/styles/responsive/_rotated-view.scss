@@ -1,4 +1,4 @@
-@media  (max-width:1137px) and (min-aspect-ratio: 16/10)  {
+@media (max-width: 1137px) and (min-aspect-ratio: 16/10) {
   .homepage {
     .hero {
       min-height: calc(100vh - 66px);
@@ -6,11 +6,14 @@
 
       .animated-mouse {
         bottom: 32px;
+        #scroll-here {
+          color: $color-white;
+        }
       }
     }
   }
   .calculator-page {
-    >.container  {
+    > .container {
       display: none !important;
     }
   }
