@@ -17,8 +17,9 @@
       height: 100%;
     }
 
-    .h1 {
-      color: $color-primary;
+    .h1,
+    .h2 {
+      color: $color-black;
       padding-bottom: 20px;
     }
 
@@ -26,20 +27,35 @@
       font-size: 24px;
       padding-bottom: 40px;
     }
-
     p {
-      color: $color-white;
+      color: $color-black;
     }
 
+    &.withOverlay {
+      .h1 {
+        color: $color-primary;
+      }
 
-    &:after {
-      content: '';
-      height: 100%;
-      width: 100%;
-      position: absolute;
-      left: 0;
-      top: 0;
-      background: $color-bg-from-left;
+      p,
+      .h2,
+      .h5 {
+        color: $color-white;
+      }
+
+      .h5 {
+        padding: 24px 0;
+        font-weight: 400;
+      }
+
+      &:after {
+        content: "";
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: $color-bg-from-left;
+      }
     }
     .animated-mouse {
       position: absolute;
@@ -51,6 +67,7 @@
 
       p {
         font-size: 24px;
+        color: $color-white;
       }
 
       .icon {
@@ -65,6 +82,9 @@
     justify-content: flex-end;
     position: relative;
     z-index: 1;
+    &.centered {
+      justify-content: center;
+    }
   }
 
   .hero-left {
@@ -72,6 +92,12 @@
     width: 100%;
     padding-bottom: 170px;
     padding-top: 20px;
+  }
+
+  .hero-right {
+    max-width: 780px;
+    width: 100%;
+    margin-left: auto;
   }
 }
 
@@ -162,6 +188,16 @@
   padding: 80px 0;
 }
 
+.img-text-header {
+  padding: 0 420px 80px;
+  text-align: center;
+
+  .h5 {
+    font-weight: 400;
+    padding-top: 32px;
+  }
+}
+
 .img-text-content {
   display: flex;
   align-items: center;
@@ -172,8 +208,16 @@
   }
   .text {
     width: 50%;
-    h2 {
+    h3,
+    h2,
+    p,
+    ul {
       padding-bottom: 24px;
+    }
+    p {
+      a {
+        color: $color-primary;
+      }
     }
   }
 }
@@ -235,7 +279,6 @@
         color: $color-white;
         margin-right: 24px;
       }
-
     }
   }
 
@@ -243,7 +286,8 @@
     display: flex;
     align-items: center;
 
-    .list, .img {
+    .list,
+    .img {
       width: 50%;
     }
 
@@ -253,9 +297,18 @@
   }
 }
 
-
 @keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-20px);}
-  60% {transform: translateY(-8px);}
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-8px);
+  }
 }
