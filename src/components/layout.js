@@ -5,52 +5,45 @@
  * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
 
-import * as React from "react"
-import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import React, { useEffect, useState } from "react"
+import { useLocation } from "@reach/router"
+import scrollTo from "gatsby-plugin-smoothscroll"
+import Icon from "./Icon"
+import Header from "./header"
+import Footer from "./footer"
 import "../assets/styles/main.scss"
 import "../assets/styles/_fonts.scss"
 
-import Header from "./header"
+const Layout = ({ children, className, prodHeader }) => {
+  const { pathname } = useLocation()
+  const [sticky, setSticky] = useState(false)
+  const [scrollTop, setScrollTop] = useState(false)
 
-const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      window.addEventListener("scroll", () => {
+        setSticky(window.pageYOffset > 200)
+        setScrollTop(window.pageYOffset > 600)
+      })
     }
-  `)
+  }, [])
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
+      <Header pathname={pathname} sticky={sticky} prodHeader={prodHeader} />
+      <main className={className} id="top">
+        {children}
+      </main>
+      {!pathname.includes("/calculator") && <Footer />}
+
+      <button
+        onClick={() => scrollTo("#top")}
+        className={`go-top-btn ${scrollTop ? "fade-in" : ""}`}
       >
-        <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
-        </footer>
-      </div>
+        <Icon color="#0D0D0D" size={36} icon="arrow-top" />
+      </button>
     </>
   )
-}
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
 }
 
 export default Layout

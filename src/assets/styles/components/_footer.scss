@@ -1,4 +1,5 @@
 .footer {
+  font-family: $font-secondary;
   background-color: $color-black;
   color: $color-white;
   padding: 40px 0;
@@ -18,11 +19,14 @@
     padding-right: 16px;
   }
   h4 {
-    font-size: 20px;
-
     &:not(:last-child) {
       margin-bottom: 12px;
     }
+  }
+
+  .h4,
+  .h5 {
+    font-weight: 500;
   }
 
   &.with-icon {
@@ -42,6 +46,9 @@
 .footer-bottom {
   a {
     margin-left: 8px;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 .footer-contact {
