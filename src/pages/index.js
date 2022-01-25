@@ -6,9 +6,9 @@ import CalculatorSection from "../components/calculator/CalculatorSection"
 import Icon from "../components/Icon"
 import scrollTo from "gatsby-plugin-smoothscroll"
 import Seo from "../components/seo"
-import InfoBox from "../components/infoBox/InfoBox"
-import InfoBlocks from "../components/infoBlocks/InfoBlocks"
-import InfoSection from "../components/infoSection/InfoSection"
+import InfoBox from "../components/InfoBox"
+import InfoBlocks from "../components/InfoBlocks"
+import InfoSection from "../components/InfoSection"
 
 const Landlords = () => {
   //   const data = useStaticQuery(graphql`
