@@ -1,8 +1,10 @@
 import React, { useState } from "react"
 import Icon from "./Icon"
+import Select from "./Select"
 
 const ContactForm = () => {
   const [formState, setFormState] = useState({
+    inquiryType: "",
     name: "",
     email: "",
     phone: "",
@@ -50,6 +52,14 @@ const ContactForm = () => {
     e.preventDefault()
   }
 
+  const options = [
+    { value: "chocolate", label: "Chocolate" },
+    { value: "strawberry", label: "Strawberry" },
+    { value: "vanilla", label: "Vanilla" },
+  ]
+
+  console.log(formState, "formState")
+
   return (
     <div className="contact-form">
       <div className={`thanks-view ${success ? "thanks-show" : ""}`}>
@@ -68,6 +78,15 @@ const ContactForm = () => {
           data-netlify-honeypot="bot-field"
         >
           <input type="hidden" name="form-name" value="contact-us" />
+          <div className="input-field">
+            <Select
+              options={options}
+              onChange={e => {
+                debugger
+                setFormState({ inquiryType: e.target.value })
+              }}
+            />
+          </div>
           <div className="input-field">
             <input
               type="text"

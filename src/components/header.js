@@ -125,6 +125,11 @@ const Header = ({ pathname, sticky, prodHeader }) => {
                       Pricing
                     </Link>
                   </li>
+                  <li>
+                    <Link activeClassName={"active-link"} to="/contact/">
+                      Contact
+                    </Link>
+                  </li>
                   <li className="nav-button-group">
                     <a
                       href="#"
