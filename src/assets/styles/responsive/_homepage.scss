@@ -1,7 +1,7 @@
 @media screen and (max-width: 1280px) {
   .homepage {
     .hero {
-      min-height: calc(100vh - 66px);
+      height: calc(100vh - 66px);
 
       .animated-mouse {
         bottom: 38px;
@@ -35,6 +35,12 @@
 }
 
 @media screen and (max-width: 768px) {
+  .landing {
+    .hero,
+    .gatsby-image-wrapper {
+      max-height: 400px;
+    }
+  }
   .section {
     padding: 40px 0;
   }
