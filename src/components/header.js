@@ -84,8 +84,8 @@ const Header = ({ pathname, sticky, prodHeader }) => {
               <nav className="header-nav">
                 <ul className="header-nav-list">
                   <li className="with-dropdown">
-                    <Link activeClassName={"active-link"} to="/landlords/">
-                      Landlord
+                    <Link activeClassName={"active-link"} to="/products">
+                      Products
                     </Link>
                     <ul
                       className={`dropdown-content ${
