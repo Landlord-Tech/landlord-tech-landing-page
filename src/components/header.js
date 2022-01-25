@@ -120,12 +120,12 @@ const Header = ({ pathname, sticky, prodHeader }) => {
                   </li>
                   <li>
                     <Link activeClassName={"active-link"} to="/tenants/">
-                      Tenant
+                      For Landlords
                     </Link>
                   </li>
                   <li>
-                    <Link activeClassName={"active-link"} to="/resources/">
-                      Resources
+                    <Link activeClassName={"active-link"} to="/about/">
+                      About
                     </Link>
                   </li>
                   <li>
