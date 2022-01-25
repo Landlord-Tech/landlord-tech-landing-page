@@ -93,16 +93,8 @@ const Header = ({ pathname, sticky, prodHeader }) => {
                       }`}
                     >
                       <li>
-                        <Link
-                          activeClassName={"active-link"}
-                          to="/calculator-no-pets-allowed/"
-                        >
-                          ROI calculator
-                        </Link>
-                      </li>
-                      <li>
-                        <Link activeClassName={"active-link"} to="/pricing/">
-                          Pricing
+                        <Link activeClassName={"active-link"} to="#">
+                          Our Pet Policy
                         </Link>
                       </li>
                     </ul>
