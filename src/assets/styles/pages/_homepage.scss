@@ -112,9 +112,6 @@
 
 .half-image-banner {
   display: flex;
-  &.section {
-    padding-bottom: 0;
-  }
   .gatsby-image-wrapper {
     width: 50%;
     padding: 130px 0 200px 130px;
@@ -134,10 +131,6 @@
 
     .h4 {
       font-weight: 500;
-    }
-
-    .h5 {
-      font-weight: 400;
     }
 
     .btn {
@@ -242,7 +235,6 @@
   text-align: center;
 
   .h5 {
-    font-weight: 400;
     padding-top: 32px;
   }
 }
@@ -315,7 +307,6 @@
   }
   .h5 {
     color: $color-grey;
-    font-weight: 400;
   }
 
   .testimonial-info {

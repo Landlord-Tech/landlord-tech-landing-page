@@ -325,7 +325,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section className="section half-image-banner">
+      <section className="half-image-banner">
         <StaticImage
           src={"../images/banner.png"}
           alt="rotate"
