@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  # name: github
+  # repo: Landlord-Tech/landlord-tech-landing-page
+  brach: develop
+
+#publish_mode: editorial_workflow
+site_url: https://calculator.ourpetpolicy.com/
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: homepage
+    label: homepage
+    folder: homepage
+    preview_path: /
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heading, label: heading }
+      - { name: primaryBtn, label: Primary Button }
+      - { name: secondaryBtn, label: Secondary Button }
+      - { name: hero, label: Hero image, widget: image }
