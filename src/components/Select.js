@@ -2,8 +2,6 @@ import React, { useState } from "react"
 import Select from "react-select"
 
 export default ({ options, ...props }) => {
-  const [selectedOption, setSelectedOption] = useState(null)
-
   const selectStyles = {
     menu: styles => ({
       ...styles,
@@ -40,8 +38,6 @@ export default ({ options, ...props }) => {
   return (
     <Select
       {...props}
-      defaultValue={selectedOption}
-      onChange={setSelectedOption}
       components={{
         IndicatorSeparator: () => null,
       }}

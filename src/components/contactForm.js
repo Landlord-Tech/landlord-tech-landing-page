@@ -81,10 +81,7 @@ const ContactForm = () => {
           <div className="input-field">
             <Select
               options={options}
-              onChange={e => {
-                debugger
-                setFormState({ inquiryType: e.target.value })
-              }}
+              onChange={e => setFormState({ inquiryType: e.value })}
             />
           </div>
           <div className="input-field">
