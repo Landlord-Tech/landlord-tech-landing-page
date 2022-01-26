@@ -1,6 +1,6 @@
 import * as React from "react"
 import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
-import Icon from "../Icon"
+import Icon from "./Icon"
 
 export default ({ title, content, imageUrl, icon }) => {
   return (
@@ -15,7 +15,7 @@ export default ({ title, content, imageUrl, icon }) => {
           /> */}
             <StaticImage
               alt="About us"
-              src="../../images/imgText.png"
+              src="../images/imgText.png"
               formats={["AUTO", "WEBP", "AVIF"]}
             />
           </div>

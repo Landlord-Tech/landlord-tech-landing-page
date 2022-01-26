@@ -2,8 +2,8 @@ import * as React from "react"
 import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
-import InfoBox from "../components/infoBox/InfoBox"
-import InfoSection from "../components/infoSection/InfoSection"
+import InfoBox from "../components/InfoBox"
+import InfoSection from "../components/InfoSection"
 
 export default () => {
   return (

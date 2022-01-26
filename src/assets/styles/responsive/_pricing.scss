@@ -2,10 +2,7 @@
   .pricing-list-content {
     li {
       padding: 36px;
-
-      &:not(:last-child) {
-        margin-right: 16px;
-      }
+      margin: 16px;
 
       .title {
         padding-bottom: 24px;
@@ -30,7 +27,6 @@
     margin: 0 auto;
 
     li {
-
       &:not(:last-child) {
         margin-right: 0;
         margin-bottom: 24px;

@@ -1,5 +1,5 @@
 import * as React from "react"
-import Icon from "../Icon"
+import Icon from "./Icon"
 
 export default ({ title, content, buttonName, buttonUrl, icon }) => {
   return (
