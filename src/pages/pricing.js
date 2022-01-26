@@ -124,25 +124,16 @@ const Pricing = () => {
                         </>
                       )}
                     </div>
-                    {pricingList.length - 1 !== index ? (
-                      <a
-                        href={pricingBtnUrl}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="btn btn-lg primary"
-                      >
-                        {pricingBtn}
-                      </a>
-                    ) : (
-                      <a
-                        href={pricingBtnUrl}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="btn btn-lg ghost"
-                      >
-                        {pricingBtn}
-                      </a>
-                    )}
+                    <a
+                      href={pricingBtnUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                      className={`${
+                        pricingList.length - 1 !== index ? "primary" : "ghost"
+                      } btn btn-lg`}
+                    >
+                      {pricingBtn}
+                    </a>
                   </li>
                 )
               }
