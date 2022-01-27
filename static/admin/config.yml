@@ -13,7 +13,7 @@ public_folder: /assets
 collections:
   - name: homepage
     label: homepage
-    folder: homepage
+    folder: src/markdown/homepage
     preview_path: /
     create: true
     editor:
@@ -22,7 +22,8 @@ collections:
       - { name: title, label: Title }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
-      - { name: heading, label: heading }
-      - { name: primaryBtn, label: Primary Button }
-      - { name: secondaryBtn, label: Secondary Button }
-      - { name: hero, label: Hero image, widget: image }
+      - { name: heroHeading, label: Hero Heading }
+      - { name: heroText, label: Hero Text }
+      - { name: heroBtn, label: Hero button }
+      - { name: heroBtnUrl, label: Hero button url }
+      - { name: heroImg, label: Hero image, widget: image }

@@ -19,13 +19,27 @@ module.exports = {
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `${__dirname}/static/assets`,
-    //     name: "uploads",
-    //   },
-    // },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: "uploads",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown`,
+        path: `${__dirname}/src/markdown`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `homepage`,
+        path: `${__dirname}/src/markdown/homepage`,
+      },
+    },
     {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
