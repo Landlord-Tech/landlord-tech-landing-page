@@ -9,113 +9,21 @@ import Seo from "../components/seo"
 import InfoBox from "../components/InfoBox"
 import InfoBlocks from "../components/InfoBlocks"
 import InfoSection from "../components/InfoSection"
+import { useHomepageData } from "../api/useHomepage"
 
 const Landlords = () => {
-  //   const data = useStaticQuery(graphql`
-  //     {
-  //       markdownRemark(frontmatter: { title: { eq: "landlords" } }) {
-  //         frontmatter {
-  //           metaTitle
-  //           metaDescription
-  //           heroHeading
-  //           heroText
-  //           heroImg {
-  //             childImageSharp {
-  //               gatsbyImageData
-  //             }
-  //           }
-  //           heroBtn
-  //           heroBtnUrl
-  //           calculatorText
-  //           calculatorHeading
-  //           sec1Heading
-  //           sec1Text
-  //           sec1Img {
-  //             childImageSharp {
-  //               gatsbyImageData
-  //             }
-  //           }
-  //           sec2Card1Heading
-  //           sec2Card1Text
-  //           sec2Card2Heading
-  //           sec2Card2Text
-  //           sec2Card3Heading
-  //           sec2Card3Text
-  //           sec2Heading
-  //           sec3Button
-  //           sec3ButtonUrl
-  //           sec4Heading
-  //           sec3Text
-  //           sec4Img {
-  //             childImageSharp {
-  //               gatsbyImageData
-  //             }
-  //           }
-  //           sec4Text
-  //           sec5List {
-  //             item
-  //           }
-  //           sec5Btn
-  //           sec5BtnUrl
-  //           sec5Heading
-  //         }
-  //       }
-  //     }
-  //   `)
-  //   const { markdownRemark } = data
-  //   const { frontmatter } = markdownRemark
-
-  //   const {
-  //     metaTitle,
-  //     metaDescription,
-  //     heroHeading,
-  //     heroText,
-  //     heroImg,
-  //     heroBtn,
-  //     heroBtnUrl,
-  //     calculatorText,
-  //     calculatorHeading,
-  //     sec1Heading,
-  //     sec1Text,
-  //     sec1Img,
-  //     sec2Heading,
-  //     sec2Card1Heading,
-  //     sec2Card1Text,
-  //     sec2Card2Heading,
-  //     sec2Card2Text,
-  //     sec2Card3Heading,
-  //     sec2Card3Text,
-  //     sec3Text,
-  //     sec3Button,
-  //     sec3ButtonUrl,
-  //     sec4Heading,
-  //     sec4Img,
-  //     sec4Text,
-  //     sec5List,
-  //     sec5Btn,
-  //     sec5BtnUrl,
-  //     sec5Heading,
-  //   } = frontmatter
+  const { heroHeading, heroImg } = useHomepageData()
 
   return (
     <Layout className="landing">
       <section className="hero withOverlay">
-        {/* <GatsbyImage
+        <GatsbyImage
           className="grid-1"
-          alt="Pet Command Center"
-          image={getImage("images/banner.png")}
+          alt={heroHeading}
+          image={getImage(heroImg)}
           formats={["auto", "webp", "avif"]}
           objectPosition={"70%"}
           objectFit="cover"
-        /> */}
-        <StaticImage
-          className="grid-1"
-          objectPosition={"70%"}
-          objectFit="cover"
-          src={"../images/banner.png"}
-          alt="Pet Command Center"
-          formats={["AUTO", "WEBP", "AVIF"]}
-          placeholder="transparent"
         />
         <div className="banner-grid">
           <div className="container">
