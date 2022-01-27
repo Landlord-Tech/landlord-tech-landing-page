@@ -1,9 +1,13 @@
 ---
+heroBtn: Get started
+heading: Pet Command Center
 title: homepage-first
+heroText: Manage Your Pet Program From One Platform
+secondaryBtn: Get Started
 metaTitle: Homepage
 metaDescription: Homepage description
-heading: Pet Command Center
+heroHeading: Pet Command Center
+heroBtnUrl: "#"
 primaryBtn: Manage Your Pet Program From One Platform
-secondaryBtn: Get Started
 hero: /assets/banner.png
 ---
