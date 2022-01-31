@@ -1,4 +1,5 @@
 ---
+title: Info Box List
 infoBoxList:
   - infoBoxHeading: Pet Management Platform
     infoBoxContent: Landlord Tech specializes in providing digital tools to help
