@@ -11,9 +11,9 @@ media_folder: static/assets
 public_folder: /assets
 
 collections:
-  - name: homepage
-    label: homepage
-    folder: src/markdown/homepage
+  - name: homepage-hero-1
+    label: homepage-hero-1
+    folder: src/markdown/homepage-hero-1
     preview_path: /
     create: true
     editor:
@@ -29,37 +29,20 @@ collections:
       - { name: heroBtnSecondary, label: Hero button secondary }
       - { name: heroBtnSecondaryUrl, label: Hero button secondary url }
       - { name: heroImg, label: Hero image, widget: image }
+      - { name: calculatorTitle, label: Calculator Title }
+  - name: homepage-about-section
+    label: homepage-about-section
+    folder: src/markdown/homepage-about-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
       - { name: imageTextTitle, label: Image text title }
       - { name: imageTextHeading, label: Image Text Heading }
       - { name: imageTextContent, label: Image Text Content }
       - { name: imageTextImg, label: Image Text image, widget: image }
-      - { name: infoBlockHeading1, label: Image text Heading }
-      - { name: infoBlockContent1, label: Image Text Content }
-      - { name: infoBlockImg1, label: Image Text image, widget: image }
-      - {
-          name: infoBlockIcon1,
-          label: Image Text icon,
-          widget: select,
-          options: [file-settings, hand-home, pet-pow-check],
-        }
-      - { name: infoBlockHeading2, label: Image text Heading }
-      - { name: infoBlockContent2, label: Image Text Content }
-      - { name: infoBlockImg2, label: Image Text image, widget: image }
-      - {
-          name: infoBlockIcon2,
-          label: Image Text icon,
-          widget: select,
-          options: [file-settings, hand-home, pet-pow-check],
-        }
-      - { name: infoBlockHeading3, label: Image text Heading }
-      - { name: infoBlockContent3, label: Image Text Content }
-      - { name: infoBlockImg3, label: Image Text image, widget: image }
-      - {
-          name: infoBlockIcon3,
-          label: Image Text icon,
-          widget: select,
-          options: [file-settings, hand-home, pet-pow-check],
-        }
   - name: info-box
     label: info-box
     folder: src/markdown/info-box
@@ -68,7 +51,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Info Box Title }
       - name: infoBoxList
         label: Info Box List
         widget: list
@@ -83,3 +66,76 @@ collections:
               widget: select,
               options: [hand, pet-pow, file],
             }
+  - name: info-block
+    label: info-block
+    folder: src/markdown/info-block
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Info Block Title }
+      - name: infoBlockList
+        label: Info Block List
+        widget: list
+        fields:
+          - { label: Info Block Image, name: infoBlockImg, widget: image }
+          - { label: Info Block Heading, name: infoBlockHeading }
+          - { label: Info Block Content, name: infoBlockContent }
+          - {
+              label: Info Block icon,
+              name: icon,
+              widget: select,
+              options: [file-settings, hand-home, pet-pow-check],
+            }
+  - name: testimonial
+    label: testimonial
+    folder: src/markdown/testimonial
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: testimonialTitle, label: Testimonials Section Title }
+      - name: testimonialList
+        label: Testimonial List
+        widget: list
+        fields:
+          - { label: Reviewer Image, name: reviewerImg, widget: image }
+          - { label: Reviewer Name, name: reviewerName }
+          - { label: Reviewer Title, name: reviewerTitle }
+          - { label: Review, name: review }
+  - name: homepage-hero-2
+    label: homepage-hero-2
+    folder: src/markdown/homepage-hero-2
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: heroHeading2, label: Hero Heading }
+      - { name: heroText2, label: Hero Text }
+      - { name: heroSecondaryHeading2, label: Hero Secondary Heading }
+      - { name: heroSecondaryText2, label: Hero Secondary Text }
+      - { name: heroSecondaryTextUrl2, label: Hero Secondary Text Url }
+      - { name: heroBtnPrimary2, label: Hero button primary }
+      - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
+      - { name: heroImg2, label: Hero image, widget: image }
+  - name: info-section
+    label: info-section
+    folder: src/markdown/info-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: infoSectionHeading, label: Info Section Heading }
+      - { name: infoSectionContent, label: Info Section Content }
+      - { name: infoSectionBtnSecondary, label: Info SectionButton Secondary }
+      - {
+          name: infoSectionBtnSecondaryUrl,
+          label: Info SectionButton Secondary url,
+        }

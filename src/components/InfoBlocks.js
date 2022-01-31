@@ -1,5 +1,5 @@
 import * as React from "react"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 
 export default ({ heading, content, imageUrl, icon }) => {

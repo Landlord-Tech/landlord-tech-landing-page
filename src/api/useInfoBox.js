@@ -1,4 +1,3 @@
-import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 export const useInfoBoxData = () => {
@@ -7,6 +6,13 @@ export const useInfoBoxData = () => {
       markdownRemark(frontmatter: { title: { eq: "info-box" } }) {
         frontmatter {
           title
+          infoBoxList {
+            icon
+            infoBoxButton
+            infoBoxButtonURL
+            infoBoxContent
+            infoBoxHeading
+          }
         }
       }
     }

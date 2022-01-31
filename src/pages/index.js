@@ -1,5 +1,5 @@
 import * as React from "react"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
 import CalculatorSection from "../components/calculator/CalculatorSection"
@@ -9,7 +9,14 @@ import Seo from "../components/seo"
 import InfoBox from "../components/InfoBox"
 import InfoBlocks from "../components/InfoBlocks"
 import InfoSection from "../components/InfoSection"
-import { useHomepageData } from "../api/useHomepage"
+import Testimonial from "../components/testimonial"
+import { useHomepageHero1Data } from "../api/useHomepageHero1Data"
+import { useInfoBoxData } from "../api/useInfoBox"
+import { useInfoBlockData } from "../api/useInfoBlock"
+import { useHomepageAboutData } from "../api/useHomepageAbout"
+import { useTestimonialData } from "../api/useTestimonials"
+import { useHomepageHero2 } from "../api/useHomepageHero2"
+import { useInfoSectionData } from "../api/useInfoSection"
 
 const Landlords = () => {
   const {
@@ -22,23 +29,33 @@ const Landlords = () => {
     heroBtnPrimaryUrl,
     heroBtnSecondary,
     heroBtnSecondaryUrl,
-    imageTextContent,
-    imageTextHeading,
-    imageTextTitle,
-    imageTextImg,
-    infoBlockHeading1,
-    infoBlockContent1,
-    infoBlockImg1,
-    infoBlockIcon1,
-    infoBlockHeading2,
-    infoBlockContent2,
-    infoBlockImg2,
-    infoBlockIcon2,
-    infoBlockHeading3,
-    infoBlockContent3,
-    infoBlockImg3,
-    infoBlockIcon3,
-  } = useHomepageData()
+    calculatorTitle,
+  } = useHomepageHero1Data()
+
+  const {
+    infoSectionHeading,
+    infoSectionContent,
+    infoSectionBtnSecondary,
+    infoSectionBtnSecondaryUrl,
+  } = useInfoSectionData()
+
+  const {
+    heroHeading2,
+    heroText2,
+    heroImg2,
+    heroBtnPrimary2,
+    heroBtnPrimaryUrl2,
+    heroSecondaryHeading2,
+    heroSecondaryText2,
+    heroSecondaryTextUrl2,
+  } = useHomepageHero2()
+
+  const { imageTextContent, imageTextHeading, imageTextTitle, imageTextImg } =
+    useHomepageAboutData()
+
+  const { infoBoxList } = useInfoBoxData()
+  const { infoBlockList } = useInfoBlockData()
+  const { testimonialList, testimonialTitle } = useTestimonialData()
 
   return (
     <Layout className="landing">
@@ -106,61 +123,39 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <InfoBlocks
-        heading={infoBlockHeading1}
-        content={infoBlockContent1}
-        imageUrl={infoBlockImg1}
-        icon={infoBlockIcon1}
-      />
-      <InfoBlocks
-        heading={infoBlockHeading2}
-        content={infoBlockContent2}
-        imageUrl={infoBlockImg2}
-        icon={infoBlockIcon2}
-      />
-      <InfoBlocks
-        heading={infoBlockHeading3}
-        content={infoBlockContent3}
-        imageUrl={infoBlockImg3}
-        icon={infoBlockIcon3}
-      />
+      {infoBlockList.map((item, i) => {
+        return (
+          <InfoBlocks
+            key={i}
+            heading={item.infoBlockHeading}
+            content={item.infoBlockContent}
+            imageUrl={item.infoBlockImg}
+            icon={item.icon}
+          />
+        )
+      })}
       <section className="no-more-section section">
         <div className="container">
           <div className="no-more-content">
-            <InfoBox
-              title="Pet Management Training"
-              content="We offer initial training for all property managers and give
-                them resources to make sure they know exactly what is legal to
-                expect in accommodations for ESA's and Service Animals."
-              buttonName="Learn more"
-              buttonUrl="#"
-              icon="hand"
-            />
-            <InfoBox
-              title="Pet Management Training"
-              content="We offer initial training for all property managers and give
-              them resources to make sure they know exactly what is legal to
-              expect in accommodations for ESA's and Service Animals."
-              buttonName="Learn more"
-              buttonUrl="#"
-              icon="hand"
-            />
-            <InfoBox
-              title="Pet Management Training"
-              content="We offer initial training for all property managers and give
-            them resources to make sure they know exactly what is legal to
-            expect in accommodations for ESA's and Service Animals."
-              buttonName="Learn more"
-              buttonUrl="#"
-              icon="hand"
-            />
+            {infoBoxList.map((item, i) => {
+              return (
+                <InfoBox
+                  title={item.infoBoxHeading}
+                  content={item.infoBoxContent}
+                  buttonName={item.infoBoxButton}
+                  buttonUrl={item.infoBoxButtonURL}
+                  icon={item.icon}
+                  key={i}
+                />
+              )
+            })}
           </div>
         </div>
       </section>
       <section className="section">
         <div className="container">
           <div className="title text-center">
-            <h2 className="h2">Calculate the Savings</h2>
+            <h2 className="h2">{calculatorTitle}</h2>
           </div>
           <CalculatorSection />
         </div>
@@ -168,103 +163,56 @@ const Landlords = () => {
       <section className="section">
         <div className="container">
           <div className="title">
-            <h2 className="h2">Our Customers Love Landlord Tech</h2>
+            <h2 className="h2">{testimonialTitle}</h2>
           </div>
           <div className="testimonial-container">
-            <div className="testimonial-item box-wrapper">
-              <Icon icon="quote-icon" size={64} className="quote-icon" />
-              <h5 className="h5">
-                I use Landlord Tech for all of my properties. It has taken a
-                huge management hassle out of pet management, and has saved me
-                time, money and peace of mind.
-              </h5>
-              <div className="testimonial-info">
-                <StaticImage
-                  src={"../images/banner.png"}
-                  alt="rotate"
-                  placeholder="transparent"
+            {testimonialList.map((item, i) => {
+              return (
+                <Testimonial
+                  key={i}
+                  reviewerPhoto={item.reviewerImg}
+                  reviewerTitle={item.reviewerTitle}
+                  reviewer={item.reviewerName}
+                  review={item.review}
                 />
-                <div>
-                  <p className="reviewer-name">Cody Miller</p>
-                  <p className="reviewer-title">Real Estate Owner</p>
-                </div>
-              </div>
-            </div>
-            <div className="testimonial-item box-wrapper">
-              <Icon icon="quote-icon" size={64} className="quote-icon" />
-              <h5 className="h5">
-                I use Landlord Tech for all of my properties. It has taken a
-                huge management hassle out of pet management, and has saved me
-                time, money and peace of mind.
-              </h5>
-              <div className="testimonial-info">
-                <StaticImage
-                  src={"../images/banner.png"}
-                  alt="rotate"
-                  placeholder="transparent"
-                />
-                <div>
-                  <p className="reviewer-name">Cody Miller</p>
-                  <p className="reviewer-title">Real Estate Owner</p>
-                </div>
-              </div>
-            </div>
-            <div className="testimonial-item box-wrapper">
-              <Icon icon="quote-icon" size={64} className="quote-icon" />
-              <h5 className="h5">
-                I use Landlord Tech for all of my properties. It has taken a
-                huge management hassle out of pet management, and has saved me
-                time, money and peace of mind.
-              </h5>
-              <div className="testimonial-info">
-                <StaticImage
-                  src={"../images/banner.png"}
-                  alt="rotate"
-                  placeholder="transparent"
-                />
-                <div>
-                  <p className="reviewer-name">Cody Miller</p>
-                  <p className="reviewer-title">Real Estate Owner</p>
-                </div>
-              </div>
-            </div>
+              )
+            })}
           </div>
         </div>
       </section>
       <section className="half-image-banner">
-        <StaticImage
-          src={"../images/banner.png"}
-          alt="rotate"
-          placeholder="transparent"
+        <GatsbyImage
+          className="grid-1"
+          alt={heroHeading2}
+          image={getImage(heroImg2)}
+          formats={["auto", "webp", "avif"]}
+          objectPosition={"70%"}
+          objectFit="cover"
         />
         <div className="banner-info">
-          <h2 className="h2">What Property Managers Want</h2>
-          <h5 className="h5">
-            Find out what Property Managers want in ESA Letter management, and
-            how to stay in compliance.
-          </h5>
-          <h4 className="h4">What Landlords Need To Know About ESAs In 2021</h4>
+          <h2 className="h2">{heroHeading2}</h2>
+          <h5 className="h5">{heroText2}</h5>
+          <h4 className="h4">{heroSecondaryHeading2}</h4>
           <a
-            href="#"
+            href={heroBtnPrimaryUrl2}
             target="_blank"
             rel="noreferrer"
             className="btn btn-lg primary"
           >
-            Learn more
+            {heroBtnPrimary2}
           </a>
           <p>
-            <Link to="/privacy-policy" className="underline link-to">
-              Link to the blog post for this ebook
+            <Link to={heroSecondaryTextUrl2} className="underline link-to">
+              {heroSecondaryText2}
             </Link>
           </p>
         </div>
       </section>
       <InfoSection
-        title="We're Here to Help"
-        content="Our Team of Residential Property Experts are just a click away. We'd love to discuss how Landlord Tech
-can take the pain out of residential pet management."
-        buttonName="Let’s talk"
-        buttonUrl="#"
+        title={infoSectionHeading}
+        content={infoSectionContent}
+        buttonName={infoSectionBtnSecondary}
+        buttonUrl={infoSectionBtnSecondaryUrl}
       />
     </Layout>
   )
