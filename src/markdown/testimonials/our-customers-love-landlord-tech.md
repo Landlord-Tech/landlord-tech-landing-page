@@ -1,5 +1,5 @@
 ---
-title: testimonial
+title: testimonials
 testimonialTitle: Our Customers Love Landlord Tech
 testimonialList:
   - reviewerImg: /assets/avatar-placeholder.gif
