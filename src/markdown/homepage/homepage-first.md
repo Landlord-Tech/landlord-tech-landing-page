@@ -29,7 +29,7 @@ infoBlockContent1: "Fraudulent ESA letters are a real problem for residential
   pet rent, no pet deposit, increased damange, and problems with them not
   following the pet rules result in real losses to property owners and headaches
   for property managers. "
-infoBlockIcon1: /assets/file-settings.png
+infoBlockIcon1: /assets/file-settings.svg
 primaryBtn: Manage Your Pet Program From One Platform
 hero: /assets/banner.png
 ---
