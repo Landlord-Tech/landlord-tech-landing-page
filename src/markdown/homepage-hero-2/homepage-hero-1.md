@@ -1,5 +1,5 @@
 ---
-title: homepage-hero-1
+title: homepage-hero-2
 heroHeading: What Property Managers Want
 heroText: Find out what Property Managers want in ESA Letter management, and how
   to stay in compliance.
