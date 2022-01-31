@@ -1,6 +1,6 @@
 import * as React from "react"
 import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { Link } from "gatsby"
 import Layout from "../components/layout"
 import CalculatorSection from "../components/calculator/CalculatorSection"
 import Icon from "../components/Icon"
@@ -12,10 +12,37 @@ import InfoSection from "../components/InfoSection"
 import { useHomepageData } from "../api/useHomepage"
 
 const Landlords = () => {
-  const { heroHeading, heroImg } = useHomepageData()
+  const {
+    metaTitle,
+    metaDescription,
+    heroHeading,
+    heroText,
+    heroImg,
+    heroBtnPrimary,
+    heroBtnPrimaryUrl,
+    heroBtnSecondary,
+    heroBtnSecondaryUrl,
+    imageTextContent,
+    imageTextHeading,
+    imageTextTitle,
+    imageTextImg,
+    infoBlockHeading1,
+    infoBlockContent1,
+    infoBlockImg1,
+    infoBlockIcon1,
+    infoBlockHeading2,
+    infoBlockContent2,
+    infoBlockImg2,
+    infoBlockIcon2,
+    infoBlockHeading3,
+    infoBlockContent3,
+    infoBlockImg3,
+    infoBlockIcon3,
+  } = useHomepageData()
 
   return (
     <Layout className="landing">
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="hero withOverlay">
         <GatsbyImage
           className="grid-1"
@@ -29,27 +56,24 @@ const Landlords = () => {
           <div className="container">
             <div className="hero-content">
               <div className="hero-left">
-                <h1 className="h1">Mischief Managed</h1>
-                <p className="hero-text">
-                  Transform the way you manage your pet program in your
-                  residential rental portfolio with OurPetPolicy.
-                </p>
+                <h1 className="h1">{heroHeading}</h1>
+                <p className="hero-text">{heroText}</p>
                 <div>
                   <a
-                    href="#"
+                    href={heroBtnPrimaryUrl}
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-lg primary"
                   >
-                    Learn more
+                    {heroBtnPrimary}
                   </a>
                   <a
-                    href="#"
+                    href={heroBtnSecondaryUrl}
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-lg secondary"
                   >
-                    Get a Demo
+                    {heroBtnSecondary}
                   </a>
                 </div>
               </div>
@@ -68,63 +92,37 @@ const Landlords = () => {
         <div className="container">
           <div className="img-text-content">
             <div className="img">
-              {/* <GatsbyImage
-                alt={sec1Heading}
-                image={getImage(sec1Img)}
-                formats={["AUTO", "WEBP", "AVIF"]}
-              /> */}
-              <StaticImage
-                alt="About us"
-                src={"../images/imgText.png"}
+              <GatsbyImage
+                alt={imageTextHeading}
+                image={getImage(imageTextImg)}
                 formats={["AUTO", "WEBP", "AVIF"]}
               />
             </div>
             <div className="text">
-              <h3 className="h3">About us</h3>
-              <h2 className="large-title">
-                Solving Residential Real Estate Problems
-              </h2>
-              <p>
-                Landlord Tech solves some of the messiest problems in the
-                residential real estate industry. Our mission is to provide
-                digital tools to residential real estate owners and property
-                managers that solve some of their most difficult problems.
-                Landlord Tech got its start with OurPetPolicy, an industry
-                leading pet management platform and ESA verification service.
-              </p>
+              <h3 className="h3">{imageTextTitle}</h3>
+              <h2 className="large-title">{imageTextHeading}</h2>
+              <p>{imageTextContent}</p>
             </div>
           </div>
         </div>
       </section>
       <InfoBlocks
-        title="Manage ESA Requests"
-        content="Fraudulent ESA letters are a real problem for residential real
-        estate. Typically more than 50% of ESA letters are fraudulent.
-        With lost pet rent, no pet deposit, increased damage, and
-        problems with them not following the pet rules result in real
-        losses to property owners and headaches for property managers."
-        imageUrl="../images/imgText.png"
-        icon="file-settings"
+        heading={infoBlockHeading1}
+        content={infoBlockContent1}
+        imageUrl={infoBlockImg1}
+        icon={infoBlockIcon1}
       />
       <InfoBlocks
-        title="Manage ESA Requests"
-        content="Fraudulent ESA letters are a real problem for residential real
-      estate. Typically more than 50% of ESA letters are fraudulent.
-      With lost pet rent, no pet deposit, increased damage, and
-      problems with them not following the pet rules result in real
-      losses to property owners and headaches for property managers."
-        imageUrl="../images/imgText.png"
-        icon="file-settings"
+        heading={infoBlockHeading2}
+        content={infoBlockContent2}
+        imageUrl={infoBlockImg2}
+        icon={infoBlockIcon2}
       />
       <InfoBlocks
-        title="Manage ESA Requests"
-        content="Fraudulent ESA letters are a real problem for residential real
-    estate. Typically more than 50% of ESA letters are fraudulent.
-    With lost pet rent, no pet deposit, increased damage, and
-    problems with them not following the pet rules result in real
-    losses to property owners and headaches for property managers."
-        imageUrl="../images/imgText.png"
-        icon="file-settings"
+        heading={infoBlockHeading3}
+        content={infoBlockContent3}
+        imageUrl={infoBlockImg3}
+        icon={infoBlockIcon3}
       />
       <section className="no-more-section section">
         <div className="container">
