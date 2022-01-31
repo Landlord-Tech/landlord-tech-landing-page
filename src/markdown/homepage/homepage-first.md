@@ -31,7 +31,7 @@ infoBlockContent1: "Fraudulent ESA letters are a real problem for residential
   for property managers. "
 infoBlockIcon: file-settings
 infoBlockTitle1: Manage ESA Requests
-infoBlockIcon1: /assets/file-settings.svg
+infoBlockIcon1: file-settings
 primaryBtn: Manage Your Pet Program From One Platform
 hero: /assets/banner.png
 ---
