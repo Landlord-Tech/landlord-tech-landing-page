@@ -27,7 +27,7 @@ const Layout = ({ children, className, prodHeader }) => {
       })
     }
   }, [])
-
+  console.log(1111);
   return (
     <>
       <Header pathname={pathname} sticky={sticky} prodHeader={prodHeader} />
