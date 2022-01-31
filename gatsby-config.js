@@ -41,6 +41,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `info-box`,
+        path: `${__dirname}/src/markdown/info-box`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
         pixelId: "806603740016223",

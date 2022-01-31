@@ -24,6 +24,62 @@ collections:
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Hero Heading }
       - { name: heroText, label: Hero Text }
-      - { name: heroBtn, label: Hero button }
-      - { name: heroBtnUrl, label: Hero button url }
+      - { name: heroBtnPrimary, label: Hero button primary }
+      - { name: heroBtnPrimaryUrl, label: Hero button primary url }
+      - { name: heroBtnSecondary, label: Hero button secondary }
+      - { name: heroBtnSecondaryUrl, label: Hero button secondary url }
       - { name: heroImg, label: Hero image, widget: image }
+      - { name: imageTextTitle, label: Image text title }
+      - { name: imageTextHeading, label: Image Text Heading }
+      - { name: imageTextContent, label: Image Text Content }
+      - { name: imageTextImg, label: Image Text image, widget: image }
+      - { name: infoBlockHeading1, label: Image text Heading }
+      - { name: infoBlockContent1, label: Image Text Content }
+      - { name: infoBlockImg1, label: Image Text image, widget: image }
+      - {
+          name: infoBlockIcon1,
+          label: Image Text icon,
+          widget: select,
+          options: [file-settings, hand-home, pet-pow-check],
+        }
+      - { name: infoBlockHeading2, label: Image text Heading }
+      - { name: infoBlockContent2, label: Image Text Content }
+      - { name: infoBlockImg2, label: Image Text image, widget: image }
+      - {
+          name: infoBlockIcon2,
+          label: Image Text icon,
+          widget: select,
+          options: [file-settings, hand-home, pet-pow-check],
+        }
+      - { name: infoBlockHeading3, label: Image text Heading }
+      - { name: infoBlockContent3, label: Image Text Content }
+      - { name: infoBlockImg3, label: Image Text image, widget: image }
+      - {
+          name: infoBlockIcon3,
+          label: Image Text icon,
+          widget: select,
+          options: [file-settings, hand-home, pet-pow-check],
+        }
+  - name: info-box
+    label: info-box
+    folder: src/markdown/info-box
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - name: infoBoxList
+        label: Info Box List
+        widget: list
+        fields:
+          - { label: Info Box Heading, name: infoBoxHeading }
+          - { label: Info Box Content, name: infoBoxContent }
+          - { label: Info Box Button, name: infoBoxButton }
+          - { label: Info Box Button URL, name: infoBoxButtonURL }
+          - {
+              label: Info Box icon,
+              name: icon,
+              widget: select,
+              options: [hand, pet-pow, file],
+            }

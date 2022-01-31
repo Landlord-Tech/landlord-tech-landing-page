@@ -107,6 +107,9 @@
 
   .img-text-section {
     padding: 20px 0;
+    &:first-child {
+      padding-top: 80px;
+    }
   }
 }
 
