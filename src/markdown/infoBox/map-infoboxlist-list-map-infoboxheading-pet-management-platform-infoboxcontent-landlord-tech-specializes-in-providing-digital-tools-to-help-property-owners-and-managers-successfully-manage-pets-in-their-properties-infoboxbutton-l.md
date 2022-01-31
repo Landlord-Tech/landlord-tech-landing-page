@@ -2,7 +2,8 @@
 title: Info Box List
 infoBoxList:
   - infoBoxHeading: Pet Management Platform
-    infoBoxContent: Landlord Tech specializes
+    infoBoxContent: Landlord Tech specializes in providing digital tools to help
+      property owners and managers successfully manage pets in their properties.
     infoBoxButton: Learn more
     infoBoxButtonURL: "#"
     icon: hand
