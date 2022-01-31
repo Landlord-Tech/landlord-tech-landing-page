@@ -1,5 +1,6 @@
 ---
 title: Our Customers Love Landlord Tech
+testimonialTitle: Our Customers Love Landlord Tech
 testimonialList:
   - reviewerImg: /assets/avatar-placeholder.gif
     reviewerName: Cody Miller
