@@ -10,4 +10,5 @@ heroBtnPrimaryUrl: "#"
 heroBtnSecondary: Get a Demo
 heroBtnSecondaryUrl: "#"
 heroImg: /assets/evelyn-paris.png
+calculatorTitle: Calculate the Savings
 ---
