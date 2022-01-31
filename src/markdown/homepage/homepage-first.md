@@ -2,7 +2,7 @@
 heroBtnPrimary: Learn more
 heroBtn: Get started
 heading: Pet Command Center
-title: homepage-first
+title: homepage-first-hero
 heroText: Transform the way you manage your pet program in your residential
   rental portfolio with OurPetPolicy.
 secondaryBtn: Get Started
