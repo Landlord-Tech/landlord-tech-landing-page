@@ -20,12 +20,16 @@ sec2Text3: (The percentage of ESA’s that are fraudulent and get turned into
 sec2Desc: Having pets in a rental can dramatically increase the wear and tear of
   your property. By charging pet rent, you are helping to offset the costs of
   these costs, every month.
-sec3Heading: test
-sec3SubHeading1: test
-sec3Text1: test
-sec3SubHeading2: test
-sec3Text2: test
-sec3Desc: test d
+sec3Heading: Pet Deposits
+sec3SubHeading1: Pet Deposit
+sec3Text1: (How much do you charge for each pet deposit?)
+sec3SubHeading2: Average Pets per Rental
+sec3Text2: (For every unit that has a pet, what is the average number of pets per unit?)
+sec3Desc: When a tenant leaves and the damage from their pet is assessed to be
+  hundreds of dollars more than their security deposit, most landlords
+  understand that it is not worth taking them to court, where they could end up
+  spending more money than they would recoup. By collecting pet deposits you
+  have more money to help cover the damage left by their animals.
 sec4Heading: test
 sec4SubHeading1: test
 sec4Text1: test
