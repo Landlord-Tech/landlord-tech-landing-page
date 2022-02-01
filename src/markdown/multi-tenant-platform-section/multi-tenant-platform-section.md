@@ -13,5 +13,5 @@ platformDescList:
   - platformDescItem: Lawyer-vetted customizable policies
 platformContent2: The OPP Platform is easy to implement, with easy to use
   on-boarding tools and platform management tools.
-platformLinkedText: "[Contact us](contact)[to learn more]"
+platformLinkedText: "[Contact us](/contact/) to learn more"
 ---
