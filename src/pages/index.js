@@ -65,7 +65,6 @@ const Landlords = () => {
           className="grid-1"
           alt={heroHeading}
           image={getImage(heroImg)}
-          formats={["auto", "webp", "avif"]}
           objectPosition={"70%"}
           objectFit="cover"
         />
@@ -112,7 +111,6 @@ const Landlords = () => {
               <GatsbyImage
                 alt={imageTextHeading}
                 image={getImage(imageTextImg)}
-                formats={["AUTO", "WEBP", "AVIF"]}
               />
             </div>
             <div className="text">
@@ -185,7 +183,6 @@ const Landlords = () => {
           className="grid-1"
           alt={heroHeading2}
           image={getImage(heroImg2)}
-          formats={["auto", "webp", "avif"]}
           objectPosition={"70%"}
           objectFit="cover"
         />
