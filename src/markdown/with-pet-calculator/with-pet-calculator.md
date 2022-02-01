@@ -44,12 +44,18 @@ sec4Desc: We have found that most Landlords have an Unauthorized Pet Fee but do
   will get an animal, bring the animal home, and then purchase a fraudulent ESA
   letter after the fact. Our contract and application process prevent these
   occurrences so that Landlords are not losing out on their own policies
-sec5Heading: test
-sec5SubHeading1: test
-sec5Text1: test
-sec5SubHeading2: tst
-sec5Text2: test
-sec5Desc: test
+sec5Heading: Time Savings
+sec5SubHeading1: Time spent dealing with animals (in hours)
+sec5Text1: (How much time on average, per tenant that has an animal, does
+  property management spend giving instructions, answering questions, etc.?)
+sec5SubHeading2: Property Management wage (per hour)
+sec5Text2: (How much time, in dollars per hour, is the property manager’s time
+  spent dealing with pet questions and pet damage?)
+sec5Desc: Time is money. Communicating with tenants about waste management
+  policies, issues, or how to get an animal, etc. can take a lot of a property
+  manager’s time. OurPetPolicy clearly outlines these matters so that all you
+  have to do is send them to ourpetpolicy.com and we will take it from there.
+  Let us help you maximize your time!
 sec6Heading: test
 sec6Desc: test
 ---
