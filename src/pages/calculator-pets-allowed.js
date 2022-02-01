@@ -10,6 +10,7 @@ import AllowedTable from "../components/calculator/AllowedTable"
 import RotatedView from "../components/rotatedView"
 import { graphql, useStaticQuery } from "gatsby"
 import Seo from "../components/seo"
+import { useWithPetCalculatorData } from "../api/useWithPetCalculator"
 
 const initialState = {
   unitCount: 1000,
@@ -143,174 +144,127 @@ const reducer = (state, action) => {
 }
 
 const Calculator = () => {
-  // const { search } = useLocation()
-  // const [activeItem, setActiveItem] = useState(null)
-  // const [scrollTo, setScrollTo] = useState(null)
-  // const [state, dispatch] = useReducer(reducer, initialState)
-  // const introductionRef = useRef(null)
-  // const petRentRef = useRef(null)
-  // const petDepositRef = useRef(null)
-  // const feesRef = useRef(null)
-  // const timeRef = useRef(null)
-  // const summaryRef = useRef(null)
-  // const refMapping = {
-  //   "Calculator introduction": introductionRef,
-  //   "Pet rent": petRentRef,
-  //   "Pet deposits": petDepositRef,
-  //   "Fees and fines": feesRef,
-  //   "Time savings": timeRef,
-  //   Summary: summaryRef,
-  // }
+  const { search } = useLocation()
+  const [activeItem, setActiveItem] = useState(null)
+  const [scrollTo, setScrollTo] = useState(null)
+  const [state, dispatch] = useReducer(reducer, initialState)
+  const introductionRef = useRef(null)
+  const petRentRef = useRef(null)
+  const petDepositRef = useRef(null)
+  const feesRef = useRef(null)
+  const timeRef = useRef(null)
+  const summaryRef = useRef(null)
+  const refMapping = {
+    "Calculator introduction": introductionRef,
+    "Pet rent": petRentRef,
+    "Pet deposits": petDepositRef,
+    "Fees and fines": feesRef,
+    "Time savings": timeRef,
+    Summary: summaryRef,
+  }
 
-  // const data = useStaticQuery(graphql`
-  //   {
-  //     markdownRemark(frontmatter: { title: { eq: "withPetCalculator" } }) {
-  //       frontmatter {
-  //         metaTitle
-  //         metaDescription
-  //         heroHeading
-  //         sec1Heading
-  //         sec1SubHeading1
-  //         sec1Text1
-  //         sec1Desc
-  //         sec2Heading
-  //         sec2SubHeading1
-  //         sec2Text1
-  //         sec2SubHeading2
-  //         sec2Text2
-  //         sec2SubHeading3
-  //         sec2Text3
-  //         sec2Desc
-  //         sec3Heading
-  //         sec3SubHeading1
-  //         sec3Text1
-  //         sec3SubHeading2
-  //         sec3Text2
-  //         sec3Desc
-  //         sec4Heading
-  //         sec4SubHeading1
-  //         sec4Text1
-  //         sec4SubHeading2
-  //         sec4Text2
-  //         sec4SubHeading3
-  //         sec4Text3
-  //         sec4Desc
-  //         sec5Heading
-  //         sec5SubHeading1
-  //         sec5Text1
-  //         sec5SubHeading2
-  //         sec5Text2
-  //         sec5Desc
-  //         sec6Heading
-  //         sec6Desc
-  //       }
-  //     }
-  //   }
-  // `)
-  // const { markdownRemark } = data
-  // const { frontmatter } = markdownRemark
-  // const {
-  //   metaTitle,
-  //   metaDescription,
-  //   heroHeading,
-  //   sec1Heading,
-  //   sec1SubHeading1,
-  //   sec1Text1,
-  //   sec1Desc,
-  //   sec2Heading,
-  //   sec2SubHeading1,
-  //   sec2Text1,
-  //   sec2SubHeading2,
-  //   sec2Text2,
-  //   sec2SubHeading3,
-  //   sec2Text3,
-  //   sec2Desc,
-  //   sec3Heading,
-  //   sec3SubHeading1,
-  //   sec3Text1,
-  //   sec3SubHeading2,
-  //   sec3Text2,
-  //   sec3Desc,
-  //   sec4Heading,
-  //   sec4SubHeading1,
-  //   sec4Text1,
-  //   sec4SubHeading2,
-  //   sec4Text2,
-  //   sec4SubHeading3,
-  //   sec4Text3,
-  //   sec4Desc,
-  //   sec5Heading,
-  //   sec5SubHeading1,
-  //   sec5Text1,
-  //   sec5SubHeading2,
-  //   sec5Text2,
-  //   sec5Desc,
-  //   sec6Heading,
-  //   sec6Desc,
-  // } = frontmatter
+  const {
+    metaTitle,
+    metaDescription,
+    heroHeading,
+    sec1Heading,
+    sec1SubHeading1,
+    sec1Text1,
+    sec1Desc,
+    sec2Heading,
+    sec2SubHeading1,
+    sec2Text1,
+    sec2SubHeading2,
+    sec2Text2,
+    sec2SubHeading3,
+    sec2Text3,
+    sec2Desc,
+    sec3Heading,
+    sec3SubHeading1,
+    sec3Text1,
+    sec3SubHeading2,
+    sec3Text2,
+    sec3Desc,
+    sec4Heading,
+    sec4SubHeading1,
+    sec4Text1,
+    sec4SubHeading2,
+    sec4Text2,
+    sec4SubHeading3,
+    sec4Text3,
+    sec4Desc,
+    sec5Heading,
+    sec5SubHeading1,
+    sec5Text1,
+    sec5SubHeading2,
+    sec5Text2,
+    sec5Desc,
+    sec6Heading,
+    sec6Desc,
+  } = useWithPetCalculatorData()
 
-  // React.useEffect(() => {
-  //   if (scrollTo) {
-  //     refMapping[scrollTo].current?.scrollIntoView({
-  //       behavior: "smooth",
-  //     })
-  //     setScrollTo(false)
-  //   }
-  // }, [scrollTo])
+  React.useEffect(() => {
+    if (scrollTo) {
+      refMapping[scrollTo].current?.scrollIntoView({
+        behavior: "smooth",
+      })
+      setScrollTo(false)
+    }
+  }, [scrollTo])
 
-  // function handleLinkClick(to) {
-  //   setScrollTo(to)
-  // }
-  // const {
-  //   unitCount,
-  //   unitPerPetRate,
+  function handleLinkClick(to) {
+    setScrollTo(to)
+  }
+  const {
+    unitCount,
+    unitPerPetRate,
 
-  //   unAuthPetFee,
-  //   petDeposit,
-  //   petRentPerMonth,
-  //   propManagementWagePerHour,
-  //   fraudulentESAtoPetConversion,
-  //   petApprovalRate,
+    unAuthPetFee,
+    petDeposit,
+    petRentPerMonth,
+    propManagementWagePerHour,
+    fraudulentESAtoPetConversion,
+    petApprovalRate,
 
-  //   unAuthPetFeeRate,
-  //   petPerRental,
-  //   petDealTimeInHours,
-  //   ESABeforeOPPRate,
-  // } = state
+    unAuthPetFeeRate,
+    petPerRental,
+    petDealTimeInHours,
+    ESABeforeOPPRate,
+  } = state
 
-  // const ROIPetsResults = calculateROIWithPets({
-  //   ...state,
-  //   unitPerPetRate: unitPerPetRate / 100,
-  //   petApprovalRate: petApprovalRate / 100,
-  //   unAuthPetFeeRate: unAuthPetFeeRate / 100,
-  //   fraudulentESAtoPetConversion: fraudulentESAtoPetConversion / 100,
-  //   ESABeforeOPPRate: ESABeforeOPPRate / 100,
-  // })
+  const ROIPetsResults = calculateROIWithPets({
+    ...state,
+    unitPerPetRate: unitPerPetRate / 100,
+    petApprovalRate: petApprovalRate / 100,
+    unAuthPetFeeRate: unAuthPetFeeRate / 100,
+    fraudulentESAtoPetConversion: fraudulentESAtoPetConversion / 100,
+    ESABeforeOPPRate: ESABeforeOPPRate / 100,
+  })
 
-  // const { totalSavings, totalCostForOPP, roi } = ROIPetsResults
+  const { totalSavings, totalCostForOPP, roi } = ROIPetsResults
 
-  // useEffect(() => {
-  //   const listItems = document.querySelectorAll(".calculator-list-item")
-  //   const options = {
-  //     threshold: 0.3,
-  //   }
-  //   let observer = new IntersectionObserver(handleObserve, options)
-  //   listItems.forEach(item => {
-  //     observer.observe(item)
-  //   })
-  // }, [])
+  useEffect(() => {
+    const listItems = document.querySelectorAll(".calculator-list-item")
+    const options = {
+      threshold: 0.3,
+    }
+    let observer = new IntersectionObserver(handleObserve, options)
+    listItems.forEach(item => {
+      observer.observe(item)
+    })
+  }, [])
 
-  // function handleObserve(e) {
-  //   let { isIntersecting } = e[0]
-  //   let { id } = e[0].target
-  //   if (isIntersecting) {
-  //     setActiveItem(id)
-  //   }
-  // }
+  function handleObserve(e) {
+    let { isIntersecting } = e[0]
+    let { id } = e[0].target
+    if (isIntersecting) {
+      setActiveItem(id)
+    }
+  }
 
   return (
     <Layout className="calculator-page">
-      {/* <Seo title={metaTitle} description={metaDescription} />
+      <Seo title={metaTitle} description={metaDescription} />
       <div className="container fluid">
         <h1 className="h3">Advanced ROI Calculator</h1>
         <div className="calculator-content">
@@ -546,8 +500,7 @@ const Calculator = () => {
                 ref={summaryRef}
               >
                 <h4 className="h4">{sec6Heading}</h4>
-                {/*<p>Our goal is to save you way more money </p>*/}
-      {/* <div className="calculator-item-table-content">
+                <div className="calculator-item-table-content">
                   <div className="left">
                     <p>{sec6Desc}</p>
                     <AllowedTable data={ROIPetsResults} />
@@ -573,8 +526,7 @@ const Calculator = () => {
           />
         </div>
       </div>
-      <RotatedView />  */}
-      pets allowed
+      <RotatedView />
     </Layout>
   )
 }
