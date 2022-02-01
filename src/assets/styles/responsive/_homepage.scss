@@ -118,14 +118,6 @@
     margin-top: 24px;
   }
 
-  .testimonial-item {
-    padding: 56px 24px;
-    margin-left: 0;
-    &:not(:last-child) {
-      margin-bottom: 56px;
-    }
-  }
-
   .half-image-banner {
     flex-wrap: wrap;
     .gatsby-image-wrapper,

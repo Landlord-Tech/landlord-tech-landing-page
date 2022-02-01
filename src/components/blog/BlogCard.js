@@ -7,11 +7,7 @@ function BlogCard({ data }) {
   return (
     <div className="blog-card">
       <Link to={path} state={{ prev: true }} className="image-wrapper">
-        <GatsbyImage
-          alt={heroHeading}
-          image={getImage(heroImg)}
-          formats={["AUTO", "WEBP", "AVIF"]}
-        />
+        <GatsbyImage alt={heroHeading} image={getImage(heroImg)} />
       </Link>
       <p className="light-text">{category}</p>
       <h2 className="h4">

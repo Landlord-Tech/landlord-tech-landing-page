@@ -36,8 +36,22 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `homepage`,
-        path: `${__dirname}/src/markdown/homepage`,
+        name: `homepage-hero-1`,
+        path: `${__dirname}/src/markdown/homepage-hero-1`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `homepage-hero-2`,
+        path: `${__dirname}/src/markdown/homepage-hero-2`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `homepage-about-section`,
+        path: `${__dirname}/src/markdown/homepage-about-section`,
       },
     },
     {
@@ -45,6 +59,27 @@ module.exports = {
       options: {
         name: `info-box`,
         path: `${__dirname}/src/markdown/info-box`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `info-block`,
+        path: `${__dirname}/src/markdown/info-block`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `info-section`,
+        path: `${__dirname}/src/markdown/info-section`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `testimonial`,
+        path: `${__dirname}/src/markdown/testimonial`,
       },
     },
     {
@@ -64,7 +99,7 @@ module.exports = {
       resolve: "gatsby-plugin-sharp",
       options: {
         defaults: {
-          formats: [`auto`, `webp`],
+          formats: [`auto`, `webp`, `avif`],
           placeholder: `none`,
         },
       },

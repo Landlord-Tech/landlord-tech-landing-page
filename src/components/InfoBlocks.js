@@ -1,5 +1,5 @@
 import * as React from "react"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 
 export default ({ heading, content, imageUrl, icon }) => {
@@ -8,11 +8,7 @@ export default ({ heading, content, imageUrl, icon }) => {
       <div className="container">
         <div className="img-text-content">
           <div className="img">
-            <GatsbyImage
-              alt={heading}
-              image={getImage(imageUrl)}
-              formats={["AUTO", "WEBP", "AVIF"]}
-            />
+            <GatsbyImage alt={heading} image={getImage(imageUrl)} />
           </div>
           <div className="text">
             <div className="img-text-title-wrapper">
