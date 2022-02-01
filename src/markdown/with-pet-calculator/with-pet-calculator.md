@@ -4,9 +4,16 @@ metaTitle: with pet calculator
 metaDescription: with pet calculator description
 heroHeading: Return on Investment with OurPetPolicy
 sec1Heading: Tell us about your Properties
-sec1SubHeading1: test
-sec1Text1: test
-sec1Desc: test desc
+sec1SubHeading1: How many Units
+sec1Text1: (How many residential rental units do you have with animals?)
+sec1Desc: >-
+  <!--StartFragment-->
+
+
+  With this calculator you can input your specific data and see how much value OurPetPolicy could add to your residential rental portfolio.
+
+
+  <!--EndFragment-->
 sec2Heading: test
 sec2SubHeading1: test
 sec2Text1: test
