@@ -132,6 +132,28 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `about-hero`,
+        path: `${__dirname}/src/markdown/about-hero`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `about-us-section`,
+        path: `${__dirname}/src/markdown/about-us-section`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `our-products-section`,
+        path: `${__dirname}/src/markdown/our-products-section`,
+      },
+    },
+
+    {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
         pixelId: "806603740016223",
