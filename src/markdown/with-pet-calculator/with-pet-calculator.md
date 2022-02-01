@@ -56,6 +56,8 @@ sec5Desc: Time is money. Communicating with tenants about waste management
   manager’s time. OurPetPolicy clearly outlines these matters so that all you
   have to do is send them to ourpetpolicy.com and we will take it from there.
   Let us help you maximize your time!
-sec6Heading: test
-sec6Desc: test
+sec6Heading: Summary
+sec6Desc: Our goal is to save you money and allow you the biggest Return on
+  Investment possible. Check out your total savings to see how much you can
+  increase your yearly return by using OurPetPolicy.
 ---
