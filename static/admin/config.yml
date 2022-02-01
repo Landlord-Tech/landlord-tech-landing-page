@@ -343,3 +343,51 @@ collections:
       - { name: heroHeading3, label: Hero Heading }
       - { name: heroText3, label: Hero Text }
       - { name: heroImg3, label: Hero image, widget: image }
+  # about
+  - name: about-hero
+    label: about-hero
+    folder: src/markdown/about-hero
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero Heading }
+      - { name: heroImg, label: Hero image, widget: image }
+  - name: about-us-section
+    label: about-us-section
+    folder: src/markdown/about-us-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: aboutUsSectionHeading, label: About Us Section Hero Heading }
+      - { name: aboutUsSectionSubhead, label: About Us Section Hero Subhead }
+      - { name: aboutUsSectionContent, label: About Us Section Hero Content }
+      - { name: contactUsHeading, label: Contact Us Heading }
+      - name: contactInfoList
+        label: Contact Info List
+        widget: list
+        fields:
+          - { label: Contact Info Text, name: contactInfoText }
+          - {
+              label: Contact Info icon,
+              name: icon,
+              widget: select,
+              options: [phone, location, envelope],
+            }
+  - name: our-products-section
+    label: our-products-section
+    folder: src/markdown/our-products-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: ourProductsSectionHeading, label: Our Products Heading }
+      - { name: ourProductsSectionSubhead, label: Our Products Subhead }
+      - { name: ourProductsSectionContent, label: Our Products Content }
