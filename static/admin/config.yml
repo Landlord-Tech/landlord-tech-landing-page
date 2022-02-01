@@ -198,7 +198,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Page title }
