@@ -14,9 +14,9 @@ sec2Text1: (How much do you charge, on average, per pet per month?)
 sec2SubHeading2: ESA’s percentage before OurPetPolicy
 sec2Text2: (What percentage of all animals in your rentals before OurPetPolicy
   are ESA’s? (Typically 50-80%))
-sec2SubHeading3: Did you know recent studies show that 72%-90% of tenants have
-  an animal? (see links below)
-sec2Text3: Percentage of animals that cause damage (%)
+sec2SubHeading3: Fraudulent ESA to Pet percentage
+sec2Text3: (The percentage of ESA’s that are fraudulent and get turned into
+  paying pet rent, typically 50-70%)
 sec2Desc: Having pets in a rental can dramatically increase the wear and tear of
   your property. By charging pet rent, you are helping to offset the costs of
   these costs, every month.
