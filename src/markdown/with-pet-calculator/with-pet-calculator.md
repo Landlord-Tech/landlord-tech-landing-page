@@ -8,10 +8,12 @@ sec1SubHeading1: How many Units
 sec1Text1: (How many residential rental units do you have with animals?)
 sec1Desc: With this calculator you can input your specific data and see how much
   value OurPetPolicy could add to your residential rental portfolio.
-sec2Heading: What is your Average Monthly Rent
-sec2SubHeading1: (What is the overall average monthly rent of all of your units?)
-sec2Text1: Cost of pet damage
-sec2SubHeading2: Estimated percentage of units with Pets (%)
+sec2Heading: Pet Rent
+sec2SubHeading1: Pet rent per month
+sec2Text1: (How much do you charge, on average, per pet per month?)
+sec2SubHeading2: Having pets in a rental can dramatically increase the wear and
+  tear of your property. By charging pet rent, you are helping to offset the
+  costs of these costs, every month.
 sec2Text2: (What percentage of units, would you estimate, have animals in them?)
 sec2SubHeading3: Did you know recent studies show that 72%-90% of tenants have
   an animal? (see links below)
