@@ -11,8 +11,9 @@ sec1Desc: With this calculator you can input your specific data and see how much
 sec2Heading: Pet Rent
 sec2SubHeading1: Pet rent per month
 sec2Text1: (How much do you charge, on average, per pet per month?)
-sec2SubHeading2: rrrr
-sec2Text2: www
+sec2SubHeading2: ESA’s percentage before OurPetPolicy
+sec2Text2: (What percentage of all animals in your rentals before OurPetPolicy
+  are ESA’s? (Typically 50-80%))
 sec2SubHeading3: Did you know recent studies show that 72%-90% of tenants have
   an animal? (see links below)
 sec2Text3: Percentage of animals that cause damage (%)
