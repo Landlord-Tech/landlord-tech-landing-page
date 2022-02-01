@@ -1,6 +1,5 @@
 import * as React from "react"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
 import scrollTo from "gatsby-plugin-smoothscroll"
