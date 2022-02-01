@@ -83,6 +83,20 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `with-pet-calculator`,
+        path: `${__dirname}/src/markdown/with-pet-calculator`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `with-no-pet-calculator`,
+        path: `${__dirname}/src/markdown/with-no-pet-calculator`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
         pixelId: "806603740016223",

@@ -10,6 +10,7 @@ import { calculateROIWithNoPets } from "../calculator"
 import RotatedView from "../components/rotatedView"
 import { graphql, useStaticQuery } from "gatsby"
 import Seo from "../components/seo"
+import { useWithNoPetCalculatorData } from "../api/useWithNoPetsCalculator"
 
 const initialState = {
   unitCount: 350,
@@ -121,188 +122,134 @@ const reducer = (state, action) => {
 }
 
 const CalculatorNoPetsAllowed = () => {
-  // const { search } = useLocation()
-  // const [activeItem, setActiveItem] = useState(null)
-  // const [scrollTo, setScrollTo] = useState(null)
-  // const [state, dispatch] = useReducer(reducer, initialState)
-  // const introductionRef = React.useRef(null)
-  // const damageRef = React.useRef(null)
-  // const lostRef = React.useRef(null)
-  // const feesRef = React.useRef(null)
-  // const timeRef = React.useRef(null)
-  // const summaryRef = React.useRef(null)
-  // const refMapping = {
-  //   "Calculator introduction": introductionRef,
-  //   "Cost of pet damage": damageRef,
-  //   "Lost rent": lostRef,
-  //   "Fees and fines": feesRef,
-  //   "Time savings": timeRef,
-  //   Summary: summaryRef,
-  // }
+  const { search } = useLocation()
+  const [activeItem, setActiveItem] = useState(null)
+  const [scrollTo, setScrollTo] = useState(null)
+  const [state, dispatch] = useReducer(reducer, initialState)
+  const introductionRef = React.useRef(null)
+  const damageRef = React.useRef(null)
+  const lostRef = React.useRef(null)
+  const feesRef = React.useRef(null)
+  const timeRef = React.useRef(null)
+  const summaryRef = React.useRef(null)
+  const refMapping = {
+    "Calculator introduction": introductionRef,
+    "Cost of pet damage": damageRef,
+    "Lost rent": lostRef,
+    "Fees and fines": feesRef,
+    "Time savings": timeRef,
+    Summary: summaryRef,
+  }
 
-  // const data = useStaticQuery(graphql`
-  //   {
-  //     markdownRemark(frontmatter: { title: { eq: "withNoPetCalculator" } }) {
-  //       html
-  //       frontmatter {
-  //         metaTitle
-  //         metaDescription
-  //         heroHeading
-  //         sec1Heading
-  //         sec1SubHeading1
-  //         sec1Text1
-  //         sec1SubHeading2
-  //         sec1Text2
-  //         sec1Desc
-  //         sec2Heading
-  //         sec2SubHeading1
-  //         sec2Text1
-  //         sec2SubHeading2
-  //         sec2Text2
-  //         sec2SubHeading3
-  //         sec2Text3
-  //         sec2Desc
-  //         sec3Heading
-  //         sec3SubHeading1
-  //         sec3Text1
-  //         sec3SubHeading2
-  //         sec3Text2
-  //         sec3SubHeading3
-  //         sec3Text3
-  //         sec3Desc
-  //         sec4Heading
-  //         sec4SubHeading1
-  //         sec4Text1
-  //         sec4SubHeading2
-  //         sec4Text2
-  //         sec4SubHeading3
-  //         sec4Text3
-  //         sec4Desc
-  //         sec5Heading
-  //         sec5SubHeading1
-  //         sec5Text1
-  //         sec5SubHeading2
-  //         sec5Text2
-  //         sec5SubHeading3
-  //         sec5Text3
-  //         sec5Desc
-  //         sec6Heading
-  //         sec6Desc
-  //       }
-  //     }
-  //   }
-  // `)
-  // const { markdownRemark } = data
-  // const { frontmatter } = markdownRemark
-  // const {
-  //   metaTitle,
-  //   metaDescription,
-  //   heroHeading,
-  //   sec1Heading,
-  //   sec1SubHeading1,
-  //   sec1Text1,
-  //   sec1SubHeading2,
-  //   sec1Text2,
-  //   sec1Desc,
-  //   sec2Heading,
-  //   sec2SubHeading1,
-  //   sec2Text1,
-  //   sec2SubHeading2,
-  //   sec2Text2,
-  //   sec2SubHeading3,
-  //   sec2Text3,
-  //   sec2Desc,
-  //   sec3Heading,
-  //   sec3SubHeading1,
-  //   sec3Text1,
-  //   sec3SubHeading2,
-  //   sec3Text2,
-  //   sec3SubHeading3,
-  //   sec3Text3,
-  //   sec3Desc,
-  //   sec4Heading,
-  //   sec4SubHeading1,
-  //   sec4Text1,
-  //   sec4SubHeading2,
-  //   sec4Text2,
-  //   sec4SubHeading3,
-  //   sec4Text3,
-  //   sec4Desc,
-  //   sec5Heading,
-  //   sec5SubHeading1,
-  //   sec5Text1,
-  //   sec5SubHeading2,
-  //   sec5Text2,
-  //   sec5SubHeading3,
-  //   sec5Text3,
-  //   sec5Desc,
-  //   sec6Heading,
-  //   sec6Desc,
-  // } = frontmatter
+  const {
+    metaTitle,
+    metaDescription,
+    heroHeading,
+    sec1Heading,
+    sec1SubHeading1,
+    sec1Text1,
+    sec1SubHeading2,
+    sec1Text2,
+    sec1Desc,
+    sec2Heading,
+    sec2SubHeading1,
+    sec2Text1,
+    sec2SubHeading2,
+    sec2Text2,
+    sec2SubHeading3,
+    sec2Text3,
+    sec2Desc,
+    sec3Heading,
+    sec3SubHeading1,
+    sec3Text1,
+    sec3SubHeading2,
+    sec3Text2,
+    sec3SubHeading3,
+    sec3Text3,
+    sec3Desc,
+    sec4Heading,
+    sec4SubHeading1,
+    sec4Text1,
+    sec4SubHeading2,
+    sec4Text2,
+    sec4SubHeading3,
+    sec4Text3,
+    sec4Desc,
+    sec5Heading,
+    sec5SubHeading1,
+    sec5Text1,
+    sec5SubHeading2,
+    sec5Text2,
+    sec5SubHeading3,
+    sec5Text3,
+    sec5Desc,
+    sec6Heading,
+    sec6Desc,
+  } = useWithNoPetCalculatorData()
 
-  // React.useEffect(() => {
-  //   if (scrollTo) {
-  //     refMapping[scrollTo].current?.scrollIntoView({
-  //       behavior: "smooth",
-  //     })
-  //     setScrollTo(false)
-  //   }
-  // }, [scrollTo])
+  React.useEffect(() => {
+    if (scrollTo) {
+      refMapping[scrollTo].current?.scrollIntoView({
+        behavior: "smooth",
+      })
+      setScrollTo(false)
+    }
+  }, [scrollTo])
 
-  // function handleLinkClick(to) {
-  //   setScrollTo(to)
-  // }
+  function handleLinkClick(to) {
+    setScrollTo(to)
+  }
 
-  // const {
-  //   unitCount,
-  //   avgRent,
-  //   avgTenantLife,
-  //   unitPerPetRate,
-  //   petDamagePerTenant,
-  //   unAuthPetFee,
-  //   additionalTurnAroundTime,
-  //   propManagementWagePerHour,
-  //   petReductionRate,
-  //   petApprovalRate,
-  //   unAuthPetFeeRate,
-  //   petDamageRate,
-  //   petDealTimeInHours,
-  //   damageDealTimeInHours,
-  // } = state
+  const {
+    unitCount,
+    avgRent,
+    avgTenantLife,
+    unitPerPetRate,
+    petDamagePerTenant,
+    unAuthPetFee,
+    additionalTurnAroundTime,
+    propManagementWagePerHour,
+    petReductionRate,
+    petApprovalRate,
+    unAuthPetFeeRate,
+    petDamageRate,
+    petDealTimeInHours,
+    damageDealTimeInHours,
+  } = state
 
-  // const ROINoPetsResults = calculateROIWithNoPets({
-  //   ...state,
-  //   unitPerPetRate: unitPerPetRate / 100,
-  //   petReductionRate: petReductionRate / 100,
-  //   petApprovalRate: petApprovalRate / 100,
-  //   unAuthPetFeeRate: unAuthPetFeeRate / 100,
-  //   petDamageRate: petDamageRate / 100,
-  // })
+  const ROINoPetsResults = calculateROIWithNoPets({
+    ...state,
+    unitPerPetRate: unitPerPetRate / 100,
+    petReductionRate: petReductionRate / 100,
+    petApprovalRate: petApprovalRate / 100,
+    unAuthPetFeeRate: unAuthPetFeeRate / 100,
+    petDamageRate: petDamageRate / 100,
+  })
 
-  // const { totalSavings, totalCostForOPP, roi } = ROINoPetsResults
+  const { totalSavings, totalCostForOPP, roi } = ROINoPetsResults
 
-  // useEffect(() => {
-  //   const listItems = document.querySelectorAll(".calculator-list-item")
-  //   const options = {
-  //     threshold: 0.3,
-  //   }
-  //   let observer = new IntersectionObserver(handleObserve, options)
-  //   listItems.forEach(item => {
-  //     observer.observe(item)
-  //   })
-  // }, [])
+  useEffect(() => {
+    const listItems = document.querySelectorAll(".calculator-list-item")
+    const options = {
+      threshold: 0.3,
+    }
+    let observer = new IntersectionObserver(handleObserve, options)
+    listItems.forEach(item => {
+      observer.observe(item)
+    })
+  }, [])
 
-  // function handleObserve(e) {
-  //   let { isIntersecting } = e[0]
-  //   let { id } = e[0].target
-  //   if (isIntersecting) {
-  //     setActiveItem(id)
-  //   }
-  // }
+  function handleObserve(e) {
+    let { isIntersecting } = e[0]
+    let { id } = e[0].target
+    if (isIntersecting) {
+      setActiveItem(id)
+    }
+  }
 
   return (
     <Layout className="calculator-page">
-      {/* <Seo title={metaTitle} description={metaDescription} />
+      <Seo title={metaTitle} description={metaDescription} />
       <div className="container fluid">
         <h1 className="h3">Advanced ROI Calculator</h1>
         <div className="calculator-content">
@@ -615,8 +562,7 @@ const CalculatorNoPetsAllowed = () => {
           />
         </div>
       </div>
-      <RotatedView /> */}
-      no pets allowed
+      <RotatedView />
     </Layout>
   )
 }
