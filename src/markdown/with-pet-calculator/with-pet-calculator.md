@@ -30,14 +30,20 @@ sec3Desc: When a tenant leaves and the damage from their pet is assessed to be
   understand that it is not worth taking them to court, where they could end up
   spending more money than they would recoup. By collecting pet deposits you
   have more money to help cover the damage left by their animals.
-sec4Heading: test
-sec4SubHeading1: test
-sec4Text1: test
-sec4SubHeading2: test
-sec4Text2: test
-sec4SubHeading3: test
-sec4Text3: test
-sec4Desc: test
+sec4Heading: Fees and Fines
+sec4SubHeading1: Unauthorized Pet Fee
+sec4Text1: (How much would you like to charge tenants for an unauthorized pet?)
+sec4SubHeading2: Percentage of unauthorized pet fees
+sec4Text2: (What percentage of tenants do you collect unauthorized pet fees from?)
+sec4SubHeading3: Percentage of tenants that get an animal prior to approval
+sec4Text3: (What percentage of tenants that get an animal, get one before it has
+  been approved?)
+sec4Desc: We have found that most Landlords have an Unauthorized Pet Fee but do
+  not have the proper documentation to charge for the fee, which results in
+  tenants taking advantage of the situation. We have also found that tenants
+  will get an animal, bring the animal home, and then purchase a fraudulent ESA
+  letter after the fact. Our contract and application process prevent these
+  occurrences so that Landlords are not losing out on their own policies
 sec5Heading: test
 sec5SubHeading1: test
 sec5Text1: test
