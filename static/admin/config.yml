@@ -19,7 +19,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Hero Heading }
@@ -38,7 +38,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: imageTextTitle, label: Image text title }
       - { name: imageTextHeading, label: Image Text Heading }
       - { name: imageTextContent, label: Image Text Content }
@@ -51,7 +51,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Info Box Title }
+      - { name: title, label: Info Box Title, widget: hidden }
       - name: infoBoxList
         label: Info Box List
         widget: list
@@ -74,7 +74,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Info Block Title }
+      - { name: title, label: Info Block Title, widget: hidden }
       - name: infoBlockList
         label: Info Block List
         widget: list
@@ -96,7 +96,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: testimonialTitle, label: Testimonials Section Title }
       - name: testimonialList
         label: Testimonial List
@@ -114,7 +114,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: heroHeading2, label: Hero Heading }
       - { name: heroText2, label: Hero Text }
       - { name: heroSecondaryHeading2, label: Hero Secondary Heading }
@@ -131,7 +131,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: infoSectionHeading, label: Info Section Heading }
       - { name: infoSectionContent, label: Info Section Content }
       - { name: infoSectionBtnSecondary, label: Info SectionButton Secondary }
