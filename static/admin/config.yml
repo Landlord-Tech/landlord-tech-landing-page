@@ -11,6 +11,7 @@ media_folder: static/assets
 public_folder: /assets
 
 collections:
+  # homepage
   - name: homepage-hero-1
     label: homepage-hero-1
     folder: src/markdown/homepage-hero-1
@@ -246,3 +247,99 @@ collections:
       - { name: sec5Desc, label: Time Saving description }
       - { name: sec6Heading, label: Summery heading }
       - { name: sec6Desc, label: Summery description }
+  # products
+  - name: products-hero-1
+    label: products-hero-1
+    folder: src/markdown/products-hero-1
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading1, label: Hero Heading }
+      - { name: heroText1, label: Hero Text }
+      - { name: heroBtnSecondary1, label: Hero button secondary }
+      - { name: heroBtnSecondaryUrl1, label: Hero button secondary url }
+      - { name: heroImg1, label: Hero image, widget: image }
+  - name: multi-tenant-platform-section
+    label: multi-tenant-platform-section
+    folder: src/markdown/multi-tenant-platform-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: sectionHeading, label: Section Heading }
+      - { name: sectionSubhead, label: Section Subhead }
+      - { name: platformImage, label: Platform image, widget: image }
+      - { name: platformTitle, label: Platform Title }
+      - { name: platformContent1, label: Platform Content 1 }
+
+      - name: platformDescList
+        label: Platform Description List
+        widget: list
+        fields:
+          - { label: Platform Description Item, name: platformDescItem }
+      - { name: platformContent2, label: Platform Content 2 }
+      - {
+          name: platformLinkedText,
+          label: Platform Linked Text,
+          widget: markdown,
+        }
+  - name: products-hero-2
+    label: products-hero-2
+    folder: src/markdown/products-hero-2
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading2, label: Hero Heading }
+      - { name: heroText2, label: Hero Text }
+      - { name: heroBtnPrimary2, label: Hero button primary }
+      - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
+      - { name: heroImg2, label: Hero image, widget: image }
+  - name: landlord-tech-program-section
+    label: landlord-tech-program-section
+    folder: src/markdown/landlord-tech-program-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - {
+          name: landlordTechProgramImage,
+          label: Landlord Tech Program Section image,
+          widget: image,
+        }
+      - {
+          name: landlordTechProgramTitle,
+          label: Landlord Tech Program Section Title,
+        }
+      - {
+          name: landlordTechProgramContent,
+          label: Landlord Tech Program Section Content,
+        }
+      - name: landlordTechProgramList
+        label: Landlord Tech Program List
+        widget: list
+        fields:
+          - { label: Landlord Tech Program Item, name: landlordTechProgramItem }
+  - name: products-hero-3
+    label: products-hero-3
+    folder: src/markdown/products-hero-3
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading3, label: Hero Heading }
+      - { name: heroText3, label: Hero Text }
+      - { name: heroImg3, label: Hero image, widget: image }

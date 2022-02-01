@@ -97,6 +97,41 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `products-hero-1`,
+        path: `${__dirname}/src/markdown/products-hero-1`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `products-hero-2`,
+        path: `${__dirname}/src/markdown/products-hero-2`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `products-hero-3`,
+        path: `${__dirname}/src/markdown/products-hero-3`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `multi-tenant-platform-section`,
+        path: `${__dirname}/src/markdown/multi-tenant-platform-section`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `landlord-tech-program-section`,
+        path: `${__dirname}/src/markdown/landlord-tech-program-section`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
         pixelId: "806603740016223",
