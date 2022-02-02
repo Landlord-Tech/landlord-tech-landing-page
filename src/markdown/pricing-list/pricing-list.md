@@ -16,4 +16,9 @@ pricingList:
     planPrice: "3"
     pricingBtn: Get started
     pricingBtnUrl: "#"
+  - contractNumber: ">1000"
+    planPrice: null
+    pricingBtn: Contact us
+    pricingPlan: Premium
+    pricingBtnUrl: "#"
 ---
