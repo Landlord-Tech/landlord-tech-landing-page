@@ -1,5 +1,6 @@
 ---
 title: faq-list
+faqHeading: Frequently Asked Questions
 faqList:
   - faqQuestion: How does the pricing work?
     faqAnswer: "We accept most credit/debit cards such as Visa, Mastercard,
