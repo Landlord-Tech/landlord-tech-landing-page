@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 function BlogCard({ data }) {
   const { heroHeading, path, category, excerpt, heroImg } = data

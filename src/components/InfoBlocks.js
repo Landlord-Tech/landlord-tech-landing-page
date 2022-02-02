@@ -4,7 +4,7 @@ import Icon from "./Icon"
 
 export default ({ heading, content, imageUrl, icon }) => {
   return (
-    <section className="img-text-section section">
+    <section className="img-text-section">
       <div className="container">
         <div className="img-text-content">
           <div className="img">
