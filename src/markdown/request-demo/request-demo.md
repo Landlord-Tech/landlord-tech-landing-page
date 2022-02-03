@@ -1,6 +1,7 @@
 ---
 title: request-demo
 RequestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
+requestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
 requestDemoInfoList:
   - requestDemoInfoText: Use OurPetPolicy to solve your pet related frustrations
   - requestDemoInfoText: Stop fraudulent Service and Emotional Support Animal requests
