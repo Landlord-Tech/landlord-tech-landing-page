@@ -1,6 +1,6 @@
 ---
 title: blog
-path: /resources/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenant
+path: /resources/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants
 date: 2022-02-02T15:37:01.884Z
 category: Blog
 excerpt: Emotional Support Animals, Service Animals, and Pets. What’s the
