@@ -1,9 +1,9 @@
 import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
 import Seo from "../components/seo"
-import HTMLContent from "../components/HTMLContent"
 import { useProductsHero1Data } from "../api/useProductHero1"
 import { useProductsHero2Data } from "../api/useProductHero2"
 import { usePlatformSectionData } from "../api/usePlatformSection"
@@ -31,7 +31,6 @@ const Landlords = () => {
 
   const { heroHeading3, heroText3, heroImg3 } = useProductsHero3Data()
 
-  const { frontmatter, html } = usePlatformSectionData()
   const {
     sectionHeading,
     sectionSubhead,
@@ -40,8 +39,7 @@ const Landlords = () => {
     platformContent1,
     platformDescList,
     platformContent2,
-    platformLinkedText,
-  } = frontmatter
+  } = usePlatformSectionData()
 
   const {
     landlordTechProgramImage,
@@ -102,7 +100,7 @@ const Landlords = () => {
               </ul>
               <p>{platformContent2}</p>
               <p>
-                <HTMLContent content={html} className="dynamic-content" />
+                <Link to="/contact/">Contact us </Link>to learn more.
               </p>
             </div>
             <div className="img">

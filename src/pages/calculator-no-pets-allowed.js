@@ -8,7 +8,6 @@ import FixedRibbon from "../components/calculator/FixedRibbon"
 import NoAllowedTable from "../components/calculator/NoAllowedTable"
 import { calculateROIWithNoPets } from "../calculator"
 import RotatedView from "../components/rotatedView"
-import { graphql, useStaticQuery } from "gatsby"
 import Seo from "../components/seo"
 import { useWithNoPetCalculatorData } from "../api/useWithNoPetsCalculator"
 

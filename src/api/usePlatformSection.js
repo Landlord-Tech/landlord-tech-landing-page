@@ -6,7 +6,6 @@ export const usePlatformSectionData = () => {
       markdownRemark(
         frontmatter: { title: { eq: "multi-tenant-platform-section" } }
       ) {
-        html
         frontmatter {
           sectionHeading
           sectionSubhead
@@ -26,7 +25,7 @@ export const usePlatformSectionData = () => {
     }
   `)
 
-  const data = platformSectionData?.markdownRemark
+  const data = platformSectionData?.markdownRemark?.frontmatter
 
   return data
 }
