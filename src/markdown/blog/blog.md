@@ -7,6 +7,7 @@ excerpt: Considerations Tenants Make When Choosing a Rental Considerations
   a Rental
 heroHeading: Considerations Tenants Make When Choosing a Rental
 heroImg: /assets/bigstock-naughty-playful-puppy-dog-bord-398414108-1.png
+social: true
 ---
 Marketing to and bringing in new tenants is a critical piece in the overall success of your rental property. Keeping existing tenants happy is also a major lifeline in your portfolio. What can you do as a landlord to make your rental property desirable for new tenants? Then, how do you keep them and existing tenants long-term and reduce your turnover rate?
 
