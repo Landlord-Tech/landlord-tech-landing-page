@@ -5,7 +5,7 @@ date: 2022-02-03T14:14:58.959Z
 category: Blog
 excerpt: Considerations Tenants Make When Choosing a Rental Considerations
   Tenants Make When Choosing a Rental Considerations Tenants Make When Choosing
-  a Rental
+  a Rentall
 heroHeading: Considerations Tenants Make When Choosing a Rental
 heroImg: /assets/bigstock-the-surprised-cat-the-amazeme-369213406-1.png
 ---
