@@ -6,6 +6,7 @@ export const usePlatformSectionData = () => {
       markdownRemark(
         frontmatter: { title: { eq: "multi-tenant-platform-section" } }
       ) {
+        html
         frontmatter {
           sectionHeading
           sectionSubhead
@@ -20,13 +21,12 @@ export const usePlatformSectionData = () => {
             platformDescItem
           }
           platformContent2
-          platformLinkedText
         }
       }
     }
   `)
 
-  const data = platformSectionData?.markdownRemark?.frontmatter
+  const data = platformSectionData?.markdownRemark
 
   return data
 }

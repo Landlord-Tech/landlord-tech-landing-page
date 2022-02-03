@@ -1,31 +1,24 @@
 import React from "react"
-import { graphql, Link, useStaticQuery } from "gatsby"
+import { Link } from "gatsby"
 import Icon from "./Icon"
 import { StaticImage } from "gatsby-plugin-image"
+import { useFooterData } from "../api/useFooter"
 
 const Footer = () => {
-  // const data = useStaticQuery(graphql`
-  //   {
-  //     markdownRemark(frontmatter: { title: { eq: "contact" } }) {
-  //       frontmatter {
-  //         title
-  //         heroHeading
-  //         heroText
-  //         sec1Heading
-  //         contactList {
-  //           ContactItem
-  //           icon
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
-
-  // const { markdownRemark } = data
-  // const { frontmatter } = markdownRemark
-  // const { contactList } = frontmatter
-
-  // const location = contactList[0].ContactItem
+  const {
+    col1Title,
+    col1List,
+    col2Title,
+    col2List,
+    col3Title,
+    col3List,
+    col4Title,
+    col4List,
+    privacyPolicyTitle,
+    privacyPolicyUrl,
+    termsAndConditionsTitle,
+    termsAndConditionsUrl,
+  } = useFooterData()
 
   return (
     <footer className="footer">
@@ -40,56 +33,58 @@ const Footer = () => {
         </Link>
         <ul className="footer-top">
           <li className="footer-top-col">
-            <h4 className="h4">New to Landlord Tech</h4>
-            <h5 className="h5">
-              <Link to={"/landlords/"}>Why Landlord Tech</Link>
-            </h5>
+            <h4 className="h4">{col1Title}</h4>
+            {col1List.map(({ listItem, listItemUrl }, i) => {
+              return (
+                <h5 className="h5" key={i}>
+                  <Link to={listItemUrl}>{listItem}</Link>
+                </h5>
+              )
+            })}
           </li>
           <li className="footer-top-col">
-            <h4 className="h4">Products</h4>
-            <h5 className="h5">
-              <Link to={"/landlords/"}>Pet management platform</Link>
-            </h5>
+            <h4 className="h4">{col2Title}</h4>
+            {col2List.map(({ listItem, listItemUrl }, i) => {
+              return (
+                <h5 className="h5" key={i}>
+                  <Link to={listItemUrl}>{listItem}</Link>
+                </h5>
+              )
+            })}
           </li>
           <li className="footer-top-col">
-            <h4 className="h4">About Landlord tech</h4>
-            <h5 className="h5">
-              <Link to={"/landlords/"}>Our story</Link>
-            </h5>
+            <h4 className="h4">{col3Title}</h4>
+            {col3List.map(({ listItem, listItemUrl }, i) => {
+              return (
+                <h5 className="h5" key={i}>
+                  <Link to={listItemUrl}>{listItem}</Link>
+                </h5>
+              )
+            })}
           </li>
           <li className="footer-top-col">
             <h4 className="h4">
-              <Link to={"/contact-us/"}>Contact us</Link>
+              <Link to={"/contact-us/"}>{col4Title}</Link>
             </h4>
             <ul className="footer-contact">
-              {/* {contactList.slice(1, 3).map(({ ContactItem, icon }, index) => {
+              {col4List.map(({ listItem, icon }, index) => {
                 return (
                   <li key={index}>
-                    <Icon icon={icon} size={24} />
-                    {ContactItem.map((line, index) => (
-                      <p key={index}>{line}</p>
-                    ))}
+                    <Icon color="#FCC425" icon={icon} size={24} />
+                    <p>{listItem}</p>
                   </li>
                 )
-              })} */}
+              })}
             </ul>
-          </li>
-          <li className="footer-top-col">
-            <a
-              target="_blank"
-              rel="noopener"
-              href="https://www.facebook.com/OurPetPolicy/"
-              className="inline-block"
-            >
-              <Icon color="#fff" size={40} icon="fb" />
-            </a>
           </li>
         </ul>
         <div className="footer-bottom">
           <p>
-            <Link to="/privacy-policy">Privacy.</Link>
-            <Link to="/terms-and-conditions">Terms & Conditions.</Link> ©{" "}
-            {new Date().getFullYear()} Landlord Tech. All Rights Reserved.
+            <Link to={privacyPolicyUrl}>{privacyPolicyTitle}</Link>
+            <Link to={termsAndConditionsUrl}>
+              {termsAndConditionsTitle}
+            </Link> © {new Date().getFullYear()} Landlord Tech. All Rights
+            Reserved.
           </p>
         </div>
       </div>

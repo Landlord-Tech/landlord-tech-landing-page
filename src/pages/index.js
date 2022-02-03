@@ -60,7 +60,7 @@ const Landlords = () => {
   return (
     <Layout className="landing">
       <Seo title={metaTitle} description={metaDescription} />
-      <section className="hero withOverlay">
+      <section className="hero withOverlay sm">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading}
@@ -74,7 +74,7 @@ const Landlords = () => {
               <div className="hero-left">
                 <h1 className="h1">{heroHeading}</h1>
                 <p className="hero-text">{heroText}</p>
-                <div>
+                <div className="btn-group">
                   <a
                     href={heroBtnPrimaryUrl}
                     target="_blank"
@@ -104,7 +104,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section className="img-text-section section">
+      <section className="img-text-section about-section">
         <div className="container">
           <div className="img-text-content">
             <div className="img">
@@ -121,20 +121,22 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      {infoBlockList.map((item, i) => {
-        return (
-          <InfoBlocks
-            key={i}
-            heading={item.infoBlockHeading}
-            content={item.infoBlockContent}
-            imageUrl={item.infoBlockImg}
-            icon={item.icon}
-          />
-        )
-      })}
-      <section className="no-more-section section">
+      <div className="info-blocks-wrapper">
+        {infoBlockList.map((item, i) => {
+          return (
+            <InfoBlocks
+              key={i}
+              heading={item.infoBlockHeading}
+              content={item.infoBlockContent}
+              imageUrl={item.infoBlockImg}
+              icon={item.icon}
+            />
+          )
+        })}
+      </div>
+      <section className="section">
         <div className="container">
-          <div className="no-more-content">
+          <div className="info-box-wrapper">
             {infoBoxList.map((item, i) => {
               return (
                 <InfoBox
@@ -150,7 +152,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section className="section">
+      <section>
         <div className="container">
           <div className="title text-center">
             <h2 className="h2">{calculatorTitle}</h2>

@@ -2,8 +2,8 @@ import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
-import scrollTo from "gatsby-plugin-smoothscroll"
 import Seo from "../components/seo"
+import HTMLContent from "../components/HTMLContent"
 import { useProductsHero1Data } from "../api/useProductHero1"
 import { useProductsHero2Data } from "../api/useProductHero2"
 import { usePlatformSectionData } from "../api/usePlatformSection"
@@ -31,6 +31,7 @@ const Landlords = () => {
 
   const { heroHeading3, heroText3, heroImg3 } = useProductsHero3Data()
 
+  const { frontmatter, html } = usePlatformSectionData()
   const {
     sectionHeading,
     sectionSubhead,
@@ -40,7 +41,7 @@ const Landlords = () => {
     platformDescList,
     platformContent2,
     platformLinkedText,
-  } = usePlatformSectionData()
+  } = frontmatter
 
   const {
     landlordTechProgramImage,
@@ -52,7 +53,7 @@ const Landlords = () => {
   return (
     <Layout className="landing">
       <Seo title={metaTitle} description={metaDescription} />
-      <section className="hero">
+      <section className="hero sm">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading1}
@@ -75,18 +76,11 @@ const Landlords = () => {
                   {heroBtnSecondary1}
                 </a>
               </div>
-              <button
-                onClick={() => scrollTo("#scroll-here")}
-                className="animated-mouse"
-              >
-                <Icon color="#fff" size={60} icon="scroll" />
-                <p id="scroll-here">Scroll</p>
-              </button>
             </div>
           </div>
         </div>
       </section>
-      <section className="img-text-section section">
+      <section className="section">
         <div className="container">
           <div className="img-text-header">
             <h2 className="h2">{sectionHeading}</h2>
@@ -107,7 +101,9 @@ const Landlords = () => {
                 })}
               </ul>
               <p>{platformContent2}</p>
-              <p>{platformLinkedText}</p>
+              <p>
+                <HTMLContent content={html} className="dynamic-content" />
+              </p>
             </div>
             <div className="img">
               <GatsbyImage
@@ -145,7 +141,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section className="img-text-section section">
+      <section className="section">
         <div className="container">
           <div className="img-text-content">
             <div className="img">
@@ -181,7 +177,7 @@ const Landlords = () => {
         />
         <div className="banner-grid">
           <div className="container">
-            <div className="hero-content centered">
+            <div className="hero-content">
               <div className="hero-right">
                 <h2 className="h2">{heroHeading3}</h2>
                 <p className="hero-text">{heroText3}</p>

@@ -50,8 +50,8 @@
     }
   }
 
-  .get-started-btn {
-    margin-right: 40px;
+  .signup-btn {
+    margin-right: 24px;
   }
 }
 
@@ -120,4 +120,5 @@
 
 .nav-button-group {
   color: $color-text;
+  display: flex;
 }

@@ -36,6 +36,62 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `header`,
+        path: `${__dirname}/src/markdown/header`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `footer`,
+        path: `${__dirname}/src/markdown/footer`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `terms-and-conditions`,
+        path: `${__dirname}/src/markdown/terms-and-conditions`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `privacy-policy`,
+        path: `${__dirname}/src/markdown/privacy-policy`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `contact-us`,
+        path: `${__dirname}/src/markdown/contact-us`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `contact-form`,
+        path: `${__dirname}/src/markdown/contact-form`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blog`,
+        path: `${__dirname}/src/markdown/blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `blog-list`,
+        path: `${__dirname}/src/markdown/blog-list`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `homepage-hero-1`,
         path: `${__dirname}/src/markdown/homepage-hero-1`,
       },
@@ -150,6 +206,27 @@ module.exports = {
       options: {
         name: `our-products-section`,
         path: `${__dirname}/src/markdown/our-products-section`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pricing-hero`,
+        path: `${__dirname}/src/markdown/pricing-hero`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pricing-list`,
+        path: `${__dirname}/src/markdown/pricing-list`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `faq-list`,
+        path: `${__dirname}/src/markdown/faq-list`,
       },
     },
 

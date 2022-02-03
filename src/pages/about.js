@@ -38,7 +38,7 @@ export default () => {
 
   return (
     <Layout className="landing">
-      <section className="hero withOverlay">
+      <section className="hero withOverlay page-top-hero">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading}
@@ -55,7 +55,7 @@ export default () => {
           </div>
         </div>
       </section>
-      <section className="contact-info-section">
+      <section className="contact-info-section section">
         <div className="container">
           <div className="contact-info-wrapper">
             <div className="text-info-block">

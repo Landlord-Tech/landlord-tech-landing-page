@@ -1,17 +1,14 @@
 import React, { useState } from "react"
-import { graphql, Link, useStaticQuery } from "gatsby"
+import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 import useLockedBody from "../hooks/useLockedBody"
+import { useHeaderData } from "../api/useHeader"
 
-const Header = ({ pathname, sticky, prodHeader }) => {
+const Header = ({ sticky, prodHeader }) => {
   const [openedMenu, setOpenedMenu] = useState(false)
   const [openedDropdown, setOpenedDropdown] = useState(false)
   const [locked, setLocked] = useLockedBody()
-
-  // const dark = pathname === "/" || pathname.includes("/landlords") || pathname.includes("/tenants/")
-  // const landlords = pathname.includes("/landlords/")
-  // const tenants = pathname.includes("/tenants/")
 
   function handleMenuToggle() {
     setOpenedMenu(!openedMenu)
@@ -22,27 +19,14 @@ const Header = ({ pathname, sticky, prodHeader }) => {
     setOpenedDropdown(!openedDropdown)
   }
 
-  // const data = useStaticQuery(graphql`
-  //   {
-  //     markdownRemark(frontmatter: { title: { eq: "header" } }) {
-  //       frontmatter {
-  //         primaryBtn
-  //         primaryBtnUrl
-  //         secondaryBtn
-  //         secondaryBtnUrl
-  //       }
-  //     }
-  //   }
-  // `)
-
-  // const { markdownRemark } = data
-  // const { frontmatter } = markdownRemark
-  // const {
-  //   primaryBtn,
-  //   primaryBtnUrl,
-  //   secondaryBtn,
-  //   secondaryBtnUrl,
-  // } = frontmatter
+  const {
+    linkedLoginText,
+    linkedLoginTextUrl,
+    primaryBtn,
+    primaryBtnUrl,
+    secondaryBtn,
+    secondaryBtnUrl,
+  } = useHeaderData()
 
   return (
     <header
@@ -115,8 +99,11 @@ const Header = ({ pathname, sticky, prodHeader }) => {
                     </button>
                   </li>
                   <li>
-                    <Link activeClassName={"active-link"} to="/tenants/">
-                      For Landlords
+                    <Link
+                      activeClassName={"active-link"}
+                      to="/calculator-no-pets-allowed/"
+                    >
+                      ROI calculator
                     </Link>
                   </li>
                   <li>
@@ -134,22 +121,32 @@ const Header = ({ pathname, sticky, prodHeader }) => {
                       Contact
                     </Link>
                   </li>
+                  <li>
+                    <Link activeClassName={"active-link"} to="/resources/">
+                      Resources
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className={"active-link"} to={linkedLoginTextUrl}>
+                      {linkedLoginText}
+                    </Link>
+                  </li>
                   <li className="nav-button-group">
                     <a
-                      href="#"
+                      href={primaryBtnUrl}
                       target="_blank"
                       rel="noreferrer"
-                      className="btn btn-md primary get-started-btn"
+                      className="btn btn-md signup-btn secondary"
                     >
-                      Get started
+                      {primaryBtn}
                     </a>
                     <a
-                      href="#"
+                      href={secondaryBtnUrl}
                       target="_blank"
                       rel="noreferrer"
-                      className="btn btn-md  login-btn secondary"
+                      className="btn btn-md primary request-demo-btn"
                     >
-                      Login
+                      {secondaryBtn}
                     </a>
                   </li>
                 </ul>

@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import Icon from "./Icon"
 import Select from "./Select"
+import { useContactFormData } from "../api/useContactForm"
 
 const ContactForm = () => {
   const [formState, setFormState] = useState({
@@ -10,6 +11,13 @@ const ContactForm = () => {
     phone: "",
     message: "",
   })
+
+  const {
+    contactFormHeading,
+    contactFormBtn,
+    formSuccessMessageHeading,
+    formSuccessMessageSubhead,
+  } = useContactFormData()
 
   const [success, setSuccess] = useState(false)
 
@@ -26,20 +34,6 @@ const ContactForm = () => {
     })
   }
 
-  /*for rest call*/
-  /*  const handleSubmit = (event) => {
-      console.log({ formState })
-      fetch('https://ejb052f7f6.execute-api.us-west-2.amazonaws.com/Prod/email', {
-        method: 'POST',
-        body: JSON.stringify(formState)
-      }).then(response => {
-        console.log(response)
-        return response.json();
-      }).catch(error => console.log(error));
-
-      event.preventDefault();
-    }*/
-
   const handleSubmit = e => {
     fetch("/", {
       method: "POST",
@@ -53,9 +47,9 @@ const ContactForm = () => {
   }
 
   const options = [
-    { value: "chocolate", label: "Chocolate" },
-    { value: "strawberry", label: "Strawberry" },
-    { value: "vanilla", label: "Vanilla" },
+    { value: "demoRequest", label: "Demo request" },
+    { value: "generalInquiry", label: "General inquiry" },
+    { value: "other", label: "Other" },
   ]
 
   console.log(formState, "formState")
@@ -63,13 +57,12 @@ const ContactForm = () => {
   return (
     <div className="contact-form">
       <div className={`thanks-view ${success ? "thanks-show" : ""}`}>
-        <h2 className="h2">Thank you!</h2>
-        <p>We’ll get back to you as soon as possible!</p>
+        <h2 className="h2">{formSuccessMessageHeading}</h2>
+        <p>{formSuccessMessageSubhead}</p>
         <Icon icon="check-circle" size={150} />
       </div>
       <div className={`${success ? "form-hide" : ""}`}>
-        <h2 className="h2">Contact us</h2>
-        <p>Use this form to contact us and we’ll get back to you ASAP!</p>
+        <h2 className="h2">{contactFormHeading}</h2>
         <form
           onSubmit={handleSubmit}
           name="contact-us"
@@ -131,7 +124,7 @@ const ContactForm = () => {
           </div>
 
           <button className="btn btn-md primary min-130" type="submit">
-            Submit
+            {contactFormBtn}
           </button>
         </form>
       </div>

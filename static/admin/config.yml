@@ -11,9 +11,96 @@ media_folder: static/assets
 public_folder: /assets
 
 collections:
+  # header
+  - name: header
+    label: Header
+    folder: src/markdown/header
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: linkedLoginText, label: Linked Login Text }
+      - { name: linkedLoginTextUrl, label: Linked Login Text Url }
+      - { name: primaryBtn, label: Button primary }
+      - { name: primaryBtnUrl, label: Button primary Url }
+      - { name: secondaryBtn, label: Secondary primary }
+      - { name: secondaryBtnUrl, label: Secondary primary Url }
+  # footer
+  - name: footer
+    label: Footer
+    folder: src/markdown/footer
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: col1Title, label: Column 1 Title }
+      - name: col1List
+        label: Column 1 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - { label: List Item Url, name: listItemUrl }
+      - { name: col2Title, label: Column 2 Title }
+      - name: col2List
+        label: Column 2 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - { label: List Item Url, name: listItemUrl }
+      - { name: col3Title, label: Column 3 Title }
+      - name: col3List
+        label: Column 3 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - { label: List Item Url, name: listItemUrl }
+      - { name: col4Title, label: Column 4 Title }
+      - name: col4List
+        label: Column 4 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - {
+              label: List item icon,
+              name: icon,
+              widget: select,
+              options: [phone, envelope],
+            }
+      - { name: privacyPolicyTitle, label: Privacy Policy Title }
+      - { name: privacyPolicyUrl, label: Privacy Policy Url }
+      - { name: termsAndConditionsTitle, label: Terms and Conditions Title }
+      - { name: termsAndConditionsUrl, label: Terms and Conditions Url }
+  # terms and conditions
+  - name: terms-and-conditions
+    label: Terms and Conditions
+    folder: src/markdown/terms-and-conditions
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero title }
+      - { name: body, label: Content, widget: markdown }
+  # privacy policy
+  - name: privacy-policy
+    label: Privacy Policy
+    folder: src/markdown/privacy-policy
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero title }
+      - { name: body, label: Content, widget: markdown }
   # homepage
   - name: homepage-hero-1
-    label: homepage-hero-1
+    label: Homepage Hero 1
     folder: src/markdown/homepage-hero-1
     preview_path: /
     create: true
@@ -32,7 +119,7 @@ collections:
       - { name: heroImg, label: Hero image, widget: image }
       - { name: calculatorTitle, label: Calculator Title }
   - name: homepage-about-section
-    label: homepage-about-section
+    label: Homepage About Section
     folder: src/markdown/homepage-about-section
     preview_path: /
     create: true
@@ -45,7 +132,7 @@ collections:
       - { name: imageTextContent, label: Image Text Content }
       - { name: imageTextImg, label: Image Text image, widget: image }
   - name: info-box
-    label: info-box
+    label: Info Box
     folder: src/markdown/info-box
     preview_path: /
     create: true
@@ -68,7 +155,7 @@ collections:
               options: [hand, pet-pow, file],
             }
   - name: info-block
-    label: info-block
+    label: Info Block
     folder: src/markdown/info-block
     preview_path: /
     create: true
@@ -90,7 +177,7 @@ collections:
               options: [file-settings, hand-home, pet-pow-check],
             }
   - name: testimonial
-    label: testimonial
+    label: Testimonial
     folder: src/markdown/testimonial
     preview_path: /
     create: true
@@ -108,7 +195,7 @@ collections:
           - { label: Reviewer Title, name: reviewerTitle }
           - { label: Review, name: review }
   - name: homepage-hero-2
-    label: homepage-hero-2
+    label: Homepage Hero 2
     folder: src/markdown/homepage-hero-2
     preview_path: /
     create: true
@@ -125,7 +212,7 @@ collections:
       - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
       - { name: heroImg2, label: Hero image, widget: image }
   - name: info-section
-    label: info-section
+    label: Info Section
     folder: src/markdown/info-section
     preview_path: /
     create: true
@@ -142,7 +229,7 @@ collections:
         }
     # calculator
   - name: with-pet-calculator
-    label: with-pet-calculator
+    label: With Pet Calculator
     folder: src/markdown/with-pet-calculator
     preview_path: /
     create: true
@@ -192,7 +279,7 @@ collections:
       - { name: sec6Heading, label: Summery heading }
       - { name: sec6Desc, label: Summery description, widget: markdown }
   - name: with-no-pet-calculator
-    label: with-no-pet-calculator
+    label: With No Pet Calculator
     folder: src/markdown/with-no-pet-calculator
     preview_path: /
     create: true
@@ -249,7 +336,7 @@ collections:
       - { name: sec6Desc, label: Summery description }
   # products
   - name: products-hero-1
-    label: products-hero-1
+    label: Products Hero 1
     folder: src/markdown/products-hero-1
     preview_path: /
     create: true
@@ -265,7 +352,7 @@ collections:
       - { name: heroBtnSecondaryUrl1, label: Hero button secondary url }
       - { name: heroImg1, label: Hero image, widget: image }
   - name: multi-tenant-platform-section
-    label: multi-tenant-platform-section
+    label: Multi Tenant Platform Section
     folder: src/markdown/multi-tenant-platform-section
     preview_path: /
     create: true
@@ -291,7 +378,7 @@ collections:
           widget: markdown,
         }
   - name: products-hero-2
-    label: products-hero-2
+    label: Products Hero 2
     folder: src/markdown/products-hero-2
     preview_path: /
     create: true
@@ -305,7 +392,7 @@ collections:
       - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
       - { name: heroImg2, label: Hero image, widget: image }
   - name: landlord-tech-program-section
-    label: landlord-tech-program-section
+    label: Landlord Tech Program Section
     folder: src/markdown/landlord-tech-program-section
     preview_path: /
     create: true
@@ -332,7 +419,7 @@ collections:
         fields:
           - { label: Landlord Tech Program Item, name: landlordTechProgramItem }
   - name: products-hero-3
-    label: products-hero-3
+    label: Products Hero 3
     folder: src/markdown/products-hero-3
     preview_path: /
     create: true
@@ -345,7 +432,7 @@ collections:
       - { name: heroImg3, label: Hero image, widget: image }
   # about
   - name: about-hero
-    label: about-hero
+    label: About Hero
     folder: src/markdown/about-hero
     preview_path: /
     create: true
@@ -356,7 +443,7 @@ collections:
       - { name: heroHeading, label: Hero Heading }
       - { name: heroImg, label: Hero image, widget: image }
   - name: about-us-section
-    label: about-us-section
+    label: About Us Section
     folder: src/markdown/about-us-section
     preview_path: /
     create: true
@@ -380,7 +467,7 @@ collections:
               options: [phone, location, envelope],
             }
   - name: our-products-section
-    label: our-products-section
+    label: Our Products Section
     folder: src/markdown/our-products-section
     preview_path: /
     create: true
@@ -391,3 +478,162 @@ collections:
       - { name: ourProductsSectionHeading, label: Our Products Heading }
       - { name: ourProductsSectionSubhead, label: Our Products Subhead }
       - { name: ourProductsSectionContent, label: Our Products Content }
+  # pricing
+  - name: pricing-hero
+    label: Pricing Hero
+    folder: src/markdown/pricing-hero
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading, label: Hero Heading }
+      - { name: heroSubhead, label: Hero Subhead }
+  - name: pricing-list
+    label: Pricing List
+    folder: src/markdown/pricing-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - name: pricingList
+        label: Pricing List
+        widget: list
+        fields:
+          - {
+              label: Pricing plan,
+              name: pricingPlan,
+              widget: select,
+              options: ["Starter", "Standard", "Business", "Premium"],
+            }
+          - {
+              label: Pricing contacts number,
+              name: contractNumber,
+              widget: select,
+              options: [1-50, 51-250, 251-1000, ">1000"],
+            }
+          - {
+              label: Plan Price,
+              name: planPrice,
+              widget: select,
+              options: ["5", "4", "3"],
+              required: false,
+            }
+          - { name: pricingBtn, label: Pricing button }
+          - { name: pricingBtnUrl, label: Pricing button url }
+  - name: faq-list
+    label: FAQ List
+    folder: src/markdown/faq-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: faqHeading, label: FAQ Heading }
+      - name: faqList
+        label: Pricing List
+        widget: list
+        fields:
+          - { name: faqQuestion, label: FAQ question }
+          - { name: faqAnswer, label: FAQ answer }
+  # Contact us
+  - name: contact-us
+    label: Contact Us
+    folder: src/markdown/contact-us
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: aboutUsHeading, label: About Us Hero Heading }
+      - { name: aboutUsSubhead, label: About Us Hero Subhead }
+      - { name: contactUsHeading, label: Contact Us Heading }
+      - name: contactInfoList
+        label: Contact Info List
+        widget: list
+        fields:
+          - { label: Contact Info Text, name: contactInfoText }
+          - {
+              label: Contact Info icon,
+              name: icon,
+              widget: select,
+              options: [phone, location, envelope],
+            }
+  - name: contact-form
+    label: Contact Form
+    folder: src/markdown/contact-form
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: contactFormHeading, label: Contact Form Heading }
+      - { name: contactFormBtn, label: Contact Form Button name }
+      - { name: formSuccessMessageHeading, label: Form Success Message Heading }
+      - { name: formSuccessMessageSubhead, label: Form Success Message Subhead }
+  # resources
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: datetime }
+      - { name: category, label: Category }
+      - { name: excerpt, label: Excerpt, widget: text, pattern: [
+              "^.{150,500}$",
+              "The Excerpt should contain from 150
+              to 500 characters.",
+            ] }
+      - { name: heroHeading, label: Hero heading }
+      - { name: heroImg, label: Hero image, widget: image }
+      - { name: body, label: Body, widget: markdown }
+      - {
+          name: social,
+          label: Social section,
+          widget: boolean,
+          required: false,
+        }
+      - label: Promo section
+        name: promoSection
+        widget: object
+        fields:
+          - { name: promoTitle, label: Promo section title, required: false }
+          - {
+              name: promoText,
+              label: Promo section text,
+              widget: text,
+              required: false,
+            }
+          - { name: promoBtn, label: Promo section button, required: false }
+          - {
+              name: promoBtnUrl,
+              label: Promo section button url,
+              required: false,
+            }
+          - {
+              name: promo,
+              label: Promo section,
+              widget: boolean,
+              required: false,
+            }
+  - name: blog-list
+    label: Blog List
+    folder: src/markdown/blog-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: heroHeading, label: Hero heading }
+      - { name: heroText, label: Hero text }
