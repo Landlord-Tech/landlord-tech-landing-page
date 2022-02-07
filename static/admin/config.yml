@@ -5,7 +5,6 @@ backend:
   branch: dev
 
 #publish_mode: editorial_workflow
-# site_url: https://calculator.ourpetpolicy.com/
 
 media_folder: static/assets
 public_folder: /assets
@@ -372,11 +371,6 @@ collections:
         fields:
           - { label: Platform Description Item, name: platformDescItem }
       - { name: platformContent2, label: Platform Content 2 }
-      - {
-          name: platformLinkedText,
-          label: Platform Linked Text,
-          widget: markdown,
-        }
   - name: products-hero-2
     label: Products Hero 2
     folder: src/markdown/products-hero-2
@@ -582,10 +576,12 @@ collections:
   # resources
   - name: blog
     label: Blog
-    folder: blog
+    folder: src/markdown/blog
+    preview_path: /
     create: true
+    editor:
+      preview: false
     fields:
-      - { name: title, label: Title }
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: category, label: Category }
@@ -634,6 +630,39 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: heroHeading, label: Hero heading }
       - { name: heroText, label: Hero text }
+  # request a demo
+  - name: request-demo
+    label: Request a demo
+    folder: src/markdown/request-demo
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: requestDemoHeading, label: Request Demo Heading }
+      - name: requestDemoInfoList
+        label: Request Demo Info List
+        widget: list
+        fields:
+          - { label: Request Demo Info Text, name: requestDemoInfoText }
+  # 404
+  - name: not-found
+    label: Not Found
+    folder: src/markdown/not-found
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: heroHeading, label: Hero heading }
+      - { name: heroText, label: Hero text, widget: text }
+      - { name: primaryBtn, label: Primary Button }
+      - { name: secondaryBtn, label: Secondary Button }
+      - { name: heroImg, label: Hero image, widget: image }

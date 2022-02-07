@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
-import BlogPostList from "../components/blog/BlogPostList"
 import { useBlogListData } from "../api/useBlogList"
+import BlogPostList from "../components/blog/BlogPostList"
 
 const BlogList = () => {
   const { heroHeading, heroText } = useBlogListData()
@@ -17,7 +17,7 @@ const BlogList = () => {
           </div>
         </div>
       </section>
-      {/* <BlogPostList /> */}
+      <BlogPostList />
     </Layout>
   )
 }

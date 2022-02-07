@@ -141,8 +141,7 @@ const Header = ({ sticky, prodHeader }) => {
                       {primaryBtn}
                     </a>
                     <a
-                      href={secondaryBtnUrl}
-                      target="_blank"
+                      href="/request-demo/"
                       rel="noreferrer"
                       className="btn btn-md primary request-demo-btn"
                     >
