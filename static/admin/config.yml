@@ -5,7 +5,6 @@ backend:
   branch: dev
 
 #publish_mode: editorial_workflow
-# site_url: https://calculator.ourpetpolicy.com/
 
 media_folder: static/assets
 public_folder: /assets

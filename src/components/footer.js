@@ -26,7 +26,7 @@ const Footer = () => {
         <Link className="logo" to={"/"}>
           <StaticImage
             src="../images/logo-white.svg"
-            alt="OurPetPolicy"
+            alt="Landlord tech"
             formats={["AUTO", "WEBP", "AVIF"]}
             placeholder="transparent"
           />
