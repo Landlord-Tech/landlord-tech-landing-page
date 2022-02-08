@@ -18,7 +18,7 @@ const Template = ({ data, location }) => {
     social,
     promoSection,
   } = frontmatter
-  const baseURL = "https://www.ourpetpolicy.com/"
+  const baseURL = "https://landlordtech.com/"
   const fbShare =
     "https://www.facebook.com/sharer/sharer.php?u=" + baseURL + path
   const twitterShare =

@@ -42,12 +42,12 @@ const Header = ({ sticky, prodHeader }) => {
 
           {/*for later use*/}
           <Link
-            to={`${prodHeader ? "https://www.ourpetpolicy.com/" : "/"}`}
+            to={`${prodHeader ? "https://landlordtech.com/" : "/"}`}
             className="logo"
           >
             <StaticImage
               src="../images/logo-white.svg"
-              alt="OurPetPolicy"
+              alt="LandlordTech"
               formats={["AUTO", "WEBP", "AVIF"]}
               placeholder="transparent"
             />
@@ -79,7 +79,7 @@ const Header = ({ sticky, prodHeader }) => {
                       <li>
                         <Link
                           activeClassName={"active-link"}
-                          to="https://www.ourpetpolicy.com"
+                          to="https://landlordtech.com"
                           target="_blank"
                         >
                           Our Pet Policy

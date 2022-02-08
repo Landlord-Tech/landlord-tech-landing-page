@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Pet Policies Done Right | OurPetPolicy`,
+    title: `Pet Policies Done Right | LandlordTech`,
     description: `Increase revenue, transparency, and tenant satisfaction with the most advanced pet policy platform on the market.`,
     author: `UltraLabs`,
-    siteUrl: `https://www.ourpetpolicy.com`,
+    siteUrl: `https://landlordtech.com`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -14,8 +14,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://www.ourpetpolicy.com",
-        sitemap: "https://www.ourpetpolicy.com/sitemap.xml",
+        host: "https://landlordtech.com",
+        sitemap: "https://landlordtech.com/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
