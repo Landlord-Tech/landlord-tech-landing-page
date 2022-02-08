@@ -14,7 +14,8 @@ const NoAllowedTable = ({ data }) => {
               <strong>WITHOUT</strong> OurPetPolicy
             </th>
             <th>
-              <strong>WITH</strong> OurPetPolicy
+              <strong>WITH</strong> 
+              Policy
             </th>
             <th>
               <strong>Difference</strong>
