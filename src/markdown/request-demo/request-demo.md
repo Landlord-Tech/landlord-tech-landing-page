@@ -3,6 +3,8 @@ title: request-demo
 RequestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
 metaTitle: request a demo meta title
 metaDescription: request a demo meta desc
+calendarEventLink: ultralabs_demo
+demoDuration: "30"
 requestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
 requestDemoInfoList:
   - requestDemoInfoText: Use OurPetPolicy to solve your pet related frustrations
