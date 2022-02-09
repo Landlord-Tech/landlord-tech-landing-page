@@ -36,11 +36,6 @@ const Header = ({ sticky, prodHeader }) => {
     >
       <div className="container fluid">
         <div className="header-content">
-          {/*<a href={'https://www.ourpetpolicy.com/'} className='logo'>
-          <img src={Logo} alt="OurPetPolicy" />
-        </a>*/}
-
-          {/*for later use*/}
           <Link
             to={`${prodHeader ? "https://landlordtech.com/" : "/"}`}
             className="logo"
