@@ -2,8 +2,8 @@
 title: header
 linkedLoginText: Login
 linkedLoginTextUrl: "#"
-primaryBtnUrl: "#"
 primaryBtn: Sign up
+primaryBtnUrl: "#"
 secondaryBtn: Request a demo
-secondaryBtnUrl: "#"
+secondaryBtnUrl: /request-demo/
 ---
