@@ -16,7 +16,7 @@ promoSection:
     No more hassle and potential legal disputes. 
     Professional pet policy contracts in minutes.
   promoBtn: Learn More
-  promoBtnUrl: https://ourpetpolicy.com/landlords/
+  promoBtnUrl: /products/
 ---
 
 Marketing to and bringing in new tenants is a critical piece in the overall success of your rental property. Keeping existing tenants happy is also a major lifeline in your portfolio. What can you do as a landlord to make your rental property desirable for new tenants? Then, how do you keep them and existing tenants long-term and reduce your turnover rate?

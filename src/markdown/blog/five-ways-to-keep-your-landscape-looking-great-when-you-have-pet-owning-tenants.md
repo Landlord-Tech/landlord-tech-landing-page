@@ -11,7 +11,7 @@ heroImg: /assets/five-ways-to-keep-your-landscape-looking-great-when-you-have-pe
 social: true
 promoSection:
   promo: true
-  promoBtnUrl: https://ourpetpolicy.com/landlords/
+  promoBtnUrl: /products/
   promoBtn: Learn More
   promoText: |-
     No more hassle and potential legal disputes.
