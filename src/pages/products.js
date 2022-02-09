@@ -1,6 +1,6 @@
 import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { Link } from "gatsby"
+import Link from "gatsby-link"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
 import Seo from "../components/seo"

@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { Link } from "gatsby"
+import Link from "gatsby-link"
 import { StaticImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 import useLockedBody from "../hooks/useLockedBody"
