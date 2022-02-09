@@ -51,7 +51,7 @@ const Landlords = () => {
   return (
     <Layout className="landing">
       <Seo title={metaTitle} description={metaDescription} />
-      <section className="hero sm">
+      <section className="hero">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading1}
