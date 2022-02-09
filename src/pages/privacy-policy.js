@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import HTMLContent from "../components/HTMLContent"
-import { usePrivacyPolicyData } from "../api/usePrivacyPolicy"
+import { usePrivacyPolicyData } from "../fetchHooks/usePrivacyPolicy"
 
 const PrivacyPolicy = () => {
   const { frontmatter, html } = usePrivacyPolicyData()

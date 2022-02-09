@@ -1,9 +1,9 @@
 import React, { useState } from "react"
-import { Link } from "gatsby"
+import Link from "gatsby-link"
 import { StaticImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 import useLockedBody from "../hooks/useLockedBody"
-import { useHeaderData } from "../api/useHeader"
+import { useHeaderData } from "../fetchHooks/useHeader"
 
 const Header = ({ sticky, prodHeader }) => {
   const [openedMenu, setOpenedMenu] = useState(false)
@@ -141,7 +141,7 @@ const Header = ({ sticky, prodHeader }) => {
                       {primaryBtn}
                     </a>
                     <a
-                      href="/request-demo/"
+                      href={secondaryBtnUrl}
                       rel="noreferrer"
                       className="btn btn-md primary request-demo-btn"
                     >

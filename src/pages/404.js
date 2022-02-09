@@ -1,7 +1,7 @@
 import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { Link } from "gatsby"
-import { useNotFoundData } from "../api/useNotFound"
+import Link from "gatsby-link"
+import { useNotFoundData } from "../fetchHooks/useNotFound"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 

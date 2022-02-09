@@ -2,7 +2,7 @@ import * as React from "react"
 import { navigate } from "gatsby"
 import BlogCard from "./BlogCard"
 import { useLocation } from "@reach/router"
-import { useSingleBlogData } from "../../api/useSingleBlog"
+import { useSingleBlogData } from "../../fetchHooks/useSingleBlog"
 
 const BlogPostList = () => {
   const location = useLocation()

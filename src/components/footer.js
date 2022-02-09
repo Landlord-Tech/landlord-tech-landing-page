@@ -1,8 +1,8 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "gatsby-link"
 import Icon from "./Icon"
 import { StaticImage } from "gatsby-plugin-image"
-import { useFooterData } from "../api/useFooter"
+import { useFooterData } from "../fetchHooks/useFooter"
 
 const Footer = () => {
   const {

@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import ContactForm from "../components/contactForm"
 import Icon from "../components/Icon"
-import { useContactUsData } from "../api/useContactUs"
+import { useContactUsData } from "../fetchHooks/useContactUs"
 
 const ContactUs = () => {
   const { aboutUsHeading, aboutUsSubhead, contactUsHeading, contactInfoList } =

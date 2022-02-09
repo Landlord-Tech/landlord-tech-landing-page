@@ -9,7 +9,7 @@ import { calculateROIWithPets } from "../calculator"
 import AllowedTable from "../components/calculator/AllowedTable"
 import RotatedView from "../components/rotatedView"
 import Seo from "../components/seo"
-import { useWithPetCalculatorData } from "../api/useWithPetCalculator"
+import { useWithPetCalculatorData } from "../fetchHooks/useWithPetCalculator"
 
 const initialState = {
   unitCount: 1000,

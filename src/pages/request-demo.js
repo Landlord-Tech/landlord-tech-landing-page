@@ -2,12 +2,14 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Icon from "../components/Icon"
-import { useRequestDemoData } from "../api/useRequestDemo"
+import { useRequestDemoData } from "../fetchHooks/useRequestDemo"
 
 const RequestDemo = () => {
   const {
     metaTitle,
     metaDescription,
+    calendarEventLink,
+    demoDuration,
     requestDemoHeading,
     requestDemoInfoList,
   } = useRequestDemoData()
@@ -34,7 +36,7 @@ const RequestDemo = () => {
             <div className="calendly">
               <iframe
                 title="Request a demo"
-                src="https://calendly.com/ultralabs_demo/30min?hide_event_type_details=1&background_color=fbfcfd&text_color=0D0D0D&primary_color=fcc425"
+                src={`https://calendly.com/${calendarEventLink}/${demoDuration}min?hide_event_type_details=1&background_color=fbfcfd&text_color=0D0D0D&primary_color=fcc425`}
                 width="100%"
               />
             </div>

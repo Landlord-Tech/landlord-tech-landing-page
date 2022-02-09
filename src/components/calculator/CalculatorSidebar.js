@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import Link from "gatsby-link"
 import { noPatsList, patsList } from "./config"
 import { useLocation } from "@reach/router"
 import { hashToId } from "../utils"

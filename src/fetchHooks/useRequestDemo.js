@@ -7,6 +7,8 @@ export const useRequestDemoData = () => {
         frontmatter {
           metaTitle
           metaDescription
+          calendarEventLink
+          demoDuration
           requestDemoHeading
           requestDemoInfoList {
             requestDemoInfoText

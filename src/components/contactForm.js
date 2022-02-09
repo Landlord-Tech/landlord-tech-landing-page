@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import Icon from "./Icon"
 import Select from "./Select"
-import { useContactFormData } from "../api/useContactForm"
+import { useContactFormData } from "../fetchHooks/useContactForm"
 
 const ContactForm = () => {
   const [formState, setFormState] = useState({

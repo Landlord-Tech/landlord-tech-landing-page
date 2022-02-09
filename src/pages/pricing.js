@@ -2,9 +2,9 @@ import React from "react"
 import Layout from "../components/layout"
 import Faq from "../components/faq"
 import Seo from "../components/seo"
-import { usePricingHeroData } from "../api/usePricingHero"
-import { usePricingListData } from "../api/usePricingList"
-import { useFAQListData } from "../api/useFaqList"
+import { usePricingHeroData } from "../fetchHooks/usePricingHero"
+import { usePricingListData } from "../fetchHooks/usePricingList"
+import { useFAQListData } from "../fetchHooks/useFaqList"
 
 const Pricing = () => {
   const { metaTitle, metaDescription, heroHeading, heroSubhead } =
