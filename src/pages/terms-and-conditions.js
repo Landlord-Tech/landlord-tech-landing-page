@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import HTMLContent from "../components/HTMLContent"
-import { useTermsData } from "../api/useTermsAndConditions"
+import { useTermsData } from "../fetchHooks/useTermsAndConditions"
 
 const Terms = () => {
   const { frontmatter, html } = useTermsData()

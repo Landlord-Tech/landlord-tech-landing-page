@@ -9,7 +9,7 @@ import NoAllowedTable from "../components/calculator/NoAllowedTable"
 import { calculateROIWithNoPets } from "../calculator"
 import RotatedView from "../components/rotatedView"
 import Seo from "../components/seo"
-import { useWithNoPetCalculatorData } from "../api/useWithNoPetsCalculator"
+import { useWithNoPetCalculatorData } from "../fetchHooks/useWithNoPetsCalculator"
 
 const initialState = {
   unitCount: 350,

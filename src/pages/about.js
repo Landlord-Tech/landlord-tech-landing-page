@@ -4,11 +4,11 @@ import Layout from "../components/layout"
 import Icon from "../components/Icon"
 import InfoBox from "../components/InfoBox"
 import InfoSection from "../components/InfoSection"
-import { useAboutHeroData } from "../api/useAboutHero"
-import { useAboutUsData } from "../api/useAboutUsSection"
-import { useOurProductsData } from "../api/useOurProductsSection"
-import { useInfoBoxData } from "../api/useInfoBox"
-import { useInfoSectionData } from "../api/useInfoSection"
+import { useAboutHeroData } from "../fetchHooks/useAboutHero"
+import { useAboutUsData } from "../fetchHooks/useAboutUsSection"
+import { useOurProductsData } from "../fetchHooks/useOurProductsSection"
+import { useInfoBoxData } from "../fetchHooks/useInfoBox"
+import { useInfoSectionData } from "../fetchHooks/useInfoSection"
 
 export default () => {
   const { heroHeading, heroImg } = useAboutHeroData()

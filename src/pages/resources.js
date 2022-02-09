@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import { useBlogListData } from "../api/useBlogList"
+import { useBlogListData } from "../fetchHooks/useBlogList"
 import BlogPostList from "../components/blog/BlogPostList"
 
 const BlogList = () => {

@@ -645,6 +645,8 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: calendarEventLink, label: Calendar Event Link }
+      - { name: demoDuration, label: Demo Duration in minutes }
       - { name: requestDemoHeading, label: Request Demo Heading }
       - name: requestDemoInfoList
         label: Request Demo Info List
