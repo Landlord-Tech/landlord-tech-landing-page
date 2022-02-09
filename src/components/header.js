@@ -74,7 +74,7 @@ const Header = ({ sticky, prodHeader }) => {
                       <li>
                         <Link
                           activeClassName={"active-link"}
-                          to="https://landlordtech.com"
+                          to="https://www.ourpetpolicy.com"
                           target="_blank"
                         >
                           Our Pet Policy
