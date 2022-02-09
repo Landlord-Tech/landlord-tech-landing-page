@@ -4,11 +4,11 @@ import Link from "gatsby-link"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
 import Seo from "../components/seo"
-import { useProductsHero1Data } from "../api/useProductHero1"
-import { useProductsHero2Data } from "../api/useProductHero2"
-import { usePlatformSectionData } from "../api/usePlatformSection"
-import { useLandlordTechProgramSectionData } from "../api/useLandlordTechProgram"
-import { useProductsHero3Data } from "../api/useProductHero3"
+import { useProductsHero1Data } from "../fetchHooks/useProductHero1"
+import { useProductsHero2Data } from "../fetchHooks/useProductHero2"
+import { usePlatformSectionData } from "../fetchHooks/usePlatformSection"
+import { useLandlordTechProgramSectionData } from "../fetchHooks/useLandlordTechProgram"
+import { useProductsHero3Data } from "../fetchHooks/useProductHero3"
 
 const Landlords = () => {
   const {

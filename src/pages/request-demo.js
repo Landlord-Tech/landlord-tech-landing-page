@@ -2,7 +2,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Icon from "../components/Icon"
-import { useRequestDemoData } from "../api/useRequestDemo"
+import { useRequestDemoData } from "../fetchHooks/useRequestDemo"
 
 const RequestDemo = () => {
   const {

@@ -3,7 +3,7 @@ import Link from "gatsby-link"
 import { StaticImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 import useLockedBody from "../hooks/useLockedBody"
-import { useHeaderData } from "../api/useHeader"
+import { useHeaderData } from "../fetchHooks/useHeader"
 
 const Header = ({ sticky, prodHeader }) => {
   const [openedMenu, setOpenedMenu] = useState(false)
