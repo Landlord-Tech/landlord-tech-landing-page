@@ -52,8 +52,6 @@ const ContactForm = () => {
     { value: "other", label: "Other" },
   ]
 
-  console.log(formState, "formState")
-
   return (
     <div className="contact-form">
       <div className={`thanks-view ${success ? "thanks-show" : ""}`}>
