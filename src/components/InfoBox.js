@@ -7,12 +7,7 @@ export default ({ title, content, buttonName, buttonUrl, icon }) => {
       <Icon icon={icon} size={82} />
       <h4 className="h4">{title}</h4>
       <p>{content}</p>
-      <a
-        href={buttonUrl}
-        target="_blank"
-        rel="noreferrer"
-        className="btn btn-lg primary"
-      >
+      <a href={buttonUrl} rel="noreferrer" className="btn btn-lg primary">
         {buttonName}
       </a>
     </div>

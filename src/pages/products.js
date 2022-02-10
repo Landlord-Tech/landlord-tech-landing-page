@@ -128,7 +128,6 @@ const Landlords = () => {
                 <h5 className="h5">{heroText2}</h5>
                 <a
                   href={heroBtnPrimaryUrl2}
-                  target="_blank"
                   rel="noreferrer"
                   className="btn btn-lg primary"
                 >
