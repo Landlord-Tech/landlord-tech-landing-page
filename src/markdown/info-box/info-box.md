@@ -5,9 +5,9 @@ infoBoxList:
     infoBoxContent: Landlord Tech specializes in providing digital tools to help
       property owners and managers successfully manage pets in their properties.
     infoBoxButton: Learn more
-    infoBoxButtonURL: "#"
+    infoBoxButtonURL: /products
     icon: hand
-  - infoBoxButtonURL: "#"
+  - infoBoxButtonURL: /products
     icon: file
     infoBoxButton: Learn more
     infoBoxHeading: ESA Verification
@@ -15,7 +15,7 @@ infoBoxList:
       program that is able to recognize fraudlent ESA letters in compliance with
       state and federal law. "
   - infoBoxButton: Learn more
-    infoBoxButtonURL: "#"
+    infoBoxButtonURL: /products
     icon: pet-pow
     infoBoxHeading: Pet Management Training
     infoBoxContent: We offer initial training for all property managers and give
