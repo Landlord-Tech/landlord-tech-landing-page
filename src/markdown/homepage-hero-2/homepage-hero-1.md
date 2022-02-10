@@ -1,6 +1,6 @@
 ---
 heroBtnPrimary: Learn more
-heroBtnPrimaryUrl2: "#"
+heroBtnPrimaryUrl2: /products
 heroText: Find out what Property Managers want in ESA Letter management, and how
   to stay in compliance.
 heroSecondaryText: Link to the blog post for this ebook
