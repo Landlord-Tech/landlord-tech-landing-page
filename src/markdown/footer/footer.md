@@ -7,11 +7,11 @@ col1List:
 col2Title: Products
 col2List:
   - listItem: Pet management platform
-    listItemUrl: "#"
+    listItemUrl: /products
 col3Title: About Landlord tech
 col3List:
   - listItem: Our story
-    listItemUrl: "#"
+    listItemUrl: /about/
 col4Title: Contact us
 col4List:
   - listItem: (208) 906 - 8886
