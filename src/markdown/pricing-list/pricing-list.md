@@ -20,5 +20,5 @@ pricingList:
     planPrice: null
     pricingBtn: Contact us
     pricingPlan: Premium
-    pricingBtnUrl: "#"
+    pricingBtnUrl: /contact
 ---
