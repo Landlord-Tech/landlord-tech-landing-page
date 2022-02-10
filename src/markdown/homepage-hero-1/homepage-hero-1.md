@@ -6,9 +6,9 @@ heroHeading: Mischief Managed
 heroText: Transform the way you manage your pet program in your residential
   rental portfolio with OurPetPolicy.
 heroBtnPrimary: Learn more
-heroBtnPrimaryUrl: "#"
+heroBtnPrimaryUrl: /products
 heroBtnSecondary: Get a Demo
-heroBtnSecondaryUrl: "#"
+heroBtnSecondaryUrl: /request-demo/
 heroImg: /assets/evelyn-paris.png
 calculatorTitle: Calculate the Savings
 ---
