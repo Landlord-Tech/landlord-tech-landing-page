@@ -6,12 +6,7 @@ export default ({ title, content, buttonName, buttonUrl }) => {
       <div className="content-wrapper">
         <h2 className="h2">{title}</h2>
         <h5 className="h5">{content}</h5>
-        <a
-          href={buttonUrl}
-          target="_blank"
-          rel="noreferrer"
-          className="btn btn-lg secondary"
-        >
+        <a href={buttonUrl} rel="noreferrer" className="btn btn-lg secondary">
           {buttonName}
         </a>
       </div>

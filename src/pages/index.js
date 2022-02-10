@@ -77,7 +77,6 @@ const Landlords = () => {
                 <div className="btn-group">
                   <a
                     href={heroBtnPrimaryUrl}
-                    target="_blank"
                     rel="noreferrer"
                     className="btn btn-lg primary"
                   >
@@ -85,7 +84,6 @@ const Landlords = () => {
                   </a>
                   <a
                     href={heroBtnSecondaryUrl}
-                    target="_blank"
                     rel="noreferrer"
                     className="btn btn-lg secondary"
                   >
@@ -194,7 +192,6 @@ const Landlords = () => {
           <h4 className="h4">{heroSecondaryHeading2}</h4>
           <a
             href={heroBtnPrimaryUrl2}
-            target="_blank"
             rel="noreferrer"
             className="btn btn-lg primary"
           >
