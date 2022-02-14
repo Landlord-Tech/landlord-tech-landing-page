@@ -1,0 +1,59 @@
+/*fonts*/
+$font-primary: "Cabin";
+$font-secondary: "Aesthet Nova";
+
+/*colors*/
+$color-primary: #fcc425;
+$color-white: #fff;
+$color-light-blue: #78c9dd;
+$color-black: #000;
+$color-dark: #333333;
+$color-text: #0d0d0d;
+$color-text-light: #9e9e9e;
+$color-range: #eff3f5;
+$color-light: #f3f8fb;
+$color-error: #b50000;
+$color-grey: #525252;
+$color-light-grey: #5f5f5f;
+//$color-gradient: linear-gradient(90deg, #FCC425 0%, #FCA625 100%);
+$color-gradient: linear-gradient(90deg, #fca625 0%, #fcc425 50%, #fca625 100%);
+$color-gradient-hover: linear-gradient(273.36deg, #fcc425 1.27%, #fc9925 99%);
+$color-gradient-primary: linear-gradient(0deg, #fcc425, #fcc425);
+$color-grey-gradient: linear-gradient(0deg, #eff3f5, #eff3f5);
+$color-light-gradient: linear-gradient(
+  90deg,
+  #e7e7e7 0%,
+  #ffffff 50%,
+  #e7e7e7 100%
+);
+$color-light-gradient-hover: linear-gradient(
+  273.56deg,
+  #ffffff 10.62%,
+  #e7e7e7 98.94%
+);
+$color-dark-gradient: linear-gradient(96deg, #0d0d0d 6%, #3c3c3c 98%);
+$color-dark-gradient-hover: linear-gradient(
+  274.15deg,
+  #0d0d0d 5.7%,
+  #3c3c3c 95.22%
+);
+$color-bg-from-left: linear-gradient(
+  90deg,
+  rgba(14, 14, 14, 0.98) -2.03%,
+  rgba(0, 0, 0, 0) 100%
+);
+$color-bg-from-right: linear-gradient(
+  -90deg,
+  rgba(14, 14, 14, 0.98) -2.03%,
+  rgba(0, 0, 0, 0) 100%
+);
+$color-bg-from-bottom: linear-gradient(
+  360deg,
+  rgba(14, 14, 14, 0.98) -4.37%,
+  rgba(0, 0, 0, 0) 60%
+);
+$color-bg-from-top: linear-gradient(
+  178.62deg,
+  rgba(14, 14, 14, 0.49) -4.94%,
+  rgba(0, 0, 0, 0) 107.01%
+);

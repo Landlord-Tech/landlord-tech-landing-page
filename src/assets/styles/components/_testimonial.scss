@@ -1,0 +1,35 @@
+.testimonial-item {
+  position: relative;
+  margin: 0 10px;
+  padding: 80px 32px;
+  .quote-icon {
+    position: absolute;
+    top: -33px;
+  }
+  .h5 {
+    color: $color-grey;
+  }
+
+  .testimonial-info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-top: 24px;
+    img {
+      border-radius: 50%;
+      width: 64px;
+      height: 64px;
+      object-fit: cover;
+      margin-right: 14px;
+    }
+
+    .reviewer-name {
+      font-weight: 500;
+      font-size: 18px;
+      color: $color-dark-gradient;
+    }
+    .reviewer-title {
+      color: $color-light-grey;
+    }
+  }
+}

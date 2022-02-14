@@ -1,0 +1,15 @@
+.info-section {
+  background-color: $color-light-blue;
+  text-align: center;
+  padding: 80px 20px;
+
+  .content-wrapper {
+    max-width: 740px;
+    width: 100%;
+    margin: auto;
+  }
+
+  .h5 {
+    padding: 32px 0 48px;
+  }
+}

@@ -1,0 +1,13 @@
+.info-box {
+  h4 {
+    padding: 24px 0 16px;
+  }
+
+  &:not(:last-child) {
+    margin-right: 40px;
+  }
+
+  a {
+    margin-top: 32px;
+  }
+}

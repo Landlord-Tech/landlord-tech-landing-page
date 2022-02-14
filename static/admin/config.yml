@@ -1,0 +1,670 @@
+backend:
+  name: git-gateway
+  # name: github
+  # repo: Landlord-Tech/landlord-tech-landing-page
+  # branch: dev
+
+#publish_mode: editorial_workflow
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  # header
+  - name: header
+    label: Header
+    folder: src/markdown/header
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: linkedLoginText, label: Linked Login Text }
+      - { name: linkedLoginTextUrl, label: Linked Login Text Url }
+      - { name: primaryBtn, label: Button primary }
+      - { name: primaryBtnUrl, label: Button primary Url }
+      - { name: secondaryBtn, label: Secondary primary }
+      - { name: secondaryBtnUrl, label: Secondary primary Url }
+  # footer
+  - name: footer
+    label: Footer
+    folder: src/markdown/footer
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: col1Title, label: Column 1 Title }
+      - name: col1List
+        label: Column 1 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - { label: List Item Url, name: listItemUrl }
+      - { name: col2Title, label: Column 2 Title }
+      - name: col2List
+        label: Column 2 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - { label: List Item Url, name: listItemUrl }
+      - { name: col3Title, label: Column 3 Title }
+      - name: col3List
+        label: Column 3 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - { label: List Item Url, name: listItemUrl }
+      - { name: col4Title, label: Column 4 Title }
+      - name: col4List
+        label: Column 4 List
+        widget: list
+        fields:
+          - { label: List Item, name: listItem }
+          - {
+              label: List item icon,
+              name: icon,
+              widget: select,
+              options: [phone, envelope],
+            }
+      - { name: privacyPolicyTitle, label: Privacy Policy Title }
+      - { name: privacyPolicyUrl, label: Privacy Policy Url }
+      - { name: termsAndConditionsTitle, label: Terms and Conditions Title }
+      - { name: termsAndConditionsUrl, label: Terms and Conditions Url }
+  # terms and conditions
+  - name: terms-and-conditions
+    label: Terms and Conditions
+    folder: src/markdown/terms-and-conditions
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero title }
+      - { name: body, label: Content, widget: markdown }
+  # privacy policy
+  - name: privacy-policy
+    label: Privacy Policy
+    folder: src/markdown/privacy-policy
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero title }
+      - { name: body, label: Content, widget: markdown }
+  # homepage
+  - name: homepage-hero-1
+    label: Homepage Hero 1
+    folder: src/markdown/homepage-hero-1
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading, label: Hero Heading }
+      - { name: heroText, label: Hero Text }
+      - { name: heroBtnPrimary, label: Hero button primary }
+      - { name: heroBtnPrimaryUrl, label: Hero button primary url }
+      - { name: heroBtnSecondary, label: Hero button secondary }
+      - { name: heroBtnSecondaryUrl, label: Hero button secondary url }
+      - { name: heroImg, label: Hero image, widget: image }
+      - { name: calculatorTitle, label: Calculator Title }
+  - name: homepage-about-section
+    label: Homepage About Section
+    folder: src/markdown/homepage-about-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: imageTextTitle, label: Image text title }
+      - { name: imageTextHeading, label: Image Text Heading }
+      - { name: imageTextContent, label: Image Text Content }
+      - { name: imageTextImg, label: Image Text image, widget: image }
+  - name: info-box
+    label: Info Box
+    folder: src/markdown/info-box
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Info Box Title, widget: hidden }
+      - name: infoBoxList
+        label: Info Box List
+        widget: list
+        fields:
+          - { label: Info Box Heading, name: infoBoxHeading }
+          - { label: Info Box Content, name: infoBoxContent }
+          - { label: Info Box Button, name: infoBoxButton }
+          - { label: Info Box Button URL, name: infoBoxButtonURL }
+          - {
+              label: Info Box icon,
+              name: icon,
+              widget: select,
+              options: [hand, pet-pow, file],
+            }
+  - name: info-block
+    label: Info Block
+    folder: src/markdown/info-block
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Info Block Title, widget: hidden }
+      - name: infoBlockList
+        label: Info Block List
+        widget: list
+        fields:
+          - { label: Info Block Image, name: infoBlockImg, widget: image }
+          - { label: Info Block Heading, name: infoBlockHeading }
+          - { label: Info Block Content, name: infoBlockContent }
+          - {
+              label: Info Block icon,
+              name: icon,
+              widget: select,
+              options: [file-settings, hand-home, pet-pow-check],
+            }
+  - name: testimonial
+    label: Testimonial
+    folder: src/markdown/testimonial
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: testimonialTitle, label: Testimonials Section Title }
+      - name: testimonialList
+        label: Testimonial List
+        widget: list
+        fields:
+          - { label: Reviewer Image, name: reviewerImg, widget: image }
+          - { label: Reviewer Name, name: reviewerName }
+          - { label: Reviewer Title, name: reviewerTitle }
+          - { label: Review, name: review }
+  - name: homepage-hero-2
+    label: Homepage Hero 2
+    folder: src/markdown/homepage-hero-2
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading2, label: Hero Heading }
+      - { name: heroText2, label: Hero Text }
+      - { name: heroSecondaryHeading2, label: Hero Secondary Heading }
+      - { name: heroSecondaryText2, label: Hero Secondary Text }
+      - { name: heroSecondaryTextUrl2, label: Hero Secondary Text Url }
+      - { name: heroBtnPrimary2, label: Hero button primary }
+      - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
+      - { name: heroImg2, label: Hero image, widget: image }
+  - name: info-section
+    label: Info Section
+    folder: src/markdown/info-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: infoSectionHeading, label: Info Section Heading }
+      - { name: infoSectionContent, label: Info Section Content }
+      - { name: infoSectionBtnSecondary, label: Info SectionButton Secondary }
+      - {
+          name: infoSectionBtnSecondaryUrl,
+          label: Info SectionButton Secondary url,
+        }
+    # calculator
+  - name: with-pet-calculator
+    label: With Pet Calculator
+    folder: src/markdown/with-pet-calculator
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading, label: Page title }
+      - { name: sec1Heading, label: Calculator intro heading }
+      - { name: sec1SubHeading1, label: Calculator intro subheading 1 }
+      - { name: sec1Text1, label: Calculator intro text 1, widget: text }
+      - {
+          name: sec1Desc,
+          label: Calculator intro description,
+          widget: markdown,
+        }
+      - { name: sec2Heading, label: Pet Rent heading }
+      - { name: sec2SubHeading1, label: Pet Rent subheading 1 }
+      - { name: sec2Text1, label: Pet Rent text 1, widget: text }
+      - { name: sec2SubHeading2, label: Pet Rent subheading 2 }
+      - { name: sec2Text2, label: Pet Rent text 2, widget: text }
+      - { name: sec2SubHeading3, label: Pet Rent subheading 3 }
+      - { name: sec2Text3, label: Pet Rent text 3, widget: text }
+      - { name: sec2Desc, label: Pet Rent description, widget: markdown }
+      - { name: sec3Heading, label: Pet Deposits heading }
+      - { name: sec3SubHeading1, label: Pet Deposits subheading 1 }
+      - { name: sec3Text1, label: Pet Deposits text 1, widget: text }
+      - { name: sec3SubHeading2, label: Pet Deposits subheading 2 }
+      - { name: sec3Text2, label: Pet Deposits text 2, widget: text }
+      - { name: sec3Desc, label: Pet Deposits description, widget: markdown }
+      - { name: sec4Heading, label: Fees and Fines heading }
+      - { name: sec4SubHeading1, label: Fees and Fines subheading 1 }
+      - { name: sec4Text1, label: Fees and Fines text 1, widget: text }
+      - { name: sec4SubHeading2, label: Fees and Fines subheading 2 }
+      - { name: sec4Text2, label: Fees and Fines text 2, widget: text }
+      - { name: sec4SubHeading3, label: Fees and Fines subheading 3 }
+      - { name: sec4Text3, label: Fees and Fines text 3, widget: text }
+      - { name: sec4Desc, label: Fees and Fines description, widget: markdown }
+      - { name: sec5Heading, label: Time Saving heading }
+      - { name: sec5SubHeading1, label: Time Saving subheading 1 }
+      - { name: sec5Text1, label: Time Saving text 1, widget: text }
+      - { name: sec5SubHeading2, label: Time Saving subheading 2 }
+      - { name: sec5Text2, label: Time Saving text 2, widget: text }
+      - { name: sec5Desc, label: Time Saving description, widget: markdown }
+      - { name: sec6Heading, label: Summery heading }
+      - { name: sec6Desc, label: Summery description, widget: markdown }
+  - name: with-no-pet-calculator
+    label: With No Pet Calculator
+    folder: src/markdown/with-no-pet-calculator
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading, label: Page title }
+      - { name: sec1Heading, label: Calculator intro heading }
+      - { name: sec1SubHeading1, label: Calculator intro subheading 1 }
+      - { name: sec1Text1, label: Calculator intro text 1, widget: text }
+      - { name: sec1SubHeading2, label: Calculator intro subheading 2 }
+      - { name: sec1Text2, label: Calculator intro text 2, widget: text }
+      - { name: sec1Desc, label: Calculator intro description }
+      - { name: sec2Heading, label: Cost of pet damage heading }
+      - { name: sec2SubHeading1, label: Cost of pet damage subheading 1 }
+      - { name: sec2Text1, label: Cost of pet damage text 1, widget: text }
+      - { name: sec2SubHeading2, label: Cost of pet damage subheading 2 }
+      - { name: sec2Text2, label: Cost of pet damage text 2, widget: text }
+      - { name: sec2SubHeading3, label: Cost of pet damage subheading 3 }
+      - { name: sec2Text3, label: Cost of pet damage text 3, widget: text }
+      - {
+          name: sec2Desc,
+          label: Cost of pet damage description,
+          widget: markdown,
+        }
+      - { name: sec3Heading, label: Lost Rent heading }
+      - { name: sec3SubHeading1, label: Lost Rent subheading 1 }
+      - { name: sec3Text1, label: Lost Rent text 1, widget: text }
+      - { name: sec3SubHeading2, label: Lost Rent subheading 2 }
+      - { name: sec3Text2, label: Lost Rent text 2, widget: text }
+      - { name: sec3SubHeading3, label: Lost Rent subheading 3 }
+      - { name: sec3Text3, label: Lost Rent text 3, widget: text }
+      - { name: sec3Desc, label: Lost Rent description }
+      - { name: sec4Heading, label: Fees and Fines heading }
+      - { name: sec4SubHeading1, label: Fees and Fines subheading 1 }
+      - { name: sec4Text1, label: Fees and Fines text 1, widget: text }
+      - { name: sec4SubHeading2, label: Fees and Fines subheading 2 }
+      - { name: sec4Text2, label: Fees and Fines text 2, widget: text }
+      - { name: sec4SubHeading3, label: Fees and Fines subheading 3 }
+      - { name: sec4Text3, label: Fees and Fines text 3, widget: text }
+      - { name: sec4Desc, label: Fees and Fines description }
+      - { name: sec5Heading, label: Time Saving heading }
+      - { name: sec5SubHeading1, label: Time Saving subheading 1 }
+      - { name: sec5Text1, label: Time Saving text 1, widget: text }
+      - { name: sec5SubHeading2, label: Time Saving subheading 2 }
+      - { name: sec5Text2, label: Time Saving text 2, widget: text }
+      - { name: sec5SubHeading3, label: Time Saving subheading 3 }
+      - { name: sec5Text3, label: Time Saving text 3, widget: text }
+      - { name: sec5Desc, label: Time Saving description }
+      - { name: sec6Heading, label: Summery heading }
+      - { name: sec6Desc, label: Summery description }
+  # products
+  - name: products-hero-1
+    label: Products Hero 1
+    folder: src/markdown/products-hero-1
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading1, label: Hero Heading }
+      - { name: heroText1, label: Hero Text }
+      - { name: heroBtnSecondary1, label: Hero button secondary }
+      - { name: heroBtnSecondaryUrl1, label: Hero button secondary url }
+      - { name: heroImg1, label: Hero image, widget: image }
+  - name: multi-tenant-platform-section
+    label: Multi Tenant Platform Section
+    folder: src/markdown/multi-tenant-platform-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: sectionHeading, label: Section Heading }
+      - { name: sectionSubhead, label: Section Subhead }
+      - { name: platformImage, label: Platform image, widget: image }
+      - { name: platformTitle, label: Platform Title }
+      - { name: platformContent1, label: Platform Content 1 }
+
+      - name: platformDescList
+        label: Platform Description List
+        widget: list
+        fields:
+          - { label: Platform Description Item, name: platformDescItem }
+      - { name: platformContent2, label: Platform Content 2 }
+  - name: products-hero-2
+    label: Products Hero 2
+    folder: src/markdown/products-hero-2
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading2, label: Hero Heading }
+      - { name: heroText2, label: Hero Text }
+      - { name: heroBtnPrimary2, label: Hero button primary }
+      - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
+      - { name: heroImg2, label: Hero image, widget: image }
+  - name: landlord-tech-program-section
+    label: Landlord Tech Program Section
+    folder: src/markdown/landlord-tech-program-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - {
+          name: landlordTechProgramImage,
+          label: Landlord Tech Program Section image,
+          widget: image,
+        }
+      - {
+          name: landlordTechProgramTitle,
+          label: Landlord Tech Program Section Title,
+        }
+      - {
+          name: landlordTechProgramContent,
+          label: Landlord Tech Program Section Content,
+        }
+      - name: landlordTechProgramList
+        label: Landlord Tech Program List
+        widget: list
+        fields:
+          - { label: Landlord Tech Program Item, name: landlordTechProgramItem }
+  - name: products-hero-3
+    label: Products Hero 3
+    folder: src/markdown/products-hero-3
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading3, label: Hero Heading }
+      - { name: heroText3, label: Hero Text }
+      - { name: heroImg3, label: Hero image, widget: image }
+  # about
+  - name: about-hero
+    label: About Hero
+    folder: src/markdown/about-hero
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero Heading }
+      - { name: heroImg, label: Hero image, widget: image }
+  - name: about-us-section
+    label: About Us Section
+    folder: src/markdown/about-us-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: aboutUsSectionHeading, label: About Us Section Hero Heading }
+      - { name: aboutUsSectionSubhead, label: About Us Section Hero Subhead }
+      - { name: aboutUsSectionContent, label: About Us Section Hero Content }
+      - { name: contactUsHeading, label: Contact Us Heading }
+      - name: contactInfoList
+        label: Contact Info List
+        widget: list
+        fields:
+          - { label: Contact Info Text, name: contactInfoText }
+          - {
+              label: Contact Info icon,
+              name: icon,
+              widget: select,
+              options: [phone, location, envelope],
+            }
+  - name: our-products-section
+    label: Our Products Section
+    folder: src/markdown/our-products-section
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: ourProductsSectionHeading, label: Our Products Heading }
+      - { name: ourProductsSectionSubhead, label: Our Products Subhead }
+      - { name: ourProductsSectionContent, label: Our Products Content }
+  # pricing
+  - name: pricing-hero
+    label: Pricing Hero
+    folder: src/markdown/pricing-hero
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroHeading, label: Hero Heading }
+      - { name: heroSubhead, label: Hero Subhead }
+  - name: pricing-list
+    label: Pricing List
+    folder: src/markdown/pricing-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - name: pricingList
+        label: Pricing List
+        widget: list
+        fields:
+          - {
+              label: Pricing plan,
+              name: pricingPlan,
+              widget: select,
+              options: ["Starter", "Standard", "Business", "Premium"],
+            }
+          - {
+              label: Pricing contacts number,
+              name: contractNumber,
+              widget: select,
+              options: [1-50, 51-250, 251-1000, ">1000"],
+            }
+          - {
+              label: Plan Price,
+              name: planPrice,
+              widget: select,
+              options: ["5", "4", "3"],
+              required: false,
+            }
+          - { name: pricingBtn, label: Pricing button }
+          - { name: pricingBtnUrl, label: Pricing button url }
+  - name: faq-list
+    label: FAQ List
+    folder: src/markdown/faq-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: faqHeading, label: FAQ Heading }
+      - name: faqList
+        label: Pricing List
+        widget: list
+        fields:
+          - { name: faqQuestion, label: FAQ question }
+          - { name: faqAnswer, label: FAQ answer }
+  # Contact us
+  - name: contact-us
+    label: Contact Us
+    folder: src/markdown/contact-us
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: aboutUsHeading, label: About Us Hero Heading }
+      - { name: aboutUsSubhead, label: About Us Hero Subhead }
+      - { name: contactUsHeading, label: Contact Us Heading }
+      - name: contactInfoList
+        label: Contact Info List
+        widget: list
+        fields:
+          - { label: Contact Info Text, name: contactInfoText }
+          - {
+              label: Contact Info icon,
+              name: icon,
+              widget: select,
+              options: [phone, location, envelope],
+            }
+  - name: contact-form
+    label: Contact Form
+    folder: src/markdown/contact-form
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: contactFormHeading, label: Contact Form Heading }
+      - { name: contactFormBtn, label: Contact Form Button name }
+      - { name: formSuccessMessageHeading, label: Form Success Message Heading }
+      - { name: formSuccessMessageSubhead, label: Form Success Message Subhead }
+  # resources
+  - name: blog
+    label: Blog
+    folder: src/markdown/blog
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: datetime }
+      - { name: category, label: Category }
+      - { name: excerpt, label: Excerpt, widget: text, pattern: [
+              "^.{150,500}$",
+              "The Excerpt should contain from 150
+              to 500 characters.",
+            ] }
+      - { name: heroHeading, label: Hero heading }
+      - { name: heroImg, label: Hero image, widget: image }
+      - { name: body, label: Body, widget: markdown }
+      - {
+          name: social,
+          label: Social section,
+          widget: boolean,
+          required: false,
+        }
+      - label: Promo section
+        name: promoSection
+        widget: object
+        fields:
+          - { name: promoTitle, label: Promo section title, required: false }
+          - {
+              name: promoText,
+              label: Promo section text,
+              widget: text,
+              required: false,
+            }
+          - { name: promoBtn, label: Promo section button, required: false }
+          - {
+              name: promoBtnUrl,
+              label: Promo section button url,
+              required: false,
+            }
+          - {
+              name: promo,
+              label: Promo section,
+              widget: boolean,
+              required: false,
+            }
+  - name: blog-list
+    label: Blog List
+    folder: src/markdown/blog-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: heroHeading, label: Hero heading }
+      - { name: heroText, label: Hero text }
+  # request a demo
+  - name: request-demo
+    label: Request a demo
+    folder: src/markdown/request-demo
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: calendarEventLink, label: Calendar Event Link }
+      - { name: demoDuration, label: Demo Duration in minutes }
+      - { name: requestDemoHeading, label: Request Demo Heading }
+      - name: requestDemoInfoList
+        label: Request Demo Info List
+        widget: list
+        fields:
+          - { label: Request Demo Info Text, name: requestDemoInfoText }
+  # 404
+  - name: not-found
+    label: Not Found
+    folder: src/markdown/not-found
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: heroHeading, label: Hero heading }
+      - { name: heroText, label: Hero text, widget: text }
+      - { name: primaryBtn, label: Primary Button }
+      - { name: secondaryBtn, label: Secondary Button }
+      - { name: heroImg, label: Hero image, widget: image }

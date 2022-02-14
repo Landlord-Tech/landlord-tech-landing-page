@@ -1,0 +1,101 @@
+@media screen and (max-width: 1280px) {
+  .img-text-header {
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .landing {
+    .title {
+      padding-bottom: 40px;
+    }
+  }
+
+  .calculator-section {
+    flex-direction: column;
+
+    .range-data {
+      margin-right: 0;
+      width: 100%;
+    }
+
+    .ribbon {
+      width: 100%;
+    }
+  }
+
+  .info-box-wrapper,
+  .testimonial-container {
+    flex-direction: column;
+
+    .box-wrapper {
+      width: 100%;
+      margin-right: 0;
+    }
+  }
+
+  .testimonial-container {
+    margin-top: 24px;
+  }
+
+  .img-text-content {
+    flex-direction: column-reverse;
+
+    .img-text-title-wrapper {
+      align-items: center;
+    }
+
+    .img {
+      padding-bottom: 24px;
+      margin: 0;
+    }
+
+    .img,
+    .text {
+      width: 100%;
+    }
+
+    .text {
+      padding-bottom: 32px;
+
+      h3 {
+        padding-top: 24px;
+      }
+      p,
+      ul {
+        padding: 0;
+      }
+    }
+  }
+
+  .list-section {
+    .list-content {
+      flex-direction: column;
+
+      .list,
+      .img {
+        width: 100%;
+      }
+
+      .img {
+        padding-top: 20px;
+      }
+    }
+
+    ul {
+      padding-bottom: 40px;
+      padding-top: 16px;
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .error-page {
+    .button-group {
+      .btn {
+        display: block;
+        margin: 12px 0;
+      }
+    }
+  }
+}
