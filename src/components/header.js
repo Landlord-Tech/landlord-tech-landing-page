@@ -121,8 +121,8 @@ const Header = ({ sticky, prodHeader }) => {
                       Resources
                     </Link>
                   </li>
-                  <li>
-                    <Link className={"active-link"} to={linkedLoginTextUrl}>
+                  <li className="login-link">
+                    <Link className="active-link" to={linkedLoginTextUrl}>
                       {linkedLoginText}
                     </Link>
                   </li>

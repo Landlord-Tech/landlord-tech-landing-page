@@ -46,18 +46,20 @@
     }
 
     &:not(:last-child) {
-      padding-right: 40px;
+      padding-right: 32px;
+    }
+    &.login-link {
+      padding: 0 0 0 120px;
     }
   }
 
   .signup-btn {
-    margin-right: 24px;
+    margin: 0 24px;
   }
 }
 
 .logo {
   max-width: 232px;
-  width: 100%;
 
   img {
     width: 100%;
@@ -121,4 +123,5 @@
 .nav-button-group {
   color: $color-text;
   display: flex;
+  align-items: center;
 }
