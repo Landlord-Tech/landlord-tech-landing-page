@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://landlordtech.com`,
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sass`,
@@ -311,13 +312,7 @@ module.exports = {
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
-    {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
+    `gatsby-plugin-offline`,
     "gatsby-plugin-netlify",
   ],
 }
