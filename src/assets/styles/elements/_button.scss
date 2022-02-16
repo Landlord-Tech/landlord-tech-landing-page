@@ -17,6 +17,9 @@
     line-height: 35px;
     font-size: 16px;
     padding: 0 24px;
+    &.ghost {
+      height: 39px;
+    }
   }
 
   &-md {
@@ -24,6 +27,9 @@
     line-height: 42px;
     font-size: 16px;
     padding: 0 40px;
+    &.ghost {
+      height: 47px;
+    }
   }
 
   &-lg {
@@ -31,6 +37,9 @@
     line-height: 61px;
     font-size: 24px;
     padding: 0 40px;
+    &.ghost {
+      height: 65px;
+    }
   }
   &-in,
   &-fb,
