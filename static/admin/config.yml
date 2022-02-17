@@ -63,6 +63,7 @@ collections:
         widget: list
         fields:
           - { label: List Item, name: listItem }
+          - { label: Contact Info link, name: link, required: false }
           - {
               label: List item icon,
               name: icon,
@@ -99,7 +100,7 @@ collections:
       - { name: body, label: Content, widget: markdown }
   # homepage
   - name: homepage-hero-1
-    label: Homepage Hero 1
+    label: Homepage Banner 1
     folder: src/markdown/homepage-hero-1
     preview_path: /
     create: true
@@ -109,13 +110,13 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
-      - { name: heroHeading, label: Hero Heading }
-      - { name: heroText, label: Hero Text }
-      - { name: heroBtnPrimary, label: Hero button primary }
-      - { name: heroBtnPrimaryUrl, label: Hero button primary url }
-      - { name: heroBtnSecondary, label: Hero button secondary }
-      - { name: heroBtnSecondaryUrl, label: Hero button secondary url }
-      - { name: heroImg, label: Hero image, widget: image }
+      - { name: heroHeading, label: Banner Heading }
+      - { name: heroText, label: Banner Text }
+      - { name: heroBtnPrimary, label: Banner button primary }
+      - { name: heroBtnPrimaryUrl, label: Banner button primary url }
+      - { name: heroBtnSecondary, label: Banner button secondary }
+      - { name: heroBtnSecondaryUrl, label: Banner button secondary url }
+      - { name: heroImg, label: Banner image, widget: image }
       - { name: calculatorTitle, label: Calculator Title }
   - name: homepage-about-section
     label: Homepage About Section
@@ -154,7 +155,7 @@ collections:
               options: [hand, pet-pow, file],
             }
   - name: info-block
-    label: Info Block
+    label: Homepage 3 row blocks
     folder: src/markdown/info-block
     preview_path: /
     create: true
@@ -194,7 +195,7 @@ collections:
           - { label: Reviewer Title, name: reviewerTitle }
           - { label: Review, name: review }
   - name: homepage-hero-2
-    label: Homepage Hero 2
+    label: Homepage Banner 2
     folder: src/markdown/homepage-hero-2
     preview_path: /
     create: true
@@ -202,16 +203,16 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: heroHeading2, label: Hero Heading }
-      - { name: heroText2, label: Hero Text }
-      - { name: heroSecondaryHeading2, label: Hero Secondary Heading }
-      - { name: heroSecondaryText2, label: Hero Secondary Text }
-      - { name: heroSecondaryTextUrl2, label: Hero Secondary Text Url }
-      - { name: heroBtnPrimary2, label: Hero button primary }
-      - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
-      - { name: heroImg2, label: Hero image, widget: image }
+      - { name: heroHeading2, label: Banner Heading }
+      - { name: heroText2, label: Banner Text }
+      - { name: heroSecondaryHeading2, label: Banner Secondary Heading }
+      - { name: heroSecondaryText2, label: Banner Secondary Text }
+      - { name: heroSecondaryTextUrl2, label: Banner Secondary Text Url }
+      - { name: heroBtnPrimary2, label: Banner button primary }
+      - { name: heroBtnPrimaryUrl2, label: Banner button primary url }
+      - { name: heroImg2, label: Banner image, widget: image }
   - name: info-section
-    label: Info Section
+    label: Blue Info Banner
     folder: src/markdown/info-section
     preview_path: /
     create: true
@@ -335,7 +336,7 @@ collections:
       - { name: sec6Desc, label: Summery description }
   # products
   - name: products-hero-1
-    label: Products Hero 1
+    label: Products Banner 1
     folder: src/markdown/products-hero-1
     preview_path: /
     create: true
@@ -345,13 +346,13 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
-      - { name: heroHeading1, label: Hero Heading }
-      - { name: heroText1, label: Hero Text }
-      - { name: heroBtnSecondary1, label: Hero button secondary }
-      - { name: heroBtnSecondaryUrl1, label: Hero button secondary url }
-      - { name: heroImg1, label: Hero image, widget: image }
+      - { name: heroHeading1, label: Banner Heading }
+      - { name: heroText1, label: Banner Text }
+      - { name: heroBtnSecondary1, label: Banner button secondary }
+      - { name: heroBtnSecondaryUrl1, label: Banner button secondary url }
+      - { name: heroImg1, label: Banner image, widget: image }
   - name: multi-tenant-platform-section
-    label: Multi Tenant Platform Section
+    label: Products Image and Text Section 1
     folder: src/markdown/multi-tenant-platform-section
     preview_path: /
     create: true
@@ -372,7 +373,7 @@ collections:
           - { label: Platform Description Item, name: platformDescItem }
       - { name: platformContent2, label: Platform Content 2 }
   - name: products-hero-2
-    label: Products Hero 2
+    label: Products Banner 2
     folder: src/markdown/products-hero-2
     preview_path: /
     create: true
@@ -380,13 +381,13 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: heroHeading2, label: Hero Heading }
-      - { name: heroText2, label: Hero Text }
-      - { name: heroBtnPrimary2, label: Hero button primary }
-      - { name: heroBtnPrimaryUrl2, label: Hero button primary url }
-      - { name: heroImg2, label: Hero image, widget: image }
+      - { name: heroHeading2, label: Banner Heading }
+      - { name: heroText2, label: Banner Text }
+      - { name: heroBtnPrimary2, label: Banner button primary }
+      - { name: heroBtnPrimaryUrl2, label: Banner button primary url }
+      - { name: heroImg2, label: Banner image, widget: image }
   - name: landlord-tech-program-section
-    label: Landlord Tech Program Section
+    label: Products Image and Text Section 2
     folder: src/markdown/landlord-tech-program-section
     preview_path: /
     create: true
@@ -413,7 +414,7 @@ collections:
         fields:
           - { label: Landlord Tech Program Item, name: landlordTechProgramItem }
   - name: products-hero-3
-    label: Products Hero 3
+    label: Products Banner 3
     folder: src/markdown/products-hero-3
     preview_path: /
     create: true
@@ -421,12 +422,12 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: heroHeading3, label: Hero Heading }
-      - { name: heroText3, label: Hero Text }
-      - { name: heroImg3, label: Hero image, widget: image }
+      - { name: heroHeading3, label: Banner Heading }
+      - { name: heroText3, label: Banner Text }
+      - { name: heroImg3, label: Banner image, widget: image }
   # about
   - name: about-hero
-    label: About Hero
+    label: About Banner
     folder: src/markdown/about-hero
     preview_path: /
     create: true
@@ -434,8 +435,8 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: heroHeading, label: Hero Heading }
-      - { name: heroImg, label: Hero image, widget: image }
+      - { name: heroHeading, label: Banner Heading }
+      - { name: heroImg, label: Banner image, widget: image }
   - name: about-us-section
     label: About Us Section
     folder: src/markdown/about-us-section
@@ -454,6 +455,7 @@ collections:
         widget: list
         fields:
           - { label: Contact Info Text, name: contactInfoText }
+          - { label: Contact Info link, name: link, required: false }
           - {
               label: Contact Info icon,
               name: icon,
@@ -461,7 +463,7 @@ collections:
               options: [phone, location, envelope],
             }
   - name: our-products-section
-    label: Our Products Section
+    label: About Our Products Section
     folder: src/markdown/our-products-section
     preview_path: /
     create: true
@@ -474,7 +476,7 @@ collections:
       - { name: ourProductsSectionContent, label: Our Products Content }
   # pricing
   - name: pricing-hero
-    label: Pricing Hero
+    label: Pricing Banner
     folder: src/markdown/pricing-hero
     preview_path: /
     create: true
@@ -484,8 +486,8 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
-      - { name: heroHeading, label: Hero Heading }
-      - { name: heroSubhead, label: Hero Subhead }
+      - { name: heroHeading, label: Banner Heading }
+      - { name: heroSubhead, label: Banner Subhead }
   - name: pricing-list
     label: Pricing List
     folder: src/markdown/pricing-list
@@ -554,6 +556,7 @@ collections:
         widget: list
         fields:
           - { label: Contact Info Text, name: contactInfoText }
+          - { label: Contact Info link, name: link, required: false }
           - {
               label: Contact Info icon,
               name: icon,

@@ -7,6 +7,7 @@ const ContactForm = () => {
   const [formState, setFormState] = useState({
     inquiryType: "",
     name: "",
+    company: "",
     email: "",
     phone: "",
     message: "",
@@ -82,8 +83,19 @@ const ContactForm = () => {
               name="name"
               onChange={handleChange}
               value={formState.name}
-              placeholder="Full name"
+              placeholder="Full Name"
               required={true}
+            />
+          </div>
+
+          <div className="input-field">
+            <input
+              type="text"
+              id="company"
+              name="company"
+              onChange={handleChange}
+              value={formState.company}
+              placeholder="Company Name"
             />
           </div>
 
@@ -94,7 +106,7 @@ const ContactForm = () => {
               name="email"
               onChange={handleChange}
               value={formState.email}
-              placeholder="Email"
+              placeholder="Work Email"
               required={true}
             />
           </div>
