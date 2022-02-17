@@ -11,6 +11,7 @@ platformDescList:
   - platformDescItem: Convert fraudulent ESAs into paying pet fees and deposits
   - platformDescItem: Curriculum for tenants focused on reducing pet damage and complaints
   - platformDescItem: Lawyer-vetted customizable policies
+  - platformDescItem: Animal Mapping and complaint filing
 platformContent2: The OPP Platform is easy to implement, with easy to use
   on-boarding tools and platform management tools.
 platformLinkedText: "[Contact us](/contact/) to learn more"
