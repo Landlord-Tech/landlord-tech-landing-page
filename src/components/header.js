@@ -90,6 +90,7 @@ const Header = ({ sticky, prodHeader }) => {
                           openedDropdown ? "arrow-top" : "arrow-bottom"
                         }`}
                         size={24}
+                        color="#fcc425"
                       />
                     </button>
                   </li>
