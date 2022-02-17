@@ -13,6 +13,7 @@ contactInfoList:
     icon: phone
   - contactInfoText: info@ourpetpolicy.com
     icon: envelope
+    link: mailto:info@ourpetpolicy.com
   - contactInfoText: "950 W. Bannock, #860 Boise, Idaho 83702"
     icon: location
 ---
