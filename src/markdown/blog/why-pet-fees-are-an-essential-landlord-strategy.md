@@ -1,5 +1,4 @@
 ---
-title: Why Pet Fees are an Essential Landlord Strategy
 path: /resources/why-pet-fees-are-an-essential-landlord-strategy
 date: 2021-10-13T07:35:07.372Z
 category: Ebook
@@ -17,8 +16,8 @@ promoSection:
   promo: true
   promoBtn: Learn More
   promoBtnUrl: /products/
+title: Why Pet Fees are an Essential Landlord Strategy
 ---
-
 Pet fees are a sensitive subject among both tenants and landlords. Many renters feel that these fees are an unfair tax that they’re forced to pay for having furry family members. As a landlord, this may cause you to hesitate to include pet rent and fees in your pet policy.
 
 Despite the frustrations and hesitations, there’s no ignoring the importance of charging pet fees. The truth is, the cost of allowing pets in your rentals goes far beyond the occasional carpet replacement.
@@ -29,7 +28,7 @@ In today’s article, we’ll be covering the different pet-related issues that 
 
 By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](https://www.ourpetpolicy.com/resources/the-landlords-guide-to-tenants-with-pets/). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
 
-![Renters with pets](/assets/renters-own-pets.png "Renters with pets")
+![Renters with pets](/assets/renters-own-pets1.png "Renters with pets")
 
 #### Pet-Related Complaints
 
@@ -67,7 +66,7 @@ Common damage includes:
 
 Carpets are among the most costly repairs for landlords. The average cost to replace just [500sq. ft. of carpet is $2400](https://homeguide.com/costs/carpet-installation-cost), which can be seen as a $50 monthly loss on the unit if the landlord must replace it every five years instead of 10.
 
-![Challenges of Managing Pet-Friendly Rentals](/assets/challenges-of-pet-friendly-rentals.png "Challenges of Managing Pet-Friendly Rentals")
+![Challenges of Managing Pet-Friendly Rentals](/assets/challenges-of-pet-friendly-rentals2.png "Challenges of Managing Pet-Friendly Rentals")
 
 #### Loss of Rental Income During Repairs 
 
