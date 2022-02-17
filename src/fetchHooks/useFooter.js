@@ -23,6 +23,7 @@ export const useFooterData = () => {
           col4Title
           col4List {
             listItem
+            link
             icon
           }
           privacyPolicyTitle

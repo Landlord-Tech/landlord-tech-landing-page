@@ -67,12 +67,23 @@ const Footer = () => {
               <Link to={"/contact-us/"}>{col4Title}</Link>
             </h4>
             <ul className="footer-contact">
-              {col4List.map(({ listItem, icon }, index) => {
+              {col4List.map(({ listItem, icon, link }, index) => {
                 return (
-                  <li key={index}>
-                    <Icon color="#FCC425" icon={icon} size={24} />
-                    <p>{listItem}</p>
-                  </li>
+                  <>
+                    {link ? (
+                      <a href={link} rel="noreferrer">
+                        <li key={index}>
+                          <Icon color="#FCC425" icon={icon} size={24} />
+                          <p>{listItem}</p>
+                        </li>
+                      </a>
+                    ) : (
+                      <li key={index}>
+                        <Icon color="#FCC425" icon={icon} size={24} />
+                        <p>{listItem}</p>
+                      </li>
+                    )}
+                  </>
                 )
               })}
             </ul>
