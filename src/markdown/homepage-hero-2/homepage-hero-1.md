@@ -14,7 +14,7 @@ heroText2: Find out what Property Managers want in ESA Letter management, and
   how to stay in compliance.
 heroSecondaryHeading2: What Landlords Need To Know About ESAs In 2021
 heroSecondaryText2: Link to the blog post for this ebook
-heroSecondaryTextUrl2: https://landlord-tech-master.netlify.app/resources/what-landlords-need-to-know-about-esas-in-2021
+heroSecondaryTextUrl2: /resources/what-landlords-need-to-know-about-esas-in-2021
 heroBtnPrimary2: Learn more
 heroImg2: /assets/doggy.png
 heroBtnPrimaryUrl: "#"
