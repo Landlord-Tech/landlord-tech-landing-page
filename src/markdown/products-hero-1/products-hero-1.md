@@ -6,7 +6,7 @@ metaTitle: Products heto meta
 metaDescription: Products heto desc
 heroHeading1: Pet Command Center
 heroBtnSecondary1: Get started
-heroBtnSecondaryUrl1: "#"
+heroBtnSecondaryUrl1: https://app.ourpetpolicy.com/
 heroImg1: /assets/banner.png
 heroImg: /assets/banner.png
 heroText1: Manage Your Pet Program From One Platform
