@@ -1,5 +1,4 @@
 ---
-title: the landlords guide to tenants with pets
 path: /resources/the-landlords-guide-to-tenants-with-pets/
 date: 2021-06-01T00:39:37.566Z
 category: Infographic
@@ -17,8 +16,8 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+title: the landlords guide to tenants with pets
 ---
-
 As a landlord, you have to determine whether or not your rental properties are going to be pet-friendly. This can be a challenging decision due to the number of pros and cons. On one hand, allowing pets can dramatically increase the number of people interested in your rental. On the other hand, pets can inflict some severe damage to your property. Ultimately, the choice is yours, and we hope that the following guide will help you make your decision.
 
 ### Pros
@@ -39,14 +38,14 @@ Pet owners put their pets first. Relocation can cause a lot of stress to a pet, 
 
 There are many ways to increase your average rent for pet owners.
 
-- Charge monthly pet fees per pet
-- Charge a refundable deposit per pet. In your pet policy, indicate that any repairs or replacements resulting from pet damage will be deducted from their refund upon move out.
-- Or, you can charge a smaller non-refundable per pet fee that is more appealing to renters. The amount may be lower, but you’re guaranteed to keep the deposit whether or not there is any damage done to the property.
-- Charge a premium for offering a pet-friendly rental. Take a look at the pet-free rentals in your area and price your monthly rent slightly higher.
+* Charge monthly pet fees per pet
+* Charge a refundable deposit per pet. In your pet policy, indicate that any repairs or replacements resulting from pet damage will be deducted from their refund upon move out.
+* Or, you can charge a smaller non-refundable per pet fee that is more appealing to renters. The amount may be lower, but you’re guaranteed to keep the deposit whether or not there is any damage done to the property.
+* Charge a premium for offering a pet-friendly rental. Take a look at the pet-free rentals in your area and price your monthly rent slightly higher.
 
 80% of pet owners currently pay pet deposits, so you won’t need to worry about being less competitive.
 
-![](/assets/renters-with-pets.jpg)
+![](/assets/renters-with-pets.jpeg)
 
 **Pet Owners Are More Responsible**
 
@@ -60,7 +59,7 @@ Landlords that don’t allow pets sometimes find themselves still having to deal
 
 The Fair Housing Act requires landlords to accommodate tenants with service animals and emotional support animals. This applies to all rentals, not just pet-friendly ones. Violating this law will result in a $16k fine, and further violations fines can reach $65k or higher. Unfortunately, a reported 70% of the emotional support letters are fraudulent, so there’s no guarantee the pet is appropriately trained. By allowing pets, you’ll be less likely to run into these fraudulent activities and have policies in place to protect your property.
 
-![](/assets/renting-to-pets.jpg)
+![](/assets/renting-to-pets.jpeg)
 
 ### Cons
 
