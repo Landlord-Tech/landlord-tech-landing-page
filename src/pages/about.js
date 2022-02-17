@@ -68,19 +68,17 @@ export default () => {
               <ul className="contact-info">
                 {contactInfoList.map(({ icon, link, contactInfoText }, i) => {
                   return (
-                    <>
+                    <li key={i}>
                       {link ? (
                         <a href={link} rel="noreferrer">
-                          <li key={i}>
-                            <Icon icon={icon} size={24} /> {contactInfoText}
-                          </li>
+                          <Icon icon={icon} size={24} /> {contactInfoText}
                         </a>
                       ) : (
-                        <li key={i}>
+                        <>
                           <Icon icon={icon} size={24} /> {contactInfoText}
-                        </li>
+                        </>
                       )}
-                    </>
+                    </li>
                   )
                 })}
               </ul>

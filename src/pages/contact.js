@@ -30,21 +30,19 @@ const ContactUs = () => {
                 {contactInfoList.map(
                   ({ contactInfoText, icon, link }, index) => {
                     return (
-                      <>
+                      <li key={index}>
                         {link ? (
                           <a href={link} rel="noreferrer">
-                            <li key={index}>
-                              <Icon icon={icon} size={24} color="#FCC425" />
-                              {contactInfoText}
-                            </li>
-                          </a>
-                        ) : (
-                          <li key={index}>
                             <Icon icon={icon} size={24} color="#FCC425" />
                             {contactInfoText}
-                          </li>
+                          </a>
+                        ) : (
+                          <>
+                            <Icon icon={icon} size={24} color="#FCC425" />
+                            {contactInfoText}
+                          </>
                         )}
-                      </>
+                      </li>
                     )
                   }
                 )}
