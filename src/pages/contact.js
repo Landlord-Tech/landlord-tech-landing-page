@@ -27,14 +27,25 @@ const ContactUs = () => {
             <div className="contact-list-wrapper">
               <h2 className="h2">{contactUsHeading}</h2>
               <ul className="contact-list">
-                {contactInfoList.map(({ contactInfoText, icon }, index) => {
-                  return (
-                    <li key={index}>
-                      <Icon icon={icon} size={24} color="#FCC425" />
-                      {contactInfoText}
-                    </li>
-                  )
-                })}
+                {contactInfoList.map(
+                  ({ contactInfoText, icon, link }, index) => {
+                    return (
+                      <li key={index}>
+                        {link ? (
+                          <a href={link} rel="noreferrer">
+                            <Icon icon={icon} size={24} color="#FCC425" />
+                            {contactInfoText}
+                          </a>
+                        ) : (
+                          <>
+                            <Icon icon={icon} size={24} color="#FCC425" />
+                            {contactInfoText}
+                          </>
+                        )}
+                      </li>
+                    )
+                  }
+                )}
               </ul>
             </div>
             <ContactForm />

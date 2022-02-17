@@ -10,6 +10,7 @@ export const useContactUsData = () => {
           contactUsHeading
           contactInfoList {
             contactInfoText
+            link
             icon
           }
         }

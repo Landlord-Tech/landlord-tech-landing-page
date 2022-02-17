@@ -66,10 +66,18 @@ export default () => {
             <div className="contact-info-block">
               <h3 className="h3">{contactUsHeading}</h3>
               <ul className="contact-info">
-                {contactInfoList.map((item, i) => {
+                {contactInfoList.map(({ icon, link, contactInfoText }, i) => {
                   return (
                     <li key={i}>
-                      <Icon icon={item.icon} size={24} /> {item.contactInfoText}
+                      {link ? (
+                        <a href={link} rel="noreferrer">
+                          <Icon icon={icon} size={24} /> {contactInfoText}
+                        </a>
+                      ) : (
+                        <>
+                          <Icon icon={icon} size={24} /> {contactInfoText}
+                        </>
+                      )}
                     </li>
                   )
                 })}
