@@ -7,7 +7,7 @@ contactUsHeading: Contact Information
 contactInfoList:
   - contactInfoText: "950 W Bannock Street, #860 Boise, ID 83702"
     icon: location
-  - contactInfoText: support@ourpetpolicy.com
+  - contactInfoText: info@landlordtech.com
     icon: envelope
   - contactInfoText: (208) 906-8886
     icon: phone
