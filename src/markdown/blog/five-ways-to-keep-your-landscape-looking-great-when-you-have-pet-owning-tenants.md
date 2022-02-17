@@ -1,5 +1,4 @@
 ---
-title: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
 path: /resources/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants
 date: 2021-08-23T03:33:00.079Z
 category: Blog
@@ -17,8 +16,8 @@ promoSection:
     No more hassle and potential legal disputes.
     Professional pet policy contracts in minutes.
   promoTitle: We Manage Pets Better​
+title: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
 ---
-
 Once you’ve weighed the pros and cons and decided to allow pet-owning tenant(s), the next decision tackles the issue of maintaining attractive landscaping and pet-friendly premises. Brown patches and animal waste are just a few of the potential negative side-effects pets can have on grass and landscaping.
 
 Remember that the burden does not fall solely on you. Pet-owning tenants can provide assistance by meeting certain requirements. These will vary depending on property type — single-family homes may be easier to regulate than apartment complexes, for example. Below are five ways you and your tenants can keep your landscape looking great.
@@ -35,7 +34,7 @@ Fake grass is an excellent option to further mitigate damage. Fake grass, or art
 
 Repeated bathroom usage in one area can cause yellow spots in natural lawns. If fake grass isn’t a feasible option for your landscaping, urine neutralizer treats for dogs assist in stopping yellow spots before they appear. There are a variety of options online and in stores.
 
-![Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants](/assets/ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants.png "Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants")
+![Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants](/assets/1ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants.png "Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants")
 
 **4. Incorporate a regular lawn fertilization schedule**
 
