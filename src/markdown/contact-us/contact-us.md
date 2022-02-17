@@ -9,6 +9,7 @@ contactInfoList:
     icon: location
   - contactInfoText: info@landlordtech.com
     icon: envelope
+    link: mailto:info@landlordtech.com
   - contactInfoText: (208) 906-8886
     icon: phone
 ---
