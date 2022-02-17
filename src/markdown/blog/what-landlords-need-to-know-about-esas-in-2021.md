@@ -1,5 +1,4 @@
 ---
-title: what landlords need to know about esas in 2021
 path: /resources/what-landlords-need-to-know-about-esas-in-2021
 date: 2021-07-01T12:43:40.558Z
 category: Ebook
@@ -7,7 +6,7 @@ excerpt: If your property normally does not allow pets, it may be tempting to
   deny an ESA outright, but there are multiple reasons why this may not be the
   best course of action.
 heroHeading: What Landlords Need To Know About ESAs In 2021
-heroImg: /assets/what-landlords-need-to-know-about-esas-in-2021.jpg
+heroImg: /assets/fair-housing-act1.jpeg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better​
@@ -17,13 +16,13 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+title: what landlords need to know about esas in 2021
 ---
-
 If your property normally does not allow pets, it may be tempting to deny an ESA outright, but there are multiple reasons why this may not be the best course of action. You want to avoid any legal problems that relate to the denial of these pets, so staying informed is essential.
 
 There are several circumstances in which you can legally deny an ESA. These animals are protected by the [Fair Housing Act](https://www.hud.gov/sites/documents/FHEO_BOOKLET_ENG.PDF) for people with disabilities. That being said, there are certain types of rentals that are not usually covered by the Fair Housing Act, which include: owner-occupied buildings with four or fewer units, single-family housing sold or rented without the use of a broker, and housing operated by organizations and private clubs that limit occupancy to members. If your property falls under one of these categories, you are legally able to deny an ESA.
 
-![Fair Housing Act](/assets/fair-housing-act.jpg "Fair Housing Act")
+![Fair Housing Act](/assets/verifying-esa-letters-768x432.jpeg "Fair Housing Act")
 
 If your property doesn’t fall under one of these categories, there are two circumstances in which an owner may deny an accommodation request, according to HUD. If the ESA would either impose a fundamental alteration to the nature of the provider’s operations or impose an undue financial and administrative burden on the provider, then the provider can deny the ESA.
 
