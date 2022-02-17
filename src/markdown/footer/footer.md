@@ -18,6 +18,7 @@ col4List:
     icon: phone
   - listItem: info@landlordtech.com
     icon: envelope
+    link: mailto:info@landlordtech.com
 privacyPolicyTitle: Privacy.
 privacyPolicyUrl: /privacy-policy
 termsAndConditionsTitle: Terms & Conditions.
