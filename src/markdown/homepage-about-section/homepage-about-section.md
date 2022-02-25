@@ -1,6 +1,6 @@
 ---
 title: homepage-about-section
-imageTextTitle: About us
+imageTextTitle: " "
 imageTextHeading: Solving Residential Real Estate Problems
 imageTextContent: Landlord Tech solves some of the messiest problems in the
   residential real estate industry. Our mission is to provide digital tools to
