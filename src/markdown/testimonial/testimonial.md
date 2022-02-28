@@ -1,6 +1,6 @@
 ---
 title: testimonial
-testimonialTitle: Our Customers Love Landlord Tech
+testimonialTitle: What Our Customers Have to Say
 testimonialList:
   - review: I use Landlord Tech for all of my properties. It has taken a huge
       management hassle out of pet management, and has saved me time, money and
