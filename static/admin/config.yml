@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
-  # name: github
-  # repo: Landlord-Tech/landlord-tech-landing-page
-  # branch: dev
+  name: github
+  repo: Landlord-Tech/landlord-tech-landing-page
+  branch: dev
 
 #publish_mode: editorial_workflow
 
