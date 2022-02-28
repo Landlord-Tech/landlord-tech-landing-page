@@ -11,7 +11,7 @@ contactUsHeading: Contact info
 contactInfoList:
   - contactInfoText: (208) 906 - 8886
     icon: phone
-  - contactInfoText: info@ourpetpolicy.com
+  - contactInfoText: info@landlordtech.com
     icon: envelope
     link: mailto:info@ourpetpolicy.com
   - contactInfoText: "950 W. Bannock, #860 Boise, Idaho 83702"
