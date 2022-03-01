@@ -2,8 +2,9 @@
 title: info-box
 infoBoxList:
   - infoBoxHeading: Pet Management Platform
-    infoBoxContent: Landlord Tech specializes in providing digital tools to help
-      property owners and managers successfully manage pets in their properties.
+    infoBoxContent: Landlord Tech offers the one and only comprehensive pet
+      management platform designed to solve the challenges property owners and
+      property managers face when it comes to renting.
     infoBoxButton: Learn more
     infoBoxButtonURL: /products
     icon: hand
@@ -17,8 +18,8 @@ infoBoxList:
   - infoBoxButton: Learn more
     infoBoxButtonURL: /products
     icon: pet-pow
-    infoBoxHeading: Pet Management Training
-    infoBoxContent: We offer initial training for all property managers and give
-      them resources to make sure they know exactly what is legal to expect in
-      accomodations for ESA's and Service Animals.
+    infoBoxHeading: Animal Mapping
+    infoBoxContent: Knowing what, and where, animals are residing in your properties
+      can have a direct impact on your bottom line. Not only benefiting you, but
+      all of your non-pet owning and pet-owning residents as well. A win-win.
 ---

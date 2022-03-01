@@ -1,9 +1,9 @@
 ---
 title: info-section
-infoSectionHeading: We're Here to Help
-infoSectionContent: Our Team of Residential Property Experts are just a click
-  away. We'd love to discuss how Landlord Tech can take the pain out of
-  residential pet management.
+infoSectionHeading: We Are Here to Help
+infoSectionContent: Our team of experts is only a click away. We would love to
+  discuss how we can help with your residential rental property pet management
+  needs.
 infoSectionBtnSecondary: Let’s talk
 infoSectionBtnSecondaryUrl: /request-demo/
 ---

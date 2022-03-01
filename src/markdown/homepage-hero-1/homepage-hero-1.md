@@ -10,5 +10,5 @@ heroBtnPrimaryUrl: /products
 heroBtnSecondary: Get a Demo
 heroBtnSecondaryUrl: /request-demo/
 heroImg: /assets/evelyn-paris.png
-calculatorTitle: Calculate the Savings
+calculatorTitle: Calculate Your Savings
 ---
