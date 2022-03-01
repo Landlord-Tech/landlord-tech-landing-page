@@ -30,7 +30,7 @@ const Header = ({ sticky, prodHeader }) => {
 
   return (
     <header
-      className={`header dark-header ${openedMenu ? "opened" : ""} ${
+      className={`header ${openedMenu ? "opened" : ""} ${
         sticky ? "sticky" : ""
       }`}
     >
@@ -55,7 +55,7 @@ const Header = ({ sticky, prodHeader }) => {
                 onClick={handleMenuToggle}
               >
                 <Icon
-                  color="#fff"
+                  color="#007fff"
                   size={24}
                   icon={`${openedMenu ? "close" : "burger"}`}
                 />
@@ -90,7 +90,7 @@ const Header = ({ sticky, prodHeader }) => {
                           openedDropdown ? "arrow-top" : "arrow-bottom"
                         }`}
                         size={24}
-                        color="#fcc425"
+                        color="#007fff"
                       />
                     </button>
                   </li>

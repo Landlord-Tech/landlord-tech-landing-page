@@ -10,6 +10,51 @@
   &.sticky {
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
   }
+
+  ul {
+    color: $color-text;
+  }
+
+  .with-dropdown {
+    position: relative;
+
+    .dropdown-content {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: $color-white;
+      color: $color-text;
+      padding: 16px 24px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.11);
+      border-radius: 8px;
+      visibility: hidden;
+      opacity: 0;
+      transition: 0.3s;
+
+      li {
+        font-size: 16px;
+        white-space: nowrap;
+
+        &:not(:last-child) {
+          margin-bottom: 16px;
+        }
+      }
+    }
+
+    .dropdown-btn {
+      display: none;
+      position: absolute;
+      top: 12px;
+      right: 20px;
+      cursor: pointer;
+    }
+    &:hover {
+      .desktop {
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
 }
 
 .header-content {
@@ -55,6 +100,10 @@
 
   .signup-btn {
     margin: 0 24px;
+    font-weight: 500;
+  }
+  .request-demo-btn {
+    font-weight: 500;
   }
 }
 
@@ -63,55 +112,6 @@
 
   img {
     width: 100%;
-  }
-}
-
-.dark-header {
-  background-color: $color-black;
-
-  ul {
-    color: $color-white;
-  }
-
-  .with-dropdown {
-    position: relative;
-
-    .dropdown-content {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      background-color: $color-white;
-      color: $color-text;
-      padding: 16px 24px;
-      box-shadow: 0 0 12px rgba(0, 0, 0, 0.11);
-      border-radius: 8px;
-      visibility: hidden;
-      opacity: 0;
-      transition: 0.3s;
-
-      li {
-        font-size: 16px;
-        white-space: nowrap;
-
-        &:not(:last-child) {
-          margin-bottom: 16px;
-        }
-      }
-    }
-
-    .dropdown-btn {
-      display: none;
-      position: absolute;
-      top: 12px;
-      right: 20px;
-      cursor: pointer;
-    }
-    &:hover {
-      .desktop {
-        opacity: 1;
-        visibility: visible;
-      }
-    }
   }
 }
 
