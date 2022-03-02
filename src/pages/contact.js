@@ -33,12 +33,12 @@ const ContactUs = () => {
                       <li key={index}>
                         {link ? (
                           <a href={link} rel="noreferrer">
-                            <Icon icon={icon} size={24} color="#FCC425" />
+                            <Icon icon={icon} size={24} color="#007FFF" />
                             {contactInfoText}
                           </a>
                         ) : (
                           <>
-                            <Icon icon={icon} size={24} color="#FCC425" />
+                            <Icon icon={icon} size={24} color="#007FFF" />
                             {contactInfoText}
                           </>
                         )}

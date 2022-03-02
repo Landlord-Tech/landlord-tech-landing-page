@@ -71,11 +71,13 @@ export default () => {
                     <li key={i}>
                       {link ? (
                         <a href={link} rel="noreferrer">
-                          <Icon icon={icon} size={24} /> {contactInfoText}
+                          <Icon icon={icon} size={24} color="#fff" />
+                          {contactInfoText}
                         </a>
                       ) : (
                         <>
-                          <Icon icon={icon} size={24} /> {contactInfoText}
+                          <Icon icon={icon} size={24} color="#fff" />
+                          {contactInfoText}
                         </>
                       )}
                     </li>

@@ -13,8 +13,18 @@ const Faq = ({ data }) => {
             trigger={
               <div className="trigger-inner">
                 <h4 className="h4">{q.faqQuestion}</h4>
-                <Icon icon="plus" className="plus" size={24} />{" "}
-                <Icon icon="minus" className="minus" size={24} />
+                <Icon
+                  icon="plus"
+                  className="plus"
+                  color="#007FFF"
+                  size={24}
+                />{" "}
+                <Icon
+                  icon="minus"
+                  className="minus"
+                  color="#007FFF"
+                  size={24}
+                />
               </div>
             }
           >

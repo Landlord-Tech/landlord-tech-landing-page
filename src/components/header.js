@@ -41,7 +41,7 @@ const Header = ({ sticky, prodHeader }) => {
             className="logo"
           >
             <StaticImage
-              src="../images/logo-white.svg"
+              src="../images/logo-blue.svg"
               alt="LandlordTech"
               formats={["AUTO", "WEBP", "AVIF"]}
               placeholder="transparent"
@@ -132,7 +132,7 @@ const Header = ({ sticky, prodHeader }) => {
                       href={primaryBtnUrl}
                       target="_blank"
                       rel="noreferrer"
-                      className="btn btn-md signup-btn secondary"
+                      className="btn btn-md signup-btn ghost"
                     >
                       {primaryBtn}
                     </a>

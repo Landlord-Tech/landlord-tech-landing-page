@@ -76,18 +76,18 @@ const Landlords = () => {
                 <p className="hero-text">{heroText}</p>
                 <div className="btn-group">
                   <a
-                    href={heroBtnPrimaryUrl}
-                    rel="noreferrer"
-                    className="btn btn-lg primary"
-                  >
-                    {heroBtnPrimary}
-                  </a>
-                  <a
                     href={heroBtnSecondaryUrl}
                     rel="noreferrer"
                     className="btn btn-lg secondary"
                   >
                     {heroBtnSecondary}
+                  </a>
+                  <a
+                    href={heroBtnPrimaryUrl}
+                    rel="noreferrer"
+                    className="btn btn-lg primary"
+                  >
+                    {heroBtnPrimary}
                   </a>
                 </div>
               </div>
@@ -193,7 +193,7 @@ const Landlords = () => {
           <a
             href={heroBtnPrimaryUrl2}
             rel="noreferrer"
-            className="btn btn-lg primary"
+            className="btn btn-lg secondary"
           >
             {heroBtnPrimary2}
           </a>

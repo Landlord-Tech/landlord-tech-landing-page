@@ -25,7 +25,7 @@ const Footer = () => {
       <div className="container">
         <Link className="logo" to={"/"}>
           <StaticImage
-            src="../images/logo-white.svg"
+            src="../images/logo-blue.svg"
             alt="Landlord tech"
             formats={["AUTO", "WEBP", "AVIF"]}
             placeholder="transparent"
@@ -72,12 +72,12 @@ const Footer = () => {
                   <li key={index}>
                     {link ? (
                       <a href={link} rel="noreferrer">
-                        <Icon color="#FCC425" icon={icon} size={24} />
+                        <Icon color="#007FFF" icon={icon} size={24} />
                         {listItem}
                       </a>
                     ) : (
                       <>
-                        <Icon color="#FCC425" icon={icon} size={24} />
+                        <Icon color="#007FFF" icon={icon} size={24} />
                         {listItem}
                       </>
                     )}

@@ -16,14 +16,14 @@
     display: block;
     width: 36px;
     height: 14px;
-    background-color: $color-grey;
+    background-color: $color-rage-toggle;
     border-radius: 7px;
     position: relative;
     cursor: pointer;
-    transition: .3s;
+    transition: 0.3s;
 
     &::before {
-      content: '';
+      content: "";
       width: 20px;
       height: 20px;
       min-width: 20px;
@@ -43,7 +43,6 @@
     display: none;
 
     &:checked {
-
       & ~ .slider {
         &::before {
           left: 17px;

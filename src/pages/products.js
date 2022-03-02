@@ -92,7 +92,7 @@ const Landlords = () => {
                 {platformDescList.map((item, i) => {
                   return (
                     <li key={i}>
-                      <Icon color="#FCC425" size={24} icon="check" />
+                      <Icon color="#007FFF" size={24} icon="check" />
                       {item.platformDescItem}
                     </li>
                   )
@@ -154,7 +154,7 @@ const Landlords = () => {
                 {landlordTechProgramList.map((item, i) => {
                   return (
                     <li key={i}>
-                      <Icon color="#FCC425" size={24} icon="check" />
+                      <Icon color="#007FFF" size={24} icon="check" />
                       {item.landlordTechProgramItem}
                     </li>
                   )
