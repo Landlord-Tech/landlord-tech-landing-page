@@ -1,10 +1,10 @@
 ---
-title: pricing-hero
-metaTitle: Pricing title
-metaDescription: Pricing description
-heroHeading: Professional pet policy residents in minutes
-heroSubhead: "When it comes to pets, let us do the heavy lifting for as little as $5/month "
-heroImg: /assets/working-table.png
+title: faq-hero
+metaTitle: FAQ title
+metaDescription: FAQ description
+heroHeading: We work with customers  of all sizes
+heroSubhead: Prices start as low as $5/month, book a demo to get your pricing today!
 heroBtnSecondary: Request a demo
-heroBtnSecondaryUrl: /request-demo/
+heroBtnSecondaryUrl: /request-demo
+heroImg: /assets/handshake.png
 ---
