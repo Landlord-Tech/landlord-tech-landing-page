@@ -102,8 +102,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title, widget: hidden, required: false }
-      - { name: metaTitle, label: Meta Title }
+      - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title, required: false }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Banner Heading }
       - { name: heroText, label: Banner Text }
