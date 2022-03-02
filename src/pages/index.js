@@ -50,7 +50,7 @@ const Landlords = () => {
     heroSecondaryTextUrl2,
   } = useHomepageHero2()
 
-  const { imageTextContent, imageTextHeading, imageTextTitle, imageTextImg } =
+  const { imageTextContent, imageTextHeading, imageTextTitle, videoSrcURL } =
     useHomepageAboutData()
 
   const { infoBoxList } = useInfoBoxData()
@@ -106,10 +106,7 @@ const Landlords = () => {
         <div className="container">
           <div className="img-text-content">
             <div className="img">
-              <GatsbyImage
-                alt={imageTextHeading}
-                image={getImage(imageTextImg)}
-              />
+              <iframe width="100%" height="256px" src={videoSrcURL}></iframe>
             </div>
             <div className="text">
               <h3 className="h3">{imageTextTitle}</h3>

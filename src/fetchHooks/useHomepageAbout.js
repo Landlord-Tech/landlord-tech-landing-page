@@ -8,11 +8,7 @@ export const useHomepageAboutData = () => {
           imageTextTitle
           imageTextHeading
           imageTextContent
-          imageTextImg {
-            childImageSharp {
-              gatsbyImageData
-            }
-          }
+          videoSrcURL
         }
       }
     }

@@ -9,6 +9,19 @@
     .title {
       padding-bottom: 40px;
     }
+    .about-section {
+      padding-top: 0px;
+    }
+  }
+
+  .img-text-section {
+    padding: 20px 0;
+    &:nth-child(even) {
+      .img {
+        order: initial;
+        margin: 0;
+      }
+    }
   }
 
   .calculator-section {

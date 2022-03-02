@@ -124,7 +124,7 @@ collections:
       - { name: imageTextTitle, label: Image text title }
       - { name: imageTextHeading, label: Image Text Heading }
       - { name: imageTextContent, label: Image Text Content }
-      - { name: imageTextImg, label: Image Text image, widget: image }
+      - { name: videoSrcURL, label: Video URL }
   - name: info-box
     label: Info Box
     folder: src/markdown/info-box
