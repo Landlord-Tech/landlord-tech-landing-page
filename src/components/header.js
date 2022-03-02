@@ -63,21 +63,15 @@ const Header = ({ sticky, prodHeader }) => {
               <nav className="header-nav">
                 <ul className="header-nav-list">
                   <li className="with-dropdown">
-                    <Link activeClassName={"active-link"} to="/products">
-                      Products
-                    </Link>
+                    Products
                     <ul
                       className={`dropdown-content ${
                         openedDropdown ? "opened" : "desktop"
                       }`}
                     >
                       <li>
-                        <Link
-                          activeClassName={"active-link"}
-                          to="https://www.ourpetpolicy.com"
-                          target="_blank"
-                        >
-                          Our Pet Policy
+                        <Link to="/products" target="_blank">
+                          OurPetPolicy
                         </Link>
                       </li>
                     </ul>

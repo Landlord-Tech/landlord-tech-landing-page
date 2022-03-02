@@ -64,7 +64,7 @@ const Footer = () => {
           </li>
           <li className="footer-top-col">
             <h4 className="h4">
-              <Link to={"/contact-us/"}>{col4Title}</Link>
+              <Link to={"/contact/"}>{col4Title}</Link>
             </h4>
             <ul className="footer-contact">
               {col4List.map(({ listItem, icon, link }, index) => {
