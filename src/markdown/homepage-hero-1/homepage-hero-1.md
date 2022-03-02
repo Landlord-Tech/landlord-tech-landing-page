@@ -1,6 +1,6 @@
 ---
 title: homepage-hero-1
-metaTitle: Homepage title
+metaTitle: ""
 metaDescription: Providing Landlords The Tools For The Job
 heroHeading: Mischief Managed
 heroText: Transform the way you manage your pet program in your residential
