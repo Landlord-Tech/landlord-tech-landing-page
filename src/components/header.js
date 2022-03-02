@@ -108,8 +108,8 @@ const Header = ({ sticky, prodHeader }) => {
                     </Link>
                   </li>
                   <li>
-                    <Link activeClassName={"active-link"} to="/pricing/">
-                      Pricing
+                    <Link activeClassName={"active-link"} to="/faq/">
+                      FAQ
                     </Link>
                   </li>
                   <li>

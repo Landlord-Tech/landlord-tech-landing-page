@@ -474,54 +474,23 @@ collections:
       - { name: ourProductsSectionHeading, label: Our Products Heading }
       - { name: ourProductsSectionSubhead, label: Our Products Subhead }
       - { name: ourProductsSectionContent, label: Our Products Content }
-  # pricing
-  - name: pricing-hero
-    label: Pricing Banner
-    folder: src/markdown/pricing-hero
+  # faq
+  - name: faq-hero
+    label: FAQ Banner
+    folder: src/markdown/faq-hero
     preview_path: /
     create: true
     editor:
       preview: false
     fields:
-      - { name: title, label: Title, widget: hidden }
+      - { name: title, label: Title }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Banner Heading }
       - { name: heroSubhead, label: Banner Subhead }
-  - name: pricing-list
-    label: Pricing List
-    folder: src/markdown/pricing-list
-    preview_path: /
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { name: title, label: Title, widget: hidden }
-      - name: pricingList
-        label: Pricing List
-        widget: list
-        fields:
-          - {
-              label: Pricing plan,
-              name: pricingPlan,
-              widget: select,
-              options: ["Starter", "Standard", "Business", "Premium"],
-            }
-          - {
-              label: Pricing contacts number,
-              name: contractNumber,
-              widget: select,
-              options: [1-50, 51-250, 251-1000, ">1000"],
-            }
-          - {
-              label: Plan Price,
-              name: planPrice,
-              widget: select,
-              options: ["5", "4", "3"],
-              required: false,
-            }
-          - { name: pricingBtn, label: Pricing button }
-          - { name: pricingBtnUrl, label: Pricing button url }
+      - { name: heroBtnSecondary, label: Banner button secondary }
+      - { name: heroBtnSecondaryUrl, label: Banner button secondary url }
+      - { name: heroImg, label: Banner image, widget: image }
   - name: faq-list
     label: FAQ List
     folder: src/markdown/faq-list
@@ -533,7 +502,7 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: faqHeading, label: FAQ Heading }
       - name: faqList
-        label: Pricing List
+        label: FAQ List
         widget: list
         fields:
           - { name: faqQuestion, label: FAQ question }
@@ -548,8 +517,9 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: aboutUsHeading, label: About Us Hero Heading }
-      - { name: aboutUsSubhead, label: About Us Hero Subhead }
+      - { name: contactUsBannerHeading, label: Contact Us Banner Heading }
+      - { name: contactUsBannerSubhead, label: Contact Us Banner Subhead }
+      - { name: heroImg, label: Contact Us Banner image, widget: image }
       - { name: contactUsHeading, label: Contact Us Heading }
       - name: contactInfoList
         label: Contact Info List

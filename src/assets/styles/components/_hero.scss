@@ -95,6 +95,13 @@
     margin-left: auto;
   }
 
+  .hero-centered {
+    max-width: 740px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
   &.sm {
     max-height: 520px;
     .hero-left {

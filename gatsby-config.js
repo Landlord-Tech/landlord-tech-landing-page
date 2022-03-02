@@ -218,15 +218,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pricing-hero`,
-        path: `${__dirname}/src/markdown/pricing-hero`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `pricing-list`,
-        path: `${__dirname}/src/markdown/pricing-list`,
+        name: `faq-hero`,
+        path: `${__dirname}/src/markdown/faq-hero`,
       },
     },
     {
