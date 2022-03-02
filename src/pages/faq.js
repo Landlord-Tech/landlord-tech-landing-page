@@ -22,16 +22,6 @@ const FAQ = () => {
   return (
     <Layout>
       <Seo title={metaTitle} description={metaDescription} />
-      <section className="small-hero md">
-        <div className="container">
-          <div className="small-hero-content">
-            <div className="small-hero-text">
-              <h1 className="h1">{heroHeading}</h1>
-              <p className="pre-text">{heroSubhead}</p>
-            </div>
-          </div>
-        </div>
-      </section>
       <section className="hero withOverlay page-top-hero">
         <GatsbyImage
           className="grid-1"
@@ -42,7 +32,7 @@ const FAQ = () => {
         <div className="banner-grid">
           <div className="container">
             <div className="hero-content centered">
-              <div className="hero-left">
+              <div className="hero-centered">
                 <h1 className="h1">{heroHeading}</h1>
                 <p className="pre-text">{heroSubhead}</p>
                 <div className="btn-group">

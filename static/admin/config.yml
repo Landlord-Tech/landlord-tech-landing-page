@@ -484,7 +484,7 @@ collections:
         widget: list
         fields:
           - { name: faqQuestion, label: FAQ question }
-          - { name: faqAnswer, label: FAQ answer }
+          - { name: faqAnswer, label: FAQ answer, widget: markdown }
   # Contact us
   - name: contact-us
     label: Contact Us
