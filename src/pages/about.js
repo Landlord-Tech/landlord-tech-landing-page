@@ -38,7 +38,7 @@ export default () => {
 
   return (
     <Layout className="landing">
-      <section className="hero withOverlay page-top-hero">
+      <section className="hero withOverlay page-top-hero sm">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading}

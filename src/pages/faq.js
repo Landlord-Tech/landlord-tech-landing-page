@@ -22,7 +22,7 @@ const FAQ = () => {
   return (
     <Layout>
       <Seo title={metaTitle} description={metaDescription} />
-      <section className="hero withOverlay page-top-hero">
+      <section className="hero withOverlay page-top-hero sm">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading}
