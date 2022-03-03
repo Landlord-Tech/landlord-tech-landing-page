@@ -24,7 +24,8 @@
     }
 
     .hero-left,
-    .hero-right {
+    .hero-right,
+    .hero-centered {
       text-align: center;
       padding: 20px;
       a {
@@ -52,6 +53,9 @@
       }
       .btn-group {
         padding-bottom: 24px;
+      }
+      .gatsby-image-wrapper {
+        max-height: 400px;
       }
     }
   }

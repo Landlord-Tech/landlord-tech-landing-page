@@ -25,7 +25,7 @@ const Footer = () => {
       <div className="container">
         <Link className="logo" to={"/"}>
           <StaticImage
-            src="../images/logo-white.svg"
+            src="../images/logo-blue.svg"
             alt="Landlord tech"
             formats={["AUTO", "WEBP", "AVIF"]}
             placeholder="transparent"
@@ -64,7 +64,7 @@ const Footer = () => {
           </li>
           <li className="footer-top-col">
             <h4 className="h4">
-              <Link to={"/contact-us/"}>{col4Title}</Link>
+              <Link to={"/contact/"}>{col4Title}</Link>
             </h4>
             <ul className="footer-contact">
               {col4List.map(({ listItem, icon, link }, index) => {
@@ -72,12 +72,12 @@ const Footer = () => {
                   <li key={index}>
                     {link ? (
                       <a href={link} rel="noreferrer">
-                        <Icon color="#FCC425" icon={icon} size={24} />
+                        <Icon color="#007FFF" icon={icon} size={24} />
                         {listItem}
                       </a>
                     ) : (
                       <>
-                        <Icon color="#FCC425" icon={icon} size={24} />
+                        <Icon color="#007FFF" icon={icon} size={24} />
                         {listItem}
                       </>
                     )}

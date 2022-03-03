@@ -40,7 +40,7 @@ const Layout = ({ children, className, prodHeader }) => {
         onClick={() => scrollTo("#top")}
         className={`go-top-btn ${scrollTop ? "fade-in" : ""}`}
       >
-        <Icon color="#0D0D0D" size={36} icon="arrow-top" />
+        <Icon color="#fff" size={36} icon="arrow-top" />
       </button>
     </>
   )

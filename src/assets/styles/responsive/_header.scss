@@ -70,10 +70,6 @@
     }
   }
   .dark-header {
-    .header-nav {
-      background-color: rgba(0, 0, 0, 0.9);
-    }
-
     .signup-btn {
       background: $color-light-gradient;
       border: 1px solid $color-primary;
@@ -119,7 +115,8 @@
         .dropdown-content {
           position: static;
           background-color: transparent;
-          color: $color-white;
+          color: $color-text;
+          box-shadow: none;
           padding: 0;
           height: 0;
           display: none;

@@ -17,21 +17,25 @@
 }
 
 .contact-info-section {
-  background-color: $color-primary;
+  background-color: $color-range;
   .contact-info-wrapper {
     display: flex;
 
     .contact-info-block {
-      background: $color-light-gradient-hover;
+      background: $color-primary;
       padding: 64px;
       box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
       border-radius: 24px;
       max-width: 480px;
       width: 100%;
+      .h3 {
+        color: $color-white;
+      }
       .contact-info {
         padding-top: 40px;
         li {
           padding: 14px 0;
+          color: $color-white;
           svg {
             margin-right: 12px;
           }

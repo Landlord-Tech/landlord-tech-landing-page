@@ -1,5 +1,4 @@
-
-@import '~rc-slider/assets/index.css';
+@import "~rc-slider/assets/index.css";
 .rangeInput-wrapper {
   padding-bottom: 30px;
 }
@@ -9,7 +8,6 @@
   justify-content: space-between;
   padding-bottom: 14px;
   color: $color-text-light;
-
 
   input {
     height: 35px;
@@ -22,8 +20,10 @@
     color: $color-text-light;
   }
 }
-.range-input, .rc-slider-track, .rc-slider-rail {
-  background-color: $color-range;
+.range-input,
+.rc-slider-track,
+.rc-slider-rail {
+  background-color: $color-rage-toggle;
 }
 .rc-slider-handle {
   border: none;
@@ -45,4 +45,3 @@
   border: none;
   background-color: $color-text-light;
 }
-

@@ -10,7 +10,7 @@ const BlogList = () => {
       <section className="small-hero xs">
         <div className="container">
           <div className="small-hero-content">
-            <div className="small-hero-text">
+            <div className="small-hero-text resources-header">
               <h1 className="h1">{heroHeading}</h1>
               <p className="hero-text">{heroText}</p>
             </div>
