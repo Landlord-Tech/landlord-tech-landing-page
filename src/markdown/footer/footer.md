@@ -1,17 +1,17 @@
 ---
 title: footer
-col1Title: New to Landlord Tech
+col1Title: Landlord Tech
 col1List:
-  - listItem: Why Landlord Tech
-    listItemUrl: "#"
+  - listItem: Our Story
+    listItemUrl: /about/
 col2Title: Products
 col2List:
-  - listItem: Pet management platform
+  - listItem: OurPetPolicy
     listItemUrl: /products
-col3Title: About Landlord tech
+col3Title: Resources
 col3List:
-  - listItem: Our story
-    listItemUrl: /about/
+  - listItem: Blog
+    listItemUrl: /resources/
 col4Title: Contact us
 col4List:
   - listItem: (208) 906 - 8886
