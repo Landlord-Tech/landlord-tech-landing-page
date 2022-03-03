@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `homepage-about-section`,
-        path: `${__dirname}/src/markdown/homepage-about-section`,
+        name: `homepage-video-section`,
+        path: `${__dirname}/src/markdown/homepage-video-section`,
       },
     },
     {

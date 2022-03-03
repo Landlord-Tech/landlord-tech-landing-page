@@ -113,15 +113,14 @@ collections:
       - { name: heroBtnSecondaryUrl, label: Banner button secondary url }
       - { name: heroImg, label: Banner image, widget: image }
       - { name: calculatorTitle, label: Calculator Title }
-  - name: homepage-about-section
-    label: Homepage About Section
+  - name: homepage-video-section
+    label: Homepage Video Section
     folder: src/markdown/homepage-about-section
     preview_path: /
     editor:
       preview: false
     fields:
-      - { name: title, label: Title, widget: hidden }
-      - { name: imageTextTitle, label: Image text title }
+      - { name: title, label: Title }
       - { name: imageTextHeading, label: Image Text Heading }
       - { name: imageTextContent, label: Image Text Content }
       - { name: videoSrcURL, label: Video URL }

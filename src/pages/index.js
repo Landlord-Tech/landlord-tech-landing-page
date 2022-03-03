@@ -13,7 +13,7 @@ import Testimonial from "../components/Testimonial"
 import { useHomepageHero1Data } from "../fetchHooks/useHomepageHero1Data"
 import { useInfoBoxData } from "../fetchHooks/useInfoBox"
 import { useInfoBlockData } from "../fetchHooks/useInfoBlock"
-import { useHomepageAboutData } from "../fetchHooks/useHomepageAbout"
+import { useHomepageVideoSection } from "../fetchHooks/useHomepageVideoSection"
 import { useTestimonialData } from "../fetchHooks/useTestimonials"
 import { useHomepageHero2 } from "../fetchHooks/useHomepageHero2"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
@@ -50,8 +50,8 @@ const Landlords = () => {
     heroSecondaryTextUrl2,
   } = useHomepageHero2()
 
-  const { imageTextContent, imageTextHeading, imageTextTitle, videoSrcURL } =
-    useHomepageAboutData()
+  const { imageTextContent, imageTextHeading, videoSrcURL } =
+    useHomepageVideoSection()
 
   const { infoBoxList } = useInfoBoxData()
   const { infoBlockList } = useInfoBlockData()
@@ -109,7 +109,6 @@ const Landlords = () => {
               <iframe width="100%" height="256px" src={videoSrcURL}></iframe>
             </div>
             <div className="text">
-              <h3 className="h3">{imageTextTitle}</h3>
               <h2 className="large-title">{imageTextHeading}</h2>
               <p>{imageTextContent}</p>
             </div>
