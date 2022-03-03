@@ -30,7 +30,7 @@ const Header = ({ sticky, prodHeader }) => {
 
   return (
     <header
-      className={`header dark-header ${openedMenu ? "opened" : ""} ${
+      className={`header ${openedMenu ? "opened" : ""} ${
         sticky ? "sticky" : ""
       }`}
     >
@@ -41,7 +41,7 @@ const Header = ({ sticky, prodHeader }) => {
             className="logo"
           >
             <StaticImage
-              src="../images/logo-white.svg"
+              src="../images/logo-blue.svg"
               alt="LandlordTech"
               formats={["AUTO", "WEBP", "AVIF"]}
               placeholder="transparent"
@@ -55,7 +55,7 @@ const Header = ({ sticky, prodHeader }) => {
                 onClick={handleMenuToggle}
               >
                 <Icon
-                  color="#fff"
+                  color="#007fff"
                   size={24}
                   icon={`${openedMenu ? "close" : "burger"}`}
                 />
@@ -63,21 +63,15 @@ const Header = ({ sticky, prodHeader }) => {
               <nav className="header-nav">
                 <ul className="header-nav-list">
                   <li className="with-dropdown">
-                    <Link activeClassName={"active-link"} to="/products">
-                      Products
-                    </Link>
+                    Products
                     <ul
                       className={`dropdown-content ${
                         openedDropdown ? "opened" : "desktop"
                       }`}
                     >
                       <li>
-                        <Link
-                          activeClassName={"active-link"}
-                          to="https://www.ourpetpolicy.com"
-                          target="_blank"
-                        >
-                          Our Pet Policy
+                        <Link to="/products" target="_blank">
+                          OurPetPolicy
                         </Link>
                       </li>
                     </ul>
@@ -90,7 +84,7 @@ const Header = ({ sticky, prodHeader }) => {
                           openedDropdown ? "arrow-top" : "arrow-bottom"
                         }`}
                         size={24}
-                        color="#fcc425"
+                        color="#007fff"
                       />
                     </button>
                   </li>
@@ -108,8 +102,8 @@ const Header = ({ sticky, prodHeader }) => {
                     </Link>
                   </li>
                   <li>
-                    <Link activeClassName={"active-link"} to="/pricing/">
-                      Pricing
+                    <Link activeClassName={"active-link"} to="/faq/">
+                      FAQ
                     </Link>
                   </li>
                   <li>
@@ -132,7 +126,7 @@ const Header = ({ sticky, prodHeader }) => {
                       href={primaryBtnUrl}
                       target="_blank"
                       rel="noreferrer"
-                      className="btn btn-md signup-btn secondary"
+                      className="btn btn-md signup-btn ghost"
                     >
                       {primaryBtn}
                     </a>

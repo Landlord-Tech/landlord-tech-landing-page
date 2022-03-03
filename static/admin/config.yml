@@ -15,7 +15,6 @@ collections:
     label: Header
     folder: src/markdown/header
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -31,7 +30,6 @@ collections:
     label: Footer
     folder: src/markdown/footer
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -79,7 +77,6 @@ collections:
     label: Terms and Conditions
     folder: src/markdown/terms-and-conditions
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -91,7 +88,6 @@ collections:
     label: Privacy Policy
     folder: src/markdown/privacy-policy
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -103,12 +99,11 @@ collections:
     label: Homepage Banner 1
     folder: src/markdown/homepage-hero-1
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: metaTitle, label: Meta Title }
+      - { name: metaTitle, label: Meta Title, required: false }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Banner Heading }
       - { name: heroText, label: Banner Text }
@@ -118,24 +113,24 @@ collections:
       - { name: heroBtnSecondaryUrl, label: Banner button secondary url }
       - { name: heroImg, label: Banner image, widget: image }
       - { name: calculatorTitle, label: Calculator Title }
-  - name: homepage-about-section
-    label: Homepage About Section
+  - name: homepage-video-section
+    label: Homepage Video Section
     folder: src/markdown/homepage-about-section
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: imageTextTitle, label: Image text title }
       - { name: imageTextHeading, label: Image Text Heading }
       - { name: imageTextContent, label: Image Text Content }
-      - { name: imageTextImg, label: Image Text image, widget: image }
+      - {
+          name: videoSrcURL,
+          label: Video URL (use embed link. e.g. https://www.youtube.com/embed/eqjWfU2NWTc),
+        }
   - name: info-box
     label: Info Box
     folder: src/markdown/info-box
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -158,7 +153,6 @@ collections:
     label: Homepage 3 row blocks
     folder: src/markdown/info-block
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -180,7 +174,6 @@ collections:
     label: Testimonial
     folder: src/markdown/testimonial
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -198,7 +191,6 @@ collections:
     label: Homepage Banner 2
     folder: src/markdown/homepage-hero-2
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -215,7 +207,6 @@ collections:
     label: Blue Info Banner
     folder: src/markdown/info-section
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -232,7 +223,6 @@ collections:
     label: With Pet Calculator
     folder: src/markdown/with-pet-calculator
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -282,7 +272,6 @@ collections:
     label: With No Pet Calculator
     folder: src/markdown/with-no-pet-calculator
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -339,7 +328,6 @@ collections:
     label: Products Banner 1
     folder: src/markdown/products-hero-1
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -376,7 +364,6 @@ collections:
     label: Products Banner 2
     folder: src/markdown/products-hero-2
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -390,7 +377,6 @@ collections:
     label: Products Image and Text Section 2
     folder: src/markdown/landlord-tech-program-section
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -417,7 +403,6 @@ collections:
     label: Products Banner 3
     folder: src/markdown/products-hero-3
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -430,7 +415,6 @@ collections:
     label: About Banner
     folder: src/markdown/about-hero
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -441,7 +425,6 @@ collections:
     label: About Us Section
     folder: src/markdown/about-us-section
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -466,7 +449,6 @@ collections:
     label: About Our Products Section
     folder: src/markdown/our-products-section
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -474,82 +456,49 @@ collections:
       - { name: ourProductsSectionHeading, label: Our Products Heading }
       - { name: ourProductsSectionSubhead, label: Our Products Subhead }
       - { name: ourProductsSectionContent, label: Our Products Content }
-  # pricing
-  - name: pricing-hero
-    label: Pricing Banner
-    folder: src/markdown/pricing-hero
+  # faq
+  - name: faq-hero
+    label: FAQ Banner
+    folder: src/markdown/faq-hero
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
-      - { name: title, label: Title, widget: hidden }
+      - { name: title, label: Title }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Banner Heading }
       - { name: heroSubhead, label: Banner Subhead }
-  - name: pricing-list
-    label: Pricing List
-    folder: src/markdown/pricing-list
-    preview_path: /
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { name: title, label: Title, widget: hidden }
-      - name: pricingList
-        label: Pricing List
-        widget: list
-        fields:
-          - {
-              label: Pricing plan,
-              name: pricingPlan,
-              widget: select,
-              options: ["Starter", "Standard", "Business", "Premium"],
-            }
-          - {
-              label: Pricing contacts number,
-              name: contractNumber,
-              widget: select,
-              options: [1-50, 51-250, 251-1000, ">1000"],
-            }
-          - {
-              label: Plan Price,
-              name: planPrice,
-              widget: select,
-              options: ["5", "4", "3"],
-              required: false,
-            }
-          - { name: pricingBtn, label: Pricing button }
-          - { name: pricingBtnUrl, label: Pricing button url }
+      - { name: heroBtnSecondary, label: Banner button secondary }
+      - { name: heroBtnSecondaryUrl, label: Banner button secondary url }
+      - { name: heroImg, label: Banner image, widget: image }
   - name: faq-list
     label: FAQ List
     folder: src/markdown/faq-list
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
       - { name: faqHeading, label: FAQ Heading }
       - name: faqList
-        label: Pricing List
+        label: FAQ List
         widget: list
         fields:
           - { name: faqQuestion, label: FAQ question }
-          - { name: faqAnswer, label: FAQ answer }
+          - { name: faqAnswer, label: FAQ answer, widget: markdown }
   # Contact us
   - name: contact-us
     label: Contact Us
     folder: src/markdown/contact-us
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
-      - { name: aboutUsHeading, label: About Us Hero Heading }
-      - { name: aboutUsSubhead, label: About Us Hero Subhead }
+      - { name: contactUsBannerHeading, label: Contact Us Banner Heading }
+      - { name: contactUsBannerSubhead, label: Contact Us Banner Subhead }
+      - { name: heroImg, label: Contact Us Banner image, widget: image }
       - { name: contactUsHeading, label: Contact Us Heading }
       - name: contactInfoList
         label: Contact Info List
@@ -567,7 +516,6 @@ collections:
     label: Contact Form
     folder: src/markdown/contact-form
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -641,7 +589,6 @@ collections:
     label: Request a demo
     folder: src/markdown/request-demo
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -661,7 +608,6 @@ collections:
     label: Not Found
     folder: src/markdown/not-found
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:

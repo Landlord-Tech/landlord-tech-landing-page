@@ -1,21 +1,35 @@
 import React from "react"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import ContactForm from "../components/contactForm"
 import Icon from "../components/Icon"
 import { useContactUsData } from "../fetchHooks/useContactUs"
 
 const ContactUs = () => {
-  const { aboutUsHeading, aboutUsSubhead, contactUsHeading, contactInfoList } =
-    useContactUsData()
+  const {
+    contactUsBannerHeading,
+    contactUsBannerSubhead,
+    heroImg,
+    contactUsHeading,
+    contactInfoList,
+  } = useContactUsData()
 
   return (
     <Layout>
-      <section className="small-hero">
-        <div className="container">
-          <div className="small-hero-content">
-            <div className="small-hero-text">
-              <h1 className="h1">{aboutUsHeading}</h1>
-              <p>{aboutUsSubhead}</p>
+      <section className="hero withOverlay page-top-hero sm">
+        <GatsbyImage
+          className="grid-1"
+          alt={contactUsBannerHeading}
+          image={getImage(heroImg)}
+          objectFit="cover"
+        />
+        <div className="banner-grid">
+          <div className="container">
+            <div className="hero-content centered">
+              <div className="hero-centered">
+                <h1 className="h1">{contactUsBannerHeading}</h1>
+                <p>{contactUsBannerSubhead}</p>
+              </div>
             </div>
           </div>
         </div>
@@ -33,12 +47,12 @@ const ContactUs = () => {
                       <li key={index}>
                         {link ? (
                           <a href={link} rel="noreferrer">
-                            <Icon icon={icon} size={24} color="#FCC425" />
+                            <Icon icon={icon} size={24} color="#007FFF" />
                             {contactInfoText}
                           </a>
                         ) : (
                           <>
-                            <Icon icon={icon} size={24} color="#FCC425" />
+                            <Icon icon={icon} size={24} color="#007FFF" />
                             {contactInfoText}
                           </>
                         )}

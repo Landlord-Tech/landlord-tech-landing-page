@@ -30,13 +30,10 @@
   }
 
   &.withOverlay {
-    .h1 {
-      color: $color-primary;
-    }
-
     p,
     .h2,
-    .h5 {
+    .h5,
+    .h1 {
       color: $color-white;
     }
 
@@ -98,10 +95,23 @@
     margin-left: auto;
   }
 
+  .hero-centered {
+    max-width: 740px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    a {
+      margin-top: 32px;
+    }
+  }
+
   &.sm {
     max-height: 520px;
     .hero-left {
       padding: 110px 0;
+    }
+    .gatsby-image-wrapper {
+      max-height: 520px;
     }
   }
 }

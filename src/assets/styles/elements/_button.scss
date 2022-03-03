@@ -62,10 +62,11 @@
     background-color: #00acee;
   }
   &.primary {
+    color: $color-white;
     background-image: $color-gradient;
 
     &:hover {
-      background-position: -100%;
+      background-position: 0 0;
     }
   }
   &.secondary {

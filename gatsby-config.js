@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pet Policies Done Right | LandlordTech`,
+    title: `Providing Landlords The Tools For The Job | LandlordTech`,
     description: `Increase revenue, transparency, and tenant satisfaction with the most advanced pet policy platform on the market.`,
     author: `UltraLabs`,
     siteUrl: `https://landlordtech.com`,
@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `homepage-about-section`,
-        path: `${__dirname}/src/markdown/homepage-about-section`,
+        name: `homepage-video-section`,
+        path: `${__dirname}/src/markdown/homepage-video-section`,
       },
     },
     {
@@ -218,15 +218,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pricing-hero`,
-        path: `${__dirname}/src/markdown/pricing-hero`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `pricing-list`,
-        path: `${__dirname}/src/markdown/pricing-list`,
+        name: `faq-hero`,
+        path: `${__dirname}/src/markdown/faq-hero`,
       },
     },
     {

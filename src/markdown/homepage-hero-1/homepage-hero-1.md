@@ -1,6 +1,6 @@
 ---
 title: homepage-hero-1
-metaTitle: Homepage title
+metaTitle: ""
 metaDescription: Providing Landlords The Tools For The Job
 heroHeading: Mischief Managed
 heroText: Transform the way you manage your pet program in your residential
@@ -9,6 +9,6 @@ heroBtnPrimary: Learn more
 heroBtnPrimaryUrl: /products
 heroBtnSecondary: Get a Demo
 heroBtnSecondaryUrl: /request-demo/
-heroImg: /assets/evelyn-paris.png
+heroImg: /assets/appartements.png
 calculatorTitle: Calculate Your Savings
 ---

@@ -7,7 +7,7 @@
     }
   }
 
-  .about-section {
+  .video-section {
     padding-top: 80px;
   }
 }
@@ -91,6 +91,12 @@
 
 .img-text-section {
   padding: 20px 0;
+  &:nth-child(even) {
+    .img {
+      order: 2;
+      margin: 0 0 0 48px;
+    }
+  }
   &:last-child {
     padding-bottom: 0;
   }
@@ -112,6 +118,10 @@
   .img {
     width: 50%;
     margin-right: 48px;
+    iframe {
+      height: 260px;
+      width: 100%;
+    }
   }
   .text {
     width: 50%;
@@ -158,5 +168,15 @@
   }
   60% {
     transform: translateY(-8px);
+  }
+}
+
+@media screen and (min-width: 1537px) {
+  .img-text-content {
+    .img {
+      iframe {
+        height: 370px;
+      }
+    }
   }
 }

@@ -1,5 +1,5 @@
 import * as React from "react"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Icon from "../components/Icon"
 import InfoBox from "../components/InfoBox"
@@ -38,7 +38,7 @@ export default () => {
 
   return (
     <Layout className="landing">
-      <section className="hero withOverlay page-top-hero">
+      <section className="hero withOverlay page-top-hero sm">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading}
@@ -71,11 +71,13 @@ export default () => {
                     <li key={i}>
                       {link ? (
                         <a href={link} rel="noreferrer">
-                          <Icon icon={icon} size={24} /> {contactInfoText}
+                          <Icon icon={icon} size={24} color="#fff" />
+                          {contactInfoText}
                         </a>
                       ) : (
                         <>
-                          <Icon icon={icon} size={24} /> {contactInfoText}
+                          <Icon icon={icon} size={24} color="#fff" />
+                          {contactInfoText}
                         </>
                       )}
                     </li>

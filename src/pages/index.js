@@ -13,7 +13,7 @@ import Testimonial from "../components/Testimonial"
 import { useHomepageHero1Data } from "../fetchHooks/useHomepageHero1Data"
 import { useInfoBoxData } from "../fetchHooks/useInfoBox"
 import { useInfoBlockData } from "../fetchHooks/useInfoBlock"
-import { useHomepageAboutData } from "../fetchHooks/useHomepageAbout"
+import { useHomepageVideoSectionData } from "../fetchHooks/useHomepageVideoSection"
 import { useTestimonialData } from "../fetchHooks/useTestimonials"
 import { useHomepageHero2 } from "../fetchHooks/useHomepageHero2"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
@@ -50,8 +50,8 @@ const Landlords = () => {
     heroSecondaryTextUrl2,
   } = useHomepageHero2()
 
-  const { imageTextContent, imageTextHeading, imageTextTitle, imageTextImg } =
-    useHomepageAboutData()
+  const { imageTextContent, imageTextHeading, videoSrcURL } =
+    useHomepageVideoSectionData()
 
   const { infoBoxList } = useInfoBoxData()
   const { infoBlockList } = useInfoBlockData()
@@ -76,18 +76,18 @@ const Landlords = () => {
                 <p className="hero-text">{heroText}</p>
                 <div className="btn-group">
                   <a
-                    href={heroBtnPrimaryUrl}
-                    rel="noreferrer"
-                    className="btn btn-lg primary"
-                  >
-                    {heroBtnPrimary}
-                  </a>
-                  <a
                     href={heroBtnSecondaryUrl}
                     rel="noreferrer"
                     className="btn btn-lg secondary"
                   >
                     {heroBtnSecondary}
+                  </a>
+                  <a
+                    href={heroBtnPrimaryUrl}
+                    rel="noreferrer"
+                    className="btn btn-lg primary"
+                  >
+                    {heroBtnPrimary}
                   </a>
                 </div>
               </div>
@@ -102,17 +102,13 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section className="img-text-section about-section">
+      <section className="img-text-section video-section">
         <div className="container">
           <div className="img-text-content">
             <div className="img">
-              <GatsbyImage
-                alt={imageTextHeading}
-                image={getImage(imageTextImg)}
-              />
+              <iframe src={videoSrcURL}></iframe>
             </div>
             <div className="text">
-              <h3 className="h3">{imageTextTitle}</h3>
               <h2 className="large-title">{imageTextHeading}</h2>
               <p>{imageTextContent}</p>
             </div>
@@ -193,7 +189,7 @@ const Landlords = () => {
           <a
             href={heroBtnPrimaryUrl2}
             rel="noreferrer"
-            className="btn btn-lg primary"
+            className="btn btn-lg secondary"
           >
             {heroBtnPrimary2}
           </a>

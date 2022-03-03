@@ -112,7 +112,7 @@ const CalculatorSection = () => {
               ? "/calculator-no-pets-allowed"
               : "/calculator-pets-allowed"
           }`}
-          className="btn btn-sm secondary"
+          className="btn btn-sm ghost"
         >
           Open advanced calculator
         </Link>
