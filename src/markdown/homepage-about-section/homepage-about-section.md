@@ -1,5 +1,5 @@
 ---
-title: homepage-about-section
+title: homepage-video-section
 imageTextTitle: " "
 imageTextHeading: Solving Residential Real Estate Problems
 imageTextContent: Landlord Tech solves some of the messiest problems in the
