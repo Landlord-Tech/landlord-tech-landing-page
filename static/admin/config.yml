@@ -125,7 +125,7 @@ collections:
       - { name: imageTextContent, label: Image Text Content }
       - {
           name: videoSrcURL,
-          label: Video URL (convert https://www.youtube.com/watch?v=eqjWfU2NWTc format to https://www.youtube.com/embed/eqjWfU2NWTc),
+          label: Video URL (use embed link. e.g. https://www.youtube.com/embed/eqjWfU2NWTc),
         }
   - name: info-box
     label: Info Box

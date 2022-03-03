@@ -102,11 +102,11 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section className="img-text-section about-section">
+      <section className="img-text-section video-section">
         <div className="container">
           <div className="img-text-content">
             <div className="img">
-              <iframe width="100%" height="256px" src={videoSrcURL}></iframe>
+              <iframe src={videoSrcURL}></iframe>
             </div>
             <div className="text">
               <h2 className="large-title">{imageTextHeading}</h2>
