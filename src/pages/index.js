@@ -13,7 +13,7 @@ import Testimonial from "../components/Testimonial"
 import { useHomepageHero1Data } from "../fetchHooks/useHomepageHero1Data"
 import { useInfoBoxData } from "../fetchHooks/useInfoBox"
 import { useInfoBlockData } from "../fetchHooks/useInfoBlock"
-import { useHomepageVideoSection } from "../fetchHooks/useHomepageVideoSection"
+import { useHomepageVideoSectionData } from "../fetchHooks/useHomepageVideoSection"
 import { useTestimonialData } from "../fetchHooks/useTestimonials"
 import { useHomepageHero2 } from "../fetchHooks/useHomepageHero2"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
@@ -51,7 +51,7 @@ const Landlords = () => {
   } = useHomepageHero2()
 
   const { imageTextContent, imageTextHeading, videoSrcURL } =
-    useHomepageVideoSection()
+    useHomepageVideoSectionData()
 
   const { infoBoxList } = useInfoBoxData()
   const { infoBlockList } = useInfoBlockData()
