@@ -9,6 +9,6 @@ heroBtnPrimary: Learn more
 heroBtnPrimaryUrl: /products
 heroBtnSecondary: Get a Demo
 heroBtnSecondaryUrl: /request-demo/
-heroImg: /assets/evelyn-paris.png
+heroImg: /assets/appartements.png
 calculatorTitle: Calculate Your Savings
 ---
