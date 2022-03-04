@@ -6,5 +6,5 @@ imageTextContent: Landlord Tech solves some of the messiest problems in the
   residential real estate owners and property managers that solve some of their
   most difficult problems. Landlord Tech got its start with OurPetPolicy, an
   industry-leading pet management platform, ESA verification service, and more.
-videoSrcURL: https://www.youtube.com/embed/ZGLWTMrvfVo
+videoSrcURL: https://www.youtube.com/embed/xwcwExC4t7w
 ---
