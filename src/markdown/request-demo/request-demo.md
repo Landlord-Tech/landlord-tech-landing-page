@@ -1,8 +1,10 @@
 ---
 title: request-demo
 RequestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
-metaTitle: request a demo meta title
-metaDescription: request a demo meta desc
+metaTitle: Schedule a Demo | See How Landlord Tech Can Help Your Rental Portfolio
+metaDescription: >
+  Ready to optimize your pet management process? Connect with the Landlord Tech
+  team to get a full demo of our tools and our platform.
 calendarEventLink: logan-ourpetpolicy
 demoDuration: "30"
 requestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
