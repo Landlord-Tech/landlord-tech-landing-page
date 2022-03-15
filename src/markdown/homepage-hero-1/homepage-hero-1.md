@@ -1,7 +1,9 @@
 ---
 title: homepage-hero-1
-metaTitle: Providing Landlords The Tools For The Job
-metaDescription: Providing Landlords The Tools For The Job
+metaTitle: Landlord Tech | Digital Tools For Property Owners and Managers
+metaDescription: Landlord Tech offers digital tools designed to better serve
+  landlords and property managers with pet management, assistance animal
+  verification, and more.
 heroHeading: Mischief Managed
 heroText: Transform the way you manage your pet program in your residential
   rental portfolio with OurPetPolicy.
