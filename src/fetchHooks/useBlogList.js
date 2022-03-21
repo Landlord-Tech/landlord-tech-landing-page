@@ -5,6 +5,8 @@ export const useBlogListData = () => {
     {
       markdownRemark(frontmatter: { title: { eq: "blog-list" } }) {
         frontmatter {
+          metaTitle
+          metaDescription
           heroHeading
           heroText
         }
