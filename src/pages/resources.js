@@ -1,12 +1,15 @@
 import React from "react"
+import Seo from "../components/seo"
 import Layout from "../components/layout"
 import { useBlogListData } from "../fetchHooks/useBlogList"
 import BlogPostList from "../components/blog/BlogPostList"
 
 const BlogList = () => {
-  const { heroHeading, heroText } = useBlogListData()
+  const { metaTitle, metaDescription, heroHeading, heroText } =
+    useBlogListData()
   return (
     <Layout>
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="small-hero xs">
         <div className="container">
           <div className="small-hero-content">

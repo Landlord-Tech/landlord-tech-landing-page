@@ -8,8 +8,6 @@ export const useHomepageHero2 = () => {
           heroHeading2
           heroText2
           heroSecondaryHeading2
-          heroSecondaryText2
-          heroSecondaryTextUrl2
           heroBtnPrimary2
           heroBtnPrimaryUrl2
           heroImg2 {

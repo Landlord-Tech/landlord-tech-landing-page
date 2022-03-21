@@ -46,11 +46,9 @@ const Landlords = () => {
     heroBtnPrimary2,
     heroBtnPrimaryUrl2,
     heroSecondaryHeading2,
-    heroSecondaryText2,
-    heroSecondaryTextUrl2,
   } = useHomepageHero2()
 
-  const { imageTextContent, imageTextHeading, videoSrcURL } =
+  const { imageTextContent, imageTextHeading, imageTextImg } =
     useHomepageVideoSectionData()
 
   const { infoBoxList } = useInfoBoxData()
@@ -106,7 +104,11 @@ const Landlords = () => {
         <div className="container">
           <div className="img-text-content">
             <div className="img">
-              <iframe src={videoSrcURL}></iframe>
+              <GatsbyImage
+                alt={imageTextHeading}
+                image={getImage(imageTextImg)}
+              />
+              {/* <iframe src={videoSrcURL}></iframe> */}
             </div>
             <div className="text">
               <h2 className="large-title">{imageTextHeading}</h2>
@@ -193,11 +195,6 @@ const Landlords = () => {
           >
             {heroBtnPrimary2}
           </a>
-          <p>
-            <Link to={heroSecondaryTextUrl2} className="underline link-to">
-              {heroSecondaryText2}
-            </Link>
-          </p>
         </div>
       </section>
       <InfoSection

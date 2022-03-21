@@ -1,6 +1,7 @@
 import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
+import Seo from "../components/seo"
 import Icon from "../components/Icon"
 import InfoBox from "../components/InfoBox"
 import InfoSection from "../components/InfoSection"
@@ -11,7 +12,8 @@ import { useInfoBoxData } from "../fetchHooks/useInfoBox"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
 
 export default () => {
-  const { heroHeading, heroImg } = useAboutHeroData()
+  const { metaTitle, metaDescription, heroHeading, heroImg } =
+    useAboutHeroData()
 
   const {
     aboutUsSectionHeading,
@@ -38,6 +40,7 @@ export default () => {
 
   return (
     <Layout className="landing">
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="hero withOverlay page-top-hero sm">
         <GatsbyImage
           className="grid-1"
