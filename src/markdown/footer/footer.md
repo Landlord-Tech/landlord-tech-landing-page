@@ -4,8 +4,6 @@ col1Title: Landlord Tech
 col1List:
   - listItem: Why Landlord Tech
     listItemUrl: /about/
-  - listItem: Our Story
-    listItemUrl: /about/
 col2Title: Products
 col2List:
   - listItem: OurPetPolicy
