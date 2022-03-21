@@ -1,5 +1,6 @@
 import React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import Seo from "../components/seo"
 import Layout from "../components/layout"
 import ContactForm from "../components/contactForm"
 import Icon from "../components/Icon"
@@ -7,6 +8,8 @@ import { useContactUsData } from "../fetchHooks/useContactUs"
 
 const ContactUs = () => {
   const {
+    metaTitle,
+    metaDescription,
     contactUsBannerHeading,
     contactUsBannerSubhead,
     heroImg,
@@ -16,6 +19,7 @@ const ContactUs = () => {
 
   return (
     <Layout>
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="hero withOverlay page-top-hero sm">
         <GatsbyImage
           className="grid-1"

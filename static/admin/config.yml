@@ -123,10 +123,11 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: imageTextHeading, label: Image Text Heading }
       - { name: imageTextContent, label: Image Text Content }
-      - {
-          name: videoSrcURL,
-          label: Video URL (use embed link. e.g. https://www.youtube.com/embed/eqjWfU2NWTc),
-        }
+      - { name: imageTextImg, label: Image, widget: image }
+      # - {
+      #     name: videoSrcURL,
+      #     label: Video URL (use embed link. e.g. https://www.youtube.com/embed/eqjWfU2NWTc),
+      #   }
   - name: info-box
     label: Info Box
     folder: src/markdown/info-box
@@ -198,8 +199,6 @@ collections:
       - { name: heroHeading2, label: Banner Heading }
       - { name: heroText2, label: Banner Text }
       - { name: heroSecondaryHeading2, label: Banner Secondary Heading }
-      - { name: heroSecondaryText2, label: Banner Secondary Text }
-      - { name: heroSecondaryTextUrl2, label: Banner Secondary Text Url }
       - { name: heroBtnPrimary2, label: Banner button primary }
       - { name: heroBtnPrimaryUrl2, label: Banner button primary url }
       - { name: heroImg2, label: Banner image, widget: image }
@@ -419,6 +418,8 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Banner Heading }
       - { name: heroImg, label: Banner image, widget: image }
   - name: about-us-section
@@ -496,6 +497,8 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
       - { name: contactUsBannerHeading, label: Contact Us Banner Heading }
       - { name: contactUsBannerSubhead, label: Contact Us Banner Subhead }
       - { name: heroImg, label: Contact Us Banner image, widget: image }
@@ -582,6 +585,8 @@ collections:
       preview: false
     fields:
       - { name: title, label: Title, widget: hidden }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroHeading, label: Hero heading }
       - { name: heroText, label: Hero text }
   # request a demo

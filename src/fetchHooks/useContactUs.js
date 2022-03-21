@@ -5,6 +5,8 @@ export const useContactUsData = () => {
     {
       markdownRemark(frontmatter: { title: { eq: "contact-us" } }) {
         frontmatter {
+          metaTitle
+          metaDescription
           contactUsBannerHeading
           contactUsBannerSubhead
           heroImg {
