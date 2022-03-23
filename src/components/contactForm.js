@@ -72,6 +72,8 @@ const ContactForm = () => {
           <input type="hidden" name="form-name" value="contact-us" />
           <div className="input-field">
             <Select
+              id="inquiryType"
+              name="inquiryType"
               options={options}
               onChange={e =>
                 setFormState({ ...formState, inquiryType: e.value })
