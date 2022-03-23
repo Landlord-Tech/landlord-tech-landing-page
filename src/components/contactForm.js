@@ -73,7 +73,9 @@ const ContactForm = () => {
           <div className="input-field">
             <Select
               options={options}
-              onChange={e => setFormState({ inquiryType: e.value })}
+              onChange={e =>
+                setFormState({ ...formState, inquiryType: e.value })
+              }
             />
           </div>
           <div className="input-field">
