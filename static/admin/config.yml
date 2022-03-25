@@ -531,10 +531,7 @@ collections:
   - name: blog
     label: Blog
     folder: src/markdown/blog
-    preview_path: /
     create: true
-    editor:
-      preview: false
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
