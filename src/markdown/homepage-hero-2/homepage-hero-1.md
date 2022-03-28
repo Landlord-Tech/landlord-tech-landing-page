@@ -9,7 +9,7 @@ heroSecondaryTextUrl: "#"
 heroSecondaryHeading: What Landlords Need To Know About ESAs In 2021
 heroImg: /assets/doggy.png
 title: homepage-hero-2
-heroImg2: /assets/doggy.png
+heroImg2: /assets/house-small.png
 heroSecondaryTextUrl2: /resources/what-landlords-need-to-know-about-esas-in-2021
 heroHeading2: What Do Property Managers Need?
 heroText2: We have the answers. Learn what landlords and property managers
