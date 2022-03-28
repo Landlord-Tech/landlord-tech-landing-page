@@ -1,7 +1,7 @@
 ---
 title: multi-tenant-platform-section
 sectionHeading: Get Your Pet Program Out of the Dog House with OurPetPolicy
-sectionSubhead: The Complete Multi-Tenant Platform for Pet  Management
+sectionSubhead: The complete multi-tenant platform for pet management
 platformImage: /assets/clay-macbook-pro.png
 platformTitle: Happy Tenants, Happy Property Management
 platformContent1: Landlord Tech specializes in providing digital tools to help
