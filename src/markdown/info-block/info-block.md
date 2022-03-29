@@ -3,7 +3,7 @@ title: info-block
 infoBlockList:
   - infoBlockImg: /assets/discussion.png
     infoBlockHeading: Manage Pet and Assistance Animal Requests
-    infoBlockContent: ‘Fraudulent ESA letters are a growing problem in residential
+    infoBlockContent: Fraudulent ESA letters are a growing problem in residential
       real estate. Over 50% of ESA letters are fraudulent. With lost pet rent,
       no pet deposit, pet damage, and problems with tenants not following pet
       rules, improper management of fake ESAs can result in huge losses to
