@@ -3,8 +3,8 @@ title: landlord-tech-program-section
 landlordTechProgramImage: /assets/dog-pitbul.png
 landlordTechProgramTitle: Take the Hassle out of ESA Letter Verification
 landlordTechProgramContent: Landlord Tech provides an industry leading ESA
-  verification program that is able to recognize fraudlent ESA letters in
-  compliance with state and federal law.
+  verification system that is able to recognize fraudulent ESA letters in
+  compliance with state and federal laws.
 landlordTechProgramList:
   - landlordTechProgramItem: Identify Fraudulent ESAs
   - landlordTechProgramItem: Risk Management
