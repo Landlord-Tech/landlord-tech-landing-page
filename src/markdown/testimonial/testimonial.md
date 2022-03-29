@@ -8,7 +8,7 @@ testimonialList:
       easy to find if an animal is registered and the maintenance staff has
       access as well.
     reviewerName: Kayla
-    reviewerTitle: Property Manage, Boise, ID
+    reviewerTitle: Property Manager, Boise, ID
     reviewerImg: /assets/girl-with-cat.png
   - review: We were having issues with identifying pets and didn’t have a good way
       to verify Emotional Support Animals. After looking at all of the options
