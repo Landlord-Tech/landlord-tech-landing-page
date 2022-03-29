@@ -5,12 +5,16 @@ faqList:
   - faqQuestion: " What information do I need to add a property and send a pet
       policy contract to the tenant?"
     faqAnswer: |-
+      <!--StartFragment-->
+
       You will need your 
 
       * property address
       * tenant name and email or phone number
       * Lease start date
       * payment method (if this is your first contract)
+
+      <!--EndFragment-->
   - faqAnswer: Yes, we have a state of the art ESA letter verification process that
       exposes fraudulent letters. We also include all state laws and penalties
       for fraudulent documentation in the contracts that the tenants read and
