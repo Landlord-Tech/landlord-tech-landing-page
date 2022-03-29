@@ -4,17 +4,20 @@ faqHeading: Frequently Asked Questions
 faqList:
   - faqQuestion: " What information do I need to add a property and send a pet
       policy contract to the tenant?"
-    faqAnswer: |-
-      <!--StartFragment-->
+    faqAnswer: >-
+      #### Increased Labor Hours
 
-      You will need your 
 
-      * property address
-      * tenant name and email or phone number
-      * Lease start date
-      * payment method (if this is your first contract)
+      Allowing poorly vetted pets on the property may lead to some serious extra labor for your team.
 
-      <!--EndFragment-->
+
+      • Additional maintenance hours for repairs to the property that the tenant isn't accountable for due to grey areas in your policy.
+
+
+      • Time spent cleaning pet waste on the property, identifying the owner, reporting violations, and handling tenant complaints.
+
+
+      • Time spent identifying unauthorized animals or fraudulent [ESAs](https://www.ourpetpolicy.com/resources/what-landlords-need-to-know-about-esas-in-2021) and then needing to monitor and address the situations appropriately.
   - faqAnswer: Yes, we have a state of the art ESA letter verification process that
       exposes fraudulent letters. We also include all state laws and penalties
       for fraudulent documentation in the contracts that the tenants read and
