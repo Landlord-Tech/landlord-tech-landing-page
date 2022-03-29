@@ -4,20 +4,13 @@ faqHeading: Frequently Asked Questions
 faqList:
   - faqQuestion: " What information do I need to add a property and send a pet
       policy contract to the tenant?"
-    faqAnswer: >-
-      #### Increased Labor Hours
+    faqAnswer: |-
+      You will need your 
 
-
-      Allowing poorly vetted pets on the property may lead to some serious extra labor for your team.
-
-
-      • Additional maintenance hours for repairs to the property that the tenant isn't accountable for due to grey areas in your policy.
-
-
-      • Time spent cleaning pet waste on the property, identifying the owner, reporting violations, and handling tenant complaints.
-
-
-      • Time spent identifying unauthorized animals or fraudulent [ESAs](https://www.ourpetpolicy.com/resources/what-landlords-need-to-know-about-esas-in-2021) and then needing to monitor and address the situations appropriately.
+      * property address
+      * tenant name and email or phone number
+      * Lease start date
+      * payment method (if this is your first contract)
   - faqAnswer: Yes, we have a state of the art ESA letter verification process that
       exposes fraudulent letters. We also include all state laws and penalties
       for fraudulent documentation in the contracts that the tenants read and
@@ -26,8 +19,8 @@ faqList:
   - faqAnswer: If you have questions about how to make and send a contract click
       here to see a tutorial. If you have other questions that are not answered
       in these FAQ’s please fill out the “Contact Us” form or email us at
-      [info@ourpetpolicy.com](mailto:info@ourpetpolicy.com) and we will get back
-      to you ASAP.
+      ***[info@ourpetpolicy.com](mailto:info@ourpetpolicy.com)*** and we will
+      get back to you ASAP.
     faqQuestion: " What do I do if I have questions? "
   - faqAnswer: >-
       You can always let your tenants know you have decided to use our platform
@@ -45,5 +38,5 @@ faqList:
   - faqQuestion: Do you have pet policies for every state?
     faqAnswer: Our goal is to have policies for every state before the end of 2021.
       To see a list of the current States that are supported click
-      [here](https://docs.google.com/spreadsheets/d/1lUX5o_yqjEDZnLwO5bYzhDSVjOrpN9YBbvQT7v1EJkA/edit#gid=0).
+      ***[here](https://docs.google.com/spreadsheets/d/1lUX5o_yqjEDZnLwO5bYzhDSVjOrpN9YBbvQT7v1EJkA/edit#gid=0).***
 ---
