@@ -4,8 +4,9 @@ sectionHeading: Get Your Pet Program Out of the Dog House with OurPetPolicy
 sectionSubhead: The complete multi-tenant platform for pet management
 platformImage: /assets/clay-macbook-pro.png
 platformTitle: Happy Tenants, Happy Property Management
-platformContent1: Landlord Tech specializes in providing digital tools to help
+platformContent1: "Landlord Tech specializes in providing digital tools to help
   property owners and managers successfully manage pets in their properties.
+  Enter OurPetPolicy:"
 platformDescList:
   - platformDescItem: Easy pet management platform for landlords and tenants
   - platformDescItem: Convert fraudulent ESAs into paying pet fees and deposits
