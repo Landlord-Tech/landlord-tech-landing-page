@@ -7,11 +7,7 @@ export const useHomepageVideoSectionData = () => {
         frontmatter {
           imageTextHeading
           imageTextContent
-          imageTextImg {
-            childImageSharp {
-              gatsbyImageData
-            }
-          }
+          videoSrcURL
         }
       }
     }
