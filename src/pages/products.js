@@ -81,7 +81,7 @@ const Landlords = () => {
       <section className="section">
         <div className="container">
           <div className="img-text-header">
-            <h2 className="h2">{sectionHeading}</h2>
+            <h2 className="large-title">{sectionHeading}</h2>
             <h5 className="h5">{sectionSubhead}</h5>
           </div>
           <div className="img-text-content">
