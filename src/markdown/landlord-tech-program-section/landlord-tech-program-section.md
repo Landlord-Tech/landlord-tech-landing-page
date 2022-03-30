@@ -2,9 +2,9 @@
 title: landlord-tech-program-section
 landlordTechProgramImage: /assets/dog-pitbul.png
 landlordTechProgramTitle: Take the Hassle out of ESA Letter Verification
-landlordTechProgramContent: Landlord Tech's flagship product, OurPetPolicy,
-  provides an industry leading ESA verification system that is able to recognize
-  fraudulent ESA letters in compliance with state and federal laws.
+landlordTechProgramContent: OurPetPolicy, provides an industry leading ESA
+  verification system that is able to recognize fraudulent ESA letters in
+  compliance with state and federal laws.
 landlordTechProgramList:
   - landlordTechProgramItem: Identify Fraudulent ESAs
   - landlordTechProgramItem: Risk Management
