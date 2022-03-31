@@ -2,7 +2,7 @@
 title: landlord-tech-program-section
 landlordTechProgramImage: /assets/dog-pitbul.png
 landlordTechProgramTitle: Take the Hassle out of ESA Letter Verification
-landlordTechProgramContent: OurPetPolicy, provides an industry leading ESA
+landlordTechProgramContent: OurPetPolicy provides an industry leading ESA
   verification system that is able to recognize fraudulent ESA letters in
   compliance with state and federal laws.
 landlordTechProgramList:
