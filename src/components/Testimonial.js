@@ -6,10 +6,10 @@ export default ({ review, reviewer, reviewerTitle, reviewerPhoto }) => {
   return (
     <div className="testimonial-item box-wrapper">
       <Icon icon="quote-icon" size={64} className="quote-icon" />
-      <h5 className="h5">{review}</h5>
+      <p className="review">{review}</p>
       <div className="testimonial-info">
-          <p className="reviewer-name">{reviewer}</p>
-          <p className="reviewer-title">{reviewerTitle}</p>
+        <h5 className="reviewer-name h5">{reviewer}</h5>
+        <p className="reviewer-title">{reviewerTitle}</p>
       </div>
     </div>
   )
