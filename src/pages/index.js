@@ -103,7 +103,7 @@ const Landlords = () => {
       <section className="img-text-section video-section">
         <div className="container">
           <div className="img-text-content">
-            <div className="img">
+            <div className="img video-container">
               <iframe
                 src={videoSrcURL}
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
