@@ -31,8 +31,6 @@ As with any change, some adjustments need to be made, and these are the most com
 * Time, paperwork, and process change. Although the initial effort to adjust your processes may seem time-consuming and costly, it’s a great step to initiate additional revenue. Putting in the time to set up strong pet policies, ensure you are meeting your tenant’s expectations, as well as having a clear understanding of the related pet fees, waste management practices, and maintenance of pet damage can help make the tenant-landlord relationship that much better.
 * Disgruntled non-pet owners. This goes hand in hand with the previous point. Setting up a clear pet policy on what areas are common areas for everyone, where pets are allowed, and setting clear animal expectations such as proper pet waste management, noise, and damage around the premise are all ways to mitigate animal-related complaints. 
 
-
-
 ### Going Pet Friendly - What’s in it for you?
 
 As a landlord, you need to balance giving your tenants the best living experience possible as well as making sure that you are maximizing profits. Here are the biggest reasons why you should consider going pet-friendly today:
@@ -44,13 +42,13 @@ As a landlord, you need to balance giving your tenants the best living experienc
 * **Pet-related charges.** Depending on state laws, landlords are allowed to charge specific pet-related charges, either in pet fees, pet deposits, and/or pet rent. These can be upfront charges for each pet they have, for maintenance of on-site pet accommodations, or deposits that you are entitled to use in the event of pet-related damage and repair costs.
 
   ![Why to go pet friendly](/assets/3-2-.jpg "Why to go pet friendly")
-* **Fewer unauthorized pets.** The number of ESAs has increased dramatically, meaning that you might already be housing a large number of animals without the proper documentation to protect your property from damage, animal misbehavior, or tenant complaints. While ESAs help thousands of people that need them, there are thousands of people purchasing fraudulent ESA letters as a loophole to live anywhere and/or to avoid paying pet fees, deposits, or rents. Having a [good system to properly vet assistance animal requests](https://www.ourpetpolicy.com/) can make all of the difference when it comes to the proper management of the animals on your premise.
+* **Fewer unauthorized pets.** The number of ESAs has increased dramatically, meaning that you might already be housing a large number of animals without the proper documentation to protect your property from damage, animal misbehavior, or tenant complaints. While ESAs help thousands of people that need them, there are thousands of people purchasing fraudulent ESA letters as a loophole to live anywhere and/or to avoid paying pet fees, deposits, or rents. Having a [good system to properly vet assistance animal requests](https://www.landlordtech.com/products) can make all of the difference when it comes to the proper management of the animals on your premise.
 * **Happy tenants.** The past few years have allowed people to take a hard look into their mental health. People are more aware of their needs and animals play a significant role in that. From helping during times of stress, providing companionship, and undoubtedly making spaces feel more like home, allowing pets can lead to happier tenants.
 
 ![we offer resources](/assets/4_petfriendly.jpg "we offer resources")
 
 Transitioning can seem like a lot of work. But the opportunity for additional income, longer-term residents, and overall happiness make this decision something to consider. 
 
-Curious what the numbers might look like at your rental? Give us a call! At [OurPetPolicy](https://www.ourpetpolicy.com/), we are here to help you every step of the way. We offer resources to help build you a strong pet-friendly policy, walk through the potential savings specific to your portfolio, provide a thorough pet-management solution, and we take on the responsibility of verifying all ESA and Service Animal letters submitted with requests at your property, in order to eliminate fraud. Let us help you unleash your pawsibilities.
+Curious what the numbers might look like at your rental? Give us a call! At [OurPetPolicy](https://www.landlordtech.com/products), we are here to help you every step of the way. We offer resources to help build you a strong pet-friendly policy, walk through the potential savings specific to your portfolio, provide a thorough pet-management solution, and we take on the responsibility of verifying all ESA and Service Animal letters submitted with requests at your property, in order to eliminate fraud. Let us help you unleash your pawsibilities.
 
-[OurPetPolicy](https://www.ourpetpolicy.com/) is a product of Landlord Tech, a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+[OurPetPolicy](https://www.landlordtech.com/products) is a product of Landlord Tech, a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
