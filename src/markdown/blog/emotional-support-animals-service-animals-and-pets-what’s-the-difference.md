@@ -1,5 +1,4 @@
 ---
-title: Emotional Support Animals, Service Animals, and Pets. What’s the Difference?
 path: /resources/emotional-support-animals-service-animals-and-pets-whats-the-difference
 date: 2022-01-13T03:42:29.036Z
 category: Blog
@@ -20,8 +19,8 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+title: Emotional Support Animals, Service Animals, and Pets. What’s the Difference?
 ---
-
 Anyone that has a pet knows how significant their role in our lives can be. It’s no wonder that the two most common pets, dogs and cats, [numbered over 130 million in 2020](https://www.avma.org/resources-tools/reports-statistics/us-pet-ownership-statistics) in the US. Over the years, these furry friends have transformed into more than just household pets, they have become an integral part of many people’s physical and mental health. Understanding the differences between an emotional support animal, a service animal, and a pet is essential to understanding how to properly accommodate, manage, and appreciate these animals and those who rely on them.
 
 #### Emotional Support Animals (ESAs)
@@ -42,8 +41,10 @@ Service animals are allowed in public facilities and private businesses where em
 
 A business is only entitled to ask:
 
-- Is the animal required because of a disability?
-- What work or task has this animal been trained to perform?
+* Is the animal required because of a disability?
+* What work or task has this animal been trained to perform?
+
+
 
 Similar to an ESA, service animals are permitted to reside on a rental property regardless of a no-pet rule so long as the animal does not pose a direct threat to the health or safety of others.
 
@@ -59,8 +60,8 @@ A University of the Pacific [article](https://scholarlycommons.pacific.edu/cgi/v
 
 From just the simple furry household member to sources of emotional support, to providing life-changing services, pets have been a huge part of our lives for so long and will continue to do so. Establishing the correct pet policy, having the right process to vet fraudulent letters, and setting expectations is the best way to build a long-lasting and positive tenant-landlord relationship.
 
-[OurPetPolicy](https://www.ourpetpolicy.com/) is an easy-to-use pet policy process that is vetted by lawyers to help protect your property.
+[OurPetPolicy](https://www.landlordtech.com/products) is an easy-to-use pet policy process that is vetted by lawyers to help protect your property.
 
 We help empower property owners by eliminating potential loopholes, providing simple screening processes, and setting transparent rules and expectations between property owners and their tenants. Prevent further exposure to the scenarios listed above by enforcing a detailed policy that protects your property portfolio.
 
-OurPetPolicy is a product of [Landlord Tech](https://www.linkedin.com/company/landlord-tech/), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+OurPetPolicy is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
