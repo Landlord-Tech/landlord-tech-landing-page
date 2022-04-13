@@ -115,7 +115,7 @@ collections:
       - { name: calculatorTitle, label: Calculator Title }
   - name: homepage-video-section
     label: Homepage Video Section
-    folder: src/markdown/homepage-about-section
+    folder: src/markdown/homepage-video-section
     preview_path: /
     editor:
       preview: false

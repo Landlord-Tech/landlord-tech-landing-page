@@ -51,6 +51,20 @@
     margin-top: 24px;
   }
 
+  .video-text-content {
+    flex-direction: column;
+    .video-container {
+      padding-bottom: 56.25%;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    .text {
+      padding: 24px 0;
+      width: 100%;
+    }
+  }
+
   .img-text-content {
     flex-direction: column-reverse;
 
@@ -61,10 +75,6 @@
     .img {
       padding-bottom: 24px;
       margin: 0;
-    }
-
-    .video-container {
-      padding-bottom: 56.25%;
     }
 
     .img,

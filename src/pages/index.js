@@ -102,8 +102,12 @@ const Landlords = () => {
       </section>
       <section className="img-text-section video-section">
         <div className="container">
-          <div className="img-text-content">
-            <div className="img video-container">
+          <div className="video-text-content">
+            <div className="text">
+              <h2 className="large-title">{imageTextHeading}</h2>
+              <p>{imageTextContent}</p>
+            </div>
+            <div className="video-container">
               <iframe
                 src={videoSrcURL}
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -112,10 +116,6 @@ const Landlords = () => {
                 mozallowfullscreen="true"
                 allowFullScreen
               />
-            </div>
-            <div className="text">
-              <h2 className="large-title">{imageTextHeading}</h2>
-              <p>{imageTextContent}</p>
             </div>
           </div>
         </div>
