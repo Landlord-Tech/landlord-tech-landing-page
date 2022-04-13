@@ -81,7 +81,7 @@ Whether you choose to accept pets or not, it’s important to include a pet adde
 
 The decision to accept pets in your rental properties should not be taken lightly. In addition to the responsibilities of being a landlord, managing pet-friendly properties comes with its own unique set of challenges. Whether you decide to make your rentals pet-friendly or not, after weighing the pros and cons, your next step is to create your pet policy to protect yourself.
 
-[OurPetPolicy](https://www.ourpetpolicy.com/landlords/) can make the process easier. We’ll help you develop a pet policy that keeps you in compliance with the law, eliminates fraudulent emotional support animals, reduces the likelihood of damages, and offers easy management of your contracts with your tenants. [Contact us](https://www.ourpetpolicy.com/contact-us/) today, and we’ll be delighted to assist you.
+[OurPetPolicy](https://www.ourpetpolicy.com/landlords/) can make the process easier. We’ll help you develop a pet policy that keeps you in compliance with the law, eliminates fraudulent emotional support animals, reduces the likelihood of damages, and offers easy management of your contracts with your tenants. [Contact us](https://www.landlordtech.com/contact) today, and we’ll be delighted to assist you.
 
 [![Ebook](/assets/changing-world-of-rental-property-pet-damage.jpg "Ebook")](https://www.ourpetpolicy.com/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)
 
