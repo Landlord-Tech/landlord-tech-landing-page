@@ -7,7 +7,7 @@ excerpt: As a property manager, pet fees and deposits are the best way to
   Unfortunately, pet owners have found a convenient loophole using Emotional
   Support Animal (ESA) letters to help them get out of paying any pet fees.
 heroHeading: The Opportunity Cost of Not Verifying Tenant ESA Letters
-heroImg: /assets/1-opportunity-cost.jpeg
+heroImg: /assets/group_2472.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -34,6 +34,8 @@ While you can require that your tenants provide documentation for their ESAs, ma
 * Tenants who pay the fees outlined in your pet policy can become disgruntled by the amount of untrained and poorly behaved imposter ESAs on your property.
 * Without getting a deposit upfront, it can be much more challenging for you to recoup any repair costs from a tenant that has already vacated your rental.
 
+
+
 #### The Cost of Verifying ESA Letters Yourself
 
 Verifying each ESA letter for authenticity is necessary to prevent fraud, but the process itself can be very challenging and time-consuming. You'll either need to do it yourself or spend the time training a member of your team on the many steps required to confirm that the letters are legitimate.
@@ -43,6 +45,8 @@ Verifying each ESA letter for authenticity is necessary to prevent fraud, but th
 * Verify the validity of the license number and that the licensed mental health professional that issued the letter is licensed in the state you're renting in. This can be confirmed on your state's [license verification portal](https://www.certapet.com/wp-content/uploads/2020/09/ESA-License-Verification.pdf).
 * Verify that the ESA letter was awarded after a mental health screening.
 * Check the date of the letter.
+
+
 
 #### What Are The Consequences if Your ESA Verification Process is Not Done Correctly?
 
@@ -72,7 +76,7 @@ Neighboring tenants that are surrounded by poorly behaved emotional support anim
 
 ![](/assets/3-opportunity-cost.jpeg)
 
-[OurPetPolicy](https://www.ourpetpolicy.com/landlords/) offers a thorough ESA verification process that is designed to protect property managers from fraudulent ESAs.
+[OurPetPolicy](https://www.landlordtech.com/products) offers a thorough ESA verification process that is designed to protect property managers from fraudulent ESAs.
 
 * As an experienced and knowledgeable 3rd party service, we can reduce the risk of legal complications from accidental HIPAA or FHA violations.
 * We assume all liability regarding the verification of ESA letters, including the denial of fake letters and the approval or legitimate ones.
@@ -81,6 +85,6 @@ Neighboring tenants that are surrounded by poorly behaved emotional support anim
 * We help ensure that you're renting to tenants who pay their pet fees, increasing the funds you have to cover pet-related maintenance and repairs to your property.
 * Increase the amount of time you have to handle other property management activities.
 
-[Contact OurPetPolicy](https://www.ourpetpolicy.com/contact-us/) today to see how we can help you eliminate the risk of unauthorized Emotional Support Animals, reduce pet-related property damage, and prevent accidental HIPAA or FHA violations.
+[Contact OurPetPolicy](https://www.landlordtech.com/products) today to see how we can help you eliminate the risk of unauthorized Emotional Support Animals, reduce pet-related property damage, and prevent accidental HIPAA or FHA violations.
 
-OurPetPolicy is powered by [Landlord Tech](https://www.linkedin.com/company/landlord-tech/about/), a software company that leverages technology and automation to solve and prevent the problems that property managers and owners face.
+OurPetPolicy is powered by [Landlord Tech](https://www.landlordtech.com), a software company that leverages technology and automation to solve and prevent the problems that property managers and owners face.
