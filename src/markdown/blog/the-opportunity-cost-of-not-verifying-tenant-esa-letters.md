@@ -7,7 +7,7 @@ excerpt: As a property manager, pet fees and deposits are the best way to
   Unfortunately, pet owners have found a convenient loophole using Emotional
   Support Animal (ESA) letters to help them get out of paying any pet fees.
 heroHeading: The Opportunity Cost of Not Verifying Tenant ESA Letters
-heroImg: /assets/group_2472.png
+heroImg: /assets/dogcat-2.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
