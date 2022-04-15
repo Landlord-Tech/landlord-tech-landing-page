@@ -8,7 +8,7 @@ excerpt: The question of whether to have a no-pet policy versus being a
   Animals (ESAs), the question is no longer yes or no to being pet-friendly, but
   when?
 heroHeading: "Landlord Q&A: Should You Move to a Pet-Friendly Policy?"
-heroImg: /assets/1-3-.jpg
+heroImg: /assets/dog-cat.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
