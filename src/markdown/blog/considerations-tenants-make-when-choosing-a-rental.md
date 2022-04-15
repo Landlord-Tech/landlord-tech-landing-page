@@ -6,7 +6,7 @@ excerpt: Marketing to and bringing in new tenants is a critical piece in the
   overall success of your rental property. Keeping existing tenants happy is
   also a major lifeline in your portfolio.
 heroHeading: Considerations Tenants Make When Choosing a Rental
-heroImg: /assets/4-considerations.jpg
+heroImg: /assets/4-considerations1.jpeg
 social: true
 promoSection:
   promo: true
