@@ -252,6 +252,12 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: "806603740016223",
+      },
+    },
     `gatsby-transformer-sharp`,
     {
       resolve: "gatsby-transformer-remark",
