@@ -1,5 +1,4 @@
 ---
-title: The True Cost of Having a Bad Pet Policy
 path: /resources/the-true-cost-of-having-a-bad-pet-policy
 date: 2021-12-03T21:13:25.560Z
 category: Blog
@@ -7,7 +6,7 @@ excerpt: "Having a pet policy for your renters is an essential part of
   protecting your property and your rental income. However, it's important to
   note that not all policies are created equal. "
 heroHeading: The True Cost of Having a Bad Pet Policy
-heroImg: /assets/bigstock-sad-little-dog-is-lying-on-mon-408151319.jpg
+heroImg: /assets/bigstock-sad-little-dog-is-lying-on-mon-408151319.png
 social: true
 promoSection:
   promo: true
@@ -17,8 +16,8 @@ promoSection:
     Professional pet policy contracts in minutes.
   promoBtn: Learn More
   promoBtnUrl: /products/
+title: The True Cost of Having a Bad Pet Policy
 ---
-
 Having a pet policy for your renters is an essential part of protecting your property and your rental income. However, it's important to note that not all policies are created equal. A bad pet policy, lacking detailed rules and guidelines, may leave you exposed and unprotected in pet-related scenarios.
 
 ![](https://lh4.googleusercontent.com/EUgdh_yR9JXttoyYTsBs5c1DZsjN1sWYKk950VaE1NLwFb9g7gdxZ0GkBdq7lLRwkDEJjVecCvcm8iq2hJqLM_w6BP-6FSfkBPiJxNp8-u5CxYE8XnoSA3IySW4R8I__Zl3B6sXv)
@@ -101,8 +100,8 @@ Although these cases are rare, you can be held liable for allowing this aggressi
 
 #### Protect Yourself With a Policy Done Right
 
-[OurPetPolicy](https://www.ourpetpolicy.com/landlords/) is an easy-to-use pet policy process that is vetted by lawyers to help protect your property.
+[OurPetPolicy](https://www.landlordtech.com/products) is an easy-to-use pet policy process that is vetted by lawyers to help protect your property.
 
 We help empower property owners by eliminating potential loopholes, providing simple screening processes, and setting transparent rules and expectations between property owners and their tenants. Prevent further exposure to the scenarios listed above by enforcing a detailed policy that protects your property portfolio.
 
-OurPetPolicy is a product of [Landlord Tech](https://www.linkedin.com/company/landlord-tech/about/), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+OurPetPolicy is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.

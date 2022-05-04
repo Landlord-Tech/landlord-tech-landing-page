@@ -8,7 +8,7 @@ excerpt: A vast number of potential renters own pets and consider them part of
   tenants. However, it is also important that you safeguard your rental
   properties from pet damage.
 heroHeading: Protecting Your Rental Property from Pet Damage
-heroImg: /assets/opp-protecting-your-rental-property-from-pet-damage.jpg
+heroImg: /assets/opp-protecting-your-rental-property-from-pet-damage2.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -58,4 +58,4 @@ It’s important to note that despite precautions, [85% of property owners have]
 
 Investing in a pet management solution that offers customizable pet policies, provides pet vaccination record management, verifies ESA letters, and helps reduce unauthorized pets on your property is the best way to protect your rental portfolio. Nine out of ten tenants with pets say pet policies play a role in deciding where to live, so ensuring you have a solid pet policy that protects both you and your tenants is a must.
 
-If you are allowing pets in your rentals or find that you are accommodating more ESAs and service animals, having the right measures in place to protect your rental property from pet damage and providing the right kind of solutions to your tenants that recognize their needs only boosts your business and makes for a better place to live. Check out [OurPetPolicy](https://www.ourpetpolicy.com/) today to learn more and unleash your pawsibilities.
+If you are allowing pets in your rentals or find that you are accommodating more ESAs and service animals, having the right measures in place to protect your rental property from pet damage and providing the right kind of solutions to your tenants that recognize their needs only boosts your business and makes for a better place to live. Check out [OurPetPolicy](https://www.landlordtech.com/products) today to learn more and unleash your pawsibilities.

@@ -13,8 +13,8 @@ infoBoxList:
     infoBoxButton: Learn more
     infoBoxHeading: ESA Verification
     infoBoxContent: "Landlord Tech provides an industry leading ESA verification
-      program that is able to recognize fraudlent ESA letters in compliance with
-      state and federal law. "
+      program that is able to recognize fraudulent ESA letters in compliance
+      with state and federal law. "
   - infoBoxButton: Learn more
     infoBoxButtonURL: /products
     icon: pet-pow

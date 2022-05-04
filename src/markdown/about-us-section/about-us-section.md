@@ -1,7 +1,7 @@
 ---
 title: about-us-section
 aboutUsSectionHeading: Built by Property Owners for Property Owners
-aboutUsSectionSubhead: About us
+aboutUsSectionSubhead: About Us
 aboutUsSectionContent: Landlord Tech solves some of the messiest problems in the
   residential real estate industry. Our mission is to provide digital tools to
   residential real estate owners and property managers that solve some of their

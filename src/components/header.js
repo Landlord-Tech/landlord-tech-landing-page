@@ -117,9 +117,13 @@ const Header = ({ sticky, prodHeader }) => {
                     </Link>
                   </li>
                   <li className="login-link">
-                    <Link className="active-link" to={linkedLoginTextUrl}>
+                    <a
+                      href={linkedLoginTextUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       {linkedLoginText}
-                    </Link>
+                    </a>
                   </li>
                   <li className="nav-button-group">
                     <a

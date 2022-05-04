@@ -48,7 +48,7 @@ const Landlords = () => {
     heroSecondaryHeading2,
   } = useHomepageHero2()
 
-  const { imageTextContent, imageTextHeading, imageTextImg } =
+  const { imageTextContent, imageTextHeading, videoSrcURL } =
     useHomepageVideoSectionData()
 
   const { infoBoxList } = useInfoBoxData()
@@ -102,17 +102,20 @@ const Landlords = () => {
       </section>
       <section className="img-text-section video-section">
         <div className="container">
-          <div className="img-text-content">
-            <div className="img">
-              <GatsbyImage
-                alt={imageTextHeading}
-                image={getImage(imageTextImg)}
-              />
-              {/* <iframe src={videoSrcURL}></iframe> */}
-            </div>
+          <div className="video-text-content">
             <div className="text">
               <h2 className="large-title">{imageTextHeading}</h2>
               <p>{imageTextContent}</p>
+            </div>
+            <div className="video-container">
+              <iframe
+                src={videoSrcURL}
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                frameBorder="0"
+                webkitallowfullscreen="true"
+                mozallowfullscreen="true"
+                allowFullScreen
+              />
             </div>
           </div>
         </div>

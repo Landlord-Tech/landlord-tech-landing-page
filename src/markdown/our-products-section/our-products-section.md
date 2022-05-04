@@ -11,6 +11,5 @@ ourProductsSectionContent: "Landlord Tech came to be from first-hand experience
   damages that were costing valuable time and money. Our flagship product,
   OurPetPolicy, is the #1 pet management solution for property owners and
   managers to reduce fraudulent ESAs, strengthen pet policies, improve
-  tenant-renting experiences, and more. See a need, fill a need. - Landlord
-  Tech"
+  tenant-renting experiences, and more. "
 ---

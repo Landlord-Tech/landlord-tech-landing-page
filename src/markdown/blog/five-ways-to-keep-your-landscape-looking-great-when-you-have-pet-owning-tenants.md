@@ -6,7 +6,7 @@ excerpt: Once you’ve weighed the pros and cons and decided to allow pet-owning
   tenant(s), the next decision tackles the issue of maintaining attractive
   landscaping and pet-friendly premises.
 heroHeading: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
-heroImg: /assets/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants.jpg
+heroImg: /assets/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants.png
 social: true
 promoSection:
   promo: true
@@ -44,4 +44,4 @@ While keeping your grass green with a regular fertilization schedule is critical
 
 It will be prudent to mention lawn quality in the lease and indicate the withholding of sufficient security deposit funds, should you need to remedy landscape damage. This is applicable to single-family homes with one lessee, with the responsibility given either in conjunction with the presence of fertilization, fake grass, etc. or  on its own with the tenant in control of the “how.”
 
-However, you choose to keep your landscaping beautiful, make your expectations clear from the beginning. Take advantage of these tips to keep your property looking great and “show ready” for the next potential tenant at any given time. For assistance mastering any and all parts of your pet policy to give you the best ROI, consider partnering with [OurPetPolicy](https://www.ourpetpolicy.com/landlords/).
+However, you choose to keep your landscaping beautiful, make your expectations clear from the beginning. Take advantage of these tips to keep your property looking great and “show ready” for the next potential tenant at any given time. For assistance mastering any and all parts of your pet policy to give you the best ROI, consider partnering with [OurPetPolicy](https://www.landlordtech.com/products).

@@ -1,5 +1,4 @@
 ---
-title: Considerations Tenants Make When Choosing a Rental
 path: /resources/considerations-tenants-make-when-choosing-a-rental
 date: 2021-12-09T08:47:21.191Z
 category: Blog
@@ -7,7 +6,7 @@ excerpt: Marketing to and bringing in new tenants is a critical piece in the
   overall success of your rental property. Keeping existing tenants happy is
   also a major lifeline in your portfolio.
 heroHeading: Considerations Tenants Make When Choosing a Rental
-heroImg: /assets/4-considerations.jpg
+heroImg: /assets/4-considerations1.jpeg
 social: true
 promoSection:
   promo: true
@@ -17,8 +16,8 @@ promoSection:
     Professional pet policy contracts in minutes.
   promoBtn: Learn More
   promoBtnUrl: /products/
+title: Considerations Tenants Make When Choosing a Rental
 ---
-
 Marketing to and bringing in new tenants is a critical piece in the overall success of your rental property. Keeping existing tenants happy is also a major lifeline in your portfolio. What can you do as a landlord to make your rental property desirable for new tenants? Then, how do you keep them and existing tenants long-term and reduce your turnover rate?
 
 These are possibly the most important, and at times most difficult to answer, questions for property owners and managers. Thankfully, you don’t have to leave it up to luck. There are specific steps you can take to appeal to and keep tenants, and there are beneficial, easy-to-use platforms such as OurPetPolicy to help you do so.
@@ -43,7 +42,7 @@ Additionally, outline rules and guidelines directly in the lease so pet owners a
 
 #### How can OurPetPolicy help landlords make this happen?
 
-[OurPetPolicy](https://www.ourpetpolicy.com/landlords/) offers a seamless solution for pet management that helps you process pet and assistance animal requests, save time and resources, and better track animal data on your property. OurPetPolicy has established a streamlined workflow and supporting services that provides your staff with better management capabilities, giving them more time to focus on customer service.
+[OurPetPolicy](https://www.landlordtech.com/products) offers a seamless solution for pet management that helps you process pet and assistance animal requests, save time and resources, and better track animal data on your property. OurPetPolicy has established a streamlined workflow and supporting services that provides your staff with better management capabilities, giving them more time to focus on customer service.
 
 Besides noise and damage, another concern when allowing animals on your property is the proper handling of fraudulent emotional support animal (ESA) letters. Applicants will purchase fake ESA letters online to avoid paying pet fees and deposits or to force landlords into accepting their animals at a property that does not allow pets. OurPetPolicy has a bulletproof verification system for ESA letters so those residing on the property with pets and assistance animals are true policy-following tenants, not tenants looking for loopholes in the system. The multi-step verification process eliminates fraud and helps reduce the number of disgruntled tenants affected by those tenants finding loopholes for their untrained pets.
 
@@ -53,4 +52,4 @@ OurPetPolicy provides a community for tenants and property managers to connect a
 
 Consider using OurPetPolicy as an efficient and effective way to streamline and improve the pet-renting experience for tenants and to better assist you and your property managers in the management of pets and assistance animals.
 
-OurPetPolicy is a product of [Landlord Tech](https://www.linkedin.com/company/landlord-tech/about/), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+OurPetPolicy is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
