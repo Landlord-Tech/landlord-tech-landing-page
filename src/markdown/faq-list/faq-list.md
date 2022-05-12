@@ -39,7 +39,5 @@ faqList:
     faqQuestion: If my tenants have already signed a pet policy, can I implement
       this pet policy?
   - faqQuestion: Do you have pet policies for every state?
-    faqAnswer: Our goal is to have policies for every state before the end of 2021.
-      To see a list of the current States that are supported click
-      ***[here](https://docs.google.com/spreadsheets/d/1lUX5o_yqjEDZnLwO5bYzhDSVjOrpN9YBbvQT7v1EJkA/edit#gid=0).***
+    faqAnswer: Yes, we offer pet policies in every state.
 ---
