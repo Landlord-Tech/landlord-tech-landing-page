@@ -44,13 +44,13 @@ Fake grass or turf is easier to clean, maintain, and it lessens the tenant’s c
 
 #### Brush Up on Emotional Support Animal (ESA) Laws
 
-The Fair Housing Act requires landlords to accommodate tenants with ESAs. Violating these laws can incur fines that can be in the thousands of dollars. However, studies have shown that an astonishing [70% of ESA letters are fraudulent](https://www.ourpetpolicy.com/resources/the-landlords-guide-to-tenants-with-pets/). Always make it a part of your process to verify ESA letters to protect you and your business. If you are wary of verifying ESA letters due to the liability and risk associated with them or you’re questioning the legitimacy of the ESA letters you are receiving from your tenants, enlist the help of a service that specializes in these matters, such as OurPetPolicy.
+The Fair Housing Act requires landlords to accommodate tenants with ESAs. Violating these laws can incur fines that can be in the thousands of dollars. However, studies have shown that an astonishing [70% of ESA letters are fraudulent](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/). Always make it a part of your process to verify ESA letters to protect you and your business. If you are wary of verifying ESA letters due to the liability and risk associated with them or you’re questioning the legitimacy of the ESA letters you are receiving from your tenants, enlist the help of a service that specializes in these matters, such as OurPetPolicy.
 
 #### Set Clear Expectations from the Start
 
 Establish and set pet care requirements on your property from the get-go. Untrimmed nails on flooring and carpet are minor damages compared to many other potential situations that could occur while you are renting to a tenant with a pet or animal. From animal dander allergies to animal waste on common grounds or excessive noise, screening tenants and their pets and discussing your expectations before any lease signings is a must.
 
-It’s important to note that despite precautions, [85% of property owners have](https://www.ourpetpolicy.com/resources/the-landlords-guide-to-tenants-with-pets/), in one way or another, experienced pet damage. Reaching an agreement on maintenance expectations is very important for both parties. The annual average cost of pet damage caused by dogs is around $850. Seeing eye to eye on expectations and obligations regarding renting with pets is essential for a beneficial landlord-tenant relationship.
+It’s important to note that despite precautions, [85% of property owners have](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/), in one way or another, experienced pet damage. Reaching an agreement on maintenance expectations is very important for both parties. The annual average cost of pet damage caused by dogs is around $850. Seeing eye to eye on expectations and obligations regarding renting with pets is essential for a beneficial landlord-tenant relationship.
 
 ![](/assets/3.jpg)
 
