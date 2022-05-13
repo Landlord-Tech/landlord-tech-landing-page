@@ -62,4 +62,4 @@ From just the simple furry household member to sources of emotional support, to 
 
 We help empower property owners by eliminating potential loopholes, providing simple screening processes, and setting transparent rules and expectations between property owners and their tenants. Prevent further exposure to the scenarios listed above by enforcing a detailed policy that protects your property portfolio.
 
-OurPetPolicy is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+[OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
