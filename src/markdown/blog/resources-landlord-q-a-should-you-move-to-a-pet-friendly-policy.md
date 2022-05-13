@@ -51,4 +51,4 @@ Transitioning can seem like a lot of work. But the opportunity for additional in
 
 Curious what the numbers might look like at your rental? Give us a call! At [OurPetPolicy](https://www.landlordtech.com/products), we are here to help you every step of the way. We offer resources to help build you a strong pet-friendly policy, walk through the potential savings specific to your portfolio, provide a thorough pet-management solution, and we take on the responsibility of verifying all ESA and Service Animal letters submitted with requests at your property, in order to eliminate fraud. Let us help you unleash your pawsibilities.
 
-[OurPetPolicy](https://www.landlordtech.com/products) is a product of Landlord Tech, a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+[OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
