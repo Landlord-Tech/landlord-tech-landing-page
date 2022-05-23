@@ -20,7 +20,7 @@ title: Considerations Tenants Make When Choosing a Rental
 ---
 Marketing to and bringing in new tenants is a critical piece in the overall success of your rental property. Keeping existing tenants happy is also a major lifeline in your portfolio. What can you do as a landlord to make your rental property desirable for new tenants? Then, how do you keep them and existing tenants long-term and reduce your turnover rate?
 
-These are possibly the most important, and at times most difficult to answer, questions for property owners and managers. Thankfully, you don’t have to leave it up to luck. There are specific steps you can take to appeal to and keep tenants, and there are beneficial, easy-to-use platforms such as OurPetPolicy to help you do so.
+These are possibly the most important, and at times most difficult to answer, questions for property owners and managers. Thankfully, you don’t have to leave it up to luck. There are specific steps you can take to appeal to and keep tenants, and there are beneficial, easy-to-use platforms such as [OurPetPolicy](https://landlordtech.com/products) to help you do so.
 
 #### What makes a rental property desirable to tenants?
 
