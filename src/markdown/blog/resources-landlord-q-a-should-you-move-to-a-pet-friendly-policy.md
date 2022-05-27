@@ -8,7 +8,7 @@ excerpt: The question of whether to have a no-pet policy versus being a
   Animals (ESAs), the question is no longer yes or no to being pet-friendly, but
   when?
 heroHeading: "Landlord Q&A: Should You Move to a Pet-Friendly Policy?"
-heroImg: /assets/dog-cat.png
+heroImg: /assets/landlord-q-a.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -22,6 +22,8 @@ promoSection:
 The question of whether to have a no-pet policy versus being a pet-friendly residence is an age-old question for most landlords. But in recent years, with the emergence and soaring popularity of [Emotional Support Animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs), the question is no longer yes or no to being pet-friendly, but when? ESAs are protected by the Fair Housing Act, and individuals with ESAs may request reasonable accommodations to waive a “no pet policy.” Interestingly enough, the number of reports over the recent years regarding the surge of fake ESA letters has increased dramatically, making it a challenge to differentiate legitimate ESAs from fraudulent ESAs.
 
 Some may ask, what is the point of having a pet-friendly policy? And, are there any downsides to transitioning to one? Let us help answer some of these common questions and discuss both the challenges and benefits that make it a decision worth considering.  
+
+![](/assets/1-3-.jpg)
 
 ### Challenges of transitioning to a pet-friendly policy
 
