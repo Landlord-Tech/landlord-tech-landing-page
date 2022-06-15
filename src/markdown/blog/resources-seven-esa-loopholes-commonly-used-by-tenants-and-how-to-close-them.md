@@ -72,12 +72,12 @@ Some properties may permit visiting pets to reside for a limited period of time 
 
 If you don’t have an application for visiting pets, tenants can simply claim that their pet is visiting whenever you see them with the animal. Some may use this as a loophole to avoid paying any deposits or fees associated with housing the animal in their residence full-time.
 
-![]()
+![](/assets/5loop.png)
 
 **Close the Loopholes with OurPetPolicy**
 
 Landlord Tech specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our OurPetPolicy platform provides an integrated solution that helps to identify fraudulent ESAs, convert them into paying pet charges, collect pet fees, reduce animal-related damage, and develop policies that help you ensure tenants are compliant with all applicable laws and regulations. 
 
-![](/assets/5loop.png)
+![]()
 
 Contact us today for a [free demonstration](https://landlordtech.com/request-demo/) to see how OurPetPolicy can help you better manage your residential pet program.
