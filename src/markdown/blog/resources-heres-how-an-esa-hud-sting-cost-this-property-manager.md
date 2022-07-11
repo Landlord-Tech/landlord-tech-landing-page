@@ -1,6 +1,6 @@
 ---
 path: /resources/heres-how-an-esa-hud-sting-cost-this-property-manager
-date: 2022-07-08T15:04:10.149Z
+date: 2022-07-11T15:04:10.149Z
 category: Blog
 excerpt: As a landlord or property owner, you have a legal duty to understand
   the Fair Housing Act and its implications for assistance animals at your
