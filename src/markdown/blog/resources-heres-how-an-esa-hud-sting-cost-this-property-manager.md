@@ -6,7 +6,7 @@ excerpt: As a landlord or property owner, you have a legal duty to understand
   the Fair Housing Act and its implications for assistance animals at your
   property. Not knowing this information can be costly. Here's how one landlord
   learned that the hard way.
-heroHeading: Here's how an ESA HUD Sting Cost This Property Manager $80,000
+heroHeading: Here's How an ESA HUD Sting Cost This Property Manager $80,000
 heroImg: /assets/1.png
 social: true
 promoSection:
