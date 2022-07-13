@@ -36,7 +36,9 @@ The undercover agents called multiple times asking the same question, and the ma
 
 Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the interview with the landlord.
 
-![](/assets/hud4.png)
+`youtube: https://youtu.be/1m-TfVdiPGc`
+
+![]()
 
 **How to Avoid HUD Fines Surrounding Emotional Support Animals**
 
