@@ -20,7 +20,7 @@ const RequestDemo = () => {
       <section className="section">
         <div className="container request-demo-wrapper">
           <div className="text">
-            <h3 className="h3">{requestDemoHeading}</h3>
+            <h1 className="h3 headline">{requestDemoHeading}</h1>
             <ul>
               {requestDemoInfoList.map(({ requestDemoInfoText }, i) => {
                 return (
