@@ -30,7 +30,7 @@ const NotFoundPage = () => {
                   <Link to="/" className="btn btn-lg primary">
                     {primaryBtn}
                   </Link>
-                  <Link to="/contact-us" className="btn btn-lg secondary">
+                  <Link to="/contact" className="btn btn-lg secondary">
                     {secondaryBtn}
                   </Link>
                 </div>
