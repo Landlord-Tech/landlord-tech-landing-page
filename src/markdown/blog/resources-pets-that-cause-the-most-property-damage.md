@@ -36,16 +36,17 @@ Cats are also natural-born climbers and scratchers. Tall furniture, curtains, sc
 
 Out of 100 renters in a complex, at least 15 will be allergic to cats. Nearly twice as many people are allergic to cats than dogs, and cat hair and dander is known to stick and linger. Even after a tenant moves out and the apartment is cleaned, there’s a risk of an allergic reaction to future tenants occupying an apartment where the cat recently lived.
 
-
-
 **Dog Breeds to Watch Out For**
 
 Dogs can wreak havoc in homes and apartments, especially if they are not properly trained. And with more dogs than cats living as pets, there’s just a naturally greater chance of property damage occurring. The amount and type of damage that can occur does vary widely, however. Some breeds are more likely than others to chew, bark, and bite. Here are the breeds that are most likely to cause the most damage to your property.
 
-* **Chihuahua:** While small, chihuahua’s have a big bite. They love to chew anything from furniture and carpeting to shoes and toys. If left to be bored and alone, be wary of what might be torn up after a day unattended.
-* **Mastiff:** The Mastiff is one of the largest breeds of dog in the world. While gentle and mild-tempered, its sheer size can make it a household risk. Mastiffs are prone to knock things over and cause damage to furnishings. They are also very affectionate dogs and can easily overwhelm visiting toddlers and children. 
-* **Basset Hound:** Although unassuming in appearance, Basset Hounds love to bark. While not physical damage, excessive barking can disturb neighbors and create an overall inhospitable environment for tenants. 
-* **Whippet:** Similar to Greyhounds, Whippets are very active and excitable animals. They will follow their owners around and jump on furniture. If they do not get enough exercise outside, they will expend their energy inside instead.
+**• Chihuahua:** While small, chihuahua’s have a big bite. They love to chew anything from furniture and carpeting to shoes and toys. If left to be bored and alone, be wary of what might be torn up after a day unattended.
+
+**• Mastiff:** The Mastiff is one of the largest breeds of dog in the world. While gentle and mild-tempered, its sheer size can make it a household risk. Mastiffs are prone to knock things over and cause damage to furnishings. They are also very affectionate dogs and can easily overwhelm visiting toddlers and children. 
+
+**• Basset Hound:** Although unassuming in appearance, Basset Hounds love to bark. While not physical damage, excessive barking can disturb neighbors and create an overall inhospitable environment for tenants. 
+
+**• Whippet:** Similar to Greyhounds, Whippets are very active and excitable animals. They will follow their owners around and jump on furniture. If they do not get enough exercise outside, they will expend their energy inside instead.
 
 ![Pet Damage Reduction from Pet Platform](/assets/pet-damage-reduction-from-pet-platform.png "Pet Damage Reduction from Pet Platform")
 
