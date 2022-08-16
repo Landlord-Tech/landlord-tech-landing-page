@@ -8,7 +8,7 @@ excerpt: A vast number of potential renters own pets and consider them part of
   tenants. However, it is also important that you safeguard your rental
   properties from pet damage.
 heroHeading: Protecting Your Rental Property from Pet Damage
-heroImg: /assets/opp-protecting-your-rental-property-from-pet-damage2.png
+heroImg: /assets/protect-your-rental-from-pet-damage.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
