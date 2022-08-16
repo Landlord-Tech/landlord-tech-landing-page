@@ -43,7 +43,7 @@ Breed restrictions are often a good idea to avoid large or potentially aggressiv
 
 Regulations do dictate, however, that even emotional support animals can be banned from a residential property based on a history of misbehavior. If pets are permitted at your property, the lease terms and/or ESA policies should specify how and when ESAs may be barred from the premises.
 
-![](/assets/3loop.png)
+![](/assets/fraudlent-esas-tenants-find-online-and-how-to-find-them.jpg)
 
 \
 **4. Avoiding Household Restrictions on Pet Limits**
@@ -58,7 +58,7 @@ Obtaining a true emotional support animal starts with seeing a doctor or special
 
 In order to house more pets beyond what’s recommended, tenants have been known to see multiple therapists in order to obtain additional emotional support animals. As a landlord or property manager, you’ll want to be sure that any such letters are verified and in compliance with local and federal laws.
 
-![](/assets/4loop.png)
+![](/assets/online-esa-verification-for-property-owners.jpg)
 
 **6. Pet Waste Fees That Are Too Low**
 
@@ -72,8 +72,7 @@ Some properties may permit visiting pets to reside for a limited period of time 
 
 If you don’t have an application for visiting pets, tenants can simply claim that their pet is visiting whenever you see them with the animal. Some may use this as a loophole to avoid paying any deposits or fees associated with housing the animal in their residence full-time.
 
-[![](/assets/5loop.png)]
-(https://landlordtech.com/request-demo/)
+[![](/assets/5loop.png)](https://landlordtech.com/request-demo/)
 
 **Close the Loopholes with OurPetPolicy**
 
