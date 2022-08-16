@@ -20,7 +20,7 @@ promoSection:
 ---
 The U.S. Department of Housing and Urban Development (HUD) regulates what property owners and landlords must abide by when it comes to tenants living with disabilities. In particular, the Fair Housing Act requires landlords to allow for reasonable accommodation of assistance animals, including emotional support animals (ESAs). HUD specifically states that assistance animals and ESAs are “not pets,” and, as such, they are exempt from most any policies restricting the housing of animals at rental properties.
 
-![](/assets/hud2.png)
+![](/assets/property-manager-penalized-for-bad-pet-policy.jpg)
 
 In particular, landlords cannot impose breed or weight restrictions or collect fees and deposits for animals classified as ESAs. There are a number of other legal requirements as well, including mandatory response times to ESA requests and what information can be collected from a resident with a disability claim. 
 
