@@ -34,7 +34,7 @@ Our blog [post](https://landlordtech.com/resources/five-ways-to-keep-your-landsc
 
 Next, develop a well-established pet policy. According to apartments.com, nine out of ten tenants with pets say the visibility of pet policies plays a role in their decision of where to live. Highlight some information about your pet policy in your listing(s) so it is easy for applicants to find. If it is unclear if your property allows pets or not, many pet owners will look elsewhere. Be descriptive and note any particulars of your pet policy so applicants know what to expect. Showing off pet area photos in the listing is a great strategy, too.
 
-![](/assets/5.png)
+![](/assets/vetted-pet-policies-for-property-managers.jpg)
 
 While a pet-friendly policy can make your property more desirable, it can often open the door to other potential issues. Cleanliness and noise may be issues that occur with pets on your property, so it is important that you or your staff are present, organized, and helpful. Having a manageable platform where tenants can report barking or other disruptive pet noises, unleashed pets in areas requiring leashes, and owners not cleaning up pet waste is an important part of keeping your tenants happy.
 
