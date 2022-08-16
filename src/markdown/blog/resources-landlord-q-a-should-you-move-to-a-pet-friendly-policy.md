@@ -37,7 +37,7 @@ As with any change, some adjustments need to be made, and these are the most com
 
 As a landlord, you need to balance giving your tenants the best living experience possible as well as making sure that you are maximizing profits. Here are the biggest reasons why you should consider going pet-friendly today:
 
-![Why Go Pet-Friendly](/assets/2-2-.jpg "Why Go Pet-Friendly")
+![Why Go Pet-Friendly](/assets/roi-of-a-good-pet-policy.jpeg "Why Go Pet-Friendly")
 
 * **Larger tenant pool.** As working from home becomes the norm, more and more people opt to become pet owners. According to a 2021-22 survey by American Pet Products Association (APPA), an estimated 23 million households added a pet during the pandemic. This means that going pet-friendly opens up your business to a larger prospective tenant pool.
 * **Lower vacancy and turnover rates.** Tenants with pets tend to rent longer. Finding the right apartment that's good for them and their pet can be challenging, meaning once they’ve found the accommodations that work for them, they will stay. 
