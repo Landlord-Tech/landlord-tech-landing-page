@@ -8,7 +8,7 @@ excerpt: "Property managers and landlords have reported more animal-related
   around policies and pet agreements is crucial for preventing this damage and
   ensuring the safest environment for your rentals. "
 heroHeading: Seven ESA Loopholes Commonly Used by Tenants and How to Close Them
-heroImg: /assets/1loop.png
+heroImg: /assets/esa-loopholes-commonly-used-by-tenants.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
