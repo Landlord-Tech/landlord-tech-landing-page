@@ -70,7 +70,7 @@ Neighboring tenants that are surrounded by poorly behaved emotional support anim
 
 #### Advantages of Using a 3rd Party ESA Verification Process for Liability
 
-![](/assets/3-opportunity-cost.jpeg)
+![](/assets/esa-verification-process-for-landlords.jpeg)
 
 [OurPetPolicy](https://www.landlordtech.com/products) offers a thorough ESA verification process that is designed to protect property managers from fraudulent ESAs.
 
