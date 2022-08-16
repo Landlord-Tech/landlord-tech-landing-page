@@ -52,7 +52,7 @@ Establish and set pet care requirements on your property from the get-go. Untrim
 
 It’s important to note that despite precautions, [85% of property owners have](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/), in one way or another, experienced pet damage. Reaching an agreement on maintenance expectations is very important for both parties. The annual average cost of pet damage caused by dogs is around $850. Seeing eye to eye on expectations and obligations regarding renting with pets is essential for a beneficial landlord-tenant relationship.
 
-![](/assets/effective-pet-screening.png)
+![](/assets/protect-your-rental-property-from-pet-damage.jpeg)
 
 #### **Establish and Enforce Your Pet Policy**
 
