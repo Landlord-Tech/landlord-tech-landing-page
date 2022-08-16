@@ -1,7 +1,7 @@
 backend:
-  name: git-gateway
-  # name: github
-  # repo: Landlord-Tech/landlord-tech-landing-page
+  # name: git-gateway
+  name: github
+  repo: Landlord-Tech/landlord-tech-landing-page
   # branch: dev
 
 #publish_mode: editorial_workflow
@@ -135,6 +135,7 @@ collections:
       preview: false
     fields:
       - { name: title, label: Info Box Title, widget: hidden }
+      - { name: infoBoxTitle, label: Info Box Title }
       - name: infoBoxList
         label: Info Box List
         widget: list

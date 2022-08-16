@@ -4,6 +4,48 @@
   }
 }
 
+@media screen and (max-width: 830px) {
+  .hero {
+    &.sm {
+      max-height: fit-content;
+    }
+    &.withOverlay {
+      &::after {
+        content: none;
+      }
+    }
+    .banner-img {
+      display: none;
+    }
+    .banner-grid {
+      .container {
+        padding: 20px;
+        .video-text-content {
+          flex-direction: column;
+          .content-wrapper {
+            width: 100%;
+            padding-bottom: 24px;
+            .h1,
+            p {
+              color: $color-black;
+            }
+          }
+          .video-container {
+            padding-bottom: 56.25%;
+            width: 100%;
+            max-width: 100%;
+          }
+
+          .text {
+            padding: 24px 0;
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}
+
 @media screen and (max-width: 768px) {
   .landing {
     .title {
@@ -49,20 +91,6 @@
 
   .testimonial-container {
     margin-top: 24px;
-  }
-
-  .video-text-content {
-    flex-direction: column;
-    .video-container {
-      padding-bottom: 56.25%;
-      width: 100%;
-      max-width: 100%;
-    }
-
-    .text {
-      padding: 24px 0;
-      width: 100%;
-    }
   }
 
   .img-text-content {
