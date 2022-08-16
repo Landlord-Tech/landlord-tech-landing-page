@@ -23,7 +23,7 @@ The question of whether to have a no-pet policy versus being a pet-friendly resi
 
 Some may ask, what is the point of having a pet-friendly policy? And, are there any downsides to transitioning to one? Let us help answer some of these common questions and discuss both the challenges and benefits that make it a decision worth considering.  
 
-![](/assets/1-3-.jpg)
+![](/assets/lawyer-vetted-pet-policies.jpeg)
 
 ### Challenges of transitioning to a pet-friendly policy
 
