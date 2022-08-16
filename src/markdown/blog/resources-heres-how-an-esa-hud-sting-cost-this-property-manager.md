@@ -7,7 +7,7 @@ excerpt: As a landlord or property owner, you have a legal duty to understand
   property. Not knowing this information can be costly. Here's how one landlord
   learned that the hard way.
 heroHeading: Here's How an ESA HUD Sting Cost This Property Manager $80,000
-heroImg: /assets/hud1.png
+heroImg: /assets/an-hud-sting-cost-this-property-manager.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -49,6 +49,6 @@ Fair housing measures are put in place to protect both tenants and landlords. It
 \
 That’s where OurPetPolicy comes in. Our team of experts understands the HUD guidelines on pets through and through. We also take the guesswork out of reviewing fraudulent ESA letters with our ESA verification program. As a landlord or property manager, this ultimately saves you time, money, and the headaches of managing everything involved with housing assistance animals at your property.
 
-[![](/assets/7.png)](https://landlordtech.com/request-demo/)
+[![](/assets/esa-verification-that-is-hud-compliant.jpg)](https://landlordtech.com/request-demo/)
 
 Liability and legal compliance are our specialties, and we are happy to offer initial training for all property managers and provide them with the resources they need to be prepared for assistance animal accommodation requests. As the victim in the interview said, hindsight is 20/20. Don’t risk suffering the same outcome at the hands of HUD. Get started with [OurPetPolicy](https://landlordtech.com/request-demo/) today.
