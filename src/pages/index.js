@@ -110,7 +110,7 @@ const Landlords = () => {
           <p id="scroll-here">Scroll</p>
         </button> */}
       </section>
-      <section className="section-sm">
+      <section className="section">
         <div className="container">
           <h2 className="h2">{infoBoxTitle || "Pet Management Done Right"}</h2>
           <div className="info-box-wrapper">
@@ -129,7 +129,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section>
+      <section className="testimonial-section">
         <div className="container">
           <div className="title">
             <h2 className="h2">{testimonialTitle}</h2>
@@ -149,7 +149,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section>
+      <section className="section">
         <div className="container">
           <div className="title text-center">
             <h2 className="h2">{calculatorTitle}</h2>
