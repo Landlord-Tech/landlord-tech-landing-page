@@ -20,7 +20,7 @@ title: The True Cost of Having a Bad Pet Policy
 ---
 Having a pet policy for your renters is an essential part of protecting your property and your rental income. However, it's important to note that not all policies are created equal. A bad pet policy, lacking detailed rules and guidelines, may leave you exposed and unprotected in pet-related scenarios.
 
-![](/assets/the-cost-of-a-bad-pet-policy.jpg)
+![](/assets/manage-pets-in-your-rentals.jpeg)
 
 When evaluating your current system, consider whether or not it protects you from the following issues.
 
