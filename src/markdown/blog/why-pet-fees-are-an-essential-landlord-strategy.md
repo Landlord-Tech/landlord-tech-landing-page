@@ -66,7 +66,7 @@ Common damage includes:
 
 Carpets are among the most costly repairs for landlords. The average cost to replace just [500sq. ft. of carpet is $2400](https://homeguide.com/costs/carpet-installation-cost), which can be seen as a $50 monthly loss on the unit if the landlord must replace it every five years instead of 10.
 
-![Challenges of Managing Pet-Friendly Rentals](/assets/challenges-of-pet-friendly-rentals2.png "Challenges of Managing Pet-Friendly Rentals")
+![Challenges of Managing Pet-Friendly Rentals](/assets/pet-friendly-rentals-.jpg "Challenges of Managing Pet-Friendly Rentals")
 
 #### Loss of Rental Income During Repairs 
 
