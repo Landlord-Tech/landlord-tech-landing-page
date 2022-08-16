@@ -26,7 +26,7 @@ In particular, landlords cannot impose breed or weight restrictions or collect f
 
 Not knowing these policies and the appropriate accommodations that must be provided can be costly. We recently spoke with a property owner who fell victim to a HUD/Department of Justice sting operation over the accommodation of emotional support animals at his property.
 
-![](/assets/hud3.png)
+![](/assets/hud-compliant-pet-policies.jpg)
 
 **How a Landlord Fell Victim to an ESA Sting**
 
