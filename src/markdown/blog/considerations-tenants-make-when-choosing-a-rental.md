@@ -26,7 +26,7 @@ These are possibly the most important, and at times most difficult to answer, qu
 
 Studies show [75% of renters own at least one pet](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/), and pet owners rent for an average of 8 months longer than non-pet-owners. This means allowing pets to live at your rental property is one way you can attract and keep long-term tenants. With that in mind, here are some specific policies and practices to consider if you want to take this step and allow pets at your rental property.
 
-![](/assets/pet-owners.png)
+![](/assets/moving-to-a-pet-friendly-policy.jpg)
 
 Make sure [your property has the proper amenities.](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) This includes grassy, clean outdoor areas, and easily accessible pet-waste management areas. A fenced-in area is not necessarily required for many complexes but can be a huge marketing boost if other properties do not have this feature. Regardless, having a designated pet area (or areas) outdoors for tenants with pets is extremely important, and having easy access to dispose of pet waste helps ensure that your property remains clean. When animals have the space to play, run, or “doo” their business they typically are happier and as a result, behave better.
 
