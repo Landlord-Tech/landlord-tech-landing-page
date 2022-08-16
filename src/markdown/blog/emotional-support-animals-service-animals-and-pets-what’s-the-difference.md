@@ -9,7 +9,7 @@ excerpt: Over the years, these furry friends have transformed into more than
   to properly accommodate, manage, and appreciate these animals and those who
   rely on them.
 heroHeading: Emotional Support Animals, Service Animals, and Pets. What’s the Difference?
-heroImg: /assets/esa-pets-service-animal.png
+heroImg: /assets/renting-to-tenants-with-pets.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better

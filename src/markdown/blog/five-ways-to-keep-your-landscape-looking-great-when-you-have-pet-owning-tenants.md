@@ -6,7 +6,7 @@ excerpt: Once you’ve weighed the pros and cons and decided to allow pet-owning
   tenant(s), the next decision tackles the issue of maintaining attractive
   landscaping and pet-friendly premises.
 heroHeading: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
-heroImg: /assets/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants.png
+heroImg: /assets/reduce-pet-damage-with-pet-platform.jpg
 social: true
 promoSection:
   promo: true
@@ -34,7 +34,7 @@ Fake grass is an excellent option to further mitigate damage. Fake grass, or art
 
 Repeated bathroom usage in one area can cause yellow spots in natural lawns. If fake grass isn’t a feasible option for your landscaping, urine neutralizer treats for dogs assist in stopping yellow spots before they appear. There are a variety of options online and in stores.
 
-![Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants](/assets/1ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants.png "Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants")
+![Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants](/assets/renting-to-pet-owners.jpg "Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants")
 
 **4. Incorporate a regular lawn fertilization schedule**
 

@@ -21,7 +21,7 @@ title: The Opportunity Cost of Not Verifying Tenant ESA Letters
 ---
 As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, pet owners have found a convenient loophole using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees.
 
-![](/assets/1-opportunity-cost.jpeg)
+![](/assets/verifying-esas-in-your-rentals.jpeg)
 
 Emotional Support Animals provide a sense of safety and companionship to individuals suffering from various emotional and psychological conditions. While [ESAs are not service animals](https://adata.org/guide/service-animals-and-emotional-support-animals), according to the ADA, they do receive some of the same rights. As they are not considered pets, owners of ESAs are not required to pay pet fees, pet deposits, or pet rent.
 
@@ -34,8 +34,6 @@ While you can require that your tenants provide documentation for their ESAs, ma
 * Tenants who pay the fees outlined in your pet policy can become disgruntled by the amount of untrained and poorly behaved imposter ESAs on your property.
 * Without getting a deposit upfront, it can be much more challenging for you to recoup any repair costs from a tenant that has already vacated your rental.
 
-
-
 #### The Cost of Verifying ESA Letters Yourself
 
 Verifying each ESA letter for authenticity is necessary to prevent fraud, but the process itself can be very challenging and time-consuming. You'll either need to do it yourself or spend the time training a member of your team on the many steps required to confirm that the letters are legitimate.
@@ -45,8 +43,6 @@ Verifying each ESA letter for authenticity is necessary to prevent fraud, but th
 * Verify the validity of the license number and that the licensed mental health professional that issued the letter is licensed in the state you're renting in. This can be confirmed on your state's [license verification portal](https://www.certapet.com/wp-content/uploads/2020/09/ESA-License-Verification.pdf).
 * Verify that the ESA letter was awarded after a mental health screening.
 * Check the date of the letter.
-
-
 
 #### What Are The Consequences if Your ESA Verification Process is Not Done Correctly?
 
