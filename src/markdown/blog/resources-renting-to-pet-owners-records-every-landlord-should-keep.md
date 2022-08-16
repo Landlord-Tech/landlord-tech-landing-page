@@ -25,7 +25,7 @@ We’ve talked about the [positive benefits](https://landlordtech.com/resources/
 
 First and foremost, make sure that the pet has received all necessary vaccinations and that they are regularly updated. Rabies is a serious concern and even the friendliest of pets can still bite. Not only that, pets can also carry infectious viruses which can be quite dangerous for younger animals. Making sure that all pets on your properties have been vaccinated and are regularly updated with their boosters as recommended makes it safer for everyone. When it comes to your pet screening process, health should be at the top of the list.
 
-![Renting to pet owners ](/assets/sytemize-your-pet-program.jpg)
+![Renting to pet owners ](/assets/systemize-your-pet-program.jpg)
 
 **Breed and Animal Type**
 
