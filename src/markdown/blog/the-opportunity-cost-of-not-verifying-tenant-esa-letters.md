@@ -46,7 +46,7 @@ Verifying each ESA letter for authenticity is necessary to prevent fraud, but th
 
 #### What Are The Consequences if Your ESA Verification Process is Not Done Correctly?
 
-![](/assets/2-opportunity-cost.jpeg)
+![](/assets/pet-screening-for-property-owners.jpeg)
 
 ##### HIPAA or Fair Housing Act Violations
 
