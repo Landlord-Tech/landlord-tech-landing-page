@@ -6,7 +6,7 @@ excerpt: It’s best to arm yourself with information regarding your tenants and
   their pets, so you can protect yourself from pet-related issues, check if a
   new tenant is a good fit for the current dynamic, and keep everyone happy.
 heroHeading: "Renting to Pet Owners: Records Every Landlord Should Keep"
-heroImg: /assets/renting-to-pet-owners.png
+heroImg: /assets/records-property-owners-should-keep.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
