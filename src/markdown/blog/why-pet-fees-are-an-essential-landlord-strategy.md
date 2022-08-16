@@ -28,7 +28,7 @@ In today’s article, we’ll be covering the different pet-related issues that 
 
 By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](<https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/﻿ ﻿>). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
 
-![Renters with pets](/assets/renters-own-pets1.png "Renters with pets")
+![Renters with pets](/assets/pet-screening-for-landlords.jpg "Renters with pets")
 
 #### Pet-Related Complaints
 
@@ -66,7 +66,7 @@ Common damage includes:
 
 Carpets are among the most costly repairs for landlords. The average cost to replace just [500sq. ft. of carpet is $2400](https://homeguide.com/costs/carpet-installation-cost), which can be seen as a $50 monthly loss on the unit if the landlord must replace it every five years instead of 10.
 
-![Challenges of Managing Pet-Friendly Rentals](/assets/challenges-of-pet-friendly-rentals2.png "Challenges of Managing Pet-Friendly Rentals")
+![Challenges of Managing Pet-Friendly Rentals](/assets/pet-friendly-rentals-.jpg "Challenges of Managing Pet-Friendly Rentals")
 
 #### Loss of Rental Income During Repairs 
 

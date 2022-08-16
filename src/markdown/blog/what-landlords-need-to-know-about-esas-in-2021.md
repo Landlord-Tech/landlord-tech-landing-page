@@ -6,7 +6,7 @@ excerpt: If your property normally does not allow pets, it may be tempting to
   deny an ESA outright, but there are multiple reasons why this may not be the
   best course of action.
 heroHeading: What Landlords Need To Know About ESAs In 2022
-heroImg: /assets/what-landlords.png
+heroImg: /assets/landlords-and-esa-verification.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better​
@@ -36,6 +36,6 @@ When all is said and done, denying an ESA may not be your best course of action.
 
 There are countless other rules and regulations surrounding ESA approval and status confirmation, including traditional animals that serve in the role of an ESA and tiered fines for improperly denying an ESA. To learn more about the process of verifying, denying, or allowing ESAs on your property, download our latest e-book, *[What Landlords Need To Know About ESAs In 2022](https://landlordtech.com/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)*.
 
-[![Ebook](/assets/landlord_esas_2022_ebook.png "Ebook")](https://landlordtech.com/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)
+[![Ebook](assets/what-landlords-need-to-know-about-esas.jpg "Ebook")](https://landlordtech.com/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)
 
 ###### **[Download Ebook](https://landlordtech.com/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)**

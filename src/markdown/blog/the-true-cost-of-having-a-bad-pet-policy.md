@@ -6,7 +6,7 @@ excerpt: "Having a pet policy for your renters is an essential part of
   protecting your property and your rental income. However, it's important to
   note that not all policies are created equal. "
 heroHeading: The True Cost of Having a Bad Pet Policy
-heroImg: /assets/bigstock-sad-little-dog-is-lying-on-mon-408151319.png
+heroImg: /assets/strong-pet-policies-that-protect-landlordsstrong-pet-policies-that-protect-landlords.jpg
 social: true
 promoSection:
   promo: true
@@ -20,7 +20,7 @@ title: The True Cost of Having a Bad Pet Policy
 ---
 Having a pet policy for your renters is an essential part of protecting your property and your rental income. However, it's important to note that not all policies are created equal. A bad pet policy, lacking detailed rules and guidelines, may leave you exposed and unprotected in pet-related scenarios.
 
-![](https://lh4.googleusercontent.com/EUgdh_yR9JXttoyYTsBs5c1DZsjN1sWYKk950VaE1NLwFb9g7gdxZ0GkBdq7lLRwkDEJjVecCvcm8iq2hJqLM_w6BP-6FSfkBPiJxNp8-u5CxYE8XnoSA3IySW4R8I__Zl3B6sXv)
+![](/assets/manage-pets-in-your-rentals.jpeg)
 
 When evaluating your current system, consider whether or not it protects you from the following issues.
 
@@ -56,7 +56,7 @@ A good pet policy should include proper pet and tenant screenings to ensure that
 
 • [Cat dander;](https://petdanderremovalservice.com/) extremely difficult, costly, and time-consuming to remove to ensure the safety of future tenants with allergies.
 
-![](https://lh6.googleusercontent.com/clM-Xj35TJRzAf_b1uq8qgWwKHAePa6ahVrP6hdYasp_QsX0TP5avLWwbKuqzlwfoRQdODmMVViLZRec12onJxYQ1tNmYWdqbhl-9vawOZ851PN3Y47HVxrZDWJrbzUVYGVYtWtc)
+![](/assets/pet-and-tenant-screening-for-landlords.jpg)
 
 #### Rental Turnover Downtime
 
@@ -74,7 +74,7 @@ Tenants can fraudulently register their pets as Emotional Support Animals, meani
 
 Many tenants sneak pets onto the property to avoid pet fees entirely. Policies lacking strict guidelines to remedy these situations can make it difficult to evict or fine these tenants if caught. If the pet goes unnoticed, any damages found after the tenant has vacated the rental will not be covered.
 
-![](https://lh4.googleusercontent.com/Xr46AgNc_jvGiScJEemdt6Zi_WHc2U598Nephvr8liHwGOl_Sml6oHYYIJXngp7GlsohDlXu4zg3wp7lL5tMoETXceeliheCHjMYm4uWHWeul-AN7VzY64eiixvxYepAryp28C-F)
+![](/assets/manage-fraudulent-esa-requests-online.jpg)
 
 #### Irresponsible Pet Owners
 

@@ -8,7 +8,7 @@ excerpt: The question of whether to have a no-pet policy versus being a
   Animals (ESAs), the question is no longer yes or no to being pet-friendly, but
   when?
 heroHeading: "Landlord Q&A: Should You Move to a Pet-Friendly Policy?"
-heroImg: /assets/landlord-q-a.png
+heroImg: /assets/pet-friendly-policies.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -23,7 +23,7 @@ The question of whether to have a no-pet policy versus being a pet-friendly resi
 
 Some may ask, what is the point of having a pet-friendly policy? And, are there any downsides to transitioning to one? Let us help answer some of these common questions and discuss both the challenges and benefits that make it a decision worth considering.  
 
-![](/assets/1-3-.jpg)
+![](/assets/lawyer-vetted-pet-policies.jpeg)
 
 ### Challenges of transitioning to a pet-friendly policy
 
@@ -37,7 +37,7 @@ As with any change, some adjustments need to be made, and these are the most com
 
 As a landlord, you need to balance giving your tenants the best living experience possible as well as making sure that you are maximizing profits. Here are the biggest reasons why you should consider going pet-friendly today:
 
-![Why Go Pet-Friendly](/assets/2-2-.jpg "Why Go Pet-Friendly")
+![Why Go Pet-Friendly](/assets/roi-of-a-good-pet-policy.jpeg "Why Go Pet-Friendly")
 
 * **Larger tenant pool.** As working from home becomes the norm, more and more people opt to become pet owners. According to a 2021-22 survey by American Pet Products Association (APPA), an estimated 23 million households added a pet during the pandemic. This means that going pet-friendly opens up your business to a larger prospective tenant pool.
 * **Lower vacancy and turnover rates.** Tenants with pets tend to rent longer. Finding the right apartment that's good for them and their pet can be challenging, meaning once they’ve found the accommodations that work for them, they will stay. 
@@ -47,7 +47,7 @@ As a landlord, you need to balance giving your tenants the best living experienc
 * **Fewer unauthorized pets.** The number of ESAs has increased dramatically, meaning that you might already be housing a large number of animals without the proper documentation to protect your property from damage, animal misbehavior, or tenant complaints. While ESAs help thousands of people that need them, there are thousands of people purchasing fraudulent ESA letters as a loophole to live anywhere and/or to avoid paying pet fees, deposits, or rents. Having a [good system to properly vet assistance animal requests](https://www.landlordtech.com/products) can make all of the difference when it comes to the proper management of the animals on your premise.
 * **Happy tenants.** The past few years have allowed people to take a hard look into their mental health. People are more aware of their needs and animals play a significant role in that. From helping during times of stress, providing companionship, and undoubtedly making spaces feel more like home, allowing pets can lead to happier tenants.
 
-![we offer resources](/assets/4_petfriendly.jpg "we offer resources")
+![we offer resources](/assets/pet-management-resources-for-landlords.jpeg "we offer resources")
 
 Transitioning can seem like a lot of work. But the opportunity for additional income, longer-term residents, and overall happiness make this decision something to consider. 
 
