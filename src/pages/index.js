@@ -51,7 +51,7 @@ const Landlords = () => {
   const { imageTextContent, imageTextHeading, videoSrcURL } =
     useHomepageVideoSectionData()
 
-  const { infoBoxList } = useInfoBoxData()
+  const { infoBoxList, infoBoxTitle } = useInfoBoxData()
   const { infoBlockList } = useInfoBlockData()
   const { testimonialList, testimonialTitle } = useTestimonialData()
 
@@ -60,7 +60,7 @@ const Landlords = () => {
       <Seo title={metaTitle} description={metaDescription} />
       <section className="hero withOverlay sm">
         <GatsbyImage
-          className="grid-1"
+          className="grid-1 banner-img"
           alt={heroHeading}
           image={getImage(heroImg)}
           objectPosition={"70%"}
@@ -68,10 +68,10 @@ const Landlords = () => {
         />
         <div className="banner-grid">
           <div className="container">
-            <div className="hero-content">
-              <div className="hero-left">
-                <h1 className="h1">{heroHeading}</h1>
-                <p className="hero-text">{heroText}</p>
+            <div className="video-text-content">
+              <div className="content-wrapper">
+                <h1 className="h1">{imageTextHeading}</h1>
+                <p>{imageTextContent}</p>
                 <div className="btn-group">
                   <a
                     href={heroBtnSecondaryUrl}
@@ -89,52 +89,30 @@ const Landlords = () => {
                   </a>
                 </div>
               </div>
-              <button
-                onClick={() => scrollTo("#scroll-here")}
-                className="animated-mouse"
-              >
-                <Icon color="#fff" size={60} icon="scroll" />
-                <p id="scroll-here">Scroll</p>
-              </button>
+              <div className="video-container">
+                <iframe
+                  src={videoSrcURL}
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  frameBorder="0"
+                  webkitallowfullscreen="true"
+                  mozallowfullscreen="true"
+                  allowFullScreen
+                />
+              </div>
             </div>
           </div>
         </div>
+        {/* <button
+          onClick={() => scrollTo("#scroll-here")}
+          className="animated-mouse"
+        >
+          <Icon color="#fff" size={60} icon="scroll" />
+          <p id="scroll-here">Scroll</p>
+        </button> */}
       </section>
-      <section className="img-text-section video-section">
-        <div className="container">
-          <div className="video-text-content">
-            <div className="text">
-              <h2 className="large-title">{imageTextHeading}</h2>
-              <p>{imageTextContent}</p>
-            </div>
-            <div className="video-container">
-              <iframe
-                src={videoSrcURL}
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                frameBorder="0"
-                webkitallowfullscreen="true"
-                mozallowfullscreen="true"
-                allowFullScreen
-              />
-            </div>
-          </div>
-        </div>
-      </section>
-      <div className="info-blocks-wrapper">
-        {infoBlockList.map((item, i) => {
-          return (
-            <InfoBlocks
-              key={i}
-              heading={item.infoBlockHeading}
-              content={item.infoBlockContent}
-              imageUrl={item.infoBlockImg}
-              icon={item.icon}
-            />
-          )
-        })}
-      </div>
       <section className="section">
         <div className="container">
+          <h2 className="h2">{infoBoxTitle}</h2>
           <div className="info-box-wrapper">
             {infoBoxList.map((item, i) => {
               return (
@@ -151,15 +129,7 @@ const Landlords = () => {
           </div>
         </div>
       </section>
-      <section>
-        <div className="container">
-          <div className="title text-center">
-            <h2 className="h2">{calculatorTitle}</h2>
-          </div>
-          <CalculatorSection />
-        </div>
-      </section>
-      <section className="section">
+      <section className="testimonial-section">
         <div className="container">
           <div className="title">
             <h2 className="h2">{testimonialTitle}</h2>
@@ -177,6 +147,29 @@ const Landlords = () => {
               )
             })}
           </div>
+        </div>
+      </section>
+      <section className="section">
+        <div className="container">
+          <div className="title text-center">
+            <h2 className="h2">{calculatorTitle}</h2>
+          </div>
+          <CalculatorSection />
+        </div>
+      </section>
+      <section>
+        <div className="info-blocks-wrapper">
+          {infoBlockList.map((item, i) => {
+            return (
+              <InfoBlocks
+                key={i}
+                heading={item.infoBlockHeading}
+                content={item.infoBlockContent}
+                imageUrl={item.infoBlockImg}
+                icon={item.icon}
+              />
+            )
+          })}
         </div>
       </section>
       <section className="half-image-banner">
