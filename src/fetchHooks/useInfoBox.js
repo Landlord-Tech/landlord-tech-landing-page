@@ -6,6 +6,7 @@ export const useInfoBoxData = () => {
       markdownRemark(frontmatter: { title: { eq: "info-box" } }) {
         frontmatter {
           title
+          infoBoxTitle
           infoBoxList {
             icon
             infoBoxButton
