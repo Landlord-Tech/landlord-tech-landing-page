@@ -1,5 +1,6 @@
 ---
 title: info-box
+infoBoxTitle: Pet Management Done Right
 infoBoxList:
   - infoBoxHeading: Pet Management Platform
     infoBoxContent: Landlord Tech offers the one and only comprehensive pet
@@ -19,8 +20,7 @@ infoBoxList:
     infoBoxButtonURL: /products
     icon: pet-pow
     infoBoxHeading: Animal Mapping
-    infoBoxContent:
-      Knowing what, and where, animals are residing in your properties
+    infoBoxContent: Knowing what, and where, animals are residing in your properties
       can have a direct impact on your bottom line. Not only benefiting you, but
       all of your non-pet owning and pet-owning residents as well. A win-win.
 ---
