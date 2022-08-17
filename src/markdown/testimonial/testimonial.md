@@ -1,6 +1,6 @@
 ---
 title: testimonial
-testimonialTitle: What Our Customers Have to Say
+testimonialTitle: What Property Managers Have to Say
 testimonialList:
   - review: As an on-site manager I have pets walk by me all day and with over 200
       units there is no way I can try to look those animals up in our regular
