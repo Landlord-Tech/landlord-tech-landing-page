@@ -112,7 +112,7 @@ const Landlords = () => {
       </section>
       <section className="section">
         <div className="container">
-          <h2 className="h2">{infoBoxTitle || "Pet Management Done Right"}</h2>
+          <h2 className="h2">{infoBoxTitle}</h2>
           <div className="info-box-wrapper">
             {infoBoxList.map((item, i) => {
               return (
