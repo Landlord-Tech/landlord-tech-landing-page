@@ -31,7 +31,6 @@ const Template = ({ data, location }) => {
     "twitterHandle"
   const inShare = "https://linkedin.com/shareArticle?url=" + baseURL + path
 
-  console.log(data)
   return (
     <Layout className="landing">
       <section className="hero blog-page withOverlay">

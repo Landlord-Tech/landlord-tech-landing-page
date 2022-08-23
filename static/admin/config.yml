@@ -605,11 +605,34 @@ collections:
         widget: list
         fields:
           - { label: Request Demo Info Text, name: requestDemoInfoText }
-  # partners
+  # partners-list
+  - name: partners-list
+    label: Partner List
+    folder: src/markdown/partners-list
+    preview_path: /
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: heroImg, label: Partners Hero Img, widget: image }
+      - { name: heroHeading, label: Partners Hero heading }
+      - name: partnersList
+        label: Partners List
+        widget: list
+        fields:
+          - { name: logo, label: Partners logo, widget: image }
+          - { name: description, label: Partners description }
+          - { name: buttonName, label: Button Name }
+          - { name: buttonUrl, label: Button Url }
+  # partners-detail
   - name: partners-detail
     label: Partner Detail
     folder: src/markdown/partners-detail
     preview_path: /
+    create: true
     editor:
       preview: false
     fields:
