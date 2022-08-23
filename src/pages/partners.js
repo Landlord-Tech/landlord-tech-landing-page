@@ -17,7 +17,7 @@ const Partners = () => {
         description:
           "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
         buttonName: "Learn more",
-        buttonUrl: "#",
+        buttonUrl: "resman",
       },
       {
         logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
