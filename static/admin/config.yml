@@ -605,6 +605,35 @@ collections:
         widget: list
         fields:
           - { label: Request Demo Info Text, name: requestDemoInfoText }
+  # partners
+  - name: partners-detail
+    label: Partner Detail
+    folder: src/markdown/partners-detail
+    preview_path: /
+    editor:
+      preview: false
+    fields:
+      - { name: title, label: Title }
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: logo, label: Partners Logo, widget: image }
+      - { name: partnerName, label: Partners Name }
+      - { name: address, label: Partners Address }
+      - { name: about, label: About Partners }
+      - { name: buttonName, label: Button Name }
+      - { name: buttonUrl, label: Button Url }
+      - name: partnerDetailsList
+        label: Partners Details List
+        widget: list
+        fields:
+          - { name: label, label: Detail Label }
+          - { name: content, label: Detail Content }
+      - name: faqList
+        label: FAQ List
+        widget: list
+        fields:
+          - { name: faqQuestion, label: FAQ question }
+          - { name: faqAnswer, label: FAQ answer, widget: markdown }
   # 404
   - name: not-found
     label: Not Found
