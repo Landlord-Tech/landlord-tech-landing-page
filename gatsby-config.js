@@ -228,7 +228,20 @@ module.exports = {
         path: `${__dirname}/src/markdown/faq-list`,
       },
     },
-
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `partners-list`,
+        path: `${__dirname}/src/markdown/partners-list`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `partners-detail`,
+        path: `${__dirname}/src/markdown/partners-detail`,
+      },
+    },
     {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
