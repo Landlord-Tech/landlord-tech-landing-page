@@ -5,7 +5,7 @@ import Seo from "../components/seo"
 import { useFAQListData } from "../fetchHooks/useFaqList"
 import PartnersDetail from "../components/partners/PartnersDetail"
 
-const Partners = () => {
+const PartnerDetail = () => {
   const { faqHeading, faqList } = useFAQListData()
 
   const partnerData = {
@@ -54,4 +54,4 @@ const Partners = () => {
   )
 }
 
-export default Partners
+export default PartnerDetail
