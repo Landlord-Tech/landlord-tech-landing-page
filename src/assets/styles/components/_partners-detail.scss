@@ -37,10 +37,23 @@
 }
 
 .partner-wrapper {
-  background-color: $color-light;
   padding: 56px 0;
   margin-bottom: 48px;
-  .description {
-    padding: 32px 0;
+  .partner-content {
+    display: flex;
+    .partner-img-wrapper {
+      background-color: $color-light;
+      margin-right: 32px;
+      max-width: 364px;
+      padding: 36px;
+      width: 100%;
+      border-radius: 16px;
+    }
+    .description {
+      padding: 16px 0;
+    }
+    .address {
+      color: $color-light-grey;
+    }
   }
 }
