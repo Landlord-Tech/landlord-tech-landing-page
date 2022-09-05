@@ -619,11 +619,14 @@ collections:
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroImg, label: Partners Hero Img, widget: image }
       - { name: heroHeading, label: Partners Hero heading }
+      - { name: heroSubhead, label: Partners Hero Subhead }
       - name: partnersList
         label: Partners List
         widget: list
         fields:
           - { name: logo, label: Partners logo, widget: image }
+          - { name: name, label: Partners name }
+          - { name: address, label: Partners address }
           - { name: description, label: Partners description }
           - { name: buttonName, label: Button Name }
           - { name: buttonUrl, label: Button Url }

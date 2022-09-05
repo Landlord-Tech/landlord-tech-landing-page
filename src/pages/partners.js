@@ -11,9 +11,13 @@ const Partners = () => {
     heroImg:
       "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
     heroHeading: "Meet Our Partners",
+    heroSubhead:
+      "OurPetPolicy Partners provide solutions that streamline residential real estate management. We`re working together to provide the best partnerships in the industry. ",
     partnersList: [
       {
         logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
+        name: "ResMan",
+        address: "Plano, Texas, United States",
         description:
           "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
         buttonName: "Learn more",
@@ -21,6 +25,8 @@ const Partners = () => {
       },
       {
         logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
+        name: "ResMan",
+        address: "Plano, Texas, United States",
         description:
           "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
         buttonName: "Learn more",
@@ -28,6 +34,8 @@ const Partners = () => {
       },
       {
         logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
+        name: "ResMan",
+        address: "Plano, Texas, United States",
         description:
           "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
         buttonName: "Learn more",
@@ -51,6 +59,7 @@ const Partners = () => {
             <div className="hero-content centered">
               <div className="hero-left">
                 <h1 className="h1">{partners.heroHeading}</h1>
+                <p className="p">{partners.heroSubhead}</p>
               </div>
             </div>
           </div>
