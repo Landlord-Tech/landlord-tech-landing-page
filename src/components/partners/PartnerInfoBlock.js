@@ -1,9 +1,8 @@
 import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { usePartnersDetailData } from "../../fetchHooks/usePartnersDetail"
 
-export default () => {
-  const { logo, partnerDetailsList } = usePartnersDetailData()
+export default ({ frontmatter }) => {
+  const { logo, partnerDetailsList } = frontmatter
 
   return (
     <div className="partner-block-wrapper">

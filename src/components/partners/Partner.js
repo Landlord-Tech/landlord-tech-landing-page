@@ -2,7 +2,7 @@ import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 export default ({ data }) => {
-  const { logo, name, address, description, buttonUrl, buttonName } = data
+  const { logo, partnerName, address, about, path } = data
   return (
     <div className="partner-wrapper">
       <div className="container">
@@ -11,11 +11,11 @@ export default ({ data }) => {
             <GatsbyImage alt="partner-logo" image={getImage(logo)} />
           </div>
           <div className="partner-list-content">
-            <h2 className="h2">{name}</h2>
+            <h2 className="h2">{partnerName}</h2>
             <h6 className="h5 address">{address}</h6>
-            <h5 className="h5 description">{description}</h5>
-            <a href={buttonUrl} rel="noreferrer" className="btn btn-lg primary">
-              {buttonName}
+            <h5 className="h5 description">{about}</h5>
+            <a href={path} rel="noreferrer" className="btn btn-lg primary">
+              Learn more
             </a>
           </div>
         </div>
