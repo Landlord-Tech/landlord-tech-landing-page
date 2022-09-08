@@ -3,7 +3,6 @@ import Layout from "../components/layout"
 import Faq from "../components/faq"
 import Seo from "../components/seo"
 import PartnersDetail from "../components/partners/PartnersDetail"
-import { usePartnersDetailData } from "../fetchHooks/usePartnersDetail"
 
 const PartnerDetail = ({ data }) => {
   const { markdownRemark } = data

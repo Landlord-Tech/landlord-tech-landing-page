@@ -79,7 +79,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
   partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
-      path: node.frontmatter.partnerName,
+      // path: node.frontmatter.partnerName,
       component: partnersDetail,
       context: {}, // additional data can be passed via context
     })
