@@ -1,8 +1,9 @@
 import * as React from "react"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { usePartnersDetailData } from "../../fetchHooks/usePartnersDetail"
 
-export default ({ data }) => {
-  const { partnerName, address, about, buttonName, buttonUrl } = data
+export default () => {
+  const { partnerName, address, about, buttonName, buttonUrl } =
+    usePartnersDetailData()
 
   return (
     <div className="partner-about-wrapper">
