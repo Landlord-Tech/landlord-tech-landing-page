@@ -3,7 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 export const usePartnersListData = () => {
   const partnersListData = useStaticQuery(graphql`
     {
-      markdownRemark(frontmatter: { title: { eq: "partners-list" } }) {
+      markdownRemark(frontmatter: { title: { eq: "parters-list" } }) {
         frontmatter {
           metaTitle
           metaDescription
@@ -15,7 +15,11 @@ export const usePartnersListData = () => {
           heroHeading
           heroSubhead
           partnersList {
-            logo
+            logo {
+              childImageSharp {
+                gatsbyImageData
+              }
+            }
             name
             address
             description

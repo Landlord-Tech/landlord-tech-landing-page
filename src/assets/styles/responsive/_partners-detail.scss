@@ -10,4 +10,19 @@
       padding-top: 24px;
     }
   }
+
+  .partner-wrapper {
+    padding: 0;
+    margin-bottom: 0px;
+    .partner-content {
+      flex-direction: column;
+      flex-wrap: wrap;
+      .partner-img-wrapper {
+        margin-bottom: 14px;
+      }
+      .partner-list-content {
+        padding: 0 12px;
+      }
+    }
+  }
 }
