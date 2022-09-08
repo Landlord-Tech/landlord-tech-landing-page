@@ -14,18 +14,6 @@ export const usePartnersListData = () => {
           }
           heroHeading
           heroSubhead
-          partnersList {
-            logo {
-              childImageSharp {
-                gatsbyImageData
-              }
-            }
-            name
-            address
-            description
-            buttonName
-            buttonUrl
-          }
         }
       }
     }
