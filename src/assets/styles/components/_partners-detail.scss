@@ -1,0 +1,59 @@
+.partner-section {
+  padding-top: 80px;
+  .partners-detail-wrapper {
+    display: flex;
+    align-items: center;
+    .partner-block-wrapper {
+      max-width: 480px;
+      width: 100%;
+      background-color: $color-light;
+      border-radius: 16px;
+      padding: 32px 24px;
+      margin-right: 32px;
+      .img {
+        width: 100%;
+        max-width: 300px;
+      }
+      .label {
+        text-transform: uppercase;
+        color: $color-primary;
+        font-weight: 600;
+        padding: 32px 0 12px;
+      }
+      .content {
+        color: $color-light-grey;
+      }
+    }
+    .partner-about-wrapper {
+      .address {
+        color: $color-light-grey;
+        padding: 16px 0 24px;
+      }
+      .btn {
+        margin-top: 32px;
+      }
+    }
+  }
+}
+
+.partner-wrapper {
+  padding: 56px 0;
+  margin-bottom: 48px;
+  .partner-content {
+    display: flex;
+    .partner-img-wrapper {
+      background-color: $color-light;
+      margin-right: 32px;
+      max-width: 364px;
+      padding: 36px;
+      width: 100%;
+      border-radius: 16px;
+    }
+    .description {
+      padding: 16px 0;
+    }
+    .address {
+      color: $color-light-grey;
+    }
+  }
+}

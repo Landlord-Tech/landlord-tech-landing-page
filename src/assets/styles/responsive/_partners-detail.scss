@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+  .partners-detail-wrapper {
+    flex-direction: column;
+    flex-wrap: wrap;
+    .partner-block-wrapper {
+      max-width: 100%;
+      margin-right: 0;
+    }
+    .partner-about-wrapper {
+      padding-top: 24px;
+    }
+  }
+}
