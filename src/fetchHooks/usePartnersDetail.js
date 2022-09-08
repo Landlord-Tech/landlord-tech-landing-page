@@ -12,6 +12,7 @@ export const usePartnersDetailData = () => {
               gatsbyImageData
             }
           }
+          path
           partnerName
           address
           about
