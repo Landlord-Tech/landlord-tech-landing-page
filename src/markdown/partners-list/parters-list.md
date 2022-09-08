@@ -16,5 +16,5 @@ partnersList:
       the Multifamily landscape. Our software empowers property managers and
       investors to operate, market and push their business forward. "
     buttonName: Learn more
-    buttonUrl: "#"
+    buttonUrl: https://myresman.com/
 ---
