@@ -1,9 +1,7 @@
 import * as React from "react"
-import { usePartnersDetailData } from "../../fetchHooks/usePartnersDetail"
 
-export default () => {
-  const { partnerName, address, about, buttonName, buttonUrl } =
-    usePartnersDetailData()
+export default ({ frontmatter }) => {
+  const { partnerName, address, about, buttonName, buttonUrl } = frontmatter
 
   return (
     <div className="partner-about-wrapper">

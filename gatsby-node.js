@@ -34,6 +34,56 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {}, // additional data can be passed via context
     })
   })
+
+  const partnersDetail = path.resolve(`./src/templates/partnersDetail.js`)
+  const partnersDetailResult = await graphql(`
+    {
+      allMarkdownRemark(
+        filter: { frontmatter: { title: { eq: "partners-detail" } } }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              metaTitle
+              metaDescription
+              logo {
+                childImageSharp {
+                  gatsbyImageData
+                }
+              }
+              partnerName
+              address
+              about
+              buttonName
+              buttonUrl
+              partnerDetailsList {
+                label
+                content
+              }
+              faqList {
+                faqQuestion
+                faqAnswer
+              }
+            }
+          }
+        }
+      }
+    }
+  `)
+
+  // Handle errors
+  if (partnersDetailResult.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+  partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.partnerName,
+      component: partnersDetail,
+      context: {}, // additional data can be passed via context
+    })
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

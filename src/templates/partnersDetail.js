@@ -1,0 +1,29 @@
+import * as React from "react"
+import Layout from "../components/layout"
+import Faq from "../components/faq"
+import Seo from "../components/seo"
+import PartnersDetail from "../components/partners/PartnersDetail"
+import { usePartnersDetailData } from "../fetchHooks/usePartnersDetail"
+
+const PartnerDetail = ({ data }) => {
+  const { markdownRemark } = data
+  const { frontmatter } = markdownRemark
+  const { metaTitle, metaDescription, faqList } = frontmatter
+
+  return (
+    <Layout>
+      <Seo title={metaTitle} description={metaDescription} />
+      <section>
+        <PartnersDetail frontmatter={frontmatter} />
+      </section>
+      <section className="section faq-section" id="faq">
+        <div className="container">
+          <h2 className="h2 text-center">Frequently Asked Questions</h2>
+          <Faq data={faqList} />
+        </div>
+      </section>
+    </Layout>
+  )
+}
+
+export default PartnerDetail
