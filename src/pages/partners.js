@@ -3,70 +3,41 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Partner from "../components/partners/Partner"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { usePartnersListData } from "../fetchHooks/usePartnersList"
 
 const Partners = () => {
-  const partners = {
-    metaTitle: "Partners metaTitle",
-    metaDescription: "Partners metaDescription",
-    heroImg:
-      "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
-    heroHeading: "Meet Our Partners",
-    heroSubhead:
-      "OurPetPolicy Partners provide solutions that streamline residential real estate management. We`re working together to provide the best partnerships in the industry. ",
-    partnersList: [
-      {
-        logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
-        name: "ResMan",
-        address: "Plano, Texas, United States",
-        description:
-          "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
-        buttonName: "Learn more",
-        buttonUrl: "resman",
-      },
-      {
-        logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
-        name: "ResMan",
-        address: "Plano, Texas, United States",
-        description:
-          "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
-        buttonName: "Learn more",
-        buttonUrl: "#",
-      },
-      {
-        logo: "https://myresman.com/wp-content/uploads/2019/11/Resman_Color_RGB_ForWeb-01.png",
-        name: "ResMan",
-        address: "Plano, Texas, United States",
-        description:
-          "ResMan® property management software supports your business growth and community engagement through a platform that better connects the Multifamily landscape.",
-        buttonName: "Learn more",
-        buttonUrl: "#",
-      },
-    ],
-  }
+  const {
+    metaTitle,
+    metaDescription,
+    heroImg,
+    heroHeading,
+    heroSubhead,
+    partnersList,
+  } = usePartnersListData()
 
   return (
     <Layout>
-      <Seo title={partners.metaTitle} description={partners.metaDescription} />
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="hero withOverlay page-top-hero sm">
         <GatsbyImage
           className="grid-1"
-          alt={partners.heroHeading}
-          image={getImage(partners.heroImg)}
+          alt={heroHeading}
+          image={getImage(heroImg)}
           objectFit="cover"
         />
         <div className="banner-grid">
           <div className="container">
             <div className="hero-content centered">
               <div className="hero-left">
-                <h1 className="h1">{partners.heroHeading}</h1>
-                <p className="p">{partners.heroSubhead}</p>
+                <h1 className="h1">{heroHeading}</h1>
+                <p className="p">{heroSubhead}</p>
               </div>
             </div>
           </div>
         </div>
       </section>
       <section className="section">
-        {partners.partnersList.map((item, i) => (
+        {partnersList.map((item, i) => (
           <Partner key={i} data={item} />
         ))}
       </section>
