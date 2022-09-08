@@ -4,16 +4,12 @@ import Partner from "../components/partners/Partner"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { usePartnersListData } from "../fetchHooks/usePartnersList"
+import { usePartnersDetailData } from "../fetchHooks/usePartnersDetail"
 
 const Partners = () => {
-  const {
-    metaTitle,
-    metaDescription,
-    heroImg,
-    heroHeading,
-    heroSubhead,
-    partnersList,
-  } = usePartnersListData()
+  const { metaTitle, metaDescription, heroImg, heroHeading, heroSubhead } =
+    usePartnersListData()
+  const data = usePartnersDetailData()
 
   return (
     <Layout>
@@ -37,9 +33,7 @@ const Partners = () => {
         </div>
       </section>
       <section className="section">
-        {partnersList.map((item, i) => (
-          <Partner key={i} data={item} />
-        ))}
+        <Partner data={data} />
       </section>
     </Layout>
   )

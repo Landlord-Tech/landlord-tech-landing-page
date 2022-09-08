@@ -613,33 +613,25 @@ collections:
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
       - { name: heroImg, label: Partners Hero Img, widget: image }
       - { name: heroHeading, label: Partners Hero heading }
       - { name: heroSubhead, label: Partners Hero Subhead }
-      - name: partnersList
-        label: Partners List
-        widget: list
-        fields:
-          - { name: logo, label: Partners logo, widget: image }
-          - { name: name, label: Partners name }
-          - { name: address, label: Partners address }
-          - { name: description, label: Partners description }
-          - { name: buttonName, label: Button Name }
-          - { name: buttonUrl, label: Button Url }
   # partners-detail
   - name: partners-detail
     label: Partner Detail
     folder: src/markdown/partners-detail
+    create: true
     preview_path: /
     editor:
       preview: false
     fields:
-      - { name: title, label: Title }
+      - { name: title, label: Title, widget: hidden }
       - { name: metaTitle, label: Meta Title }
       - { name: metaDescription, label: Meta Description, widget: text }
+      - { name: path, label: Path }
       - { name: logo, label: Partners Logo, widget: image }
       - { name: partnerName, label: Partners Name }
       - { name: address, label: Partners Address }
