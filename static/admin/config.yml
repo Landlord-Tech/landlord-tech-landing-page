@@ -610,7 +610,6 @@ collections:
     label: Partner List
     folder: src/markdown/partners-list
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
@@ -635,7 +634,6 @@ collections:
     label: Partner Detail
     folder: src/markdown/partners-detail
     preview_path: /
-    create: true
     editor:
       preview: false
     fields:
