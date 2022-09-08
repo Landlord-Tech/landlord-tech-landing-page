@@ -1,4 +1,5 @@
 import * as React from "react"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Faq from "../components/faq"
 import Seo from "../components/seo"
@@ -26,3 +27,33 @@ const PartnerDetail = ({ data }) => {
 }
 
 export default PartnerDetail
+
+export const pageQuery = graphql`
+  query ($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
+      frontmatter {
+        metaTitle
+        metaDescription
+        path
+        logo {
+          childImageSharp {
+            gatsbyImageData
+          }
+        }
+        partnerName
+        address
+        about
+        buttonName
+        buttonUrl
+        partnerDetailsList {
+          label
+          content
+        }
+        faqList {
+          faqQuestion
+          faqAnswer
+        }
+      }
+    }
+  }
+`

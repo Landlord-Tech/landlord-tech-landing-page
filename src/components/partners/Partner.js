@@ -2,7 +2,7 @@ import * as React from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 export default ({ data }) => {
-  const { logo, partnerName, address, about } = data
+  const { logo, partnerName, address, about, path } = data
   return (
     <div className="partner-wrapper">
       <div className="container">
@@ -14,11 +14,7 @@ export default ({ data }) => {
             <h2 className="h2">{partnerName}</h2>
             <h6 className="h5 address">{address}</h6>
             <h5 className="h5 description">{about}</h5>
-            <a
-              href={`/partners/${partnerName}`}
-              rel="noreferrer"
-              className="btn btn-lg primary"
-            >
+            <a href={path} rel="noreferrer" className="btn btn-lg primary">
               Learn more
             </a>
           </div>
