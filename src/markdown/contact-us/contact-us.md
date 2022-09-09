@@ -1,8 +1,8 @@
 ---
 title: contact-us
-metaTitle: Contact Us | Get in Touch with the Landlord Tech Team!
-metaDescription: Pet management solved! Join the fastest-growing pet management
-  platform. Contact us today, we would love to chat with you!
+metaTitle: Contact Landlord Tech | Support for Property Managers
+metaDescription: "Receive answers to your residential real estate pet problems
+  by directly contacting our support and sales team. "
 contactUsBannerHeading: Get in touch!
 contactUsBannerSubhead: We’d love to hear from you! Please contact us with
   questions, suggestions and feedback!
