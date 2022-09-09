@@ -1,9 +1,8 @@
 ---
 title: with-pet-calculator
-metaTitle: ROI Calculator | Calculate Your ROI with OurPetPolicy
-metaDescription: Calculate your return on investment and total savings to see
-  how much you can increase your yearly revenue when using our product,
-  OurPetPolicy.
+metaTitle: The ROI of Pet Policies for Your Property | Landlord Tech
+metaDescription: "Calculate your return on investment when you use Landlord
+  Tech’s ESA verification, vetted pet policies and pet mapping tools. "
 heroHeading: Return on Investment with OurPetPolicy
 sec1Heading: Tell us about your Properties
 sec1SubHeading1: How many Units
