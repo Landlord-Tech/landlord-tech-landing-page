@@ -1,9 +1,9 @@
 ---
 title: about-hero
-metaTitle: About Us | Built by Property Owners to Help with Pet Management
-metaDescription: "Landlord Tech was created by property owners, for property
-  owners, to solve some of the most difficult problems in the residential real
-  estate industry. "
+metaTitle: The Landlords Behind The Tech | Our Property Management Story
+metaDescription: Built for property managers, by property managers. Landlord
+  Tech was created to give landlords the tools they need to manage pets in
+  rentals.
 heroHeading: Our Story
 heroImg: /assets/wooden-homre.png
 ---
