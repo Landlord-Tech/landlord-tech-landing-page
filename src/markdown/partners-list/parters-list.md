@@ -1,7 +1,8 @@
 ---
 title: parters-list
-metaTitle: Meta title
-metaDescription: Meta Description
+metaTitle: Property Management Partners and Integrations | Landlord Tech
+metaDescription: Discover the pet management solution that integrates perfectly
+  with our certified partners.
 heroImg: /assets/businessperson-partner-team-brainstorming.png
 heroHeading: Meet Our Partners
 heroSubhead: "OurPetPolicy Partners provide solutions that streamline
