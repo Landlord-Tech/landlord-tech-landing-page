@@ -1,6 +1,6 @@
 ---
 title: our-products-section
-ourProductsSectionHeading: Revamping Your Residential Rental Porfolio
+ourProductsSectionHeading: Revamping Your Residential Rental Portfolio
 ourProductsSectionSubhead: Our Products
 ourProductsSectionContent: "Landlord Tech came to be from first-hand experience
   in residential real estate renting. As property owners, we were experiencing
