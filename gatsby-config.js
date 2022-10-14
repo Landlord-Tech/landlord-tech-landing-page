@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Providing Landlords The Tools For The Job | LandlordTech`,
-    description: `Increase revenue, transparency, and tenant satisfaction with the most advanced pet policy platform on the market.`,
+    title: ``,
+    description: ``,
     author: `UltraLabs`,
     siteUrl: `https://landlordtech.com`,
   },
