@@ -19,7 +19,7 @@ promoSection:
 ---
 ![](/assets/pet_training_tool_feature_for_pet_management.png)
 
-Boise, Idaho, June 20, 2022 – [Landlord Tech](https://landlordtech.com/), creators of the industry leading property management software, OurPetPolicy, announced today the addition of the new Pet Owner Curriculum to their platform. The new feature provides training for pet owners on the best practices for reducing pet-related damage at properties.
+Boise, Idaho, October 20, 2022 – [Landlord Tech](https://landlordtech.com/), creators of the industry leading property management software, OurPetPolicy, announced today the addition of the new Pet Owner Curriculum to their platform. The new feature provides training for pet owners on the best practices for reducing pet-related damage at properties.
 
 “We realized that pet-related damage is an absolute nightmare for landlords and we wanted to do something about it,” Landlord Tech Co-Founder, Logan Miller, said. “With the Pet Owner Curriculum, we're helping landlords reduce pet damage in rentals and helping their tenants to become better pet owners.”
 
@@ -32,7 +32,6 @@ The addition of the Pet Owner Curriculum to OurPetPolicy enhances the platform�
 For more information on OurPetPolicy and the other digital tools from Landlord Tech, visit them online at [landlordtech.com](https://landlordtech.com/).
 
 [![Learn More](/assets/protect_rental_properties_from_pet_damage.png "Learn More")](https://landlordtech.com/)
-
 
 **\
 About Landlord Tech**
