@@ -29,9 +29,10 @@ The new Pet Owner Curriculum for OurPetPolicy is designed as a benefit to both l
 
 The addition of the Pet Owner Curriculum to OurPetPolicy enhances the platform’s focus on creating a place for landlords to better track and protect their rental properties from pet damage. This step provides additional resources for tenants to help train their pets to not only limit damage, but also to provide a better experience for all tenants in the property.
 
-For more information on OurPetPolicy and the other digital tools from Landlord Tech, visit them online at [landlordtech.com](https://landlordtech.com/). 
+For more information on OurPetPolicy and the other digital tools from Landlord Tech, visit them online at [landlordtech.com](https://landlordtech.com/).
 
 [![Learn More](/assets/protect_rental_properties_from_pet_damage.png "Learn More")](https://landlordtech.com/)
+
 
 **\
 About Landlord Tech**
