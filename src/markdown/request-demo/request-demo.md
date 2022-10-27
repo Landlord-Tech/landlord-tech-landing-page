@@ -4,7 +4,7 @@ RequestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
 metaTitle: Demo The Best Pet Management Platform | Landlord Tech
 metaDescription: "Explore how ESA verification, pet mapping and vetted pet
   policies can multiply your ancillary income. "
-calendarEventLink: logan-ourpetpolicy
+calendarEventLink: booktimewithgeoff
 demoDuration: "30"
 requestDemoHeading: "Request a demo with OurPetPolicy to find out how you can:"
 requestDemoInfoList:
