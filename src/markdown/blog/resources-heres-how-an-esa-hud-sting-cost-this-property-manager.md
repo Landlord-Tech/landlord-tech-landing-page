@@ -20,13 +20,13 @@ promoSection:
 ---
 The U.S. Department of Housing and Urban Development (HUD) regulates what property owners and landlords must abide by when it comes to tenants living with disabilities. In particular, the Fair Housing Act requires landlords to allow for reasonable accommodation of assistance animals, including emotional support animals (ESAs). HUD specifically states that assistance animals and ESAs are “not pets,” and, as such, they are exempt from most any policies restricting the housing of animals at rental properties.
 
-![](/assets/property-manager-penalized-for-bad-pet-policy.jpg)
+![How HUD cost property manager $80,000](/assets/property-manager-penalized-for-bad-pet-policy.jpg)
 
 In particular, landlords cannot impose breed or weight restrictions or collect fees and deposits for animals classified as ESAs. There are a number of other legal requirements as well, including mandatory response times to ESA requests and what information can be collected from a resident with a disability claim. 
 
 Not knowing these policies and the appropriate accommodations that must be provided can be costly. We recently spoke with a property owner who fell victim to a HUD/Department of Justice sting operation over the accommodation of emotional support animals at his property.
 
-![](/assets/hud-compliant-pet-policies.jpg)
+![Fair Housing Act and HUD emphasizes ESAs as not pets](/assets/hud-compliant-pet-policies.jpg)
 
 **How a Landlord Fell Victim to an ESA Sting**
 
@@ -37,8 +37,6 @@ The undercover agents called multiple times asking the same question, and the ma
 Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the interview with the landlord.
 
 `youtube: https://youtu.be/1m-TfVdiPGc`
-
-![]()
 
 **How to Avoid HUD Fines Surrounding Emotional Support Animals**
 
