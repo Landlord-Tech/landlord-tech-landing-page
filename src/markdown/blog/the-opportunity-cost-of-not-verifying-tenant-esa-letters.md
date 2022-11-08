@@ -21,7 +21,7 @@ title: The Opportunity Cost of Not Verifying Tenant ESA Letters
 ---
 As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, pet owners have found a convenient loophole using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees.
 
-![](/assets/verifying-esas-in-your-rentals.jpeg)
+![ESAs are not service animals, but owners of ESAs not required to pay pet-related fees](/assets/verifying-esas-in-your-rentals.jpeg)
 
 Emotional Support Animals provide a sense of safety and companionship to individuals suffering from various emotional and psychological conditions. While [ESAs are not service animals](https://adata.org/guide/service-animals-and-emotional-support-animals), according to the ADA, they do receive some of the same rights. As they are not considered pets, owners of ESAs are not required to pay pet fees, pet deposits, or pet rent.
 
@@ -46,7 +46,7 @@ Verifying each ESA letter for authenticity is necessary to prevent fraud, but th
 
 #### What Are The Consequences if Your ESA Verification Process is Not Done Correctly?
 
-![](/assets/pet-screening-for-property-owners.jpeg)
+![Consequences if ESA Verification process is not done correctly](/assets/pet-screening-for-property-owners.jpeg)
 
 ##### HIPAA or Fair Housing Act Violations
 
@@ -70,7 +70,7 @@ Neighboring tenants that are surrounded by poorly behaved emotional support anim
 
 #### Advantages of Using a 3rd Party ESA Verification Process for Liability
 
-![](/assets/esa-verification-process-for-landlords.jpeg)
+![Advantages of using ESA verification software for liability](/assets/esa-verification-process-for-landlords.jpeg)
 
 [OurPetPolicy](https://www.landlordtech.com/products) offers a thorough ESA verification process that is designed to protect property managers from fraudulent ESAs.
 
