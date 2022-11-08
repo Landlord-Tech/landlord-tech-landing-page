@@ -26,7 +26,7 @@ These are possibly the most important, and at times most difficult to answer, qu
 
 Studies show [75% of renters own at least one pet](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/), and pet owners rent for an average of 8 months longer than non-pet-owners. This means allowing pets to live at your rental property is one way you can attract and keep long-term tenants. With that in mind, here are some specific policies and practices to consider if you want to take this step and allow pets at your rental property.
 
-![](/assets/moving-to-a-pet-friendly-policy.jpg)
+![renters with pet rent longer that non-pet owners](/assets/moving-to-a-pet-friendly-policy.jpg)
 
 Make sure [your property has the proper amenities.](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) This includes grassy, clean outdoor areas, and easily accessible pet-waste management areas. A fenced-in area is not necessarily required for many complexes but can be a huge marketing boost if other properties do not have this feature. Regardless, having a designated pet area (or areas) outdoors for tenants with pets is extremely important, and having easy access to dispose of pet waste helps ensure that your property remains clean. When animals have the space to play, run, or “doo” their business they typically are happier and as a result, behave better.
 
@@ -34,7 +34,7 @@ Our blog [post](https://landlordtech.com/resources/five-ways-to-keep-your-landsc
 
 Next, develop a well-established pet policy. According to apartments.com, nine out of ten tenants with pets say the visibility of pet policies plays a role in their decision of where to live. Highlight some information about your pet policy in your listing(s) so it is easy for applicants to find. If it is unclear if your property allows pets or not, many pet owners will look elsewhere. Be descriptive and note any particulars of your pet policy so applicants know what to expect. Showing off pet area photos in the listing is a great strategy, too.
 
-![](/assets/vetted-pet-policies-for-property-managers.jpg)
+![Some specific policies and practices for pet-friendly rental property](/assets/vetted-pet-policies-for-property-managers.jpg)
 
 While a pet-friendly policy can make your property more desirable, it can often open the door to other potential issues. Cleanliness and noise may be issues that occur with pets on your property, so it is important that you or your staff are present, organized, and helpful. Having a manageable platform where tenants can report barking or other disruptive pet noises, unleashed pets in areas requiring leashes, and owners not cleaning up pet waste is an important part of keeping your tenants happy.
 
