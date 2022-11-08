@@ -34,7 +34,7 @@ Fake grass is an excellent option to further mitigate damage. Fake grass, or art
 
 Repeated bathroom usage in one area can cause yellow spots in natural lawns. If fake grass isn’t a feasible option for your landscaping, urine neutralizer treats for dogs assist in stopping yellow spots before they appear. There are a variety of options online and in stores.
 
-![Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants](/assets/renting-to-pet-owners.jpg "Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants")
+![Ways to keep your landscape attractive for renters with pets](/assets/renting-to-pet-owners.jpg "Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants")
 
 **4. Incorporate a regular lawn fertilization schedule**
 
