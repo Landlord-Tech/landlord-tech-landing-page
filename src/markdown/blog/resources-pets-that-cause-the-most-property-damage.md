@@ -19,7 +19,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
 ---
-![Manage Pets and Reduce Property Damage](/assets/manage-pets-and-reduce-property-damage.png "Manage Pets and Reduce Property Damage")
+![Manage pets and reduce property damage](/assets/manage-pets-and-reduce-property-damage.png "Manage Pets and Reduce Property Damage")
 
 As long as animals have been cohabiting with humans, they’ve been causing property damage. Whether it’s something as minor as an “accident” in the corner of the room or complete destruction of furniture, our furry companions seem to love creating headaches for both their owners and property managers. Some landlords have sworn off allowing pets on premises due to the potential damage that may occur, but that’s not always the best solution.
 
@@ -29,7 +29,7 @@ Allowing pets on a property can help increase the prospective tenant pool and al
 
 While cats are generally less hyperactive than dogs, they can still cause their fair share of property damage, especially if they are left unattended for too long. Cat urine carries a strong smell, and untended litter boxes can cause the smell to permeate the property long after a resident leaves. If urine winds up imbedded in carpeting, pricey deep cleaning or removal/replacement may be necessary.
 
-![ Platform for Landlords to Manage Pets](/assets/platform-for-landlords-to-manage-pets-1.26.33-pm.png " Platform for Landlords to Manage Pets")
+![ Platform for landlords to manage pets](/assets/platform-for-landlords-to-manage-pets-1.26.33-pm.png " Platform for Landlords to Manage Pets")
 
 \
 Cats are also natural-born climbers and scratchers. Tall furniture, curtains, screens, blinds, and even walls are no match for them if they want to reach a certain spot or cure an itch to scratch. While scratching posts can help to keep the urge at bay, it’s still wise for residents to cat-proof select furnishings and consider the material of household objects and where they are placed.
@@ -48,7 +48,7 @@ Dogs can wreak havoc in homes and apartments, especially if they are not properl
 
 **• Whippet:** Similar to Greyhounds, Whippets are very active and excitable animals. They will follow their owners around and jump on furniture. If they do not get enough exercise outside, they will expend their energy inside instead.
 
-![Pet Damage Reduction from Pet Platform](/assets/pet-damage-reduction-from-pet-platform.png "Pet Damage Reduction from Pet Platform")
+![Pet damage reduction from pet platform](/assets/pet-damage-reduction-from-pet-platform.png "Pet Damage Reduction from Pet Platform")
 
 **Collect More Income and Manage Pet Damage With OurPetPolicy**
 
