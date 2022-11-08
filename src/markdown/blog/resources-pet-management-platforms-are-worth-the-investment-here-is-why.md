@@ -25,7 +25,7 @@ With the growth of pet management platforms, managing pets on your property has 
 
 Whether you already have pets on your property or are considering it, don’t go at it alone. Here are the specific ways a pet management platform can help you earn extra income and more than recoup the cost involved in subscribing to them.
 
-![pet management platform for rental properties](/assets/pet-management-platforms.png "pet management platform")
+![Pet management platform for rental properties](/assets/pet-management-platforms.png "pet management platform")
 
 **Collect Pet Deposits/Pet Rent**
 
@@ -35,7 +35,7 @@ By collecting pet deposits up front when a tenant chooses to house an animal, yo
 
 Pet management platforms can help to define and collect upfront or recurring pet charges, giving you access to additional funds to help you manage your pet program.
 
-![collect pet deposits or pet rent](/assets/collect-pet-deposits_pet-rent.png "collect pet deposits or pet rent")
+![Collect pet deposits or pet rent](/assets/collect-pet-deposits_pet-rent.png "collect pet deposits or pet rent")
 
 **Charge Fees for Unauthorized Pets**
 
@@ -43,7 +43,7 @@ Many leases and pet policies now define unauthorized pets and what penalties are
 
 Pet management platforms can help you to charge and easily collect fees for authorized animals according to parameters you specify.
 
-![charge fees for unauthorized pets](/assets/charge-feed-for-unauthorized-pets.png "charge fees for unauthorized pets")
+![Charge fees for unauthorized pets](/assets/charge-feed-for-unauthorized-pets.png "charge fees for unauthorized pets")
 
 **Crack Down on Fraudulent ESAs** 
 
@@ -53,7 +53,7 @@ One such tactic is classifying an animal as an ESA, which thereby allows the ten
 
 Pet management platforms include ESA verification, allowing you to confirm whether a pet is indeed an assistance animal or not. If found to be fraudulent, the tenant would then be liable for paying fees and pet rent.
 
-![crack down on fraudulent esa](/assets/crack-down-fraudulent-esas.png "crack down on fraudulent esa")
+![Crack down on fraudulent ESA](/assets/crack-down-fraudulent-esas.png "crack down on fraudulent esa")
 
 **Calculate your OurPetPolicy ROI**
 
