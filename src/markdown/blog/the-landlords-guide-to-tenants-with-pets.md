@@ -45,7 +45,7 @@ There are many ways to increase your average rent for pet owners.
 
 80% of pet owners currently pay pet deposits, so you won’t need to worry about being less competitive.
 
-![](/assets/renters-with-pets.jpeg)
+![Pet-friendly properties increases rental pool](/assets/renters-with-pets.jpeg)
 
 **Pet Owners Are More Responsible**
 
