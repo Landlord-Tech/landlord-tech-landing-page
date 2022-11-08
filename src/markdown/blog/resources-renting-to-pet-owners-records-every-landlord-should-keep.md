@@ -19,7 +19,7 @@ promoSection:
 ---
 We’ve talked about the [positive benefits](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/) of renting out to tenants with pets; it widens your tenant pool, tenants stay longer, and it can provide an increase in rent and collected fees. However, that in turn makes the rental property owner responsible for keeping quite a few things in order. The presence of pets adds a layer of consideration as they coexist with other tenants who may or may not have pets of their own. It’s best to arm yourself with information regarding your tenants and their pets, so you can protect yourself from pet-related issues, check if a new tenant is a good fit to the current dynamic, and keep everyone happy.
 
-![](/assets/records-every-landlord-should-keep.jpg)
+![records every landlord should keep](/assets/records-every-landlord-should-keep.jpg)
 
 **Vaccination Records**
 
@@ -47,6 +47,6 @@ Ask the tenant for a clear photograph of the pet and keep a record of who goes w
 
 When pets are involved, there’s bound to be some sort of incident down the road. From noise complaints to property damage, and even aggressive behavior, it’s a property manager’s job to take note of incidents and address them. This makes it easier for you to identify repeat offenders and think of proper ways to address the issues so that they don’t happen again. This could mean additional fees, mediating tenants, or even recommending pet training to curtail bad behavior. In any case, conflict resolution is a big part of your responsibilities so always keep your records up to date.
 
-![One platform to manage it all](/assets/complete-pet-management-platform.jpg)
+![Pet management software for rental properties](/assets/complete-pet-management-platform.jpg)
 
 Being a property manager is no easy task, that’s why the team at [OurPetPolicy](https://landlordtech.com/products) has developed a platform to help you streamline your process. With [OurPetPolicy](https://www.landlordtech.com/products), eliminate potential loopholes, set transparent rules and expectations, and manage your rental portfolio easily. Vetted by lawyers in every state, you can manage pet policies, signatures, and create contracts that eliminate the hassle and threat of legal disputes all in one place. Visit [OurPetPolicy](https://landlordtech.com/products) today and unleash the pawsibilities!
