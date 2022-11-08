@@ -20,7 +20,7 @@ title: The True Cost of Having a Bad Pet Policy
 ---
 Having a pet policy for your renters is an essential part of protecting your property and your rental income. However, it's important to note that not all policies are created equal. A bad pet policy, lacking detailed rules and guidelines, may leave you exposed and unprotected in pet-related scenarios.
 
-![](/assets/manage-pets-in-your-rentals.jpeg)
+![The true cost of having a bad pet policy](/assets/manage-pets-in-your-rentals.jpeg)
 
 When evaluating your current system, consider whether or not it protects you from the following issues.
 
@@ -56,7 +56,7 @@ A good pet policy should include proper pet and tenant screenings to ensure that
 
 • [Cat dander;](https://petdanderremovalservice.com/) extremely difficult, costly, and time-consuming to remove to ensure the safety of future tenants with allergies.
 
-![](/assets/pet-and-tenant-screening-for-landlords.jpg)
+![Poor screening process can cause pet-related damages](/assets/pet-and-tenant-screening-for-landlords.jpg)
 
 #### Rental Turnover Downtime
 
@@ -74,7 +74,7 @@ Tenants can fraudulently register their pets as Emotional Support Animals, meani
 
 Many tenants sneak pets onto the property to avoid pet fees entirely. Policies lacking strict guidelines to remedy these situations can make it difficult to evict or fine these tenants if caught. If the pet goes unnoticed, any damages found after the tenant has vacated the rental will not be covered.
 
-![](/assets/manage-fraudulent-esa-requests-online.jpg)
+![Weak policy gives tenants the ability to evade fees](/assets/manage-fraudulent-esa-requests-online.jpg)
 
 #### Irresponsible Pet Owners
 
