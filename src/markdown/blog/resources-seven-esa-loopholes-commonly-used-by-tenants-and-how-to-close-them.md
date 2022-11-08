@@ -21,7 +21,7 @@ promoSection:
 ---
 With the surge in popularity of emotional support animals (ESAs) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more animals into their homes.
 
-![](/assets/esa-verification-for-property-managers.jpg)
+![ESA loopholes use by tenants](/assets/esa-verification-for-property-managers.jpg)
 
 Here are seven of the most common loopholes that tenants often use in regards to ESAs and how you, as a landlord or property manager, can close them for good.\
 \
@@ -43,7 +43,7 @@ Breed restrictions are often a good idea to avoid large or potentially aggressiv
 
 Regulations do dictate, however, that even emotional support animals can be banned from a residential property based on a history of misbehavior. If pets are permitted at your property, the lease terms and/or ESA policies should specify how and when ESAs may be barred from the premises.
 
-![](/assets/fraudlent-esas-tenants-find-online-and-how-to-find-them.jpg)
+![Using ESA letters to get pet accepted in rental property](/assets/3loop.png)
 
 \
 **4. Avoiding Household Restrictions on Pet Limits**
@@ -58,7 +58,7 @@ Obtaining a true emotional support animal starts with seeing a doctor or special
 
 In order to house more pets beyond what’s recommended, tenants have been known to see multiple therapists in order to obtain additional emotional support animals. As a landlord or property manager, you’ll want to be sure that any such letters are verified and in compliance with local and federal laws.
 
-![](/assets/online-esa-verification-for-property-owners.jpg)
+![Taking advantage of ESAs](/assets/online-esa-verification-for-property-owners.jpg)
 
 **6. Pet Waste Fees That Are Too Low**
 
