@@ -33,13 +33,13 @@ If there are animals roaming around, you can count on some level of damage occur
 
 Additionally, it can be hard to know whether tenants will be responsible with their pets. Some will be highly attentive, while others may leave their pets unattended for extended periods of time. As a condition of your pet policy, it’s a best practice to ensure that your tenants pass a short pet training course. This will provide them with the skills and knowledge to be excellent pet owners, which can help reduce the likelihood of costly damage.
 
-![Losing money to pet-related property damage](/assets/apartment_pet_management.png)
+![losing money to pet-related property damage](/assets/apartment_pet_management.png)
 
 **2. Loss of Income from Pet Fees**
 
 As the popularity of emotional support animals (ESAs) grows, there’s an increasing number of fraudulent pets being housed under the guise of support animals. If you aren’t verifying ESA claims, you are potentially losing out on significant income as tenants may try to claim that their pet is an ESA to avoid paying pet rent, pet deposits, and/or pet fees. In order to verify ESAs the right way and avoid any legal complications, you’ll want to be sure you’re using the right tools. See below for one great option (OurPetPolicy).
 
-![loss of income from pet fees](/assets/esa_verification.png)
+![Loss of income from pet fees](/assets/esa_verification.png)
 
 **3. HIPAA/Fair Housing Act Violations** 
 
