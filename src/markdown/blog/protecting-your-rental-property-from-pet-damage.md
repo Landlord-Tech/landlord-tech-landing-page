@@ -40,7 +40,7 @@ Animals do better on established routines. Investing in a specific animal relief
 
 Fake grass or turf is easier to clean, maintain, and it lessens the tenant’s costs and efforts if you require lawn upkeep. Fake grass also helps eliminate the possibility of dogs digging holes in the dirt around your property. Overall, it can make the area look clean and pleasant without requiring extra upkeep.
 
-![70% ESA letters are fraudulent](/assets/protect-your-rental-property-from-pet-damage.png)
+![Majority of ESA letters are fraudulent](/assets/protect-your-rental-property-from-pet-damage.png)
 
 #### Brush Up on Emotional Support Animal (ESA) Laws
 
@@ -52,7 +52,7 @@ Establish and set pet care requirements on your property from the get-go. Untrim
 
 It’s important to note that despite precautions, [85% of property owners have](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/), in one way or another, experienced pet damage. Reaching an agreement on maintenance expectations is very important for both parties. The annual average cost of pet damage caused by dogs is around $850. Seeing eye to eye on expectations and obligations regarding renting with pets is essential for a beneficial landlord-tenant relationship.
 
-![tenants with pets say pet policies play a role in deciding where to live](/assets/protect-your-rental-property-from-pet-damage.jpeg)
+![Tenants with pets say pet policies play a role in deciding where to live](/assets/protect-your-rental-property-from-pet-damage.jpeg)
 
 #### **Establish and Enforce Your Pet Policy**
 
