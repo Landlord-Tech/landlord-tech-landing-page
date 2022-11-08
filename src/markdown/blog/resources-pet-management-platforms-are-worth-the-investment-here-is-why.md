@@ -25,7 +25,7 @@ With the growth of pet management platforms, managing pets on your property has 
 
 Whether you already have pets on your property or are considering it, don’t go at it alone. Here are the specific ways a pet management platform can help you earn extra income and more than recoup the cost involved in subscribing to them.
 
-![pet management platform](/assets/pet-management-platforms.png "pet management platform")
+![pet management platform for rental properties](/assets/pet-management-platforms.png "pet management platform")
 
 **Collect Pet Deposits/Pet Rent**
 
