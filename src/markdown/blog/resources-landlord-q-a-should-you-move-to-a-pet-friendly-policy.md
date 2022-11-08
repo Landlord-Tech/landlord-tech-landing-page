@@ -37,17 +37,17 @@ As with any change, some adjustments need to be made, and these are the most com
 
 As a landlord, you need to balance giving your tenants the best living experience possible as well as making sure that you are maximizing profits. Here are the biggest reasons why you should consider going pet-friendly today:
 
-![Why Go Pet-Friendly](/assets/roi-of-a-good-pet-policy.jpeg "Why Go Pet-Friendly")
+![Why go pet-friendly](/assets/roi-of-a-good-pet-policy.jpeg "Why Go Pet-Friendly")
 
 * **Larger tenant pool.** As working from home becomes the norm, more and more people opt to become pet owners. According to a 2021-22 survey by American Pet Products Association (APPA), an estimated 23 million households added a pet during the pandemic. This means that going pet-friendly opens up your business to a larger prospective tenant pool.
 * **Lower vacancy and turnover rates.** Tenants with pets tend to rent longer. Finding the right apartment that's good for them and their pet can be challenging, meaning once they’ve found the accommodations that work for them, they will stay. 
 * **Pet-related charges.** Depending on state laws, landlords are allowed to charge specific pet-related charges, either in pet fees, pet deposits, and/or pet rent. These can be upfront charges for each pet they have, for maintenance of on-site pet accommodations, or deposits that you are entitled to use in the event of pet-related damage and repair costs.
 
-  ![Why to go pet friendly](/assets/3-2-.jpg "Why to go pet friendly")
+  ![Why pet-friendly rental can benefit you](/assets/3-2-.jpg "Why to go pet friendly")
 * **Fewer unauthorized pets.** The number of ESAs has increased dramatically, meaning that you might already be housing a large number of animals without the proper documentation to protect your property from damage, animal misbehavior, or tenant complaints. While ESAs help thousands of people that need them, there are thousands of people purchasing fraudulent ESA letters as a loophole to live anywhere and/or to avoid paying pet fees, deposits, or rents. Having a [good system to properly vet assistance animal requests](https://www.landlordtech.com/products) can make all of the difference when it comes to the proper management of the animals on your premise.
 * **Happy tenants.** The past few years have allowed people to take a hard look into their mental health. People are more aware of their needs and animals play a significant role in that. From helping during times of stress, providing companionship, and undoubtedly making spaces feel more like home, allowing pets can lead to happier tenants.
 
-![we offer resources](/assets/pet-management-resources-for-landlords.jpeg "we offer resources")
+![We offer resources to pet management for rental properties](/assets/pet-management-resources-for-landlords.jpeg "we offer resources")
 
 Transitioning can seem like a lot of work. But the opportunity for additional income, longer-term residents, and overall happiness make this decision something to consider. 
 
