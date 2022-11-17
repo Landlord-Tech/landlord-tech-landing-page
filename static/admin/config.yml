@@ -533,6 +533,8 @@ collections:
     folder: src/markdown/blog
     create: true
     fields:
+      - { name: metaTitle, label: Meta Title }
+      - { name: metaDescription, label: Meta Description, widget: text }
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: category, label: Category }
