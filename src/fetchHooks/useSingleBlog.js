@@ -10,6 +10,8 @@ export const useSingleBlogData = () => {
         edges {
           node {
             frontmatter {
+              metaTitle
+              metaDescription
               path
               date(formatString: "MMMM DD, YYYY")
               heroHeading

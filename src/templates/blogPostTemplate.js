@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Seo from "../components/seo"
 import Layout from "../components/layout"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Icon from "../components/Icon"
@@ -9,6 +10,8 @@ const Template = ({ data, location }) => {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   const {
+    metaTitle,
+    metaDescription,
     title,
     date,
     path,
@@ -33,6 +36,7 @@ const Template = ({ data, location }) => {
 
   return (
     <Layout className="landing">
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="hero blog-page withOverlay">
         <GatsbyImage
           className="grid-1"
