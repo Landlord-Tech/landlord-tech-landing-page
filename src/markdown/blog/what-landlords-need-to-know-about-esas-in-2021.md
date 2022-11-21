@@ -2,7 +2,8 @@
 path: /resources/what-landlords-need-to-know-about-esas-in-2022
 date: 2021-07-01T12:43:40.558Z
 category: Ebook
-excerpt: If your property normally does not allow pets, it may be tempting to
+excerpt:
+  If your property normally does not allow pets, then it may be tempting to
   deny an ESA outright, but there are multiple reasons why this may not be the
   best course of action.
 heroHeading: What Landlords Need To Know About ESAs In 2022
@@ -16,8 +17,11 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+metaTitle: Blogs for Landlords
+metaDescription: What Landlords Need To Know About ESAs In 2022
 title: what landlords need to know about esas in 2021
 ---
+
 If your property normally does not allow pets, it may be tempting to deny an ESA outright, but there are multiple reasons why this may not be the best course of action. You want to avoid any legal problems that relate to the denial of these pets, so staying informed is essential.
 
 There are several circumstances in which you can legally deny an ESA. These animals are protected by the [Fair Housing Act](https://www.hud.gov/sites/documents/FHEO_BOOKLET_ENG.PDF) for people with disabilities. That being said, there are certain types of rentals that are not usually covered by the Fair Housing Act, which include: owner-occupied buildings with four or fewer units, single-family housing sold or rented without the use of a broker, and housing operated by organizations and private clubs that limit occupancy to members. If your property falls under one of these categories, you are legally able to deny an ESA.
