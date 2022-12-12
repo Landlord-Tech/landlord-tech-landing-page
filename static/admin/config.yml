@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  branch: dev
   # name: github
   # repo: Landlord-Tech/landlord-tech-landing-page
   # branch: dev
