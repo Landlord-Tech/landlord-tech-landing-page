@@ -73,6 +73,6 @@ Given the number of fraudulent ESA letters being written every day, you should n
 
 While you could also try verifying on your own, you’ll want to be sure you’re using the right process. If you turn away a true service animal, you could be liable for heavy fines under the Fair Housing Act. Let OurPetPolicy’s premium ESA verification service help you collect more in fees and ensure your property is in full compliance with legal guidelines.
 
-[﻿![Demo](/assets/ourpetpolicy_the_best_esa_verification_service.png "Demo")](https.//app.ourpetpolicy.com/)
+[﻿![Demo](/assets/ourpetpolicy_the_best_esa_verification_service.png "Demo")](https://landlord.ourpetpolicy.com/sign-up)
 
 Contact us today for a [free demonstration](https://landlordtech.com/request-demo/) to see if OurPetPolicy can help you better manage your residential pet program.
