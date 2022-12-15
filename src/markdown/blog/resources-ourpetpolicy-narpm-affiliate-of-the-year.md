@@ -30,8 +30,10 @@ On December 8th, OurPetPolicy was awarded 2022 Affiliate of the Year by the Sout
 
 Geoff Troxel, sales director of OurPetPolicy, described the event as “beautifully done” and stated that he “looks forward to supporting \[the property managers] and \[their] residents in 2023.” 
 
-[﻿![Demo](/assets/pet_management_platform_demo.png "Demo")](https://landlordtech.com/request-demo/)
+![](/assets/ourpetpolicy_narpm_award.png)
 
 The entire team at OurPetPolicy is honored with this award and hopes to continue their excellent service of Idahoan property managers and residents for years to come. 
+
+[﻿![Demo](/assets/pet_management_platform_demo.png "Demo")](https://landlordtech.com/request-demo/)
 
 If you are a member of a different chapter of NARPM and are interested in learning more about how OurPetPolicy can help you with pet management on rental properties, please contact [info@ourpetpolicy.com](mailto:info@ourpetpolicy.com) or schedule a demo with the team [here](https://landlordtech.com/request-demo/).
