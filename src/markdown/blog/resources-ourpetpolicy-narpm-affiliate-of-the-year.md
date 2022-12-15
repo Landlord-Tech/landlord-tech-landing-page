@@ -28,9 +28,9 @@ promoSection:
 
 On December 8th, OurPetPolicy was awarded 2022 Affiliate of the Year by the SouthWest Idaho chapter of the National Associate of Residential Property Managers (NARPM). It was OurPetPolicy’s first time at the annual holiday dinner and the first time being recognized by the local chapter. 
 
-Geoff Troxel, sales director of OurPetPolicy, described the event as “beautifully done” and stated that he “looks forward to supporting \[the property managers] and \[their] residents in 2023.” 
-
 ![](/assets/ourpetpolicy_narpm_award.png)
+
+Geoff Troxel, sales director of OurPetPolicy, described the event as “beautifully done” and stated that he “looks forward to supporting \[the property managers] and \[their] residents in 2023.” 
 
 The entire team at OurPetPolicy is honored with this award and hopes to continue their excellent service of Idahoan property managers and residents for years to come. 
 
