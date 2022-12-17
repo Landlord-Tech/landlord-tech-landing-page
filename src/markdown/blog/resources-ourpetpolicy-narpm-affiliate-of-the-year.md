@@ -13,7 +13,7 @@ excerpt: "On December 8th, OurPetPolicy was awarded 2022 Affiliate of the Year
   Property Managers (NARPM). It was OurPetPolicy’s first time at the annual
   holiday dinner and the first time being recognized by the local chapter. "
 heroHeading: OurPetPolicy - NARPM 2022 Affiliate of the Year
-heroImg: /assets/opp-narpm-badge.png
+heroImg: /assets/narpm_affiliate_of_the_year.png
 social: true
 promoSection:
   promo: true
