@@ -1,5 +1,5 @@
 ---
-metaTitle: OurPetPolicy - NARPM 2022 Affiliate of the Year
+metaTitle: NARPM 2022 Affiliate of the Year
 metaDescription: "On December 8th, OurPetPolicy was awarded 2022 Affiliate of
   the Year by the SouthWest Idaho chapter of the National Associate of
   Residential Property Managers (NARPM). It was OurPetPolicy’s first time at the
