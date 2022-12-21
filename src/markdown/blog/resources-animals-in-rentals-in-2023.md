@@ -28,7 +28,7 @@ promoSection:
 ---
 Pets are an increasingly common sight in houses and apartments across the United States. As remote work has taken hold, more of us want furry companions nearby to keep us company. Millennials are also having smaller families and delaying parenthood, allowing dogs and cats to occupy a more important part of their family units. 
 
-These structural changes in US culture and society will only continue in 2023. As a landlord or property owner, it’ll behoove you to understand the current pet-ownership trends and market opportunities that exist when it comes to pet rental policies. Here’s what you need to keep in mind in 2023 and why now’s the time to reconsider your pet rental policies.
+These structural changes in US culture and society will only continue in 2023. As a landlord or property owner, it’ll behoove you to understand the current pet-ownership trends and market opportunities that exist when it comes to pet rental policies. Here’s what you need to keep in mind in 2023 and why now’s the time to [reconsider your pet rental policies](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy).
 
 ![What landlords need to know about animals in rentals in 2023](/assets/what_landlords_need_to_know_about_animals_in_rentals.png)
 
@@ -44,7 +44,7 @@ The reality is that pet ownership is only becoming more popular. In 1988, nearly
 
 **ESA/Service Animal Laws by State**
 
-As pet ownership has grown, so has the number of service animals in the United States. Emotional support animals (ESAs) have become particularly popular. In 2014, for example, there were approximately 2,400 ESAs registered in the US. As of 2019, that number has ballooned to an estimated 200,000 and growing.
+As pet ownership has grown, so has the number of service animals in the United States. [Emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs) have become particularly popular. In 2014, for example, there were approximately 2,400 ESAs registered in the US. As of 2019, that number has ballooned to an estimated 200,000 and growing.
 
 As they are classified as service animals, ESAs are governed under federal fair housing laws managed by the Department of Housing and Urban Development (HUD). While blanket federal laws apply to all states, some jurisdictions have implemented even tighter rules to ensure fair accommodation on the part of both residents and landlords. California, for example, requires individuals to have a 30-day working relationship with a health professional before an ESA can be assigned.
 
@@ -54,7 +54,7 @@ As a landlord, you are legally required to allow ESAs and service animals on you
 
 **The Most Pet-Friendly States for Rentals**
 
-Many rental communities have come to understand that “pet friendly” isn’t just a nice thing to have; it’s good for business too. As the number of pet owners continues to climb, pet-friendly policies are becoming more popular. Currently, North Carolina ranks first in the number of pet-friendly rental listings. Nearly 59% of rentals in the Tar Heel State permit large dogs. Georgia ranks second at 56.7% with Mississippi coming in third at 50.5%.
+Many rental communities have come to understand that “pet friendly” isn’t just a nice thing to have; it’s good for business too. As the number of pet owners continues to climb, [pet-friendly policies](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) are becoming more popular. Currently, North Carolina ranks first in the number of pet-friendly rental listings. Nearly 59% of rentals in the Tar Heel State permit large dogs. Georgia ranks second at 56.7% with Mississippi coming in third at 50.5%.
 
 ![States with most pet-friendly rentals ](/assets/states_that_pet_friendly_for_rentals.png)
 
@@ -68,4 +68,4 @@ In the year 2023, it’s better to have a sound pet policy than to have a haphaz
 
 ![Manage pet program with OurPetPolicy](/assets/manage_pet_program_with_ourpetpolicy.png)
 
-Just be sure you’re going about your pet policies the right way. ESA verification can be especially helpful to ensure you’re only accepting real service animals in accordance with HUD guidelines. Tools like OurPetPolicy can help with this process. Don’t miss the boat on the opportunities that await in 2023. Consider whether rethinking your pet policy would be advantageous to your business.
+Just be sure you’re going about your pet policies the right way. ESA verification can be especially helpful to ensure you’re only accepting real service animals in accordance with [HUD guidelines](https://landlordtech.com/resources/heres-how-an-esa-hud-sting-cost-this-property-manager). Tools like [OurPetPolicy](https://landlordtech.com/products) can help with this process. Don’t miss the boat on the opportunities that await in 2023. Consider whether rethinking your pet policy would be advantageous to your business.
