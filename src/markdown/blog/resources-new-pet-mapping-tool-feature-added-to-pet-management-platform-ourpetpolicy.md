@@ -1,4 +1,9 @@
 ---
+metaTitle: New Pet Mapping Tool Feature Added to Pet Management Platform OurPetPolicy
+metaDescription: Landlord Tech’s industry leading pet management platform,
+  OurPetPolicy, launches an animal mapping feature, allowing property managers
+  to easily track and map animals on their properties and quickly distinguish
+  between authorized and unauthorized pets.
 path: /resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy
 date: 2022-06-07T19:53:25.552Z
 category: Press Release
@@ -37,4 +42,4 @@ For more information on OurPetPolicy and how you can start effectively managing 
 
 **About Landlord Tech**
 
-Landlord Tech is a Boise, Idaho-based technology company focused on solving problems for property managers and owners through technology and automation. With their industry leading pet management platform, OurPetPolicy, Landlord Tech helps to reduce fraudulent ESAs, strengthen pet policies and improve tenant-renting experiences, along with many other financial and logistical benefits. For more information, visit [landlordtech.com](https://landlordtech.com/)
+Landlord Tech is a Boise, Idaho-based technology company focused on solving problems for property managers and owners through technology and automation. With their industry leading [pet management platform](https://landlordtech.com/resources/pet-management-platforms-are-worth-the-investment-here-is-why), OurPetPolicy, Landlord Tech helps to [reduce fraudulent ESAs](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), strengthen pet policies and improve tenant-renting experiences, along with many other financial and logistical benefits. For more information, visit [landlordtech.com](https://landlordtech.com/)
