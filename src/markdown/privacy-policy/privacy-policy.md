@@ -51,7 +51,7 @@ The California Consumer Privacy Act (“CCPA”) provides California resident co
 * Right to Opt-Out. You have the right to opt-out of having your personal information sold.
 * You have the right to request a copy of the specific personal information we collected about you during the twelve months prior to your request. You have the right not to be discriminated against for exercising your right to know, delete or opt-out.
 
-If you would like to exercise your rights, please [contact us](https://www.ourpetpolicy.com/contact/).
+If you would like to exercise your rights, please [contact us](https://ourpetpolicy.com/contact-us/).
 
 **Your Choices: Access, Correction, Deletion**
 
