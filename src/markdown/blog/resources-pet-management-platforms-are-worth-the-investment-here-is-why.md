@@ -1,4 +1,10 @@
 ---
+metaTitle: Pet Management Platforms Are Worth the Investment. Here’s Why.
+metaDescription: Pet management platforms are useful tools to help you manage
+  your property's pet program. However, they do come at a cost. This post
+  discusses how these platforms can help you earn additional income and links to
+  a useful ROI calculator to show you exactly how much you can realize in cost
+  savings by using OurPetPolicy.
 path: /resources/pet-management-platforms-are-worth-the-investment-here-is-why
 date: 2022-09-16T11:56:28.189Z
 category: Blog
@@ -29,9 +35,9 @@ Whether you already have pets on your property or are considering it, don’t go
 
 **Collect Pet Deposits/Pet Rent**
 
-A security deposit isn’t always foolproof. If a pet causes damage to an apartment, it’s possible that the repair costs could exceed the tenant’s security deposit. What happens in that case? Most landlords understand that it’s not worth taking them to court, where they could end up spending more money than they would recoup.
+A security deposit isn’t always foolproof. If a [pet causes damage](https://www.google.com/url?q=https://landlordtech.com/resources/pets-that-cause-the-most-property-damage&sa=D&source=docs&ust=1671694492897970&usg=AOvVaw1jou6RYOWk8xpcoRI-0X3L) to an apartment, it’s possible that the repair costs could exceed the tenant’s security deposit. What happens in that case? Most landlords understand that it’s not worth taking them to court, where they could end up [spending more money](https://landlordtech.com/resources/five-ways-you-are-losing-money-as-a-property-owner) than they would recoup.
 
-By collecting pet deposits up front when a tenant chooses to house an animal, you have more money to help cover any damage that may be left behind (in addition to the security deposit). Monthly “pet rent” charges have also become a common practice to help landlord and property managers cover all the costs involved in comprehensive pet management. 
+By collecting pet deposits up front when a tenant chooses to house an animal, you have more money to [help cover any damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) that may be left behind (in addition to the security deposit). Monthly “pet rent” charges have also become a common practice to help landlord and property managers cover all the costs involved in comprehensive pet management. 
 
 Pet management platforms can help to define and collect upfront or recurring pet charges, giving you access to additional funds to help you manage your pet program.
 
@@ -47,11 +53,11 @@ Pet management platforms can help you to charge and easily collect fees for auth
 
 **Crack Down on Fraudulent ESAs** 
 
-With the surge in popularity of emotional support animals (ESAs) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more animals into their homes. 
+With the surge in popularity of [emotional support animals (ESAs)](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more animals into their homes. 
 
-One such tactic is classifying an animal as an ESA, which thereby allows the tenant to avoid any associated charges with housing the pet under HUD guidelines. But, how do you know if the ESA letter that the tenant presented is legitimate?
+One such tactic is [classifying an animal as an ESA](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them), which thereby allows the tenant to avoid any associated charges with housing the [pet under HUD guidelines](https://landlordtech.com/resources/heres-how-an-esa-hud-sting-cost-this-property-manager). But, how do you know if the ESA letter that the tenant presented is legitimate?
 
-Pet management platforms include ESA verification, allowing you to confirm whether a pet is indeed an assistance animal or not. If found to be fraudulent, the tenant would then be liable for paying fees and pet rent.
+Pet management platforms include [ESA verification](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), allowing you to confirm whether a pet is indeed an assistance animal or not. If found to be fraudulent, the tenant would then be liable for paying fees and pet rent.
 
 ![Crack down on fraudulent ESA](/assets/crack-down-fraudulent-esas.png "crack down on fraudulent esa")
 
@@ -59,7 +65,7 @@ Pet management platforms include ESA verification, allowing you to confirm wheth
 
 Still wondering whether a pet management platform is worth the investment? OurPetPolicy publishes an [ROI calculator](https://landlordtech.com/calculator-no-pets-allowed/) that details the exact amount of cost savings you can expect when you choose to use the OurPetPolicy platform. 
 
-Try the calculator and see for yourself. With just a few inputs, such as the number of units you have, what you charge in pet rent, and how much time your team spends answering questions related to pet policies, you’ll be able to easily determine how a pet management platform can yield positive returns.
+Try the calculator and see for yourself. With just a few inputs, such as the number of units you have, what you charge in pet rent, and how much time your team spends answering [questions related to pet policies](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy), you’ll be able to easily determine how a pet management platform can yield positive returns.
 
 [![Demo](/assets/free-pet-ownership-training.png "Demo")](https://landlordtech.com/request-demo/)
 
