@@ -63,7 +63,7 @@ Landlords that don’t allow pets sometimes find themselves still having to deal
 
 The Fair Housing Act requires landlords to accommodate tenants with [service animals and emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference). This applies to all rentals, not just pet-friendly ones. Violating this law will result in a $16k fine, and further violations fines can reach $65k or higher. Unfortunately, a reported 70% of the emotional support letters are fraudulent, so there’s no guarantee the pet is appropriately trained. By allowing pets, you’ll be less likely to run into these fraudulent activities and have policies in place to protect your property.
 
-![pros and cons of pet-friendly rental properties](/assets/renting-to-pets.jpeg)
+![pros and cons of pet-friendly rental properties](/assets/renting-to-pets.jpg)
 
 ### Cons
 
