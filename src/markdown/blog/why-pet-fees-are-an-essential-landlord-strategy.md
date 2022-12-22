@@ -1,4 +1,8 @@
 ---
+metaTitle: Why Pet Fees are an Essential Landlord Strategy
+metaDescription: Pet fees are a sensitive subject among both tenants and
+  landlords. Many renters feel that these fees are an unfair tax that they’re
+  forced to pay for having furry family members.
 path: /resources/why-pet-fees-are-an-essential-landlord-strategy
 date: 2021-10-13T07:35:07.372Z
 category: Ebook
@@ -18,7 +22,7 @@ promoSection:
   promoBtnUrl: /products/
 title: Why Pet Fees are an Essential Landlord Strategy
 ---
-Pet fees are a sensitive subject among both tenants and landlords. Many renters feel that these fees are an unfair tax that they’re forced to pay for having furry family members. As a landlord, this may cause you to hesitate to include pet rent and fees in your pet policy.
+Pet fees are a sensitive subject among both tenants and landlords. Many renters feel that these fees are an unfair tax that they’re forced to pay for having furry family members. As a landlord, this may cause you to hesitate to include pet rent and fees in your [pet policy](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy).
 
 Despite the frustrations and hesitations, there’s no ignoring the importance of charging pet fees. The truth is, the cost of allowing pets in your rentals goes far beyond the occasional carpet replacement.
 
@@ -46,11 +50,11 @@ Depending on the types of pets you allow, you can expect to get one or several o
 
 #### Vacant Rentals
 
-Tenants do have the right to [break their lease without penalty](https://www.nolo.com/legal-encyclopedia/question-break-lease-noise-apartment-28219.html#:~:text=Shouting%20neighbors%20and%20barking%20dogs,rent%20due%20under%20the%20lease.) if their landlord cannot provide an acceptable solution to repeated pet complaints. If the situation persists, this can result in the loss of several tenants, including a possible eviction of the pet owner. These sudden vacancies can lead to a loss in rental income.
+Tenants do have the right to [break their lease without penalty](https://www.nolo.com/legal-encyclopedia/question-break-lease-noise-apartment-28219.html#:~:text=Shouting%20neighbors%20and%20barking%20dogs,rent%20due%20under%20the%20lease.) if their landlord cannot provide an acceptable solution to repeated pet complaints. If the situation persists, this can result in the loss of several tenants, including a possible eviction of the pet owner. These sudden vacancies can lead to a [loss in rental income](https://landlordtech.com/resources/five-ways-you-are-losing-money-as-a-property-owner).
 
 #### Pet-Related Property Damages 
 
-It’s much easier to recoup the cost of any damages that your tenant's pets may cause by receiving pet deposits upfront.
+It’s much easier to recoup the cost of any [damages that your tenant's pets may cause](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) by receiving pet deposits upfront.
 
 Common damage includes:
 
