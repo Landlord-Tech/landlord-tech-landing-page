@@ -34,7 +34,8 @@ While you can require that your tenants provide documentation for their ESAs, ma
 
 #### What Happens When You Accept Fraudulent ESA Letters?
 
-* Tenants avoid paying any pet fees, leaving you to cover the cost of damage, maintenance, and other pet-related expenses associated with your property.
+\- Tenants avoid paying any pet fees, leaving you to cover the cost of damage, maintenance, and other pet-related expenses associated with your property. 
+
 * Pet-owning tenants tend to rent much longer, costing you the opportunity to obtain pet rent and fees from future rule-abiding tenants for an extended period of time.
 * Tenants who pay the fees outlined in your pet policy can become disgruntled by the amount of untrained and poorly behaved imposter ESAs on your property.
 * Without getting a deposit upfront, it can be much more challenging for you to recoup any repair costs from a tenant that has already vacated your rental.
