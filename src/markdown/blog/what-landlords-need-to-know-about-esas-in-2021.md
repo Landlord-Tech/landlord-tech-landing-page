@@ -4,7 +4,7 @@ metaDescription: If your property normally does not allow pets, it may be
   tempting to deny an ESA outright, but there are multiple reasons why this may
   not be the best course of action.
 path: /resources/what-landlords-need-to-know-about-esas-in-2023
-date: 2022-12-26T12:33:41.800Z
+date: 2021-07-01T12:33:00.000Z
 category: Ebook
 excerpt: If your property normally does not allow pets, it may be tempting to
   deny an ESA outright, but there are multiple reasons why this may not be the
