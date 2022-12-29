@@ -44,7 +44,7 @@ The reality is that pet ownership is only becoming more popular. In 1988, nearly
 
 **ESA/Service Animal Laws by State**
 
-As pet ownership has grown, so has the number of service animals in the United States. [Emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs) have become particularly popular. In 2014, for example, there were approximately 2,400 ESAs registered in the US. As of 2019, that number has ballooned to an estimated 200,000 and growing.
+As pet ownership has grown, so has the number of service animals in the United States. [Emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs) have become particularly popular. We have seen this growth particularly in the airline industry as the number of passengers flying with emotional support animals has nearly doubled since 2016. It was estimated that more than one million ESAs were onboard aircrafts in 2019 alone according to Airlines for America.
 
 As they are classified as service animals, ESAs are governed under federal fair housing laws managed by the Department of Housing and Urban Development (HUD). While blanket federal laws apply to all states, some jurisdictions have implemented even tighter rules to ensure fair accommodation on the part of both residents and landlords. California, for example, requires individuals to have a 30-day working relationship with a health professional before an ESA can be assigned.
 
