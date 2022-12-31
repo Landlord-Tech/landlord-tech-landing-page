@@ -10,7 +10,7 @@ excerpt: "Having a pet policy for your renters is an essential part of
   protecting your property and your rental income. However, it's important to
   note that not all policies are created equal. "
 heroHeading: The True Cost of Having a Bad Pet Policy
-heroImg: /assets/strong-pet-policies-that-protect-landlordsstrong-pet-policies-that-protect-landlords.jpg
+heroImg: /assets/strong_pet_policies_that_protect_landlords.jpg
 social: true
 promoSection:
   promo: true
@@ -60,7 +60,7 @@ A good pet policy should include proper pet and tenant screenings to ensure that
 
 • [Cat dander;](https://petdanderremovalservice.com/) extremely difficult, costly, and time-consuming to remove to ensure the safety of future tenants with allergies.
 
-![Poor screening process can cause pet-related damages](/assets/pet-and-tenant-screening-for-landlords.jpg)
+![Poor screening process can cause pet-related damages](/assets/pet_and_tenant_screening_for_landlords.png)
 
 #### Rental Turnover Downtime
 
