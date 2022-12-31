@@ -78,7 +78,7 @@ Tenants can fraudulently register their pets as Emotional Support Animals, meani
 
 Many tenants sneak pets onto the property to avoid pet fees entirely. Policies lacking strict guidelines to remedy these situations can make it difficult to evict or fine these tenants if caught. If the pet goes unnoticed, any damages found after the tenant has vacated the rental will not be covered.
 
-![Weak policy gives tenants the ability to evade fees](/assets/manage-fraudulent-esa-requests-online.jpg)
+![Weak policy gives tenants the ability to evade fees](/assets/manage_fraudulent_esa_requests_online.png)
 
 #### Irresponsible Pet Owners
 
