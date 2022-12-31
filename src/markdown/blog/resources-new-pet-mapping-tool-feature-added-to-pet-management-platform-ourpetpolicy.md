@@ -12,7 +12,7 @@ excerpt: Landlord Tech’s industry leading pet management platform, OurPetPolic
   and map animals on their properties and quickly distinguish between authorized
   and unauthorized pets.
 heroHeading: New Pet Mapping Tool Feature Added to Pet Management Platform OurPetPolicy
-heroImg: /assets/pet-management-platform-adds-pet-mapping.jpg
+heroImg: /assets/pet_management_platform_adds_pet_mapping.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -30,7 +30,7 @@ Boise, ID, June 7, 2022 – **Landlord Tech**, creators of the industry leading 
 
 The new Pet Mapping Tool in OurPetPolicy is designed to efficiently manage all pet-related issues including waste management, animal complaints, and authorized animals. The tool logs all pets who have been properly documented on an occupant’s lease, which allows all staff to identify animals in a matter of seconds. With advanced search functionality, property managers will be able to quickly differentiate between authorized and unauthorized animals, identify which pet is causing problems and assign corrective action, if necessary.
 
-![Easy-to-use pet management software for property managers](/assets/identify-unauthorized-animals-in-your-rentals.jpg)
+![Easy-to-use pet management software for property managers](/assets/identify_unauthorized_animals_in_your_rentals.png)
 
 With the addition of the Pet Mapping feature, OurPetPolicy is solidifying itself as the leader of pet management services in PropTech. The staggering growth in the last quarter coupled with continued development are guiding a clear path to success for the brand. Site improvements and upgrades fueled by customers’ feedback emphasize the care and effort OurPetPolicy puts into their approach.
 
