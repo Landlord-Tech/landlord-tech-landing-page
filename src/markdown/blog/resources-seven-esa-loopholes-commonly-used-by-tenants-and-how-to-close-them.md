@@ -14,7 +14,7 @@ excerpt: "Property managers and landlords have reported more animal-related
   around policies and pet agreements is crucial for preventing this damage and
   ensuring the safest environment for your rentals. "
 heroHeading: Seven ESA Loopholes Commonly Used by Tenants and How to Close Them
-heroImg: /assets/esa-loopholes-commonly-used-by-tenants.jpg
+heroImg: /assets/esa_loopholes_commonly_used_by_tenants.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -27,7 +27,7 @@ promoSection:
 ---
 With the surge in popularity of emotional support animals (ESAs) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more animals into their homes.
 
-![ESA loopholes use by tenants](/assets/esa-verification-for-property-managers.jpg)
+![ESA loopholes use by tenants](/assets/esa_verification_for_property_managers.png)
 
 Here are seven of the most common loopholes that tenants often use in regards to [ESAs and how you, as a landlord or property manager, can close them for good](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2022).\
 \
