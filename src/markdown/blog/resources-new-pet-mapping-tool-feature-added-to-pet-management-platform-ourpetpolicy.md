@@ -34,7 +34,7 @@ The new Pet Mapping Tool in OurPetPolicy is designed to efficiently manage all p
 
 With the addition of the Pet Mapping feature, OurPetPolicy is solidifying itself as the leader of pet management services in PropTech. The staggering growth in the last quarter coupled with continued development are guiding a clear path to success for the brand. Site improvements and upgrades fueled by customers’ feedback emphasize the care and effort OurPetPolicy puts into their approach.
 
-![Pet mapping tool for pet-related issues](/assets/pet-mapping-tool.jpg)
+![Pet mapping tool for pet-related issues](/assets/pet_mapping_tool.png)
 
 For more information on OurPetPolicy and how you can start effectively managing pets in your rentals, visit them at the Apartmentalize Trade Show June 22-24, 2022 in San Diego at booth #847, or online at [landlordtech.com](https://landlordtech.com/). 
 
