@@ -38,7 +38,7 @@ With the addition of the Pet Mapping feature, OurPetPolicy is solidifying itself
 
 For more information on OurPetPolicy and how you can start effectively managing pets in your rentals, visit them at the Apartmentalize Trade Show June 22-24, 2022 in San Diego at booth #847, or online at [landlordtech.com](https://landlordtech.com/). 
 
-![Learn more about OurPetPolicy](/assets/pet-mapping-tool-for-property-management-platform.jpg)
+![Learn more about OurPetPolicy](/assets/pet_mapping_tool_for_property_management_platform.png)
 
 **About Landlord Tech**
 
