@@ -12,7 +12,7 @@ excerpt: As a landlord or property owner, you have a legal duty to understand
   property. Not knowing this information can be costly. Here's how one landlord
   learned that the hard way.
 heroHeading: Here's How an ESA HUD Sting Cost This Property Manager $80,000
-heroImg: /assets/an-hud-sting-cost-this-property-manager.jpg
+heroImg: /assets/manage_esas_service_-animals_and_pets.png
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -31,7 +31,7 @@ In particular, landlords cannot impose breed or weight restrictions or collect [
 
 Not knowing these policies and the appropriate accommodations that must be provided can be costly. We recently spoke with a property owner who fell victim to a HUD/Department of Justice sting operation over the accommodation of emotional support animals at his property.
 
-![Fair Housing Act and HUD emphasizes ESAs as not pets](/assets/hud-compliant-pet-policies.jpg)
+![Fair Housing Act and HUD emphasizes ESAs as not pets](/assets/hud_compliant_pet_policies.png)
 
 **How a Landlord Fell Victim to an ESA Sting**
 
