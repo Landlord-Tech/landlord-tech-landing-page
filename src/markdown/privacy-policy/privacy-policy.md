@@ -51,11 +51,11 @@ The California Consumer Privacy Act (“CCPA”) provides California resident co
 * Right to Opt-Out. You have the right to opt-out of having your personal information sold.
 * You have the right to request a copy of the specific personal information we collected about you during the twelve months prior to your request. You have the right not to be discriminated against for exercising your right to know, delete or opt-out.
 
-If you would like to exercise your rights, please [contact us](https://ourpetpolicy.com/contact-us/).
+If you would like to exercise your rights, please [contact us](https://landlordtech.com/contact/).
 
 **Your Choices: Access, Correction, Deletion**
 
-We respect your privacy rights and provide you with reasonable access to the personal data that you may have provided through your use of the Site. If you wish to access or amend any personal data we hold about you, or to request that we delete any information about you, you may [contact us](https://ourpetpolicy.com/contact-us/). At your request, we will have any reference to you deleted or blocked in our database.
+We respect your privacy rights and provide you with reasonable access to the personal data that you may have provided through your use of the Site. If you wish to access or amend any personal data we hold about you, or to request that we delete any information about you, you may [contact us](https://landlordtech.com/contact/). At your request, we will have any reference to you deleted or blocked in our database.
 
 You may decline to share certain personal data with us, or choose to request the restriction or suppression of your personal data, in which case we may not be able to provide to you some of the features and functionality of the Site.
 
@@ -101,7 +101,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact our Data Protection Officer by filling out the [contact form](https://www.ourpetpolicy.com/contact-us/) or at the following address:
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact our Data Protection Officer by filling out the [contact form](https://landlordtech.com/contact/) or at the following address:
 
 Landlord Tech Inc\
 ATTN: Data Protection Officer\
