@@ -7,4 +7,6 @@ heroText3: OurPetPolicy offers training for all property managers and gives them
 heroImg3: /assets/business-woman.png
 heroBtnSecondary1: Let's Talk
 heroBtnSecondaryUrl1: /request-demo/
+heroBtnSecondary3: Let's Talk
+heroBtnSecondaryUrl3: /request-demo/
 ---
