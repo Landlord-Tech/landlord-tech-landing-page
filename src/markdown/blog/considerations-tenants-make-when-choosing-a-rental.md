@@ -11,6 +11,7 @@ excerpt: Marketing to and bringing in new tenants is a critical piece in the
   also a major lifeline in your portfolio.
 heroHeading: Considerations Tenants Make When Choosing a Rental
 heroImg: /assets/4-considerations1.jpeg
+heroAltImg: Test
 social: true
 promoSection:
   promo: true
