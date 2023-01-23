@@ -6,7 +6,7 @@ heroText3: OurPetPolicy offers training for all property managers and gives them
   the resources to stay compliant in accommodating for ESA's and Service
   Animals.
 heroImg3: /assets/business-woman.png
-heroBtnPrimary3: test
+heroBtnPrimary3: Let's Talk
 heroBtnPrimaryUrl3: /request-demo/
 heroBtnSecondaryUrl1: /request-demo/
 heroBtnSecondaryUrl3: /request-demo/
