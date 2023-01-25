@@ -62,9 +62,9 @@ The best option for property managers and owners is to implement a pet guarantee
 
 [Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets and assistance animals at their rental properties. They’ve recently hosted a webinar in conjunction with their flagship product, OurPetPolicy, that covers the ins and outs out how owners and property managers can wisely implement a pet guarantee.
 
-Click [here](https://youtu.be/yPL1TJr0u0o) to watch the recorded webinar and learn more.
+Click [here](https://info.ourpetpolicy.com/webinar/) to watch the recorded webinar and learn more.
 
-[![Watch](/assets/free_webinar_to_increase_tenant_applications_in_2023.png "Watch")](https://www.youtube.com/watch?v=yPL1TJr0u0o)
+[![Watch](/assets/free_webinar_to_increase_tenant_applications_in_2023.png "Watch")](https://info.ourpetpolicy.com/webinar/)
 
 **Bottom Line**
 
