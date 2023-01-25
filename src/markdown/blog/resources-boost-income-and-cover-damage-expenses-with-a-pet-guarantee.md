@@ -64,7 +64,7 @@ The best option for property managers and owners is to implement a pet guarantee
 
 Click [here](https://youtu.be/yPL1TJr0u0o) to watch the recorded webinar and learn more.
 
-![Landlord Tech offers a free webinar about Pet Guarantee and how it can help boost tenant applications and NOI in 2023](/assets/free_webinar_to_increase_tenant_applications_in_2023.png "free_webinar_to_increase_tenant_applications_in_2023")
+[![Watch](/assets/free_webinar_to_increase_tenant_applications_in_2023.png "Watch")](https://www.youtube.com/watch?v=yPL1TJr0u0o)
 
 **Bottom Line**
 
