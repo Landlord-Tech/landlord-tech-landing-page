@@ -11,8 +11,8 @@ excerpt: Marketing to and bringing in new tenants is a critical piece in the
   also a major lifeline in your portfolio.
 heroHeading: Considerations Tenants Make When Choosing a Rental
 heroImg: /assets/4-considerations1.jpeg
-heroAltImg: Test
 social: true
+heroAltImg: Test
 promoSection:
   promo: true
   promoTitle: We Manage Pets Better
@@ -59,4 +59,3 @@ Consider using [OurPetPolicy ](https://www.landlordtech.com/products)as an effic
 
 [OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
 
-> T﻿esting Quote
