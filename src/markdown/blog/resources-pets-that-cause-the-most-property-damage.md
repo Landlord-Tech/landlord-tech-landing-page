@@ -9,6 +9,9 @@ excerpt: As long as animals have been cohabiting with humans, they’ve been
   managers.
 heroHeading: Pets That Cause the Most Property Damage
 heroImg: /assets/reduce-pet-damage-in-your-properties.jpg
+heroAltImg: "test"
+metaTitle: "Pets That Cause the Most Property Damage"
+metaDescription: "As long as animals have been cohabiting with humans, they’ve been causing property damage. Whether it’s something as minor as an “accident” in the corner of the room or complete destruction of furniture, our furry companions seem to love creating headaches for both their owners and property managers."
 social: true
 promoSection:
   promo: true

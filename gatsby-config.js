@@ -14,7 +14,7 @@ module.exports = {
       resolve: "gatsby-plugin-robots-txt",
       options: {
         host: "https://landlordtech.com",
-        sitemap: "https://landlordtech.com/sitemap.xml",
+        sitemap: "https://landlordtech.com/sitemap/sitemap-0.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },

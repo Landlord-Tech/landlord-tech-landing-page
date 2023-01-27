@@ -7,11 +7,9 @@ export const useProductsHero3Data = () => {
         frontmatter {
           heroHeading3
           heroText3
-          heroImg3 {
-            childImageSharp {
-              gatsbyImageData
-            }
-          }
+          heroBtnSecondary3
+          heroBtnSecondaryUrl3
+          heroImg3 
         }
       }
     }
