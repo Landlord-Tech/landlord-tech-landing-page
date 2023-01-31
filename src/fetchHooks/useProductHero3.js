@@ -9,7 +9,11 @@ export const useProductsHero3Data = () => {
           heroText3
           heroBtnSecondary3
           heroBtnSecondaryUrl3
-          heroImg3 
+          heroImg3 {
+            childImageSharp {
+              gatsbyImageData
+            }
+          }
         }
       }
     }
