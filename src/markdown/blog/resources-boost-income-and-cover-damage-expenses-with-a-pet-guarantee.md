@@ -28,11 +28,11 @@ promoSection:
 ---
 ![Boost income and cover damage expenses with a pet guarantee](/assets/manage_rental_property_with_pet_guarantee.png "manage_rental_property_with_pet_guarantee")
 
-Among all US households, approximately 70% currently own at least one pet. That number is even higher among younger generations, who are more likely to be renters than their parents or grandparents. Having a strict [“no pets” policy](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) only serves to limit your tenant pool, reduce potential revenue, and expose you to fraudulent service animal applications. 
+> Among all US households, approximately 70% currently own at least one pet. That number is even higher among younger generations, who are more likely to be renters than their parents or grandparents. 
+
+Having a strict [“no pets” policy](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) only serves to limit your tenant pool, reduce potential revenue, and expose you to fraudulent service animal applications. 
 
 For most owners and property managers, the primary concern with a pet policy is liability from damages. Costs associated with on-property repairs due to pets can be high, and security deposits may not always cover all those expenses. That’s where a pet guarantee comes in. This article provides an overview of the concept of a pet guarantee and discusses how it helps owners and property managers mitigate expenses and fill vacancies.
-
-![Majority of the US households have at least one pet](/assets/increase_tenant_pool_with_pet_friendly_property.png "increase_tenant_pool_with_pet_friendly_property")
 
 **What is a Pet Guarantee?**
 
