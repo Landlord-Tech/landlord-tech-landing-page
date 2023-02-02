@@ -4,12 +4,6 @@ import { StaticImage } from "gatsby-plugin-image"
 import Icon from "./Icon"
 import useLockedBody from "../hooks/useLockedBody"
 import { useHeaderData } from "../fetchHooks/useHeader"
-import { Helmet } from "react-helmet"
-
-
-<Helmet>
-       <meta name="trustpilot-one-time-domain-verification-id" content="b8bc146e-8e9b-4c23-b6c3-14020d16a77e"/> 
-</Helmet>
 
 const Header = ({ sticky, prodHeader }) => {
   const [openedMenu, setOpenedMenu] = useState(false)

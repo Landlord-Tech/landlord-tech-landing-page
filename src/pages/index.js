@@ -17,7 +17,6 @@ import { useHomepageVideoSectionData } from "../fetchHooks/useHomepageVideoSecti
 import { useTestimonialData } from "../fetchHooks/useTestimonials"
 import { useHomepageHero2 } from "../fetchHooks/useHomepageHero2"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
-import { Helmet } from "react-helmet"
 
 const Landlords = () => {
   const {

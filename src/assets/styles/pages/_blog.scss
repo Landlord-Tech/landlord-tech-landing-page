@@ -216,15 +216,14 @@
 blockquote {
   margin: 0 0 10px;
   padding: 63px 106px 63px 100px;
-  border-left: 8px solid #027FFF;
+  border-left: 8px solid $color-primary;
   border-radius: 6px;
-  background-color: #f7f8fa;
-  color: #183028;
+  background-color: $color-range;
+  color: $color-text;
   font-size: 20px;
   line-height: 1.8em;
   font-weight: 500;
-  margin-top: 48px;
-  margin-bottom: 48px;
+  margin:48px 0;
 }
 
 blockquote p {
