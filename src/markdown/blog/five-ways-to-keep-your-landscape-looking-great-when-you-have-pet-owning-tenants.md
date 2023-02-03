@@ -7,6 +7,9 @@ excerpt: Once you’ve weighed the pros and cons and decided to allow pet-owning
   landscaping and pet-friendly premises.
 heroHeading: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
 heroImg: /assets/reduce-pet-damage-with-pet-platform.jpg
+heroAltImg: "test"
+metaTitle: "Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants"
+metaDescription: "Once you’ve weighed the pros and cons and decided to allow pet-owning tenant(s), the next decision tackles the issue of maintaining attractive landscaping and pet-friendly premises."
 social: true
 promoSection:
   promo: true

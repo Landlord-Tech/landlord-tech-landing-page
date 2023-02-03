@@ -32,6 +32,15 @@ const Footer = () => {
           />
         </Link>
         <ul className="footer-top">
+        <li className="footer-top-col">
+        <StaticImage
+            src="../images/OPP-badge.png"
+            alt="OPP"
+            formats={["AUTO", "WEBP", "AVIF"]}
+            placeholder="transparent"
+            className="opp-badge"
+          />
+          </li>
           <li className="footer-top-col">
             <h4 className="h4">{col1Title}</h4>
             {col1List.map(({ listItem, listItemUrl }, i) => {

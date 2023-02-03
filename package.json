@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^4.5.4",
+    "gatsby": "^4.25.4",
     "gatsby-plugin-anchor-links": "^1.2.1",
     "gatsby-plugin-facebook-pixel": "^1.0.8",
     "gatsby-plugin-gatsby-cloud": "^4.5.2",
@@ -15,7 +15,7 @@
     "gatsby-plugin-netlify-cms": "^6.5.0",
     "gatsby-plugin-offline": "^5.5.2",
     "gatsby-plugin-react-helmet": "^5.5.0",
-    "gatsby-plugin-robots-txt": "^1.7.0",
+    "gatsby-plugin-robots-txt": "^1.7.1",
     "gatsby-plugin-sass": "^5.5.0",
     "gatsby-plugin-sharp": "^4.5.2",
     "gatsby-plugin-sitemap": "^5.5.0",

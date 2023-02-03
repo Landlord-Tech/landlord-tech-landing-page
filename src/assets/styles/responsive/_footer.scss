@@ -1,7 +1,6 @@
 @media screen and (max-width: 1280px) {
 
 }
-
 @media screen and (max-width: 768px) {
   .footer {
     .logo {
@@ -32,5 +31,11 @@
         font-size: 16px;
       }
     }
+  }
+}
+@media (max-width:568px) {
+  .footer-top-col .opp-badge img {
+    width: 120px;
+    top: 0;
   }
 }

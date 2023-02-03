@@ -9,6 +9,9 @@ excerpt: "Property managers and landlords have reported more animal-related
   ensuring the safest environment for your rentals. "
 heroHeading: Seven ESA Loopholes Commonly Used by Tenants and How to Close Them
 heroImg: /assets/esa-loopholes-commonly-used-by-tenants.jpg
+heroAltImg: "test"
+metaTitle: "Seven ESA Loopholes Commonly Used by Tenants and How to Close Them"
+metaDescription: "Property managers and landlords have reported more animal-related damage accompanying the recent uptick in the number of Emotional Support Animals over the last few years. Understanding the ways pet owners are getting around policies and pet agreements is crucial for preventing this damage and ensuring the safest environment for your rentals."
 social: true
 promoSection:
   promoTitle: We Manage Pets Better

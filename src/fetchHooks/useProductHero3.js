@@ -7,6 +7,8 @@ export const useProductsHero3Data = () => {
         frontmatter {
           heroHeading3
           heroText3
+          heroBtnSecondary3
+          heroBtnSecondaryUrl3
           heroImg3 {
             childImageSharp {
               gatsbyImageData

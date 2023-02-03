@@ -73,7 +73,9 @@ function Seo({ description, lang, meta, title }) {
           content: "3or5i46s1vrpc4v6rh2x309hxkix5c",
         },
       ].concat(meta)}
-    />
+    >
+    <meta name="trustpilot-one-time-domain-verification-id" content="b8bc146e-8e9b-4c23-b6c3-14020d16a77e"/> 
+    </Helmet>
   )
 }
 
