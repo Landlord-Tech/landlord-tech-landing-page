@@ -1,5 +1,5 @@
 ---
-metaTitle: Pet Management Platforms Are Worth the Investment. Here’s Why.
+metaTitle: Pet Management Platforms Are Worth the Investment. Here’s Why. Here’s Why.
 metaDescription: Pet management platforms are useful tools to help you manage
   your property's pet program. However, they do come at a cost. This post
   discusses how these platforms can help you earn additional income and links to
