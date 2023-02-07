@@ -27,7 +27,7 @@ promoSection:
 ---
 Pet adoption rates skyrocketed during the pandemic, and now pet-friendly properties are more in demand than ever. Oftentimes, landlord and property managers only see the perceived hassles that are involved in permitting pets on property. In today’s world, money is only being left on the table by not offering tenants an option to house their furry friends. They’ll just take their pets (and their money) elsewhere.
 
-> With the growth of pet management platforms, managing pets on your property has never been easier. While these services come at a cost, they provide substantial value. By allowing you to track every animal on property and charge associated deposits and fees, these platforms help alleviate the stress and time involved in pet management while providing you with a positive return on your investment. 
+With the growth of pet management platforms, managing pets on your property has never been easier. While these services come at a cost, they provide substantial value. By allowing you to track every animal on property and charge associated deposits and fees, these platforms help alleviate the stress and time involved in pet management while providing you with a positive return on your investment. 
 
 Whether you already have pets on your property or are considering it, don’t go at it alone. Here are the specific ways a pet management platform can help you earn extra income and more than recoup the cost involved in subscribing to them.
 
