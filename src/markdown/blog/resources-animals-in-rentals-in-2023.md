@@ -36,7 +36,9 @@ These structural changes in US culture and society will only continue in 2023. A
 
 Yes, it’s true that Americans love their cats and dogs. In fact, the USA ranks first for pet ownership in the world. So, whether it’s a studio apartment in New York City or a suburban estate in Los Angeles, there’s more than likely a pet being housed at that address. 
 
-Dogs are, by far, the most popular option when Americans look for furry companions. More than 75% of pet-owning households own at least one dog. While less popular, cats are still very common as well — half of pet owners have cats at home. From there, horses are the third most-popular pet followed by fish. And there are still millions of birds, reptiles, chickens, rabbits, ferrets, and exotic animals living in bedrooms, backyards, and living rooms across the country.
+> Dogs are, by far, the most popular option when Americans look for furry companions. More than 75% of pet-owning households own at least one dog. While less popular, cats are still very common as well — half of pet owners have cats at home. 
+
+From there, horses are the third most-popular pet followed by fish. And there are still millions of birds, reptiles, chickens, rabbits, ferrets, and exotic animals living in bedrooms, backyards, and living rooms across the country.
 
 ![Pet-ownership continues to increase in the United States](/assets/pet_ownership_in_the_usa_continues_to_grow.png)
 
