@@ -2,7 +2,7 @@
 title: footer
 col1Title: Landlord Tech
 col1List:
-  - listItem: Why Landlord Tech
+  - listItem: Why Landlord
     listItemUrl: /about/
   - listItem: Partners
     listItemUrl: /partners/
