@@ -33,7 +33,7 @@ const Footer = () => {
         </Link>
         <ul className="footer-top">
         <li className="footer-top-col">
-        <Link to={"/"}>
+        <Link to={"https://landlordtech.com/resources/ourpetpolicy-narpm-affiliate-of-the-year"}>
         <StaticImage
             src="../images/OPP-badge.png"
             alt="OPP"
