@@ -19,7 +19,7 @@ const PrivacyPolicy = () => {
       </section>
       <section>
         <div className="container">
-          <HTMLContent content={html} className="dynamic-content" />
+          <HTMLContent content={html} className="dynamic-content content-md" />
         </div>
       </section>
     </Layout>

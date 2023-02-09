@@ -33,6 +33,7 @@ const Footer = () => {
         </Link>
         <ul className="footer-top">
         <li className="footer-top-col">
+        <Link to={"https://landlordtech.com/resources/ourpetpolicy-narpm-affiliate-of-the-year"}>
         <StaticImage
             src="../images/OPP-badge.png"
             alt="OPP"
@@ -40,6 +41,7 @@ const Footer = () => {
             placeholder="transparent"
             className="opp-badge"
           />
+          </Link>
           </li>
           <li className="footer-top-col">
             <h4 className="h4">{col1Title}</h4>
