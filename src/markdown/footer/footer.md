@@ -11,11 +11,13 @@ col2List:
   - listItem: OurPetPolicy
     listItemUrl: /products
   - listItem: Pricing
+    listItemUrl: /pricing/
 col3Title: Resources
 col3List:
   - listItem: Blog
     listItemUrl: /resources/
   - listItem: ROI Calculator
+    listItemUrl: /calculator-no-pets-allowed/
 col4Title: Contact us
 col4List:
   - listItem: (208) 906 - 8886
