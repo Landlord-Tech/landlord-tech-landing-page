@@ -10,10 +10,12 @@ col2Title: Products
 col2List:
   - listItem: OurPetPolicy
     listItemUrl: /products
+  - listItem: Pricing
 col3Title: Resources
 col3List:
   - listItem: Blog
     listItemUrl: /resources/
+  - listItem: ROI Calculator
 col4Title: Contact us
 col4List:
   - listItem: (208) 906 - 8886
