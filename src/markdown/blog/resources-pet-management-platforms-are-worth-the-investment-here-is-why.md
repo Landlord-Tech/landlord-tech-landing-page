@@ -29,13 +29,13 @@ Pet adoption rates skyrocketed during the pandemic, and now pet-friendly propert
 
 > With the growth of pet management platforms, managing pets on your property has never been easier. While these services come at a cost, they provide substantial value. By allowing you to track every animal on property and charge associated deposits and fees, these platforms help alleviate the stress and time involved in pet management while providing you with a positive return on your investment. 
 
-Whether you already have pets on your property or are considering it, don’t go at it alone. Here are the specific ways a pet management platform can help you earn extra income and more than recoup the cost involved in subscribing to them.
+Whether you already have pets on your property or are considering it, don’t go at it alone. Here are the specific ways a [pet management](https://landlordtech.com/resources/pet-management-in-properties) platform can help you earn extra income and more than recoup the cost involved in subscribing to them.
 
 ![Pet management platform for rental properties](/assets/pet-management-platforms.png "pet management platform")
 
 **Collect Pet Deposits/Pet Rent**
 
-A security deposit isn’t always foolproof. If a [pet causes damage](https://www.google.com/url?q=https://landlordtech.com/resources/pets-that-cause-the-most-property-damage&sa=D&source=docs&ust=1671694492897970&usg=AOvVaw1jou6RYOWk8xpcoRI-0X3L) to an apartment, it’s possible that the repair costs could exceed the tenant’s security deposit. What happens in that case? Most landlords understand that it’s not worth taking them to court, where they could end up [spending more money](https://landlordtech.com/resources/five-ways-you-are-losing-money-as-a-property-owner) than they would recoup.
+A security deposit isn’t always foolproof. If a [pet causes damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) to an apartment, it’s possible that the repair costs could exceed the tenant’s security deposit. What happens in that case? Most landlords understand that it’s not worth taking them to court, where they could end up [spending more money](https://landlordtech.com/resources/five-ways-you-are-losing-money-as-a-property-owner) than they would recoup.
 
 By collecting pet deposits up front when a tenant chooses to house an animal, you have more money to [help cover any damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) that may be left behind (in addition to the security deposit). Monthly “pet rent” charges have also become a common practice to help landlord and property managers cover all the costs involved in comprehensive pet management. 
 
@@ -45,7 +45,7 @@ Pet management platforms can help to define and collect upfront or recurring pet
 
 **Charge Fees for Unauthorized Pets**
 
-Many leases and pet policies now define unauthorized pets and what penalties are incurred if they are discovered. Sometimes, tenants will house unauthorized animal temporarily or bring prohibited animals onto the property in violation of the agreements they signed. Unauthorized animals can present health and safety concerns, and, typically, fees will be assessed for these types of violations in order to discourage such behavior. 
+Many leases and pet policies now define unauthorized pets and what penalties are incurred if they are discovered. Sometimes, tenants will house unauthorized animal temporarily or bring prohibited [animals onto the property](https://landlordtech.com/resources/animals-in-rentals-in-2023) in violation of the agreements they signed. Unauthorized animals can present health and safety concerns, and, typically, fees will be assessed for these types of violations in order to discourage such behavior. 
 
 Pet management platforms can help you to charge and easily collect fees for authorized animals according to parameters you specify.
 
