@@ -30,7 +30,7 @@ In today’s article, we’ll be covering the different pet-related issues that 
 
 ### The Challenges of Managing Pet-Friendly Rentals
 
-By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](<https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/﻿ ﻿>). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
+By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
 
 ![Renters with pets](/assets/pet-screening-for-landlords.jpg "Renters with pets")
 
