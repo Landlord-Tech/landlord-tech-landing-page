@@ -36,7 +36,7 @@ Allowing poorly vetted pets on the property may lead to some serious extra labor
 
 • Time spent cleaning pet waste on the property, identifying the owner, reporting violations, and handling tenant complaints.
 
-• Time spent identifying unauthorized animals or fraudulent [ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2022) and then needing to monitor and address the situations appropriately.
+• Time spent identifying unauthorized animals or fraudulent [ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023) and then needing to monitor and address the situations appropriately.
 
 #### Added Property Damage
 
