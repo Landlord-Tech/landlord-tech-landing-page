@@ -47,7 +47,7 @@ Incentives may include longer lease terms or promotional deals with additional i
 
 **3. More Pet-Friendly Policies**
 
-[Pet-friendly policies will remain competitive](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) advantages for landlords in 2023. Not only do pet-friendly facilities instantly increase tenant application pools, but they can also help boost the quality of tenant applicants. Typically, renters who own pets are also more responsible, accountable, and interested in longer lease terms.
+[Pet-friendly policies will remain competitive](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) advantages for landlords in 2023. Not only do pet-friendly facilities instantly increase tenant application pools, but they can also help boost the quality of tenant applicants. Typically, [renters who own pets](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets) are also more responsible, accountable, and interested in longer lease terms.
 
 Developing a pet-friendly policy for your property can also increase net operating income (NOI) through the collection of deposits and fees. With economic uncertainty on the horizon, this added revenue can make a significant difference in your bottom line. If you’re struggling with managing pets already on property or don’t know where to start, specialty tools such as [OurPetPolicy](https://landlordtech.com/products) can help.
 
