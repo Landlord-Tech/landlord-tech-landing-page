@@ -47,7 +47,7 @@ Additionally, outline [rules and guidelines directly in the lease](https://landl
 
 #### How can OurPetPolicy help landlords make this happen?
 
-[OurPetPolicy](https://www.landlordtech.com/products) offers a seamless solution for pet management that helps you process pet and assistance animal requests, save time and resources, and better track animal data on your property. [OurPetPolicy](https://www.landlordtech.com/products) has established a streamlined workflow and supporting services that provides your staff with better management capabilities, giving them more time to focus on customer service.
+[OurPetPolicy](https://www.landlordtech.com/products) offers a seamless solution for [pet management](https://landlordtech.com/resources/pet-management-in-properties) that helps you process pet and assistance animal requests, save time and resources, and better track animal data on your property. [OurPetPolicy](https://www.landlordtech.com/products) has established a streamlined workflow and supporting services that provides your staff with better management capabilities, giving them more time to focus on customer service.
 
 Besides noise and damage, another concern when allowing animals on your property is the proper handling of fraudulent emotional support animal (ESA) letters. Applicants will purchase fake ESA letters online to avoid paying [pet fees and deposits](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy) or to force landlords into accepting their animals at a property that does not allow pets. [OurPetPolicy](https://www.landlordtech.com/products) has a bulletproof verification system for ESA letters so those residing on the property with pets and assistance animals are true policy-following tenants, not tenants looking for loopholes in the system. The multi-step verification process eliminates fraud and helps reduce the number of disgruntled tenants affected by those [tenants finding loopholes](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) for their untrained pets.
 
@@ -58,4 +58,3 @@ Besides noise and damage, another concern when allowing animals on your property
 Consider using [OurPetPolicy ](https://www.landlordtech.com/products)as an efficient and effective way to streamline and improve the pet-renting experience for tenants and to better assist you and your property managers in the management of pets and assistance animals.
 
 [OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
-
