@@ -37,7 +37,7 @@ This post details unique insight into ESAs that our team has collected as a resu
 
 As defined by the U.S. Department of [Housing and Urban Development](https://landlordtech.com/resources/heres-how-an-esa-hud-sting-cost-this-property-manager) (HUD), an emotional support animal (ESA) is any animal that provides emotional support to an individual in an effort to alleviate one or more symptoms of their disability. Although all pets provide some form of emotional connection, ESAs specifically support mental and emotional health conditions. 
 
-Over time, the popularity of ESAs has grown in the United States as a way for more people to house pets in their residential apartments. The Fair Housing Act requires landlords to accommodate assistance animals, including those used for emotional support. As ESAs do not require any specialized training, fraudulent claims of mental health disability can be made to force property managers to accommodate pets.
+Over time, the popularity of ESAs has grown in the United States as a way for more people to house pets in their residential apartments. The Fair Housing Act requires landlords to accommodate assistance animals, including those used for emotional support. As ESAs do not require any [specialized training](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy), fraudulent claims of mental health disability can be made to force property managers to accommodate pets.
 
 ![Fraudulent ESA claims can be made to force property managers to accommodate pets](/assets/identify_fraud_esa_letters.png)
 
