@@ -44,7 +44,7 @@ There are many ways to increase your average rent for pet owners.
 
 * Charge monthly pet fees per pet
 * Charge a refundable deposit per pet. In your pet policy, indicate that any repairs or replacements resulting from [pet damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) will be deducted from their refund upon move out.
-* Or, you can charge a smaller non-refundable per pet fee that is more appealing to renters. The amount may be lower, but you’re guaranteed to keep the deposit whether or not there is any damage done to the property.
+* Or, you can charge a smaller non-refundable per pet fee that is more appealing to renters. The amount may be lower, but you’re [guaranteed to keep the deposit](https://landlordtech.com/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee) whether or not there is any damage done to the property.
 * Charge a premium for offering a pet-friendly rental. Take a look at the pet-free rentals in your area and price your monthly rent slightly higher.
 
 80% of pet owners currently pay pet deposits, so you won’t need to worry about being less competitive.
