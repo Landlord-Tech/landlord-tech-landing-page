@@ -34,4 +34,4 @@ Geoff Troxel, sales director of OurPetPolicy, described the event as “beautifu
 
 The entire team at OurPetPolicy is honored with this award and hopes to continue their excellent service of Idahoan property managers and residents for years to come. 
 
-If you are a member of a different chapter of NARPM and are interested in learning more about how OurPetPolicy can help you with pet management on rental properties, please contact [info@ourpetpolicy.com](mailto:info@ourpetpolicy.com) or schedule a demo with the team [here](https://landlordtech.com/request-demo/).
+If you are a member of a different chapter of NARPM and are interested in learning more about how OurPetPolicy can help you with [pet management on rental properties](https://landlordtech.com/resources/pet-management-in-properties), please contact [info@ourpetpolicy.com](mailto:info@ourpetpolicy.com) or schedule a demo with the team [here](https://landlordtech.com/request-demo/).
