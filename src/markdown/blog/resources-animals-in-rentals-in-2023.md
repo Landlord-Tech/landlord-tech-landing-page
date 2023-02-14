@@ -48,7 +48,7 @@ The reality is that pet ownership is only becoming more popular. In 1988, nearly
 
 As pet ownership has grown, so has the number of service animals in the United States. [Emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs) have become particularly popular. The staggering growth of ESAs is observed in the airline industry as the number of passengers flying with emotional support animals has nearly doubled since 2016. It was estimated that more than one million ESAs were onboard aircrafts in 2019 alone according to Airlines for America.
 
-As they are classified as service animals, ESAs are governed under federal fair housing laws managed by the Department of Housing and Urban Development (HUD). While blanket federal laws apply to all states, some jurisdictions have implemented even tighter rules to ensure fair accommodation on the part of both residents and landlords. California, for example, requires individuals to have a 30-day working relationship with a health professional before an ESA can be assigned.
+As they are classified as service animals, ESAs are governed under federal fair housing laws managed by the Department of Housing and Urban Development (HUD). While blanket federal laws apply to all states, some jurisdictions have implemented even tighter [rules to ensure fair accommodation](https://landlordtech.com/resources/renting-to-pet-owners-records-every-landlord-should-keep) on the part of both residents and landlords. California, for example, requires individuals to have a 30-day working relationship with a health professional before an ESA can be assigned.
 
 ![ESA registered in the United States is growing.](/assets/esa_registered_in_the_usa_is_growing.png)
 
@@ -66,7 +66,7 @@ These statistics can help property managers better understand the expectations o
 
 Pets aren’t going anywhere in the United States. The number of households caring for an animal continues to rise, and renters have come to expect that landlords adopt policies that allow them to keep their furry friends when they look for new homes.
 
-In the year 2023, it’s better to have a sound pet policy than to have a haphazard one or nothing at all. As the housing market fizzles out from its pandemic highs, competition is heating up to attract tenants. Accepting pets can help not only boost demand for your units, but it can also add more to your bottom line from the collection of pet fees and deposits.
+In the year 2023, it’s better to have a sound pet policy than to have a haphazard one or nothing at all. As the housing market fizzles out from its pandemic highs, competition is heating up to attract tenants. Accepting pets can help not only boost demand for your units, but it can also add more to your bottom line from the collection of [pet fees and deposits](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy).
 
 ![Manage pet program with OurPetPolicy](/assets/manage_pet_program_with_ourpetpolicy.png)
 
