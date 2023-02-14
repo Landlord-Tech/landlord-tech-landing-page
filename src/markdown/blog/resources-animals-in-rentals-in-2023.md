@@ -28,7 +28,7 @@ promoSection:
 ---
 Pets are an increasingly common sight in houses and apartments across the United States. As remote work has taken hold, more of us want furry companions nearby to keep us company. Millennials are also having smaller families and delaying parenthood, allowing dogs and cats to occupy a more important part of their family units. 
 
-These structural changes in US culture and society will only continue in 2023. As a landlord or property owner, it’ll behoove you to understand the current pet-ownership trends and market opportunities that exist when it comes to pet rental policies. Here’s what you need to keep in mind in 2023 and why now’s the time to [reconsider your pet rental policies](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy).
+These structural changes in US culture and society will only continue in 2023. As a landlord or property owner, it’ll behoove you to understand the current [pet-ownership trends](https://landlordtech.com/resources/top-property-management-trends-of-2023) and market opportunities that exist when it comes to pet rental policies. Here’s what you need to keep in mind in 2023 and why now’s the time to [reconsider your pet rental policies](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy).
 
 ![What landlords need to know about animals in rentals in 2023](/assets/what_landlords_need_to_know_about_animals_in_rentals.png)
 
@@ -52,7 +52,7 @@ As they are classified as service animals, ESAs are governed under federal fair 
 
 ![ESA registered in the United States is growing.](/assets/esa_registered_in_the_usa_is_growing.png)
 
-As a landlord, you are legally required to allow ESAs and service animals on your properties regardless of what pet restrictions you may have in place. It’s important that you review the laws that apply to these animals both on a federal and local level to ensure you’re in full compliance. ESA verification services can also help to curb fraudulent service animal requests, which are becoming increasingly common.
+As a landlord, you are legally required to allow ESAs and service animals on your properties regardless of what pet restrictions you may have in place. It’s important that you review the laws that apply to these animals both on a federal and local level to ensure you’re in full compliance. [ESA verification services](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) can also help to curb fraudulent service animal requests, which are becoming increasingly common.
 
 **The Most Pet-Friendly States for Rentals**
 
