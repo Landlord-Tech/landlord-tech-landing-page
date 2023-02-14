@@ -22,7 +22,7 @@ promoSection:
   promo: true
   promoBtnUrl: https://landlordtech.com/products/
 ---
-Boise, ID, June 7, 2022 – **Landlord Tech**, creators of the industry leading property management software OurPetPolicy, announced today the addition of their new Pet Mapping Tool to the platform. The feature will allow property owners, managers, and on-site staff better manage pet-related issues throughout their properties.
+Boise, ID, June 7, 2022 – **Landlord Tech**, creators of the industry leading [property management](https://landlordtech.com/resources/top-property-management-trends-of-2023) software OurPetPolicy, announced today the addition of their new Pet Mapping Tool to the platform. The feature will allow property owners, managers, and on-site staff better manage pet-related issues throughout their properties.
 
 ![Animal mapping tool for properties](/assets/pet_mapping_feature_for_property_managers.png)
 
