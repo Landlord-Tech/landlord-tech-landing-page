@@ -61,9 +61,9 @@ There are a plethora of online websites that offer to sell [ESA letters](https:/
 
 **Verifying ESA Letters is Crucial**
 
-Renters who abuse the ESA system typically do so for two main reasons — it allows them to house a pet in units where pets are prohibited, or it permits them to have a pet on property at no cost, avoiding any required pet fees and deposits. 
+Renters who abuse the ESA system typically do so for two main reasons — it allows them to house a pet in units where pets are prohibited, or it permits them to have a pet on property at no cost, avoiding any required [pet fees and deposits](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy). 
 
-By [verifying ESA letters](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), you can start to collect fees and deposits from renters who currently aren’t paying them, adding more revenue to your bottom line. And as any property manager knows, the presence of pets means damage to your property. Collecting deposits ensures that you can appropriately fund the costs of any pet-related damage in and around units.
+By [verifying ESA letters](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), you can start to collect fees and deposits from renters who currently aren’t paying them, adding more revenue to your bottom line. And as any property manager knows, the presence of [pets means damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) to your property. Collecting deposits ensures that you can appropriately fund the costs of any [pet-related damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) in and around units.
 
 ![Verifying ESA letters can save you from pet-related damage](/assets/verifying_esa_letter_from_tenants.png)
 
