@@ -36,7 +36,7 @@ For most owners and property managers, the primary concern with a pet policy is 
 
 **What is a Pet Guarantee?**
 
-A pet guarantee is essentially a tenant-funded pool of pet fees held in reserve that can cover a set amount of pet damage. Owners will first choose to allow pets on property and then opt into a pet guarantee with their property management group. Tenants who bring pets into the property are then charged pet fees (deposits or nominal monthly rent charges), which are collected and held by the property manager.
+A pet guarantee is essentially a tenant-funded pool of pet fees held in reserve that can cover a set amount of pet damage. Owners will first choose to allow pets on property and then opt into a pet guarantee with their [property management](https://landlordtech.com/resources/top-property-management-trends-of-2023) group. Tenants who bring pets into the property are then charged pet fees (deposits or nominal monthly rent charges), which are collected and held by the property manager.
 
 These funds act as insurance for tenants. If there is pet damage exceeding the cost of security deposits, the additional expenses will be covered by the funds from the pet guarantee (generally up to a certain amount). If there isn’t damage exceeding the pet guarantee, then those funds can be booked as additional revenue for property managers and owners.
 
