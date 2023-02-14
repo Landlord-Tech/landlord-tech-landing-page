@@ -25,11 +25,11 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 ---
-With the surge in popularity of emotional support animals (ESAs) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more animals into their homes.
+With the surge in popularity of emotional support animals (ESAs) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more [animals into their homes](https://landlordtech.com/resources/animals-in-rentals-in-2023).
 
 ![ESA loopholes use by tenants](/assets/esa_verification_for_property_managers.png)
 
-Here are seven of the most common loopholes that tenants often use in regards to [ESAs and how you, as a landlord or property manager, can close them for good](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2022).\
+Here are seven of the most common loopholes that tenants often use in regards to [ESAs and how you, as a landlord or property manager, can close them for good](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023).\
 \
 **1. Taking Advantage of No-Unauthorized-Pet Fees**
 
@@ -70,7 +70,7 @@ In order to house more pets beyond what’s recommended, tenants have been known
 
 Pet waste is a common problem for many landlords and property owners. In formulating any pet policy for your residences, pet waste fees should be used as means of deterrence to avoid soiling floors and furniture throughout the property. When setting fees, the amounts chosen can make a significant impact in encouraging or discouraging unfavorable behavior.
 
-If the fee is only $5 per violation, for example, tenants would likely see that as too low to warrant training their dog to eliminate where it is allowed. [Animal mapping tools](https://landlordtech.com/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy) can help to track pets across your properties and identify violations. Cameras can also be helpful in certain locations to obtain proof of which pet caused the waste incident so that adequate fees can be charged accordingly.
+If the fee is only $5 per violation, for example, tenants would likely see that as too low to warrant training their dog to eliminate where it is allowed. [Animal mapping tools](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) can help to track pets across your properties and identify violations. Cameras can also be helpful in certain locations to obtain proof of which pet caused the waste incident so that adequate fees can be charged accordingly.
 
 **7. Claiming a Pet is Visiting to Avoid Fees/Deposits**
 
