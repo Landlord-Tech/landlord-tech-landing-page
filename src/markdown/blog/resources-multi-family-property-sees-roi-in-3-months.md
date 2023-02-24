@@ -6,7 +6,7 @@ metaDescription: "Landlord Tech completely changed the pets program for the
   have been greatly reduced. The stress the property management teams and
   tenants were facing has all but been eliminated. "
 path: /resources/multi-family-property-sees-roi-in-3-months
-date: 2023-02-24T10:49:07.286Z
+date: 2023-02-22T12:01:25.464Z
 category: Case Study
 excerpt: "Landlord Tech completely changed the pets program for the client, from
   ESA letter verification, to onboarding, to on-going monitoring and management.
