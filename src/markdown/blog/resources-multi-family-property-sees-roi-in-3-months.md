@@ -33,20 +33,25 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 ![Landlord Tech program returned 527% ROI in 90 days](/assets/landlord_tech_roi_in_90_days.png)
 
-### LandLord Tech Products Used 
+### LandLord Tech Products Used
 
-Products & Services: 
+##### Products & Services: 
 
-* ESA Verification 
-* Pet Mapping 
-* Pet Management Platform 
-* Pet Curriculum 
+• ESA Verification  
+
+• Pet Mapping  
+
+• Pet Management Platform 
+
+• Pet Curriculum 
 
 ### Client Sizing
 
-* Units: 194
-* Known Pets: 122
-* Location: Colorado Based
+• Units: 194
+
+• Known Pets: 122
+
+• Location: Colorado Based
 
 ### Animal Stats 
 
@@ -58,26 +63,32 @@ Products & Services: 
 \
 • ESAs Completed
 
-* 5 Accommodation Requests Complete
-* 2 of the 5 were reliable
-* 4 ESAs converted to pets 
+\- 5 Accommodation Requests Complete 
+
+\- 2 of the 5 were reliable
+
+\- 4 ESAs converted to pets 
 
 • Known ESAs that will evaluate in next 9 months (at lease renewal) 
 
-* 13 animals
-* Expect 6 to convert to pet
+\- 13 animals 
+
+\- Expect 6 to convert to pet
 
 ### Revenue Impacts
 
- **The Last 3 Months**\
-$8,455 
+ **The Last 3 Months**
 
-**Price of OurPetPolicy (after 3 month pilot)**\
-~$419/mo 
+• $﻿8,445
+
+**Price of OurPetPolicy (after 3 month pilot)**
+
+• ~$419/mo 
 
 ### Return on investment from OPP Platform & Service:
 
-* Platform paid for itself in the first 30 days
-* OPP is generating X amount of ROI every month
+• Platform paid for itself in the first 30 days
+
+• OPP is generating X amount of ROI every month
 
 ![Landlord Tech is the best pet management platform for property owners and managers](/assets/best_pet_management_platform_for_property_manager.png)
