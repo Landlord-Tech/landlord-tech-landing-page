@@ -27,7 +27,7 @@ promoSection:
 ---
 The Client was struggling with their pet program. There had been fraudulent ESA letters, significant property damage and serious bit incidents. It had put a tremendous amount of stress on the property management team, and was creating a bad reputation among tenants.
 
-> Landlord Tech completely changed the pets program for the client, from ESA letter verification, to onboarding, to on-going monitoring and management. Tenants have readily adopted the platform, and bad outcomes have been greatly reduced. The stress the property management teams and tenants were facing has all but been eliminated.
+Landlord Tech completely changed the pets program for the client, from ESA letter verification, to onboarding, to on-going monitoring and management. Tenants have readily adopted the platform, and bad outcomes have been greatly reduced. The stress the property management teams and tenants were facing has all but been eliminated.
 
 But best of all the Landlord Tech program returned a 527% ROI in 90 days, and the program paid for itself in 30 days. The Properties have been able to reduce fraud, improve tenant satisfaction, create a new revenue stream.
 
@@ -90,5 +90,7 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 • Platform paid for itself in the first 30 days
 
 • OPP is generating X amount of ROI every month
+
+
 
 ![Landlord Tech is the best pet management platform for property owners and managers](/assets/best_pet_management_platform_for_property_manager.png)
