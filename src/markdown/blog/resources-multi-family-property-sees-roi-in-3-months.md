@@ -15,6 +15,15 @@ excerpt: "Landlord Tech completely changed the pets program for the client, from
   all but been eliminated. "
 heroHeading: Multi Family Property sees 572% amount ROI in 3 months
 heroImg: /assets/increase_roi_with_landlord_tech_program.jpg
+social: true
+promoSection:
+  promoTitle: We Manage Pets Better
+  promoText: |-
+    No more hassle and potential legal disputes. 
+    Professional pet policy contracts in minutes.
+  promoBtn: Learn More
+  promoBtnUrl: /products/
+  promo: true
 ---
 The Client was struggling with their pet program. There had been fraudulent ESA letters, significant property damage and serious bit incidents. It had put a tremendous amount of stress on the property management team, and was creating a bad reputation among tenants.
 
