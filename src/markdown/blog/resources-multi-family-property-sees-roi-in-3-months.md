@@ -13,7 +13,7 @@ excerpt: "Landlord Tech completely changed the pets program for the client, from
   Tenants have readily adopted the platform, and bad outcomes have been greatly
   reduced. The stress the property management teams and tenants were facing has
   all but been eliminated. "
-heroHeading: Multi Family Property sees 572% amount ROI in 3 months
+heroHeading: Multi Family Property sees 572% ROI in 3 months
 heroImg: /assets/increase_roi_with_landlord_tech_program.jpg
 social: true
 promoSection:
