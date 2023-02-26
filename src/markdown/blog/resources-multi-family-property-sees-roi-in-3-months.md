@@ -1,5 +1,5 @@
 ---
-metaTitle: Multi Family Property sees 572% amount ROI in 3 months
+metaTitle: Multi Family Property sees 572% ROI in 3 months
 metaDescription: "Landlord Tech completely changed the pets program for the
   client, from ESA letter verification, to onboarding, to on-going monitoring
   and management. Tenants have readily adopted the platform, and bad outcomes
@@ -45,6 +45,8 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 • Pet Curriculum 
 
+![Recommended pet management platform for rental properties](/assets/best_pet_management_platform_for_property_manager.png)
+
 ### Client Sizing
 
 • Units: 194
@@ -75,6 +77,10 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 \- Expect 6 to convert to pet
 
+
+
+![Landlord Tech is the best pet management platform for property owners and managers](/assets/best_pet_management_platform_for_property_owners.png)
+
 ### Revenue Impacts
 
  **The Last 3 Months**
@@ -90,7 +96,3 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 • Platform paid for itself in the first 30 days
 
 • OPP is generating X amount of ROI every month
-
-
-
-![Landlord Tech is the best pet management platform for property owners and managers](/assets/best_pet_management_platform_for_property_manager.png)
