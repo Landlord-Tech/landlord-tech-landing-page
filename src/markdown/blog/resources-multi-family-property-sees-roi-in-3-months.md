@@ -77,8 +77,6 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 \- Expect 6 to convert to pet
 
-
-
 ![Landlord Tech is the best pet management platform for property owners and managers](/assets/best_pet_management_platform_for_property_owners.png)
 
 ### Revenue Impacts
