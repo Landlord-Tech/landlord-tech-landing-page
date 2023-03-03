@@ -59,9 +59,9 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 • Added 18 animals - 15 pets 
 
-•﻿ Started with 104
+•﻿ Started with 104 known animals
 
-•﻿ Now has 122\
+•﻿ Now has 122 known animals\
 \
 • ESAs Completed
 
@@ -93,4 +93,4 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 • Platform paid for itself in the first 30 days
 
-• OPP is generating X amount of ROI every month
+• OPP is generating an ROI every month
