@@ -10,9 +10,7 @@ date: 2023-03-22T07:25:36.404Z
 category: Blog
 excerpt: Property managers know that occupancy is key. Retaining tenants,
   avoiding turnover, and filling vacant apartments as soon as possible helps
-  keep profits healthy and avoids headaches for management and staff. And it’s
-  not always about finding tenants but the right tenants, which can often be a
-  challenge, especially in a highly competitive rental market.
+  keep profits healthy and avoids headaches for management and staff.
 heroHeading: How to Increase Tenant Applications at Your Rental Property
 heroImg: /assets/get_more_tenant_applicants.jpg
 social: true
