@@ -75,6 +75,7 @@ function Seo({ description, lang, meta, title }) {
       ].concat(meta)}
     >
     <meta name="trustpilot-one-time-domain-verification-id" content="b8bc146e-8e9b-4c23-b6c3-14020d16a77e"/> 
+    <script src="https://cd936e1b3bf74d00b2e7805e49f7877f.js.ubembed.com" async></script>
     </Helmet>
   )
 }
