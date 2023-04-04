@@ -1,8 +1,9 @@
 const { createFilePath } = require("gatsby-source-filesystem")
 const { fmImagesToRelative } = require("gatsby-remark-relative-images")
 const path = require(`path`)
+    
 exports.createPages = async ({ actions, graphql, reporter }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
   const blogPostTemplate = path.resolve(`./src/templates/blogPostTemplate.js`)
   const result = await graphql(`
     {
@@ -34,6 +35,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {}, // additional data can be passed via context
     })
   })
+
 
   const partnersDetail = path.resolve(`./src/templates/partnersDetail.js`)
   const partnersDetailResult = await graphql(`
@@ -85,6 +87,21 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {}, // additional data can be passed via context
     })
   })
+  createRedirect({
+    fromPath: "/request-demo",
+    toPath: "https://info.ourpetpolicy.com/demo/",
+    isPermanent: true, // optional, set to true for 301 permanent redirects
+    redirectInBrowser: true, // optional, set to true for client-side redirects
+    statusCode: 301, // optional, defaults to 200
+  });
+
+  createRedirect({
+    fromPath: "/request-demo/",
+    toPath: "https://info.ourpetpolicy.com/demo/",
+    isPermanent: true, // optional, set to true for 301 permanent redirects
+    redirectInBrowser: true, // optional, set to true for client-side redirects
+    statusCode: 301, // optional, defaults to 200
+  });
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -100,3 +117,5 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+
+

@@ -10,6 +10,8 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-gatsby-cloud`,
+    `gatsby-plugin-client-side-redirect`, // keep it in last in list
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
