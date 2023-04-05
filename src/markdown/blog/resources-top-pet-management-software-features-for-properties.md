@@ -75,4 +75,4 @@ Managing pets on properties can be a daunting task. However, the use of pet mana
 
 OurPetPolicy is an example of a comprehensive pet management solution that provides all of these tools, making it the ultimate pet management solution for landlords and property managers. If you’re looking to optimize your on-property pet program, [try OurPetPolicy today](https://landlord.ourpetpolicy.com/sign-up).
 
-[![Demo](/assets/property_owners_choice_ourpetpolicy.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/property_owners_choice_ourpetpolicy_software.png "Demo")](https://landlordtech.com/request-demo/)
