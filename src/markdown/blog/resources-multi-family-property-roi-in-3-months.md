@@ -36,25 +36,7 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 >
 > \- Property Manager 
 
-### **C﻿lient Sizing**
-
-Units: 194
-
-Known Pets: 122
-
-Location: Colorado Based
-
-### **LandLord Tech Products Used**
-
-Products and Services:
-
-•﻿ ESA Verification
-
-•﻿ Pet Mapping
-
-•﻿ Pet Management Platform
-
-•﻿ Pet Curriculum
+![Manage pet in your rental property with the most trusted OurPetPolicy](/assets/manage_pet_in_your_rental_property.png)
 
 ### **Animal Stats**
 
@@ -67,7 +49,5 @@ Products and Services:
 > *"We appreciate you and your team so much. You have relieved us of all the investigative work and we appreciate that so much! Plus, now we just get to enjoy the pets/animals without all the animosity that comes with registering a pet."*
 >
 > \- Property Manager  
-
-
 
 [Landlord Tech](https://landlordtech.com/) specializes in providing [digital tools to help property owners and managers](https://landlordtech.com/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy) successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://landlordtech.com/request-demo/).
