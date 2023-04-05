@@ -182,7 +182,6 @@ const Landlords = () => {
                 <p className="hero-text">{heroText3}</p>
                 <a
                   href={heroBtnSecondaryUrl3}
-                  target="_blank"
                   rel="noreferrer"
                   className="btn btn-lg secondary"
                 >
