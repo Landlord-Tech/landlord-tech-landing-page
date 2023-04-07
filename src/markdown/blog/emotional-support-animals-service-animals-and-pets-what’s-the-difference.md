@@ -1,11 +1,4 @@
 ---
-metaTitle: Emotional Support Animals, Service Animals, and Pets. What’s the Difference?
-metaDescription: Over the years, these furry friends have transformed into more
-  than just household pets, they have become an integral part of many people’s
-  physical and mental health. Understanding the differences between an emotional
-  support animal, a service animal, and a pet is essential to understanding how
-  to properly accommodate, manage, and appreciate these animals and those who
-  rely on them.
 path: /resources/emotional-support-animals-service-animals-and-pets-whats-the-difference
 date: 2022-01-13T03:42:29.036Z
 category: Blog
@@ -21,7 +14,6 @@ heroAltImg: "test"
 metaTitle: "Emotional Support Animals, Service Animals, and Pets. What’s the Difference?"
 metaDescription: "Over the years, these furry friends have transformed into more than just household pets, they have become an integral part of many people’s physical and mental health. Understanding the differences between an emotional support animal, a service animal, and a pet is essential to understanding how to properly accommodate, manage, and appreciate these animals and those who rely on them."
 social: true
-heroAltImg: Test
 promoSection:
   promoTitle: We Manage Pets Better
   promoText: |-
@@ -46,7 +38,7 @@ Emotional support animals receive different accommodations than a pet in some ho
 
 #### Service Animals
 
-Service animals are those animals that have undergone [specialized training](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) to perform certain tasks or work in aid of people with disabilities, which might include physical, sensory, psychiatric, intellectual, or others as defined under [Title II and Title III of the ADA](https://adata.org/factsheet/service-animals).
+Service animals are those animals that have undergone specialized training to perform certain tasks or work in aid of people with disabilities, which might include physical, sensory, psychiatric, intellectual, or others as defined under [Title II and Title III of the ADA](https://adata.org/factsheet/service-animals).
 
 ![Duties and roles of service animals](/assets/platform-for-esas-service-animals-and-pets.jpg)
 
@@ -61,13 +53,13 @@ Similar to an ESA, service animals are permitted to reside on a rental property 
 
 #### Pets
 
-Pets, on the other hand, are considered animals that people keep just for the joy of their companionship and entertainment. However, unlike the above-mentioned service animals and emotional support animals, they do not receive any special considerations when it comes to the pet policies at rentals. If a landlord has a “No Pet Policy,” then a resident is not allowed to have a pet regardless of whether ESAs or Service Animals are accommodated. If pets are allowed at a rental, then [pet-owning tenants](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets) must agree to the rental’s specific pet policies, which can include pet fees, pet deposits, and/or pet rent.
+Pets, on the other hand, are considered animals that people keep just for the joy of their companionship and entertainment. However, unlike the above-mentioned service animals and emotional support animals, they do not receive any special considerations when it comes to the pet policies at rentals. If a landlord has a “No Pet Policy,” then a resident is not allowed to have a pet regardless of whether ESAs or Service Animals are accommodated. If pets are allowed at a rental, then pet-owning tenants must agree to the rental’s specific pet policies, which can include pet fees, pet deposits, and/or pet rent.
 
-![Pets are animals that people keep for joy of their companionship and entertainment](/assets/one_platform_for_all_types_of_pets.png)
+![Pets are animals that people keep for joy of their companionship and entertainment](/assets/opp-blog.png)
 
-Service animals, emotional support animals, and pets are all extremely important as they provide support, comfort, and as noted, some can aid in critical tasks and functions during times of need. Unfortunately, the [help that ESAs provide is being taken advantage of by many people looking to find loopholes](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) in the system simply to avoid paying pet fees, deposits, and rent or to evade no-pets-allowed policies so they can reside at any rental property. This has become a huge problem for landlords, and for those that truly need the help of these animals. In a [2019](https://www.theguardian.com/lifeandstyle/2019/aug/12/fake-emotional-support-animals-service-dogs) report, the development of “ESA mills,” or for-profit organizations, that issue fake letters has caused the number of falsely registered animals to exponentially increase. People with genuine needs are now facing unjust scrutiny by those that have been adversely affected by fraudulent and false letters. Landlords aren’t able to collect the fees needed to effectively protect their properties from pet damage, repair costs, and pet liability. Unchecked, establishments and service providers have begun to resent legitimate assistance animals. This is an ever-growing issue that is being faced by so many in the community today.
+Service animals, emotional support animals, and pets are all extremely important as they provide support, comfort, and as noted, some can aid in critical tasks and functions during times of need. Unfortunately, the help that ESAs provide is being taken advantage of by many people looking to find loopholes in the system simply to avoid paying pet fees, deposits, and rent or to evade no-pets-allowed policies so they can reside at any rental property. This has become a huge problem for landlords, and for those that truly need the help of these animals. In a [2019](https://www.theguardian.com/lifeandstyle/2019/aug/12/fake-emotional-support-animals-service-dogs) report, the development of “ESA mills,” or for-profit organizations, that issue fake letters has caused the number of falsely registered animals to exponentially increase. People with genuine needs are now facing unjust scrutiny by those that have been adversely affected by fraudulent and false letters. Landlords aren’t able to collect the fees needed to effectively protect their properties from pet damage, repair costs, and pet liability. Unchecked, establishments and service providers have begun to resent legitimate assistance animals. This is an ever-growing issue that is being faced by so many in the community today.
 
-A University of the Pacific [article](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1363&context=uoplawreview) suggests that it may be necessary to put laws in place to address these loopholes in the FHA. However, it might take years for federal laws to be enacted while in the meantime, thousands are abusing the system. As a result, accommodating phony letters when there are legitimate people with disabilities and valid ESA letters out there deprive people who really need them while stigmatizing mental health. And as mentioned, property managers and landlords are unable to collect needed fees, while incurring [pet damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) and repair costs from poorly trained animals residing for free. Unfortunately, the [true cost](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) of these damages might be greater than most property managers and owners realize.
+A University of the Pacific [article](https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1363&context=uoplawreview) suggests that it may be necessary to put laws in place to address these loopholes in the FHA. However, it might take years for federal laws to be enacted while in the meantime, thousands are abusing the system. As a result, accommodating phony letters when there are legitimate people with disabilities and valid ESA letters out there deprive people who really need them while stigmatizing mental health. And as mentioned, property managers and landlords are unable to collect needed fees, while incurring pet damage and repair costs from poorly trained animals residing for free. Unfortunately, the [true cost](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) of these damages might be greater than most property managers and owners realize.
 
 From just the simple furry household member to sources of emotional support, to providing life-changing services, pets have been a huge part of our lives for so long and will continue to do so. Establishing the correct pet policy, having the right process to vet fraudulent letters, and setting expectations is the best way to build a long-lasting and positive tenant-landlord relationship.
 

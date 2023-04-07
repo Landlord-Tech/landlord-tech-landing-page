@@ -1,8 +1,4 @@
 ---
-metaTitle: The True Cost of Having a Bad Pet Policy
-metaDescription: "Having a pet policy for your renters is an essential part of
-  protecting your property and your rental income. However, it's important to
-  note that not all policies are created equal. "
 path: /resources/the-true-cost-of-having-a-bad-pet-policy
 date: 2021-12-03T21:13:25.560Z
 category: Blog
@@ -39,7 +35,7 @@ Allowing poorly vetted pets on the property may lead to some serious extra labor
 
 • Time spent cleaning pet waste on the property, identifying the owner, reporting violations, and handling tenant complaints.
 
-• Time spent identifying unauthorized animals or fraudulent [ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023) and then needing to monitor and address the situations appropriately.
+• Time spent identifying unauthorized animals or fraudulent [ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2022) and then needing to monitor and address the situations appropriately.
 
 #### Added Property Damage
 
@@ -63,25 +59,25 @@ A good pet policy should include proper pet and tenant screenings to ensure that
 
 • [Cat dander;](https://petdanderremovalservice.com/) extremely difficult, costly, and time-consuming to remove to ensure the safety of future tenants with allergies.
 
-![Poor screening process can cause pet-related damages](/assets/pet_and_tenant_screening_for_landlords.png)
+![Poor screening process can cause pet-related damages](/assets/pet-and-tenant-screening-for-landlords.jpg)
 
 #### Rental Turnover Downtime
 
 A pet policy that fails to screen pets or outline size and breed restrictions can increase the duration of your rental turnover downtime.
 
-Larger breeds and poorly behaved pets can dramatically increase the amount of [damage done to your property](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage), requiring longer and more expensive repairs.
+Larger breeds and poorly behaved pets can dramatically increase the amount of damage done to your property, requiring longer and more expensive repairs.
 
 [Carpet and floor damage](https://tntcarpetcare.com/pet-damage-carpet-repair-cost/#:~:text=These%20things%20make%20you%20think,carpet%20is%20%24100%20to%20%24400.) are among the most expensive to repair, especially when the policy doesn't hold the tenant accountable. Trying to locate and retrieve funds from the tenant after they've already vacated to property requires a lot of time and effort.
 
 #### Pet Fees Avoided
 
-While [pet fees can help offset the cost of allowing pets on your property](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy), a weak policy gives tenants the ability to evade fees.
+While pet fees can help offset the cost of allowing pets on your property, a weak policy gives tenants the ability to evade fees.
 
 Tenants can fraudulently register their pets as Emotional Support Animals, meaning they aren't required to pay pet fees, and damage to your property will not be covered. Verification of these letters must be included in your policy to prevent this issue.
 
 Many tenants sneak pets onto the property to avoid pet fees entirely. Policies lacking strict guidelines to remedy these situations can make it difficult to evict or fine these tenants if caught. If the pet goes unnoticed, any damages found after the tenant has vacated the rental will not be covered.
 
-![Weak policy gives tenants the ability to evade fees](/assets/manage_fraudulent_esa_requests_online.png)
+![Weak policy gives tenants the ability to evade fees](/assets/manage-fraudulent-esa-requests-online.jpg)
 
 #### Irresponsible Pet Owners
 
@@ -109,6 +105,6 @@ Although these cases are rare, you can be held liable for allowing this aggressi
 
 [OurPetPolicy](https://www.landlordtech.com/products) is an easy-to-use pet policy process that is vetted by lawyers to help protect your property.
 
-We help empower property owners by [eliminating potential loopholes](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them), providing simple screening processes, and setting transparent [rules and expectations between property owners and their tenants](https://landlordtech.com/resources/renting-to-pet-owners-records-every-landlord-should-keep). Prevent further exposure to the scenarios listed above by enforcing a detailed policy that protects your property portfolio.
+We help empower property owners by eliminating potential loopholes, providing simple screening processes, and setting transparent rules and expectations between property owners and their tenants. Prevent further exposure to the scenarios listed above by enforcing a detailed policy that protects your property portfolio.
 
 [OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.

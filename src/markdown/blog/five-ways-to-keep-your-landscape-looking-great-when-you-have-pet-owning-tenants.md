@@ -1,8 +1,4 @@
 ---
-metaTitle: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
-metaDescription: Once you’ve weighed the pros and cons and decided to allow
-  pet-owning tenant(s), the next decision tackles the issue of maintaining
-  attractive landscaping and pet-friendly premises.
 path: /resources/five-ways-to-keep-your-landscape-looking-great-when-you-have-pet-owning-tenants
 date: 2021-08-23T03:33:00.079Z
 category: Blog
@@ -25,7 +21,7 @@ promoSection:
   promoTitle: We Manage Pets Better​
 title: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
 ---
-Once you’ve weighed the pros and cons and [decided to allow pet-owning tenant(s)](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy), the next decision tackles the issue of maintaining attractive landscaping and pet-friendly premises. Brown patches and animal waste are just a few of the potential negative side-effects pets can have on grass and landscaping.
+Once you’ve weighed the pros and cons and decided to allow pet-owning tenant(s), the next decision tackles the issue of maintaining attractive landscaping and pet-friendly premises. Brown patches and animal waste are just a few of the potential negative side-effects pets can have on grass and landscaping.
 
 Remember that the burden does not fall solely on you. Pet-owning tenants can provide assistance by meeting certain requirements. These will vary depending on property type — single-family homes may be easier to regulate than apartment complexes, for example. Below are five ways you and your tenants can keep your landscape looking great.
 
@@ -51,4 +47,4 @@ While keeping your grass green with a regular fertilization schedule is critical
 
 It will be prudent to mention lawn quality in the lease and indicate the withholding of sufficient security deposit funds, should you need to remedy landscape damage. This is applicable to single-family homes with one lessee, with the responsibility given either in conjunction with the presence of fertilization, fake grass, etc. or  on its own with the tenant in control of the “how.”
 
-However, you choose to keep your landscaping beautiful, make your expectations clear from the beginning. Take advantage of these tips to keep your property looking great and “show ready” for the [next potential tenant](https://landlordtech.com/resources/considerations-tenants-make-when-choosing-a-rental) at any given time. For assistance mastering any and all parts of your [pet policy](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy) to give you the best ROI, consider partnering with [OurPetPolicy](https://www.landlordtech.com/products).
+However, you choose to keep your landscaping beautiful, make your expectations clear from the beginning. Take advantage of these tips to keep your property looking great and “show ready” for the next potential tenant at any given time. For assistance mastering any and all parts of your pet policy to give you the best ROI, consider partnering with [OurPetPolicy](https://www.landlordtech.com/products).
