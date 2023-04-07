@@ -12,7 +12,7 @@ You agree that you are only authorized to visit and view pages of this Site for 
 
 You agree that you will not use the Site (i) in connection with or to promote any products, services, or materials; (ii) in any manner or for any purpose that violates any law or regulation, any right of any person, including but not limited to intellectual property rights, rights of privacy, or rights of personality; (iii) to post any information that disparages or defames any person or entity; (iv) to upload or transmit viruses or malicious code; (v) to harass, bully, or intimidate any users; or (vi) to post content that is hateful, threatening, violent, pornographic, defamatory, abusive, deceptive, or otherwise inappropriate.
 
-If you have comments, questions or requests, please [contact us](https://www.ourpetpolicy.com/contact/).
+If you have comments, questions or requests, please [contact us](https://landlordtech.com/contact/).
 
 **Access & Interference**
 

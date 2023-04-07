@@ -1,4 +1,9 @@
 ---
+metaTitle: Here's How an ESA HUD Sting Cost This Property Manager $80,000
+metaDescription: As a landlord or property owner, you have a legal duty to
+  understand the Fair Housing Act and its implications for assistance animals at
+  your property. Not knowing this information can be costly. Here's how one
+  landlord learned that the hard way.
 path: /resources/heres-how-an-esa-hud-sting-cost-this-property-manager
 date: 2022-07-12T15:04:10.149Z
 category: Blog
@@ -21,15 +26,15 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 ---
-The U.S. Department of Housing and Urban Development (HUD) regulates what property owners and landlords must abide by when it comes to tenants living with disabilities. In particular, the Fair Housing Act requires landlords to allow for reasonable accommodation of assistance animals, including emotional support animals (ESAs). HUD specifically states that assistance animals and ESAs are “not pets,” and, as such, they are exempt from most any policies restricting the housing of animals at rental properties.
+The U.S. Department of Housing and Urban Development (HUD) regulates what property owners and landlords must abide by when it comes to tenants living with disabilities. In particular, the Fair Housing Act requires landlords to allow for reasonable accommodation of assistance animals, including [emotional support animals (ESAs)](https://landlordtech.com/resources/animals-in-rentals-in-2023). HUD specifically states that assistance animals and ESAs are “not pets,” and, as such, they are exempt from most any policies restricting the housing of [animals at rental properties](https://landlordtech.com/resources/animals-in-rentals-in-2023).
 
-![How HUD cost property manager $80,000](/assets/property-manager-penalized-for-bad-pet-policy.jpg)
+![How HUD cost property manager $80,000](/assets/pet_management_for_every_type_of_pet.png)
 
-In particular, landlords cannot impose breed or weight restrictions or collect fees and deposits for animals classified as ESAs. There are a number of other legal requirements as well, including mandatory response times to ESA requests and what information can be collected from a resident with a disability claim. 
+In particular, landlords cannot impose breed or weight restrictions or collect [fees and deposits for animals ](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy)classified as ESAs. There are a number of other legal requirements as well, including mandatory response times to ESA requests and what information can be collected from a resident with a disability claim. 
 
 Not knowing these policies and the appropriate accommodations that must be provided can be costly. We recently spoke with a property owner who fell victim to a HUD/Department of Justice sting operation over the accommodation of emotional support animals at his property.
 
-![Fair Housing Act and HUD emphasizes ESAs as not pets](/assets/hud-compliant-pet-policies.jpg)
+![Fair Housing Act and HUD emphasizes ESAs as not pets](/assets/hud_compliant_pet_policies.png)
 
 **How a Landlord Fell Victim to an ESA Sting**
 
@@ -45,11 +50,10 @@ Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the inte
 
 As a property manager, it is imperative that you understand all the legalities involving housing disability accommodations and assistance animals. This is your legal duty as a landlord. Failure to understand these regulations and appropriately train your staff can place you on the wrong end of a legal battle with the government of the United States, costing you nearly $100,000 or more in fines and legal fees.  
 
-Fair housing measures are put in place to protect both tenants and landlords. It’s important that you are meticulous and precise when upholding those guidelines. At a minimum, it’s worthwhile to invest in strong, lawyer-vetted pet policies so that you can be sure to adequately and legally accommodate legitimate ESAs and handle illegitimate claims with proper care. Improper management of fake ESAs can result in huge losses to property owners and headaches for property managers, but they need to be handled the right way to avoid potential retaliation from tenants and HUD involvement.
+Fair housing measures are put in place to protect both tenants and landlords. It’s important that you are meticulous and precise when [upholding those guidelines](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets). At a minimum, it’s worthwhile to invest in strong, lawyer-vetted pet policies so that you can be sure to adequately and legally accommodate [legitimate ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023) and handle illegitimate claims with proper care. Improper management of fake ESAs can result in huge losses to property owners and headaches for property managers, but they need to be handled the right way to avoid potential retaliation from tenants and HUD involvement.
 
-\
-That’s where OurPetPolicy comes in. Our team of experts understands the HUD guidelines on pets through and through. We also take the guesswork out of reviewing fraudulent ESA letters with our ESA verification program. As a landlord or property manager, this ultimately saves you time, money, and the headaches of managing everything involved with housing assistance animals at your property.
+That’s where OurPetPolicy comes in. Our team of experts understands the HUD guidelines on pets through and through. We also take the guesswork out of reviewing fraudulent ESA letters with our [ESA verification program](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters). As a landlord or property manager, this ultimately [saves you time, money, and the headaches of managing](https://landlordtech.com/resources/five-ways-you-are-losing-money-as-a-property-owner) everything involved with housing assistance animals at your property.
 
-[![](/assets/esa-verification-that-is-hud-compliant.jpg)](https://landlordtech.com/request-demo/)
+[![](/assets/esa_verification_that_is_hud_compliant.png)](https://landlordtech.com/request-demo/)
 
-Liability and legal compliance are our specialties, and we are happy to offer initial training for all property managers and provide them with the resources they need to be prepared for assistance animal accommodation requests. As the victim in the interview said, hindsight is 20/20. Don’t risk suffering the same outcome at the hands of HUD. Get started with [OurPetPolicy](https://landlordtech.com/request-demo/) today.
+Liability and legal compliance are our specialties, and we are happy to offer initial [training for all property managers](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) and provide them with the resources they need to be prepared for assistance animal accommodation requests. As the victim in the interview said, hindsight is 20/20. Don’t risk suffering the same outcome at the hands of HUD. Get started with [OurPetPolicy](https://landlordtech.com/request-demo/) today.
