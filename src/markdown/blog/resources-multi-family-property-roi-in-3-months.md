@@ -38,11 +38,7 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 
 ![Manage pet in your rental property with the most trusted OurPetPolicy](/assets/manage_pet_in_your_rental_property.png)
 
-### **Animal Stats**
-
 ![OurPetPolicy is the best pet management tool for property managers](/assets/ourpetpolicy_the_best_pet_management_tool.png)
-
-### **Revenue Impacts**
 
 ![Property managers and owners were able to increase revenue with OurPetPolicy pet management software](/assets/increase_revenue_with_pet_management_program.png)
 
