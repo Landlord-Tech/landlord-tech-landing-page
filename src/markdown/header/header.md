@@ -1,9 +1,9 @@
 ---
 title: header
 linkedLoginText: Login
-linkedLoginTextUrl: https://landlord.ourpetpolicy.com
+linkedLoginTextUrl: https://app.ourpetpolicy.com/
 primaryBtn: Sign up
-primaryBtnUrl: https://landlord.ourpetpolicy.com/sign-up
+primaryBtnUrl: https://app.ourpetpolicy.com/sign-up
 secondaryBtn: Request a demo
 secondaryBtnUrl: /request-demo
 ---

@@ -33,7 +33,7 @@ const Header = ({ sticky, prodHeader }) => {
       className={`header ${openedMenu ? "opened" : ""} ${
         sticky ? "sticky" : ""
       }`}
-    >
+    >    
       <div className="container fluid">
         <div className="header-content">
           <Link
@@ -88,14 +88,14 @@ const Header = ({ sticky, prodHeader }) => {
                       />
                     </button>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link
                       activeClassName={"active-link"}
                       to="/calculator-no-pets-allowed/"
                     >
                       ROI calculator
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link activeClassName={"active-link"} to="/about/">
                       About

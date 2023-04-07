@@ -10,11 +10,13 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-gatsby-cloud`,
+    `gatsby-plugin-client-side-redirect`, // keep it in last in list
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
         host: "https://landlordtech.com",
-        sitemap: "https://landlordtech.com/sitemap.xml",
+        sitemap: "https://landlordtech.com/sitemap/sitemap-0.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },

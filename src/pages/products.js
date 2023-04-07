@@ -29,7 +29,7 @@ const Landlords = () => {
     heroImg2,
   } = useProductsHero2Data()
 
-  const { heroHeading3, heroText3, heroImg3 } = useProductsHero3Data()
+  const { heroHeading3, heroText3, heroImg3, heroBtnSecondary3, heroBtnSecondaryUrl3 } = useProductsHero3Data()
 
   const {
     sectionHeading,
@@ -46,6 +46,8 @@ const Landlords = () => {
     landlordTechProgramTitle,
     landlordTechProgramContent,
     landlordTechProgramList,
+    
+    
   } = useLandlordTechProgramSectionData()
 
   return (
@@ -178,6 +180,13 @@ const Landlords = () => {
               <div className="hero-right">
                 <h2 className="h2">{heroHeading3}</h2>
                 <p className="hero-text">{heroText3}</p>
+                <a
+                  href={heroBtnSecondaryUrl3}
+                  rel="noreferrer"
+                  className="btn btn-lg secondary"
+                >
+                  {heroBtnSecondary3}
+                </a>
               </div>
             </div>
           </div>

@@ -17,11 +17,12 @@ const Template = ({ data, location }) => {
     path,
     category,
     heroImg,
+    heroAltImg,
     heroHeading,
     social,
     promoSection,
   } = frontmatter
-  const baseURL = "https://landlordtech.com/"
+  const baseURL = "https://landlordtech.com"
   const fbShare =
     "https://www.facebook.com/sharer/sharer.php?u=" + baseURL + path
   const twitterShare =
@@ -34,13 +35,15 @@ const Template = ({ data, location }) => {
     "twitterHandle"
   const inShare = "https://linkedin.com/shareArticle?url=" + baseURL + path
 
+  console.log(data);
+
   return (
     <Layout className="landing">
       <Seo title={metaTitle} description={metaDescription} />
       <section className="hero blog-page withOverlay">
         <GatsbyImage
           className="grid-1"
-          alt={heroHeading}
+          alt={heroAltImg}
           image={getImage(heroImg)}
           formats={["auto", "webp", "avif"]}
           objectFit="cover"
@@ -130,32 +133,44 @@ const Template = ({ data, location }) => {
   )
 }
 
+
+
 export default Template
 
+
 export const pageQuery = graphql`
-  query ($path: String!) {
+  query($path: String) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
-        title
         path
+        title
+        date(formatString: "MMMM DD, YYYY")
         category
-        heroHeading
         heroImg {
           childImageSharp {
-            gatsbyImageData(layout: FULL_WIDTH)
+            gatsbyImageData(
+              width: 1920
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
           }
         }
+        heroHeading
+        metaTitle
+        metaDescription
+        heroAltImg 
         social
         promoSection {
           promo
+          promoTitle
+          promoText
           promoBtn
           promoBtnUrl
-          promoText
-          promoTitle
         }
       }
     }
   }
 `
+
+

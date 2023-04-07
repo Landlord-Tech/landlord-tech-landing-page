@@ -4,6 +4,8 @@ backend:
   # repo: Landlord-Tech/landlord-tech-landing-page
   # branch: dev
 
+
+
 #publish_mode: editorial_workflow
 
 media_folder: static/assets
@@ -408,6 +410,8 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: heroHeading3, label: Banner Heading }
       - { name: heroText3, label: Banner Text }
+      - { name: heroBtnSecondary3, label: Banner button primary }
+      - { name: heroBtnSecondaryUrl3, label: Banner button primary url }
       - { name: heroImg3, label: Banner image, widget: image }
   # about
   - name: about-hero
@@ -545,6 +549,7 @@ collections:
             ] }
       - { name: heroHeading, label: Hero heading }
       - { name: heroImg, label: Hero image, widget: image }
+      - { name: heroAltImg, label: Alt Hero image, required: false }
       - { name: body, label: Body, widget: markdown }
       - {
           name: social,

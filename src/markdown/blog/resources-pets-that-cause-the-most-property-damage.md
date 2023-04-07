@@ -1,10 +1,4 @@
 ---
-metaTitle: Pets That Cause the Most Property Damage
-metaDescription: As long as animals have been cohabiting with humans, they’ve
-  been causing property damage. Whether it’s something as minor as an “accident”
-  in the corner of the room or complete destruction of furniture, our furry
-  companions seem to love creating headaches for both their owners and property
-  managers.
 path: /resources/pets-that-cause-the-most-property-damage
 date: 2022-08-10T06:24:00.312Z
 category: Blog
@@ -15,6 +9,9 @@ excerpt: As long as animals have been cohabiting with humans, they’ve been
   managers.
 heroHeading: Pets That Cause the Most Property Damage
 heroImg: /assets/reduce-pet-damage-in-your-properties.jpg
+heroAltImg: "test"
+metaTitle: "Pets That Cause the Most Property Damage"
+metaDescription: "As long as animals have been cohabiting with humans, they’ve been causing property damage. Whether it’s something as minor as an “accident” in the corner of the room or complete destruction of furniture, our furry companions seem to love creating headaches for both their owners and property managers."
 social: true
 promoSection:
   promo: true
@@ -27,9 +24,9 @@ promoSection:
 ---
 ![Manage pets and reduce property damage](/assets/manage-pets-and-reduce-property-damage.png "Manage Pets and Reduce Property Damage")
 
-As long as [animals have been cohabiting with humans](https://landlordtech.com/resources/animals-in-rentals-in-2023), they’ve been causing property damage. Whether it’s something as minor as an “accident” in the corner of the room or complete destruction of furniture, our furry companions seem to love creating headaches for both their owners and property managers. Some landlords have sworn off allowing pets on premises due to the potential damage that may occur, but that’s not always the best solution.
+As long as animals have been cohabiting with humans, they’ve been causing property damage. Whether it’s something as minor as an “accident” in the corner of the room or complete destruction of furniture, our furry companions seem to love creating headaches for both their owners and property managers. Some landlords have sworn off allowing pets on premises due to the potential damage that may occur, but that’s not always the best solution.
 
-Allowing pets on a property can help increase the prospective [tenant pool](https://landlordtech.com/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee) and allow leasers to earn more revenue through [pet fees](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy). And while it is unavoidable, such damage caused by cats and dogs can also be heavily mitigated with the right pet policy and protections in place. Understanding what to expect and what breeds are more likely to cause loss and destruction can help you prepare and set appropriate boundaries. 
+Allowing pets on a property can help increase the prospective tenant pool and allow leasers to earn more revenue through pet fees. And while it is unavoidable, such damage caused by cats and dogs can also be heavily mitigated with the right pet policy and protections in place. Understanding what to expect and what breeds are more likely to cause loss and destruction can help you prepare and set appropriate boundaries. 
 
 **Cats Can Cause Property Damage Too**
 
@@ -58,10 +55,10 @@ Dogs can wreak havoc in homes and apartments, especially if they are not properl
 
 **Collect More Income and Manage Pet Damage With OurPetPolicy**
 
-While property damage is probable with any pet at your property, it’s manageable with the right policies. The deposits and fees that can be collected by permitting pets can easily make up for the hassle of [handling any damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage).
+While property damage is probable with any pet at your property, it’s manageable with the right policies. The deposits and fees that can be collected by permitting pets can easily make up for the hassle of handling any damage.
 
 [![Demo](/assets/solution-for-managing-pets-in-rentals.png "Demo")](https://landlordtech.com/request-demo/)
 
-[Landlord Tech](https://landlordtech.com/) specializes in providing [digital tools to help property owners and managers](https://landlordtech.com/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy) successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. We are also soon launching a responsible [pet training platform](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) for tenants to help reduce pet-related property damage.  
+[Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. We are also soon launching a responsible pet training platform for tenants to help reduce pet-related property damage.  
 
 Contact us today for a [free demonstration](https://landlordtech.com/request-demo/) to see if OurPetPolicy can help you better manage your residential pet program.

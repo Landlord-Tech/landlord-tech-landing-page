@@ -2,7 +2,7 @@
 title: footer
 col1Title: Landlord Tech
 col1List:
-  - listItem: Why Landlord
+  - listItem: Why Landlord Tech
     listItemUrl: /about/
   - listItem: Partners
     listItemUrl: /partners/
@@ -10,10 +10,14 @@ col2Title: Products
 col2List:
   - listItem: OurPetPolicy
     listItemUrl: /products
+  - listItem: Pricing
+    listItemUrl: /pricing/
 col3Title: Resources
 col3List:
   - listItem: Blog
     listItemUrl: /resources/
+  - listItem: ROI Calculator
+    listItemUrl: /calculator-no-pets-allowed/
 col4Title: Contact us
 col4List:
   - listItem: (208) 906 - 8886
