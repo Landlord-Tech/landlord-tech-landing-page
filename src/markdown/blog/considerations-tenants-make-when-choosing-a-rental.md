@@ -54,8 +54,8 @@ Besides noise and damage, another concern when allowing animals on your property
 
 [OurPetPolicy](https://www.landlordtech.com/products) provides a community for tenants and property managers to connect about pet-related issues on site so they can be addressed quickly. We empower property owners by eliminating potential loopholes, providing simple screening processes, and setting transparent rules and expectations between property owners and their tenants. We work with attorneys around the country to ensure these are compliant with all state and federal laws.
 
-[![Demo](/assets/demo-the-pet-management-platform.jpg "Demo")](https://landlordtech.com/request-demo/)
-
 Consider using [OurPetPolicy ](https://www.landlordtech.com/products)as an efficient and effective way to streamline and improve the pet-renting experience for tenants and to better assist you and your property managers in the management of pets and assistance animals.
 
 [OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
+
+[![Demo](/assets/demo-the-pet-management-platform.jpg "Demo")](https://landlordtech.com/request-demo/)
