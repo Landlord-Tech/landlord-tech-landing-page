@@ -15,6 +15,7 @@ excerpt: "As a landlord or property manager, you’ve likely had to review your
   pet policies in general. "
 heroHeading: "Pet Management in Properties: The Inside Scoop on ESAs"
 heroImg: /assets/everything_about_emotional_support_animal.jpg
+heroAltImg: Pet management tool for rental properties for landlords and property managers
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
