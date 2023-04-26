@@ -13,6 +13,7 @@ excerpt: Property managers know that occupancy is key. Retaining tenants,
   keep profits healthy and avoids headaches for management and staff.
 heroHeading: How to Increase Tenant Applications at Your Rental Property
 heroImg: /assets/get_more_tenant_applicants.jpg
+heroAltImg: Increase tenant application with pet-friendly policy at your rental property
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
