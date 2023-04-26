@@ -1,4 +1,10 @@
 ---
+metaTitle: Five Ways You are Losing Money as a Property Owner
+metaDescription: As a property owner, it can sometimes feel like you're drowning
+  in expenses. Don't leave revenue and cost-saving opportunities on the table!
+  This post outline five ways you may be losing money on pet-related policies
+  and how you can better capitalize on these opportunities with simple,
+  easy-to-implement tools.
 path: /resources/five-ways-you-are-losing-money-as-a-property-owner
 date: 2022-10-13T14:36:29.022Z
 category: Blog
@@ -9,9 +15,7 @@ excerpt: As a property owner, it can sometimes feel like you're drowning in
   easy-to-implement tools.
 heroHeading: Five Ways You are Losing Money as a Property Owner
 heroImg: /assets/landlord_pet_screening_for_apartments.jpg
-heroAltImg: "test"
-metaTitle: "Five Ways You are Losing Money as a Property Owner"
-metaDescription: "As a property owner, it can sometimes feel like you're drowning in expenses. Don't leave revenue and cost-saving opportunities on the table! This post outline five ways you may be losing money on pet-related policies and how you can better capitalize on these opportunities with simple, easy-to-implement tools."
+heroAltImg: Service animal addendum for rental properties
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
