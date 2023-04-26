@@ -1,4 +1,10 @@
 ---
+metaTitle: Pet Management Platforms Are Worth the Investment. Here’s Why.
+metaDescription: Pet management platforms are useful tools to help you manage
+  your property's pet program. However, they do come at a cost. This post
+  discusses how these platforms can help you earn additional income and links to
+  a useful ROI calculator to show you exactly how much you can realize in cost
+  savings by using OurPetPolicy.
 path: /resources/pet-management-platforms-are-worth-the-investment-here-is-why
 date: 2022-09-16T11:56:28.189Z
 category: Blog
@@ -9,9 +15,7 @@ excerpt: Pet management platforms are useful tools to help you manage your
   using OurPetPolicy.
 heroHeading: Pet Management Platforms Are Worth the Investment. Here’s Why.
 heroImg: /assets/investing-on-pet-management-platforms.jpg
-heroAltImg: "test"
-metaTitle: "Pet Management Platforms Are Worth the Investment. Here’s Why."
-metaDescription: "Pet management platforms are useful tools to help you manage your property's pet program. However, they do come at a cost. This post discusses how these platforms can help you earn additional income and links to a useful ROI calculator to show you exactly how much you can realize in cost savings by using OurPetPolicy."
+heroAltImg: Pet management software for rental properties
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
