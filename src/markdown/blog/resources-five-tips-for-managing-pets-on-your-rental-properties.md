@@ -12,6 +12,7 @@ excerpt: "Property management can be a challenging task, especially when it
   there are a variety of issues that property managers must navigate. "
 heroHeading: Five Tips for Managing Pets on Your Rental Properties
 heroImg: /assets/managing_pets.jpg
+heroAltImg: Managing pets in rental properties with pet management tool
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
