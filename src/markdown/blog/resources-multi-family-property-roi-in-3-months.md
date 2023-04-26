@@ -16,6 +16,7 @@ excerpt: The Client was struggling with their pet program. There had been
   was creating a bad reputation among tenants.
 heroHeading: Multi Family Property sees 572% amount ROI in 3 months
 heroImg: /assets/increase_roi_with_landlord_tech_program.jpg
+heroAltImg: ESA verification and pet management tool that guarantees ROI
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
