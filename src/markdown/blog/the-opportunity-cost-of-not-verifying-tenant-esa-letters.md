@@ -1,4 +1,9 @@
 ---
+metaTitle: The Opportunity Cost of Not Verifying Tenant ESA Letters
+metaDescription: As a property manager, pet fees and deposits are the best way
+  to protect your property from pet-related damages and unexpected costs.
+  Unfortunately, pet owners have found a convenient loophole using Emotional
+  Support Animal (ESA) letters to help them get out of paying any pet fees.
 path: /resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters
 date: 2021-12-07T08:44:21.760Z
 category: Blog
@@ -8,9 +13,7 @@ excerpt: As a property manager, pet fees and deposits are the best way to
   Support Animal (ESA) letters to help them get out of paying any pet fees.
 heroHeading: The Opportunity Cost of Not Verifying Tenant ESA Letters
 heroImg: /assets/pet-screening-and-pet-management-.jpg
-heroAltImg: "test"
-metaTitle: "The Opportunity Cost of Not Verifying Tenant ESA Letters"
-metaDescription: "As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, pet owners have found a convenient loophole using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees."
+heroAltImg: Verifying tenant's ESA letters with a pet management tool
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
