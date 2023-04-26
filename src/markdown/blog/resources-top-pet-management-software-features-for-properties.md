@@ -13,6 +13,7 @@ excerpt: Although there are many benefits to allowing pets on a property,
   programs – they’re complicated.
 heroHeading: The Top Pet Management Software Features for Properties
 heroImg: /assets/pet_management_software.jpg
+heroAltImg: Pet management software features for properties
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
