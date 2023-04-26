@@ -13,6 +13,7 @@ excerpt: Each new year is marked by notable shifts in how tenants approach
   strategies that worked in 2022 may not be the best options for 2023.
 heroHeading: Top Property Management Trends of 2023
 heroImg: /assets/property_management_2023.png
+heroAltImg: Property management trends in 2023
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
