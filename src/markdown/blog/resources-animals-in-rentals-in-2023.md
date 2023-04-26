@@ -15,6 +15,7 @@ excerpt: As the number of pet-owning households in the US continues to grow,
   decision.
 heroHeading: "Animals in Rentals in 2023: What You Need to Know as a Landlord"
 heroImg: /assets/animals_in_rental_properties_in_2023.jpg
+heroAltImg: Emotional support animal addendum for rental properties
 social: true
 promoSection:
   promoTitle: Your Resource for Renting with Animals
