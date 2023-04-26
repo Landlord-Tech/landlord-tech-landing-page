@@ -16,6 +16,7 @@ excerpt: "Among all US households, approximately 70% currently own at least one
   expose you to fraudulent service animal applications. "
 heroHeading: Boost Income and Cover Damage Expenses With a Pet Guarantee
 heroImg: /assets/boost_tenant_application_pool_with_pet_guarantee.png
+heroAltImg: Rental agreement animal addendum
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
