@@ -15,6 +15,7 @@ excerpt: "Business textbooks teach that acquiring a new customer can cost five
   property. "
 heroHeading: How to Implement a Pet-Friendly Policy at Your Rental Property
 heroImg: /assets/implementing_pet_friendly_policy.jpg
+heroAltImg: "Pet-friendly policy for tenants and landlords at rental properties "
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
