@@ -13,6 +13,7 @@ excerpt: "As we move into the new year, now’s a great time for landlords and
   generation opportunities. "
 heroHeading: How to Increase Your Rental Income in 2023
 heroImg: /assets/tips_on_how_to_increase_rental_income.jpg
+heroAltImg: Increase rental income with pet management platform
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
