@@ -1,4 +1,10 @@
 ---
+metaTitle: "Landlord Q&A: Should You Move to a Pet-Friendly Policy?"
+metaDescription: The question of whether to have a no-pet policy versus being a
+  pet-friendly residence is an age-old question for most landlords. But in
+  recent years, with the emergence and soaring popularity of Emotional Support
+  Animals (ESAs), the question is no longer yes or no to being pet-friendly, but
+  when?
 path: /resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy
 date: 2022-03-28T19:29:42.889Z
 category: Blog
@@ -9,9 +15,7 @@ excerpt: The question of whether to have a no-pet policy versus being a
   when?
 heroHeading: "Landlord Q&A: Should You Move to a Pet-Friendly Policy?"
 heroImg: /assets/pet-friendly-policies.jpg
-heroAltImg: "test"
-metaTitle: "Landlord Q&A: Should You Move to a Pet-Friendly Policy?"
-metaDescription: "The question of whether to have a no-pet policy versus being a pet-friendly residence is an age-old question for most landlords. But in recent years, with the emergence and soaring popularity of Emotional Support Animals (ESAs), the question is no longer yes or no to being pet-friendly, but when?"
+heroAltImg: Pet-friendly policy for rental properties
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
