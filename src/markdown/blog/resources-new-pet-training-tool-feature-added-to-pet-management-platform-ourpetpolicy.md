@@ -1,4 +1,9 @@
 ---
+metaTitle: New Pet Training Tool Feature Added to Pet Management Platform
+metaDescription: Landlord Tech’s industry leading pet management platform,
+  OurPetPolicy, launches a cat and dog training feature providing pet owners and
+  landlords full training modules for better pet management for rental
+  properties.
 path: /resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy
 date: 2022-10-20T12:25:27.567Z
 category: Press Release
@@ -7,9 +12,7 @@ excerpt: Landlord Tech’s industry leading pet management platform, OurPetPolic
   full training modules for better pet management for rental properties.
 heroHeading: New Pet Training Tool Feature Added to Pet Management Platform
 heroImg: /assets/new_pet_training_tool_by_ourpetpolicy.jpg
-heroAltImg: "test"
-metaTitle: "New Pet Training Tool Feature Added to Pet Management Platform"
-metaDescription: "Landlord Tech’s industry leading pet management platform, OurPetPolicy, launches a cat and dog training feature providing pet owners and landlords full training modules for better pet management for rental properties."
+heroAltImg: Pet training tool feature in a pet management platform
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
