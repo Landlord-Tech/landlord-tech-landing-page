@@ -69,7 +69,7 @@ In order to house more pets beyond what’s recommended, tenants have been known
 
 **6. Pet Waste Fees That Are Too Low**
 
-Pet waste is a common problem for many landlords and property owners. In formulating any pet policy for your residences, pet waste fees should be used as means of deterrence to avoid soiling floors and furniture throughout the property. When setting fees, the amounts chosen can make a significant impact in encouraging or discouraging unfavorable behavior.
+Pet waste is a common problem for many landlords and property owners. In formulating any [pet policy for your residences](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property), pet waste fees should be used as means of deterrence to avoid soiling floors and furniture throughout the property. When setting fees, the amounts chosen can make a significant impact in encouraging or discouraging unfavorable behavior.
 
 If the fee is only $5 per violation, for example, tenants would likely see that as too low to warrant training their dog to eliminate where it is allowed. Animal mapping tools can help to track pets across your properties and identify violations. Cameras can also be helpful in certain locations to obtain proof of which pet caused the waste incident so that adequate fees can be charged accordingly.
 
