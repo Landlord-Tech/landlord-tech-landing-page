@@ -32,7 +32,7 @@ With strategic investments, you can reap a significant [return on investment](ht
 
 **Provide Furnished Rental Options**
 
-Offering furnished rental options can make your property stand out in a crowded market. Many prospective tenants, such as travel nurses, vacationers, students, and remote workers, are looking for furnished spaces that they can occupy for a set amount of time. This is a great way to increase your tenant application pool, especially if you’re willing to offer more flexible lease terms. Furnished options can also typically demand higher rent as renters are paying for the convenience and comfort of moving into (and out of) a turnkey residence.
+Offering furnished rental options can make your property stand out in a crowded market. Many prospective tenants, such as travel nurses, vacationers, students, and remote workers, are looking for furnished spaces that they can occupy for a set amount of time. This is a great way to [increase your tenant application](https://landlordtech.com/resources/how-to-increase-tenant-applications-at-your-rental-property) pool, especially if you’re willing to offer more flexible lease terms. Furnished options can also typically demand higher rent as renters are paying for the convenience and comfort of moving into (and out of) a turnkey residence.
 
 Depending on lease terms, furnished units may also require less maintenance as tenants can be responsible for the furniture and other items in the space. This can reduce your workload as a landlord. Before you make that trip to IKEA, just be sure to research your target market and tailor furnishings accordingly. Creating an inviting, modern space will help you stand out and attract more prospects. 
 
