@@ -43,7 +43,7 @@ It might sound silly, but a pet resume can be a great way to simplify the pet sc
 
 **Resident Allergy Information**
 
-Allergies are very serious, and it can be dangerous for people to be exposed to animal dander. In fact, according to the Asthma and Allergy Foundation of America, three in ten people who have allergies have allergic reactions to cats and dogs, with cats being the more common allergen. This can cause quite an issue if you bring in a new tenant with an animal and somebody next door starts having trouble breathing! There have been many reported cases that have resulted in lawsuits where the property manager was found negligent, so better be careful and always cover your bases and gather information for a proper pet screening.
+Allergies are very serious, and it can be dangerous for people to be exposed to animal dander. In fact, according to the Asthma and Allergy Foundation of America, three in ten people who have allergies have allergic reactions to cats and dogs, with cats being the more common allergen. This can cause quite an issue if you bring in a new tenant with an animal and somebody next door starts having trouble breathing! There have been many reported cases that have resulted in lawsuits where the property manager was found negligent, so better be careful and always cover your bases and gather information for a [proper pet screening](https://landlordtech.com/resources/best-practices-to-properly-screen-pets-for-apartments).
 
 **Identify Which Pet Lives With Whom**
 
