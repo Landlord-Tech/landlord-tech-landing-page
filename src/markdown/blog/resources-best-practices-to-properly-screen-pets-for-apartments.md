@@ -59,11 +59,11 @@ The number of [emotional support animals has risen](https://landlordtech.com/res
 
 > In any case, emotional support animals are still protected under the Fair Housing Act. You can (and should) still require documentation to ensure that ESA claims are legitimate. 
 
-Landlords can also require that ESAs meet certain behavioral and cleanliness standards and charge fees due to damage caused by these animals. The best way to verify documentation is to use an [ESA verification service](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) such as [OurPetPolicy](https://landlordtech.com/products). Once documentation is uploaded, these providers can recognize fraudulent letters in compliance with state and federal law, ensuring that you are only accepting legitimate animals and turning away truly falsified claims.
+Landlords can also require that ESAs meet certain behavioral and cleanliness standards and charge fees due to [damage caused by these animals](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage). The best way to verify documentation is to use an [ESA verification service](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) such as [OurPetPolicy](https://landlordtech.com/products). Once documentation is uploaded, these providers can recognize fraudulent letters in compliance with state and federal law, ensuring that you are only accepting legitimate animals and turning away truly falsified claims.
 
 #### Pet Management Software
 
-Perhaps the best tool in the toolkit for properly screening pets on properties is a sound pet management software. These solutions help property managers automatically screen pets among any set parameters, including breed, weight, and other restrictions. When new pet applications are accepted, the software can instantly confirm if they are approved based on existing policy. 
+Perhaps the best tool in the toolkit for properly screening pets on properties is a [sound pet management software](https://landlordtech.com/resources/top-pet-management-software-features-for-properties). These solutions help property managers automatically screen pets among any set parameters, including breed, weight, and other restrictions. When new pet applications are accepted, the software can instantly confirm if they are approved based on existing policy. 
 
 > Robust pet management tools can automate the collection of fees and deposits and verify ESA status and health records.
 
