@@ -61,7 +61,7 @@ Many rental communities have come to understand that “pet friendly” isn’t 
 
 ![States with most pet-friendly rentals ](/assets/states_that_pet_friendly_for_rentals.png)
 
-These statistics can help property managers better understand the expectations of renters and capitalize on market opportunities. If you manage rental properties in North Carolina, for example, you’d be in the minority if you implement more restrictive pet policies. Renters with large dogs can easily take their business elsewhere. On the other hand, in Hawaii, where less than 7% of rentals permit large dogs, landlords would be wise to adopt pet-friendly policies in order to attract those with limited options. 
+These statistics can help property managers better understand the expectations of renters and capitalize on market opportunities. If you manage rental properties in North Carolina, for example, you’d be in the minority if you [implement more restrictive pet policies](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property). Renters with large dogs can easily take their business elsewhere. On the other hand, in Hawaii, where less than 7% of rentals permit large dogs, landlords would be wise to adopt pet-friendly policies in order to attract those with limited options. 
 
 **Don’t Miss the Boat on Pet-Friendly Policies**
 
