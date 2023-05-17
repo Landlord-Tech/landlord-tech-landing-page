@@ -88,14 +88,14 @@ const Header = ({ sticky, prodHeader }) => {
                       />
                     </button>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link
                       activeClassName={"active-link"}
                       to="/calculator-no-pets-allowed/"
                     >
                       ROI calculator
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link activeClassName={"active-link"} to="/about/">
                       About
