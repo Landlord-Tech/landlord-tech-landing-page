@@ -61,8 +61,8 @@ Dogs can wreak havoc in homes and apartments, especially if they are not properl
 
 While property damage is probable with any pet at your property, it’s manageable with the right policies. The deposits and fees that can be collected by permitting pets can easily make up for the hassle of handling any damage.
 
-[![Demo](/assets/solution-for-managing-pets-in-rentals.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/solution-for-managing-pets-in-rentals.png "Demo")](https://info.ourpetpolicy.com/demo/)
 
 [Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. We are also soon launching a responsible pet training platform for tenants to help reduce pet-related property damage.  
 
-Contact us today for a [free demonstration](https://landlordtech.com/request-demo/) to see if OurPetPolicy can help you better manage your residential pet program.
+Contact us today for a [free demonstration](https://info.ourpetpolicy.com/demo/) to see if OurPetPolicy can help you better manage your residential pet program.
