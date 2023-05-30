@@ -76,4 +76,4 @@ Property managers have a lot to be optimistic about in the new year. With rental
 
 Of all the trends, the best options for property managers to stay competitive in the market and increase their tenant application pool in the new year is to introduce pet-friendly policies and invest in property management software. Solutions such as [OurPetPolicy](https://landlordtech.com/products) can help make that transition easy and seamless.
 
-[![Demo](/assets/ourpetpolicy_recommended_property_management_software.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/ourpetpolicy_recommended_property_management_software.png "Demo")](https://info.ourpetpolicy.com/demo/)
