@@ -5,5 +5,5 @@ infoSectionContent: Our team of experts is only a click away. We would love to
   discuss how we can help with your residential rental property pet management
   needs.
 infoSectionBtnSecondary: Let’s talk
-infoSectionBtnSecondaryUrl: /request-demo/
+infoSectionBtnSecondaryUrl: https://info.ourpetpolicy.com/demo/
 ---
