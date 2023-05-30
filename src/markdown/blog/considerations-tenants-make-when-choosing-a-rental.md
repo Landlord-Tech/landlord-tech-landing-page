@@ -58,4 +58,4 @@ Consider using [OurPetPolicy ](https://www.landlordtech.com/products)as an effic
 
 [OurPetPolicy](https://www.landlordtech.com/products) is a product of [Landlord Tech](https://www.landlordtech.com), a software company designed to solve and prevent the problems that property managers and owners face through technology and automation.
 
-[![Demo](/assets/demo-the-pet-management-platform.jpg "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/demo-the-pet-management-platform.jpg "Demo")](https://info.ourpetpolicy.com/demo/)
