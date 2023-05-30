@@ -1,6 +1,6 @@
 ---
 heroBtnPrimary: Get a demo
-heroBtnPrimaryUrl2: /request-demo/
+heroBtnPrimaryUrl2: https://info.ourpetpolicy.com/demo/
 heroText: "Track pets and animals across your properties with OPP Animal Mapper.
   Easily know when pets and animals are in violation across your properties, and
   enable their owners to make the corrective action fast. "
