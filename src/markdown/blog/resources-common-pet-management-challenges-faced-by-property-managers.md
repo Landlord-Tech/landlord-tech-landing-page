@@ -91,4 +91,4 @@ To cap things off, [pet management for properties](https://landlordtech.com/) wi
 
 [Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://info.ourpetpolicy.com/demo/).
 
-[![Demo](/assets/best_pet_management_platform.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/best_pet_management_platform.png "Demo")](https://info.ourpetpolicy.com/demo/)
