@@ -75,4 +75,4 @@ Above all, software takes the human element out of the equation. This helps ensu
 
 If you’re looking for a way to consistently implement and enforce your property’s pet policy, look no further than a comprehensive pet management software. Solutions such as [OurPetPolicy by Landlord Tech](https://landlordtech.com/products) allow property managers to develop policies, track pets on the property, verify service animals, and communicate directly with residents as needed all in one easy-to-use platform. No matter how you choose to screen animals, just be sure it’s done the right way with compliance in mind. [Try OurPetPolicy today](https://landlordtech.com/request-demo/).
 
-[![Demo](/assets/oupetpolicy_the_best_property_management_software.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/oupetpolicy_the_best_property_management_software.png "Demo")](https://info.ourpetpolicy.com/demo/)
