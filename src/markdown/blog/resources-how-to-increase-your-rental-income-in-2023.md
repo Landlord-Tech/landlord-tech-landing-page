@@ -72,4 +72,4 @@ With an uncertain economic environment on the horizon, now’s the time to make 
 
 If you’re looking for an immediate return on investment, property management software is a no brainer. Not only can it help you streamline your operations and improve tenant retention, but it can also help you increase revenue and better market your property to new tenants. With the use of [property management software](https://landlordtech.com/products), landlords have a better control and management of their properties, which can only increase rental income over time.
 
-[![Demo](/assets/best_pet_management_software_for_property_owners.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/best_pet_management_software_for_property_owners.png "Demo")](https://info.ourpetpolicy.com/demo/)
