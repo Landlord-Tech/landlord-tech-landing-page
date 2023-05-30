@@ -70,6 +70,6 @@ If you aren’t keeping tenants happy with your current pet policy or are not ad
 
 More people are choosing to add pets into their families, and it’s no longer practical to ignore the expenses that come with housing these animals. Even if you don’t have a formal pet policy in place, tenants will still bring support animals into their home, which can come with their own set of headaches and expensive challenges if not managed properly.
 
-[![Demo](/assets/pet_management_software_for_properties.jpg "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/pet_management_software_for_properties.jpg "Demo")](https://info.ourpetpolicy.com/demo/)
 
 You cannot afford to play things by ear when it comes to pets on property. Check out [OurPetPolicy](https://landlordtech.com/products) today for a practical solution that will allow you to better manage your pet program and save money in the process.
