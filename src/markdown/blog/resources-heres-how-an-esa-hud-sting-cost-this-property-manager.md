@@ -55,4 +55,4 @@ That’s where OurPetPolicy comes in. Our team of experts understands the HUD gu
 
 [![](/assets/esa-verification-that-is-hud-compliant.jpg)](https://info.ourpetpolicy.com/demo/)
 
-Liability and legal compliance are our specialties, and we are happy to offer initial training for all property managers and provide them with the resources they need to be prepared for assistance animal accommodation requests. As the victim in the interview said, hindsight is 20/20. Don’t risk suffering the same outcome at the hands of HUD. Get started with [OurPetPolicy](https://landlordtech.com/request-demo/) today.
+Liability and legal compliance are our specialties, and we are happy to offer initial training for all property managers and provide them with the resources they need to be prepared for assistance animal accommodation requests. As the victim in the interview said, hindsight is 20/20. Don’t risk suffering the same outcome at the hands of HUD. Get started with [OurPetPolicy](https://info.ourpetpolicy.com/demo/) today.
