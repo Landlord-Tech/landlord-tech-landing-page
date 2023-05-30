@@ -62,4 +62,4 @@ Make 2023 the year that you are swimming in new rental applications. With landlo
 
 You should also consider marketing your property in various channels, such as rental websites and social media, and offering incentives to stand out from the competition. Utilizing technology, such as property management software and virtual tours, can also make the rental process easier and more efficient for both landlords and prospective renters. And lastly, creating a pet-friendly policy can attract a larger pool of potential tenants who are more likely to stay year after year.
 
-[![Demo](/assets/attract_long_term_tenants_with_ourpetpolicy.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/attract_long_term_tenants_with_ourpetpolicy.png "Demo")](https://info.ourpetpolicy.com/demo/)
