@@ -67,4 +67,4 @@ Effective pet management is a necessary task when there are [animals living on y
 
 Clear communication and consistent enforcement are key, as well as providing resources and support for pet owners. If you’re looking for support, pet management software is available that can help manage pets and boost your net operating income (NOI). One popular solution, [OurPetPolicy](https://landlordtech.com/products), includes customizable contracts, violation notifications, and even [ESA verification](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) to ensure service animals are properly vetted. If you’re having trouble managing everything on your own, know that you don’t have to. Pet management can be easy with the right solutions.
 
-[![Demo](/assets/pet_management_platform_free_demo.png "Demo")](https://landlordtech.com/request-demo/)
+[![Demo](/assets/pet_management_platform_free_demo.png "Demo")](https://info.ourpetpolicy.com/demo/)
