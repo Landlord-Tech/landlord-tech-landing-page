@@ -31,7 +31,7 @@ In today’s article, we’ll be covering the different pet-related issues that 
 
 ### The Challenges of Managing Pet-Friendly Rentals
 
-By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](<https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/﻿ ﻿>). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
+By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](</resources/the-landlords-guide-to-tenants-with-pets/﻿ ﻿>). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
 
 ![Renters with pets](/assets/pet-screening-for-landlords.jpg "Renters with pets")
 
@@ -97,8 +97,8 @@ Why Pet Fees are a Necessary Landlord Strategy
 
 • And more!
 
-**Get the complete guide [here](https://landlordtech.com/assets/ourpetpolicy_landlord_strategy_e-book.pdf).**[](https://landlordtech.com/assets/ourpetpolicy_landlord_strategy_e-book.pdf)[](https://landlordtech.com/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
+**Get the complete guide [here](/assets/ourpetpolicy_landlord_strategy_e-book.pdf).**[](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)[](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
 
-[![Ebook](/assets/why-pet-fees.png "Ebook")](https://landlordtech.com/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
+[![Ebook](/assets/why-pet-fees.png "Ebook")](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
 
-###### **[Download Ebook](https://landlordtech.com/assets/ourpetpolicy_landlord_strategy_e-book.pdf)**
+###### **[Download Ebook](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)**
