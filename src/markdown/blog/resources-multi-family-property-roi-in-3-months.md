@@ -27,7 +27,7 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 ---
-The Client was struggling with their pet program. There had been fraudulent ESA letters, significant [property damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) and serious bit incidents. It had put a tremendous amount of stress on the [property management ](https://landlordtech.com/resources/top-property-management-trends-of-2023)team, and was creating a bad reputation among tenants.
+The Client was struggling with their pet program. There had been fraudulent ESA letters, significant [property damage](/resources/protecting-your-rental-property-from-pet-damage) and serious bit incidents. It had put a tremendous amount of stress on the [property management ](/resources/top-property-management-trends-of-2023)team, and was creating a bad reputation among tenants.
 
 Landlord Tech completely changed the pet program for the client, from ESA letter verification, to onboarding, to on-going monitoring and management. Tenants have readily adopted the platform, and bad outcomes have been greatly reduced. The stress the property management teams and tenants were facing has all but been eliminated.
 
@@ -47,4 +47,4 @@ But best of all the Landlord Tech program returned a 527% ROI in 90 days, and th
 >
 > \- Property Manager  
 
-[Landlord Tech](https://landlordtech.com/) specializes in providing [digital tools to help property owners and managers](https://landlordtech.com/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy) successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind [managing pets on your properties](https://landlordtech.com/resources/five-tips-for-managing-pets-on-your-rental-properties), then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://info.ourpetpolicy.com/demo/).
+[Landlord Tech](https://landlordtech.com/) specializes in providing [digital tools to help property owners and managers](/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy) successfully manage pets in their properties. Our [OurPetPolicy](/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind [managing pets on your properties](/resources/five-tips-for-managing-pets-on-your-rental-properties), then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://info.ourpetpolicy.com/demo/).
