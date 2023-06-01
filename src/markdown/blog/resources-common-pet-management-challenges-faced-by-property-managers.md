@@ -64,7 +64,7 @@ Unfortunately, detecting and addressing unauthorized pets can be challenging, as
 The number one way is educating tenants on the pet policy and its consequences. From the leasing process onward, clear communication is always the best first step. If you’re clear about the fines or other punishments, this should deter most tenants from breaking the rules.
 Another step to consider is regular inspections, which can detect unauthorized pets. Property managers can schedule these for signs of pets, such as food bowls and pet hair.  
 
-Finally, you can use pet management software, such as [OurPetPolicy](https://landlordtech.com/products) to help with this problem. The centralized documentation can help track and detect pet policy violations, making consistent enforcement easier. 
+Finally, you can use pet management software, such as [OurPetPolicy](/products) to help with this problem. The centralized documentation can help track and detect pet policy violations, making consistent enforcement easier. 
 
 ![Pet management software can be beneficial for landlords and property managers in dealing with pets.](/assets/pet_management_software_for_landlords_and_property_managers.png)
 
@@ -73,13 +73,13 @@ Finally, you can use pet management software, such as [OurPetPolicy](https://lan
 Another common problem is the lack of compliance with pet policies. Some of the most commonly violated policies are not cleaning up after their pets, not keeping pets on a leash, and failing to follow the rules for pet behavior in common areas. Addressing these are important for the long-term success of the living environment. However, as has been the theme, enforcing these policies can be difficult, as it’s hard to monitor who is at fault. We can look through some solutions, though.
 
 As always, the first step is setting clear expectations with your tenants. The more information and education you can provide, the better the chances there won’t be any misunderstandings. 
-If there is a lack of compliance, then it’s potentially time to issue warnings or even fines for repeat offenses. Property managers can [incentivize tenants to follow pet policies](https://landlordtech.com/resources/five-tips-for-managing-pets-on-your-rental-properties) and reduce the risk of violations by establishing consequences early on. These must be done consistently, or tenants will think favoritism is at play. 
+If there is a lack of compliance, then it’s potentially time to issue warnings or even fines for repeat offenses. Property managers can [incentivize tenants to follow pet policies](/resources/five-tips-for-managing-pets-on-your-rental-properties) and reduce the risk of violations by establishing consequences early on. These must be done consistently, or tenants will think favoritism is at play. 
 
 > Finally, you can use pet management software to help track and document violations, making knowing when to take action easier. It can also streamline issuing warnings and fines, saving time and money.
 
 ### 5. Difficulty Collecting Pet Fees and Deposits
 
-Finally, [collecting pet fees and deposits](https://landlordtech.com/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee) when they’re due can sometimes be challenging. Tenants often can’t see the value in these extra fees, or may just not have the funds available. 
+Finally, [collecting pet fees and deposits](/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee) when they’re due can sometimes be challenging. Tenants often can’t see the value in these extra fees, or may just not have the funds available. 
 
 First, it's important to be open about how these deposits help protect everyone in the building. But second, it’s also important to set clear boundaries about the consequences for non-payment. You should clarify in the lease agreement that the fees are both required and the consequences for non-payment are, for example, late fees and, eventually, legal action. 
 
@@ -89,6 +89,6 @@ You can also offer alternative payment methods. This can make it easier for some
 
 To cap things off, [pet management for properties](https://landlordtech.com/) will always have its challenges, but with effective policies, property managers can always find solutions. To help, pet management software for properties can streamline the process, providing an easy, central system to track and respond to complaints, document damage, and violations, and even collect pet fees and deposits. By addressing these specific challenges, property managers can ensure that all the tenants and their pets can coexist safely and comfortably in their rental spaces. 
 
-[Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://info.ourpetpolicy.com/demo/).
+[Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://info.ourpetpolicy.com/demo/).
 
 [![Demo](/assets/best_pet_management_platform.png "Demo")](https://info.ourpetpolicy.com/demo/)
