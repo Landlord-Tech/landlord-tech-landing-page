@@ -63,6 +63,6 @@ While property damage is probable with any pet at your property, it’s manageab
 
 [![Demo](/assets/solution-for-managing-pets-in-rentals.png "Demo")](https://info.ourpetpolicy.com/demo/)
 
-[Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. We are also soon launching a responsible pet training platform for tenants to help reduce pet-related property damage.  
+[Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. We are also soon launching a responsible pet training platform for tenants to help reduce pet-related property damage.  
 
 Contact us today for a [free demonstration](https://info.ourpetpolicy.com/demo/) to see if OurPetPolicy can help you better manage your residential pet program.
