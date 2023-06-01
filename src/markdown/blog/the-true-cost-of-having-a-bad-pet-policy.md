@@ -23,7 +23,7 @@ promoSection:
   promoBtnUrl: /products/
 title: The True Cost of Having a Bad Pet Policy
 ---
-Having a pet policy for your renters is an essential part of protecting your property and your [rental income](https://landlordtech.com/resources/how-to-increase-your-rental-income-in-2023). However, it's important to note that not all policies are created equal. A bad pet policy, lacking detailed rules and guidelines, may leave you exposed and unprotected in pet-related scenarios.
+Having a pet policy for your renters is an essential part of protecting your property and your [rental income](/resources/how-to-increase-your-rental-income-in-2023). However, it's important to note that not all policies are created equal. A bad pet policy, lacking detailed rules and guidelines, may leave you exposed and unprotected in pet-related scenarios.
 
 ![The true cost of having a bad pet policy](/assets/manage-pets-in-your-rentals.jpeg)
 
@@ -37,11 +37,11 @@ Allowing poorly vetted pets on the property may lead to some serious extra labor
 
 • Time spent cleaning pet waste on the property, identifying the owner, reporting violations, and handling tenant complaints.
 
-• Time spent identifying unauthorized animals or fraudulent [ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2022) and then needing to monitor and address the situations appropriately.
+• Time spent identifying unauthorized animals or fraudulent [ESAs](/resources/what-landlords-need-to-know-about-esas-in-2022) and then needing to monitor and address the situations appropriately.
 
 #### Added Property Damage
 
-A good pet policy should include proper pet and tenant screenings to ensure that the pets behaved well in previous rentals. Without an [effective screening process](https://landlordtech.com/resources/best-practices-to-properly-screen-pets-for-apartments), the time, cost, and frustration of dealing with [pet-related damages](https://www.cicreports.com/resources/cats-vs-dogs-which-can-cause-the-most-property-damage/) become your responsibility as the property manager.
+A good pet policy should include proper pet and tenant screenings to ensure that the pets behaved well in previous rentals. Without an [effective screening process](/resources/best-practices-to-properly-screen-pets-for-apartments), the time, cost, and frustration of dealing with [pet-related damages](https://www.cicreports.com/resources/cats-vs-dogs-which-can-cause-the-most-property-damage/) become your responsibility as the property manager.
 
 #### Common Dog-Related Property Damage:
 
