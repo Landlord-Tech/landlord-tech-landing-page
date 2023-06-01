@@ -72,4 +72,4 @@ More people are choosing to add pets into their families, and it’s no longer p
 
 [![Demo](/assets/pet_management_software_for_properties.jpg "Demo")](https://info.ourpetpolicy.com/demo/)
 
-You cannot afford to play things by ear when it comes to pets on property. Check out [OurPetPolicy](https://landlordtech.com/products) today for a practical solution that will allow you to better manage your pet program and save money in the process.
+You cannot afford to play things by ear when it comes to pets on property. Check out [OurPetPolicy](/products) today for a practical solution that will allow you to better manage your pet program and save money in the process.
