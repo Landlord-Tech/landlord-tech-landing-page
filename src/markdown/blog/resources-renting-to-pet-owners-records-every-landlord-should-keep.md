@@ -23,7 +23,7 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 ---
-We’ve talked about the [positive benefits](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/) of renting out to tenants with pets; it widens your tenant pool, tenants stay longer, and it can provide an increase in rent and collected fees. However, that in turn makes the rental property owner responsible for keeping quite a few things in order. The presence of pets adds a layer of consideration as they coexist with other tenants who may or may not have pets of their own. It’s best to arm yourself with information regarding your tenants and their pets, so you can protect yourself from pet-related issues, check if a new tenant is a good fit to the current dynamic, and keep everyone happy.
+We’ve talked about the [positive benefits](/resources/the-landlords-guide-to-tenants-with-pets/) of renting out to tenants with pets; it widens your tenant pool, tenants stay longer, and it can provide an increase in rent and collected fees. However, that in turn makes the rental property owner responsible for keeping quite a few things in order. The presence of pets adds a layer of consideration as they coexist with other tenants who may or may not have pets of their own. It’s best to arm yourself with information regarding your tenants and their pets, so you can protect yourself from pet-related issues, check if a new tenant is a good fit to the current dynamic, and keep everyone happy.
 
 ![Records every landlord should keep](/assets/records-every-landlord-should-keep.jpg)
 
@@ -43,7 +43,7 @@ It might sound silly, but a pet resume can be a great way to simplify the pet sc
 
 **Resident Allergy Information**
 
-Allergies are very serious, and it can be dangerous for people to be exposed to animal dander. In fact, according to the Asthma and Allergy Foundation of America, three in ten people who have allergies have allergic reactions to cats and dogs, with cats being the more common allergen. This can cause quite an issue if you bring in a new tenant with an animal and somebody next door starts having trouble breathing! There have been many reported cases that have resulted in lawsuits where the property manager was found negligent, so better be careful and always cover your bases and gather information for a [proper pet screening](https://landlordtech.com/resources/best-practices-to-properly-screen-pets-for-apartments).
+Allergies are very serious, and it can be dangerous for people to be exposed to animal dander. In fact, according to the Asthma and Allergy Foundation of America, three in ten people who have allergies have allergic reactions to cats and dogs, with cats being the more common allergen. This can cause quite an issue if you bring in a new tenant with an animal and somebody next door starts having trouble breathing! There have been many reported cases that have resulted in lawsuits where the property manager was found negligent, so better be careful and always cover your bases and gather information for a [proper pet screening](/resources/best-practices-to-properly-screen-pets-for-apartments).
 
 **Identify Which Pet Lives With Whom**
 
@@ -55,4 +55,4 @@ When pets are involved, there’s bound to be some sort of incident down the roa
 
 ![Pet management software for rental properties](/assets/complete-pet-management-platform.jpg)
 
-Being a property manager is no easy task, that’s why the team at [OurPetPolicy](https://landlordtech.com/products) has developed a platform to help you streamline your process. With [OurPetPolicy](https://www.landlordtech.com/products), eliminate potential loopholes, set transparent rules and expectations, and manage your rental portfolio easily. Vetted by lawyers in every state, you can manage pet policies, signatures, and create contracts that eliminate the hassle and threat of legal disputes all in one place. Visit [OurPetPolicy](https://landlordtech.com/products) today and unleash the pawsibilities!
+Being a property manager is no easy task, that’s why the team at [OurPetPolicy](/products) has developed a platform to help you streamline your process. With [OurPetPolicy](https://www.landlordtech.com/products), eliminate potential loopholes, set transparent rules and expectations, and manage your rental portfolio easily. Vetted by lawyers in every state, you can manage pet policies, signatures, and create contracts that eliminate the hassle and threat of legal disputes all in one place. Visit [OurPetPolicy](/products) today and unleash the pawsibilities!
