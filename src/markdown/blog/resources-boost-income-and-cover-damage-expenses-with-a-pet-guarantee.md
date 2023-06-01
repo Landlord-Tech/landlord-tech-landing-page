@@ -31,13 +31,13 @@ promoSection:
 
 > Among all US households, approximately 70% currently own at least one pet. That number is even higher among younger generations, who are more likely to be renters than their parents or grandparents. 
 
-Having a strict [“no pets” policy](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) only serves to limit your tenant pool, reduce potential revenue, and expose you to fraudulent service animal applications. 
+Having a strict [“no pets” policy](/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) only serves to limit your tenant pool, reduce potential revenue, and expose you to fraudulent service animal applications. 
 
 For most owners and property managers, the primary concern with a pet policy is liability from damages. Costs associated with on-property repairs due to pets can be high, and security deposits may not always cover all those expenses. That’s where a pet guarantee comes in. This article provides an overview of the concept of a pet guarantee and discusses how it helps owners and property managers mitigate expenses and fill vacancies.
 
 **What is a Pet Guarantee?**
 
-A pet guarantee is essentially a tenant-funded pool of pet fees held in reserve that can cover a set amount of pet damage. Owners will first choose to allow pets on property and then opt into a pet guarantee with their [property management](https://landlordtech.com/resources/top-property-management-trends-of-2023) group. Tenants who bring pets into the property are then charged pet fees (deposits or nominal monthly rent charges), which are collected and held by the property manager.
+A pet guarantee is essentially a tenant-funded pool of pet fees held in reserve that can cover a set amount of pet damage. Owners will first choose to allow pets on property and then opt into a pet guarantee with their [property management](/resources/top-property-management-trends-of-2023) group. Tenants who bring pets into the property are then charged pet fees (deposits or nominal monthly rent charges), which are collected and held by the property manager.
 
 These funds act as insurance for tenants. If there is pet damage exceeding the cost of security deposits, the additional expenses will be covered by the funds from the pet guarantee (generally up to a certain amount). If there isn’t damage exceeding the pet guarantee, then those funds can be booked as additional revenue for property managers and owners.
 
@@ -53,7 +53,7 @@ Tenants benefit from pet guarantees as well. They’ll have more available housi
 
 **Implementing a Pet Guarantee**
 
-There are [multiple approaches for property owners](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets) when it comes to permitting pets on property. Some will elect to enforce a strict “no pet policy,” which increases the chance of hidden pets, reduces revenue, and reduces tenant applicants. Some may choose to [implement a policy](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property) they’ve created themselves, which may increase their tenant pool and revenue but runs the risks of loopholes and fraudulent assistance animals.
+There are [multiple approaches for property owners](/resources/the-landlords-guide-to-tenants-with-pets) when it comes to permitting pets on property. Some will elect to enforce a strict “no pet policy,” which increases the chance of hidden pets, reduces revenue, and reduces tenant applicants. Some may choose to [implement a policy](/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property) they’ve created themselves, which may increase their tenant pool and revenue but runs the risks of loopholes and fraudulent assistance animals.
 
 The best option for property managers and owners is to implement a pet guarantee alongside a pet management program. With a pet management program, all on-property pets are screened, including service animals. This helps ensure that any and all pets living in units are authorized and tracked and any associated charges are appropriately collected. A pet management program can also help onboard tenants, streamline the identification of pets, deflect bad pet owners, and retain documentation of pet records and fee collections in one place.
 
@@ -71,4 +71,4 @@ Click [here](https://info.ourpetpolicy.com/webinar/) to watch the recorded webin
 
 Establishing a pet guarantee is a smart way for owners and property managers to take advantage of the benefits of allowing pets on property while also resting assured that any associated damage is paid for at no risk to the bottom line.
 
-Pet guarantees are best implemented alongside pet management solutions. This helps ensure that the program is managed successfully and that all pets on property are verified as well. If this approach sounds like it could work for your property management company, [OurPetPolicy](https://landlordtech.com/products) is here to help. With an integrated tenant portal, document storage, and a violation notification system, this solution provides everything you need to start [managing pets on property](https://landlordtech.com/resources/five-tips-for-managing-pets-on-your-rental-properties) today. Give it a shot and see how it helps boost revenue and delver effective management of any new or existing pet program.
+Pet guarantees are best implemented alongside pet management solutions. This helps ensure that the program is managed successfully and that all pets on property are verified as well. If this approach sounds like it could work for your property management company, [OurPetPolicy](/products) is here to help. With an integrated tenant portal, document storage, and a violation notification system, this solution provides everything you need to start [managing pets on property](/resources/five-tips-for-managing-pets-on-your-rental-properties) today. Give it a shot and see how it helps boost revenue and delver effective management of any new or existing pet program.
