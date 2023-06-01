@@ -84,10 +84,10 @@ If there are common areas on your property for socializing or grilling, you may 
 
 Whether you choose to accept pets or not, it’s important to include a pet addendum in your lease that clearly states your pet policy and your expectations of the owner. All tenants should be required to sign the addendum, and they will need to disclose any new animals that they add to their household while in their lease. Make it clear that violating the terms in your policy is considered a breach of the contract.
 
-The decision to accept pets in your rental properties should not be taken lightly. In addition to the responsibilities of being a landlord, [managing pet-friendly properties](https://landlordtech.com/resources/five-tips-for-managing-pets-on-your-rental-properties) comes with its own unique set of challenges. Whether you decide to make your rentals pet-friendly or not, after weighing the pros and cons, your next step is to create your pet policy to protect yourself.
+The decision to accept pets in your rental properties should not be taken lightly. In addition to the responsibilities of being a landlord, [managing pet-friendly properties](/resources/five-tips-for-managing-pets-on-your-rental-properties) comes with its own unique set of challenges. Whether you decide to make your rentals pet-friendly or not, after weighing the pros and cons, your next step is to create your pet policy to protect yourself.
 
-[OurPetPolicy](https://landlordtech.com/products) can make the process easier. We’ll help you develop a pet policy that keeps you in compliance with the law, eliminates fraudulent emotional support animals, reduces the likelihood of damages, and offers easy management of your contracts with your tenants. [Contact us](https://www.landlordtech.com/contact) today, and we’ll be delighted to assist you.
+[OurPetPolicy](/products) can make the process easier. We’ll help you develop a pet policy that keeps you in compliance with the law, eliminates fraudulent emotional support animals, reduces the likelihood of damages, and offers easy management of your contracts with your tenants. [Contact us](https://www.landlordtech.com/contact) today, and we’ll be delighted to assist you.
 
-[![Ebook](/assets/changing-world-of-rental-property-pet-damage.jpg "Ebook")](https://landlordtech.com/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)
+[![Ebook](/assets/changing-world-of-rental-property-pet-damage.jpg "Ebook")](/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)
 
-###### **[Download PDF](https://landlordtech.com/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)**
+###### **[Download PDF](/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)**
