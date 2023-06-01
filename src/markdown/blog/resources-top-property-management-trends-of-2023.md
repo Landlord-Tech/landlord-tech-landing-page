@@ -32,7 +32,7 @@ Here are the top trends in property management to look out for in 2023:
 
 **1. Strong Growth and Demand**
 
-Even with fears of a looming recession, the rental market is still booming. Rent prices have continued to climb in top markets across the United States, and demand is still strong. This is especially true for [multifamily properties](https://landlordtech.com/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy). Single-family homes remain a rare find on the rental market, so tenants have begun to explore other housing options with multiple units. 
+Even with fears of a looming recession, the rental market is still booming. Rent prices have continued to climb in top markets across the United States, and demand is still strong. This is especially true for [multifamily properties](/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy). Single-family homes remain a rare find on the rental market, so tenants have begun to explore other housing options with multiple units. 
 
 With demand still hot, many property management companies have already stated their intent to expand their portfolios in 2023. This has concurrently driven a significant demand for property management services and tools that help automate tasks and ease the burden placed on onsite managers and staff.
 
@@ -48,9 +48,9 @@ Incentives may include longer lease terms or promotional deals with additional i
 
 **3. More Pet-Friendly Policies**
 
-[Pet-friendly policies will remain competitive](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) advantages for landlords in 2023. Not only do pet-friendly facilities instantly [increase tenant application](https://landlordtech.com/resources/how-to-increase-tenant-applications-at-your-rental-property) pools, but they can also help boost the quality of tenant applicants. Typically, [renters who own pets](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets) are also more responsible, accountable, and interested in longer lease terms.
+[Pet-friendly policies will remain competitive](/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) advantages for landlords in 2023. Not only do pet-friendly facilities instantly [increase tenant application](/resources/how-to-increase-tenant-applications-at-your-rental-property) pools, but they can also help boost the quality of tenant applicants. Typically, [renters who own pets](/resources/the-landlords-guide-to-tenants-with-pets) are also more responsible, accountable, and interested in longer lease terms.
 
-Developing a pet-friendly policy for your property can also increase net operating income (NOI) through the collection of deposits and fees. With economic uncertainty on the horizon, this added revenue can make a significant difference in your bottom line. If you’re struggling with managing pets already on property or don’t know where to start, specialty tools such as [OurPetPolicy](https://landlordtech.com/products) can help.
+Developing a pet-friendly policy for your property can also increase net operating income (NOI) through the collection of deposits and fees. With economic uncertainty on the horizon, this added revenue can make a significant difference in your bottom line. If you’re struggling with managing pets already on property or don’t know where to start, specialty tools such as [OurPetPolicy](/products) can help.
 
 ![Pet-friendly rental properties tend to have more tenant application pools](/assets/rental_agreement_animal_addendum.png)
 
@@ -64,7 +64,7 @@ Property managers would be wise to invest in their maintenance response times an
 
 **5. Use of Property Management Software**
 
-Software solutions have become [important tools](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) to manage businesses across industries. Real estate and rental housing is no different. A top trend to look out for in the coming year is the growth in tools available to property owners. These tools can help automate processes like rent collection, virtual leasing, property maintenance, and even [pet management](https://landlordtech.com/about/). 
+Software solutions have become [important tools](/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) to manage businesses across industries. Real estate and rental housing is no different. A top trend to look out for in the coming year is the growth in tools available to property owners. These tools can help automate processes like rent collection, virtual leasing, property maintenance, and even [pet management](/about/). 
 
 Not only can these solutions drive efficiency, productivity, and cost savings, but they can also help your properties generate additional income and increase tenant satisfaction. Additionally, they can free your employees from manual tasks so that they can focus on more important responsibilities.
 
@@ -74,6 +74,6 @@ Not only can these solutions drive efficiency, productivity, and cost savings, b
 
 Property managers have a lot to be optimistic about in the new year. With rental demand still strong, now’s the time to start rethinking your business strategy and how you can better manage your units to better serve your tenants and your bottom line.
 
-Of all the trends, the best options for property managers to stay competitive in the market and increase their tenant application pool in the new year is to introduce pet-friendly policies and invest in property management software. Solutions such as [OurPetPolicy](https://landlordtech.com/products) can help make that transition easy and seamless.
+Of all the trends, the best options for property managers to stay competitive in the market and increase their tenant application pool in the new year is to introduce pet-friendly policies and invest in property management software. Solutions such as [OurPetPolicy](/products) can help make that transition easy and seamless.
 
 [![Demo](/assets/ourpetpolicy_recommended_property_management_software.png "Demo")](https://info.ourpetpolicy.com/demo/)
