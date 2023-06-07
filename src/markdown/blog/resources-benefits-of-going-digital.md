@@ -26,9 +26,9 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 ---
-When you’re a property manager, pen management can be one of the more frustrating tasks you must handle. When you’re doing it manually, it can be even more daunting: filled with paperwork, miscommunications, and inefficiencies. 
+When you’re a property manager, pet management can be one of the more frustrating tasks you must handle. When you’re doing it manually, it can be even more daunting: filled with paperwork, miscommunications, and inefficiencies. 
 
-Luckily, there’s now excellent pet management software for properties available to streamline the process and make managing the building’s pets a breeze. The software can help you track the pets in the building, both their needs and what’s necessary for the building. We’ll dive right into the benefits of pet management software for your property. 
+Luckily, there’s now excellent [pet management software for properties](https://landlordtech.com/products) available to streamline the process and make managing the building’s pets a breeze. The software can help you track the pets in the building, both their needs and what’s necessary for the building. We’ll dive right into the benefits of pet management software for your property. 
 
 ![How a pet management software can streamline process for rental properties](/assets/pet_management_software_benefits.png)
 
