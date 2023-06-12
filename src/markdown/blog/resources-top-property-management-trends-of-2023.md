@@ -5,7 +5,7 @@ metaDescription: As we enter a new year, now's the time for property managers to
   making strategic investments in the right places can pay off in a significant
   way. Here are the top rental market trends that landlords and property
   managers should look out for in 2023.
-path: /resources/top-property-management-trends-of-2023
+path: /resources/top-property-management-trends-of-2023/
 date: 2023-01-04T03:13:48.559Z
 category: Blog
 excerpt: Each new year is marked by notable shifts in how tenants approach
