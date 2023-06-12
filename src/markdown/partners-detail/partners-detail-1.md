@@ -3,7 +3,7 @@ title: partners-detail
 metaTitle: Tools for ResMan Users | Landlord Tech
 metaDescription: Grow your property management business with the ResMan to
   Landlord Tech integration.
-path: /partners/resman
+path: /partners/resman/
 logo: /assets/resman_logo.png
 partnerName: ResMan
 address: Plano, Texas, United States
