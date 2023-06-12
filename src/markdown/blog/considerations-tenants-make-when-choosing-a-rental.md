@@ -3,7 +3,7 @@ metaTitle: Considerations Tenants Make When Choosing a Rental
 metaDescription: Marketing to and bringing in new tenants is a critical piece in
   the overall success of your rental property. Keeping existing tenants happy is
   also a major lifeline in your portfolio.
-path: /resources/considerations-tenants-make-when-choosing-a-rental
+path: /resources/considerations-tenants-make-when-choosing-a-rental/
 date: 2021-12-09T08:47:21.191Z
 category: Blog
 excerpt: Marketing to and bringing in new tenants is a critical piece in the
