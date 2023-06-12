@@ -5,7 +5,7 @@ metaDescription: "When you’re a property manager, pen management can be one of
   the more frustrating tasks you must handle. When you’re doing it manually, it
   can be even more daunting: filled with paperwork, miscommunications, and
   inefficiencies."
-path: /resources/benefits-of-going-digital
+path: /resources/benefits-of-going-digital/
 date: 2023-06-07T06:53:08.395Z
 category: Blog
 excerpt: "When you’re a property manager, pen management can be one of the more
