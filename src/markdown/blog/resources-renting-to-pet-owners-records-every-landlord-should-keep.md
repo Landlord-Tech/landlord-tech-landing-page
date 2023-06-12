@@ -4,7 +4,7 @@ metaDescription: It’s best to arm yourself with information regarding your
   tenants and their pets, so you can protect yourself from pet-related issues,
   check if a new tenant is a good fit for the current dynamic, and keep everyone
   happy.
-path: /resources/renting-to-pet-owners-records-every-landlord-should-keep
+path: /resources/renting-to-pet-owners-records-every-landlord-should-keep/
 date: 2022-04-13T17:38:32.365Z
 category: Blog
 excerpt: It’s best to arm yourself with information regarding your tenants and
