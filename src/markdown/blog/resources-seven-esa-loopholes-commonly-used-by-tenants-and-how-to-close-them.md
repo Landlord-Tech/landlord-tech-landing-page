@@ -5,7 +5,7 @@ metaDescription: Property managers and landlords have reported more
   Emotional Support Animals over the last few years. Understanding the ways pet
   owners are getting around policies and pet agreements is crucial for
   preventing this damage and ensuring the safest environment for your rentals.
-path: /resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them
+path: /resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them/
 date: 2022-06-14T19:59:20.285Z
 category: Blog
 excerpt: "Property managers and landlords have reported more animal-related
