@@ -5,7 +5,7 @@ metaDescription: Pet management software is a critical tool to help landlords
   is created equal. Here are the top features to look for when considering pet
   management software and recommendations for solutions that can help you amp up
   your existing pet policy or soundly develop a new one.
-path: /resources/top-pet-management-software-features-for-properties
+path: /resources/top-pet-management-software-features-for-properties/
 date: 2023-04-05T08:35:03.187Z
 category: Blog
 excerpt: Although there are many benefits to allowing pets on a property,
