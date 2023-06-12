@@ -4,7 +4,7 @@ metaDescription: As a landlord or property owner, you have a legal duty to
   understand the Fair Housing Act and its implications for assistance animals at
   your property. Not knowing this information can be costly. Here's how one
   landlord learned that the hard way.
-path: /resources/heres-how-an-esa-hud-sting-cost-this-property-manager
+path: /resources/heres-how-an-esa-hud-sting-cost-this-property-manager/
 date: 2022-07-12T15:04:10.149Z
 category: Blog
 excerpt: As a landlord or property owner, you have a legal duty to understand
