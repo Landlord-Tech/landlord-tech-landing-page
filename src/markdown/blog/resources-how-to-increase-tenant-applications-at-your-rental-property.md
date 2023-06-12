@@ -5,7 +5,7 @@ metaDescription: Property managers know that occupancy is key. Retaining
   helps keep profits healthy and avoids headaches for management and staff. And
   it’s not always about finding tenants but the right tenants, which can often
   be a challenge, especially in a highly competitive rental market.
-path: /resources/how-to-increase-tenant-applications-at-your-rental-property
+path: /resources/how-to-increase-tenant-applications-at-your-rental-property/
 date: 2023-03-22T07:25:36.404Z
 category: Blog
 excerpt: Property managers know that occupancy is key. Retaining tenants,
