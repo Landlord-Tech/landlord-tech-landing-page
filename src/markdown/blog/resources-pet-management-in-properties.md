@@ -5,7 +5,7 @@ metaDescription: Although the number of emotional support animals has grown in
   the United States. Here's the inside scoop on what we're seeing with our ESA
   verification service and how you can be sure your property is verifying
   service animals the right way.
-path: /resources/pet-management-in-properties
+path: /resources/pet-management-in-properties/
 date: 2022-12-08T09:21:26.598Z
 category: Blog
 excerpt: "As a landlord or property manager, you’ve likely had to review your
