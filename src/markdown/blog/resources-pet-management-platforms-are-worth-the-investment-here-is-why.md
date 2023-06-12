@@ -5,7 +5,7 @@ metaDescription: Pet management platforms are useful tools to help you manage
   discusses how these platforms can help you earn additional income and links to
   a useful ROI calculator to show you exactly how much you can realize in cost
   savings by using OurPetPolicy.
-path: /resources/pet-management-platforms-are-worth-the-investment-here-is-why
+path: /resources/pet-management-platforms-are-worth-the-investment-here-is-why/
 date: 2022-09-16T11:56:28.189Z
 category: Blog
 excerpt: Pet management platforms are useful tools to help you manage your
