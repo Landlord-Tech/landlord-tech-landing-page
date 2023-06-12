@@ -6,7 +6,7 @@ metaDescription: >
   damage. This article outlines the basics of pet guarantees and provides a
   useful pet management solution to help jump-start any new or existing
   on-property pet program.
-path: /resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee
+path: /resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee/
 date: 2023-01-25T05:49:16.419Z
 category: Blog
 excerpt: "Among all US households, approximately 70% currently own at least one
