@@ -3,7 +3,7 @@ metaTitle: Why Pet Fees are an Essential Landlord Strategy
 metaDescription: Pet fees are a sensitive subject among both tenants and
   landlords. Many renters feel that these fees are an unfair tax that they’re
   forced to pay for having furry family members.
-path: /resources/why-pet-fees-are-an-essential-landlord-strategy
+path: /resources/why-pet-fees-are-an-essential-landlord-strategy/
 date: 2021-10-13T07:35:07.372Z
 category: Ebook
 excerpt: Pet fees are a sensitive subject among both tenants and landlords. Many
