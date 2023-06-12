@@ -5,7 +5,7 @@ metaDescription: As the number of pet-owning households in the US continues to
   policies that meet the moment. Here are the pet rental trends taking shape in
   2023 and why your restrictive pet policies may no longer be the right business
   decision.
-path: /resources/animals-in-rentals-in-2023
+path: /resources/animals-in-rentals-in-2023/
 date: 2022-12-20T14:29:20.983Z
 category: Blog
 excerpt: As the number of pet-owning households in the US continues to grow,
