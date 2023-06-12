@@ -5,7 +5,7 @@ metaDescription: As long as animals have been cohabiting with humans, they’ve
   in the corner of the room or complete destruction of furniture, our furry
   companions seem to love creating headaches for both their owners and property
   managers.
-path: /resources/pets-that-cause-the-most-property-damage
+path: /resources/pets-that-cause-the-most-property-damage/
 date: 2022-08-10T06:24:00.312Z
 category: Blog
 excerpt: As long as animals have been cohabiting with humans, they’ve been
