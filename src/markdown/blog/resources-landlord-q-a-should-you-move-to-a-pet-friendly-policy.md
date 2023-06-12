@@ -5,7 +5,7 @@ metaDescription: The question of whether to have a no-pet policy versus being a
   recent years, with the emergence and soaring popularity of Emotional Support
   Animals (ESAs), the question is no longer yes or no to being pet-friendly, but
   when?
-path: /resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy
+path: /resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy/
 date: 2022-03-28T19:29:42.889Z
 category: Blog
 excerpt: The question of whether to have a no-pet policy versus being a
