@@ -6,7 +6,7 @@ metaDescription: Over the years, these furry friends have transformed into more
   support animal, a service animal, and a pet is essential to understanding how
   to properly accommodate, manage, and appreciate these animals and those who
   rely on them.
-path: /resources/emotional-support-animals-service-animals-and-pets-whats-the-difference
+path: /resources/emotional-support-animals-service-animals-and-pets-whats-the-difference/
 date: 2022-01-13T03:42:29.036Z
 category: Blog
 excerpt: Over the years, these furry friends have transformed into more than
