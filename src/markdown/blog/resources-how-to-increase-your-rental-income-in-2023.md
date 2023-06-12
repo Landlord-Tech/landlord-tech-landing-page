@@ -5,7 +5,7 @@ metaDescription: 2023 is upon us, and now is the perfect time to start thinking
   thing is you don't have to spend a lot of money to reap rewards. This article
   discusses our top ideas that deliver the best ROI for landlords and property
   managers this year.
-path: /resources/how-to-increase-your-rental-income-in-2023
+path: /resources/how-to-increase-your-rental-income-in-2023/
 date: 2023-02-22T13:10:26.755Z
 category: Blog
 excerpt: "As we move into the new year, now’s a great time for landlords and
