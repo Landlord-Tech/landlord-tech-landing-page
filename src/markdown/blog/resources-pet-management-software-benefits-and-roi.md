@@ -3,7 +3,7 @@ metaTitle: "Why Your Property Needs Pet Management Software: Benefits and ROI"
 metaDescription: Many new issues appear when a building is pet friendly, from
   having to screen pets to addressing pet-related incidents. Thankfully, there’s
   pet management software to help you handle it.
-path: /resources/pet-management-software-benefits-and-roi
+path: /resources/pet-management-software-benefits-and-roi/
 date: 2023-05-03T12:08:35.689Z
 category: Blog
 excerpt: Recently, there has been an increased demand for pet-friendly rental
