@@ -30,9 +30,9 @@ When you’re a property manager, pet management can be one of the more frustrat
 
 Luckily, there’s now excellent [pet management software for properties](https://landlordtech.com/products) available to streamline the process and make managing the building’s pets a breeze. The software can help you track the pets in the building, both their needs and what’s necessary for the building. We’ll dive right into the benefits of pet management software for your property. 
 
-![How a pet management software can streamline process for rental properties](/assets/pet_management_software_benefits.png)
-
 ### Benefits of a Digital Pet Management Software
+
+![How a pet management software can streamline process for rental properties](/assets/pet_management_software_benefits.png)
 
 #### Improved Efficiency
 
