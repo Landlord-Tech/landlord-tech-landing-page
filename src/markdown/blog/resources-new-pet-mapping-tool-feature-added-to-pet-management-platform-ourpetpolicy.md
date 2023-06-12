@@ -4,7 +4,7 @@ metaDescription: Landlord Tech’s industry leading pet management platform,
   OurPetPolicy, launches an animal mapping feature, allowing property managers
   to easily track and map animals on their properties and quickly distinguish
   between authorized and unauthorized pets.
-path: /resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy
+path: /resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy/
 date: 2022-06-07T19:53:25.552Z
 category: Press Release
 excerpt: Landlord Tech’s industry leading pet management platform, OurPetPolicy,
