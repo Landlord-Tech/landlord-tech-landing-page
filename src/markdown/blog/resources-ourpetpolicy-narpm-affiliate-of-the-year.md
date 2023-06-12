@@ -5,7 +5,7 @@ metaDescription: "On December 8th, OurPetPolicy was awarded 2022 Affiliate of
   Residential Property Managers (NARPM). It was OurPetPolicy’s first time at the
   annual holiday dinner and the first time being recognized by the local
   chapter. "
-path: /resources/ourpetpolicy-narpm-affiliate-of-the-year
+path: /resources/ourpetpolicy-narpm-affiliate-of-the-year/
 date: 2022-12-15T13:54:52.311Z
 category: Blog
 excerpt: "On December 8th, OurPetPolicy was awarded 2022 Affiliate of the Year
