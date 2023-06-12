@@ -5,7 +5,7 @@ metaDescription: If you're looking to expand your tenant application pool and
   be the right solution. This article details the key items you should consider
   when drafting such a policy and discusses how tools such as pet management
   software can help you stay organized and compliant.
-path: /resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property
+path: /resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property/
 date: 2023-02-08T05:09:21.701Z
 category: Blog
 excerpt: "Business textbooks teach that acquiring a new customer can cost five
