@@ -7,7 +7,7 @@ metaDescription: >-
   onboarding, to on-going monitoring and management. Tenants have readily adopted the platform, and
 
   bad outcomes have been greatly reduced.
-path: /resources/multi-family-property-roi-in-3-months
+path: /resources/multi-family-property-roi-in-3-months/
 date: 2023-04-05T11:15:03.195Z
 category: Case Study
 excerpt: The Client was struggling with their pet program. There had been
