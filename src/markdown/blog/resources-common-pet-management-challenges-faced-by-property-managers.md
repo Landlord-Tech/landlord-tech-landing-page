@@ -6,7 +6,7 @@ metaDescription: Allowing pets in rental properties can provide numerous
   increase their pool of potential renters and help reduce vacancy rates. For
   tenants, allowing pets can provide companionship, increase their sense of
   security, and improve their overall quality of life.
-path: /resources/common-pet-management-challenges-faced-by-property-managers
+path: /resources/common-pet-management-challenges-faced-by-property-managers/
 date: 2023-05-17T10:55:33.093Z
 category: Blog
 excerpt: As the number of pet owners continues to rise, property managers face
