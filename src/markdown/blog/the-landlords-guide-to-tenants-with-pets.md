@@ -3,7 +3,7 @@ metaTitle: The Landlord’s Guide To Tenants With Pets
 metaDescription: As a landlord, you have to determine whether or not your rental
   properties are going to be pet-friendly. This can be a challenging decision
   due to the number of pros and cons.
-path: /resources/the-landlords-guide-to-tenants-with-pets
+path: /resources/the-landlords-guide-to-tenants-with-pets/
 date: 2021-06-01T00:39:37.566Z
 category: Infographic
 excerpt: As a landlord, you have to determine whether or not your rental
