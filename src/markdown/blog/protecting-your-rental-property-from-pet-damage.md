@@ -5,7 +5,7 @@ metaDescription: A vast number of potential renters own pets and consider them
   applicant pool and gives you a better chance of securing long-term, reliable
   tenants. However, it is also important that you safeguard your rental
   properties from pet damage.
-path: /resources/protecting-your-rental-property-from-pet-damage
+path: /resources/protecting-your-rental-property-from-pet-damage/
 date: 2021-12-07T07:00:00.308Z
 category: Blog
 excerpt: A vast number of potential renters own pets and consider them part of
