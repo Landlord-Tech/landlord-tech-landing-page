@@ -4,7 +4,7 @@ metaDescription: This article will explore five key strategies for managing
   pet-related issues as a property manager. By implementing these strategies,
   you can ensure that your properties are pet-friendly while also protecting
   investments and avoiding legal issues.
-path: /resources/five-tips-for-managing-pets-on-your-rental-properties
+path: /resources/five-tips-for-managing-pets-on-your-rental-properties/
 date: 2023-03-08T11:40:45.939Z
 category: Blog
 excerpt: "Property management can be a challenging task, especially when it
