@@ -5,7 +5,7 @@ metaDescription: Screening pets is an important task for property managers to
   living environment you're looking to create. This article discusses the best
   practices to employ when screening pets and how to ensure you're implementing
   policies consistently and in compliance with legal guidelines.
-path: /resources/best-practices-to-properly-screen-pets-for-apartments
+path: /resources/best-practices-to-properly-screen-pets-for-apartments/
 date: 2023-04-19T09:38:12.435Z
 category: Blog
 excerpt: Most landlords know that a generous pet policy that accepts virtually
