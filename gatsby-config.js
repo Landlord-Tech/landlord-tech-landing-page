@@ -20,12 +20,12 @@ module.exports = {
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
-    {
-      resolve: `gatsby-plugin-canonical-urls`,
-      options: {
-        siteUrl: `https://landlordtech.com`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-canonical-urls`,
+    //   options: {
+    //     siteUrl: `https://landlordtech.com`,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
