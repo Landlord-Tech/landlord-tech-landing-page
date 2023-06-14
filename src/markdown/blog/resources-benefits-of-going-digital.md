@@ -36,9 +36,9 @@ Luckily, there’s now excellent [pet management software for properties](https:
 
 #### Improved Efficiency
 
-> Perhaps the most significant benefit of using digital pet management software is the improvement in efficiency it can bring. 
-
 First, you can use it for much of the grunt work, including pet screening, which is quite time-consuming. Second, the software will automate the screening process for you, making it both faster and more accurate. Also, with its built-in resident communication, you get a more [centralized location for pet-related inquiries](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy). Third, you get organized for your pet-related services, including grooming, dog walking, and pet-sitting, making it easy to schedule and process payments.
+
+> Perhaps the most significant benefit of using digital pet management software is the improvement in efficiency it can bring. 
 
 #### Reduced Paperwork
 
