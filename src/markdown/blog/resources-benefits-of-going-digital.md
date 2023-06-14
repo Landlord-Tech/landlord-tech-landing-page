@@ -46,9 +46,9 @@ The second big benefit is reducing your paperwork. Traditional pet management pr
 
 #### Better Resident Experience
 
-> Third, pet management software can provide a better resident experience - by offering easy-to-access [online resources for better pet ownership](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy). 
+This includes educational materials on pet care, information about local dog parks and pet services, and guidelines for responsible pet behavior in common areas. Overall, this can help foster a more positive living experience for everyone.
 
-This includes educational materials on pet care, information about local dog parks and pet services, and guidelines for responsible pet behavior in common areas. Overall, this can help foster a more positive living experience for everyone. 
+> Pet management software can provide a better resident experience - by offering easy-to-access [online resources for better pet ownership](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy). 
 
 #### Increased Data Accuracy
 
