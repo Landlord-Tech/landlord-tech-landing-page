@@ -28,7 +28,7 @@ promoSection:
 ---
 As a property owner, you are probably already managing a host of expenses. Between regular inspections, routine repairs, and the unexpected maintenance issue that continues to crop up, it can feel like your costs are out of control sometimes. Unfortunately, many landlords fail to consider the many revenue and cost-savings opportunities that are readily available to them. Among all these opportunities, the best option lies in pet policies. 
 
-Whether you already have a well-structured pet policy in place at your property or are thinking about it, there are some important considerations to keep in mind to be sure you are maximizing income and staving off potential losses that can occur when animals are living in residences. Even if you don’t permit pets as a general rule, emotional support animals can still become a costly headache if not managed correctly. 
+Whether you already have a well-structured pet policy in place at your property or are thinking about it, there are some important considerations to keep in mind to be sure you are maximizing income and staving off potential losses that can occur [when animals are living in residences.](https://landlordtech.com/resources/animals-in-rentals-in-2023) Even if you don’t permit pets as a general rule, [emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) can still become a costly headache if not managed correctly. 
 
 ![Losing money to pet-friendly rental properties](/assets/pet_management_for_properties.png)
 
