@@ -39,8 +39,8 @@ If you do have the right to deny an ESA, you can try to accommodate them in anot
 
 When all is said and done, denying an ESA may not be your best course of action. In cases as such, it’s important to fully verify the status of an ESA. Mental health professionals will most commonly provide a letter that verifies their client’s need for an ESA. When confirming these letters, landlords can look up the mental health professional’s licensing and confirm their legal ability to practice in their state. These letters are easy to forge, though, so it’s encouraged to partner with a solution provider with experience verifying these letters through their all-in-one software platform, like [OurPetPolicy](/products).
 
-There are countless other rules and regulations surrounding ESA approval and status confirmation, including traditional animals that serve in the role of an ESA and tiered fines for improperly denying an ESA. To learn more about the process of verifying, denying, or allowing ESAs on your property, download our latest e-book, *[What Landlords Need To Know About ESAs In 2022](/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)*.
+There are countless other rules and regulations surrounding ESA approval and status confirmation, including traditional animals that serve in the role of an ESA and tiered fines for improperly denying an ESA. To learn more about the process of verifying, denying, or allowing ESAs on your property, download our latest e-book, *[What Landlords Need To Know About ESAs In 2023](/assets/what_landords_need_to_know_ebook_2023.pdf)*.
 
-[![Ebook](assets/what-landlords-need-to-know-about-esas.jpg "Ebook")](/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)
+[![Ebook](/assets/what_landords_need_to_know_2023.png "Ebook")](/assets/what_landords_need_to_know_ebook_2023.pdf)
 
-###### **[Download Ebook](/assets/2022_OurPetPolicy_Landlords_ESAs_E-Book.pdf)**
+###### **[Download Ebook](/assets/what_landords_need_to_know_ebook_2023.pdf)**
