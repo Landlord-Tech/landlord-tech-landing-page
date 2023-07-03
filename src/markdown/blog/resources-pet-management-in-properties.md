@@ -26,9 +26,9 @@ promoSection:
   promoBtnUrl: https://ourpetpolicy.com/landlords/
   promo: true
 ---
-As a landlord or property manager, you’ve likely had to review your fair share of [emotional support animal](/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESA) letters. While many renters do need the assistance that a support animal provides, others have been caught abusing the ESA system as a way to avoid pet deposits, fees, or more stringent pet policies in general. 
+As a landlord or property manager, you’ve likely had to review your fair share of [emotional support animal](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESA) letters. While many renters do need the assistance that a support animal provides, others have been caught abusing the ESA system as a way to avoid pet deposits, fees, or more stringent pet policies in general. 
 
-Landlord Tech’s flagship product, [OurPetPolicy](/products), has been [verifying ESAs](/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) in properties for nearly two years. Over that time, we’ve developed a unique understanding of how fraudulent letters are produced and [the hoops that some individuals jump through](/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) to try to disguise a pet as a support animal. Although the number of support animal applications has grown in recent years, the numbers simply don’t match up with the data surrounding mental health in the United States.
+Landlord Tech’s flagship product, [OurPetPolicy](https://landlordtech.com/products), has been [verifying ESAs](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) in properties for nearly two years. Over that time, we’ve developed a unique understanding of how fraudulent letters are produced and [the hoops that some individuals jump through](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) to try to disguise a pet as a support animal. Although the number of support animal applications has grown in recent years, the numbers simply don’t match up with the data surrounding mental health in the United States.
 
 This post details unique insight into ESAs that our team has collected as a result of our experience helping landlords better manage their on-property pet programs.
 
@@ -36,9 +36,9 @@ This post details unique insight into ESAs that our team has collected as a resu
 
 **Overview of ESAs**
 
-As defined by the U.S. Department of [Housing and Urban Development](/resources/heres-how-an-esa-hud-sting-cost-this-property-manager) (HUD), an emotional support animal (ESA) is any animal that provides emotional support to an individual in an effort to alleviate one or more symptoms of their disability. Although all pets provide some form of emotional connection, ESAs specifically support mental and emotional health conditions. 
+As defined by the U.S. Department of [Housing and Urban Development](https://landlordtech.com/resources/heres-how-an-esa-hud-sting-cost-this-property-manager) (HUD), an emotional support animal (ESA) is any animal that provides emotional support to an individual in an effort to alleviate one or more symptoms of their disability. Although all pets provide some form of emotional connection, ESAs specifically support mental and emotional health conditions. 
 
-Over time, the popularity of ESAs has grown in the United States as a way for more people to house pets in their residential apartments. The Fair Housing Act requires landlords to accommodate assistance animals, including those used for emotional support. As ESAs do not require any [specialized training](/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy), fraudulent claims of mental health disability can be made to force property managers to accommodate pets.
+Over time, the popularity of ESAs has grown in the United States as a way for more people to house pets in their residential apartments. The Fair Housing Act requires landlords to accommodate assistance animals, including those used for emotional support. As ESAs do not require any [specialized training](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy), fraudulent claims of mental health disability can be made to force property managers to accommodate pets.
 
 ![Fraudulent ESA claims can be made to force property managers to accommodate pets](/assets/identify_fraud_esa_letters.png)
 
@@ -56,7 +56,7 @@ After interviewing several licensed medical health professionals, we learned tha
 
 Through data collected for case studies, landlords typically report that between 40%-87% of units are housing an ESA. This statistic is significantly higher than what should be expected based on public data, meaning that a sizeable number of ESA letters are indeed fraudulent.
 
-There are a plethora of online websites that offer to sell [ESA letters](/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) to virtually anyone if you simply say that you “sometimes” feel anxious and that you believe a pet would help. Some of these sites boast that 99% of applicants qualify for an ESA letter. These types of online letters are not appropriately prescribed and are considered to be fraudulent. It varies from property to property, but OurPetPolicy typically flags between 50%-70% of ESA letters as fraudulent. 
+There are a plethora of online websites that offer to sell [ESA letters](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) to virtually anyone if you simply say that you “sometimes” feel anxious and that you believe a pet would help. Some of these sites boast that 99% of applicants qualify for an ESA letter. These types of online letters are not appropriately prescribed and are considered to be fraudulent. It varies from property to property, but OurPetPolicy typically flags between 50%-70% of ESA letters as fraudulent. 
 
 ![OurPetPolicy can identify fraudulent ESA letters](/assets/confirm_legitimacy_of_esa_letter_with_ourpetpolicy.png)
 
@@ -64,16 +64,16 @@ There are a plethora of online websites that offer to sell [ESA letters](/resour
 
 Renters who abuse the ESA system typically do so for two main reasons — it allows them to house a pet in units where pets are prohibited, or it permits them to have a pet on property at no cost, avoiding any required [pet fees and deposits](/resources/why-pet-fees-are-an-essential-landlord-strategy). 
 
-By [verifying ESA letters](/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), you can start to collect fees and deposits from renters who currently aren’t paying them, adding more revenue to your bottom line. And as any property manager knows, the presence of [pets means damage](/resources/pets-that-cause-the-most-property-damage) to your property. Collecting deposits ensures that you can appropriately fund the costs of any [pet-related damage](/resources/protecting-your-rental-property-from-pet-damage) in and around units.
+By [verifying ESA letters](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), you can start to collect fees and deposits from renters who currently aren’t paying them, adding more revenue to your bottom line. And as any property manager knows, the presence of [pets means damage](/resources/pets-that-cause-the-most-property-damage) to your property. Collecting deposits ensures that you can appropriately fund the costs of any [pet-related damage](/resources/protecting-your-rental-property-from-pet-damage) in and around units.
 
 ![Verifying ESA letters can save you from pet-related damage](/assets/verifying_esa_letter_from_tenants.png)
 
 **Bottom Line**
 
-Given the number of fraudulent ESA letters being written every day, you should no longer view verification as optional. [OurPetPolicy](/products) is currently the only service on the market that allows landlords and property managers to appropriately verify whether that service animal in unit 4B is actually supporting a disability. 
+Given the number of fraudulent ESA letters being written every day, you should no longer view verification as optional. [OurPetPolicy](https://landlordtech.com/products) is currently the only service on the market that allows landlords and property managers to appropriately verify whether that service animal in unit 4B is actually supporting a disability. 
 
 While you could also try verifying on your own, you’ll want to be sure you’re using the right process. If you turn away a true service animal, you could be liable for heavy fines under the Fair Housing Act. Let OurPetPolicy’s premium ESA verification service help you collect more in fees and ensure your property is in full compliance with legal guidelines.
 
-[﻿![Demo](/assets/ourpetpolicy_the_best_esa_verification_service.png "Demo")](https://info.ourpetpolicy.com/demo/)
+Contact us today for a [free demonstration](https://landlordtech.com/request-demo/) to see if OurPetPolicy can help you better manage your residential pet program.
 
-Contact us today for a [free demonstration](https://info.ourpetpolicy.com/demo/) to see if OurPetPolicy can help you better manage your residential pet program.
+[﻿![Demo](/assets/ourpetpolicy_the_best_esa_verification_service.png "Demo")](https://info.ourpetpolicy.com/demo/)
