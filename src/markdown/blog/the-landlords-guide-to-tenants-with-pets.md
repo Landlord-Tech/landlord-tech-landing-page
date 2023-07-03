@@ -44,7 +44,7 @@ Pet owners put their pets first. Relocation can cause a lot of stress to a pet, 
 There are many ways to increase your average rent for pet owners.
 
 * Charge monthly pet fees per pet
-* Charge a refundable deposit per pet. In your pet policy, indicate that any repairs or replacements resulting from pet damage will be deducted from their refund upon move out.
+* Charge a refundable deposit per pet. In your pet policy, indicate that any repairs or replacements resulting from [pet damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) will be deducted from their refund upon move out.
 * Or, you can charge a smaller non-refundable per pet fee that is more appealing to renters. The amount may be lower, but you’re guaranteed to keep the deposit whether or not there is any damage done to the property.
 * Charge a premium for offering a pet-friendly rental. Take a look at the pet-free rentals in your area and price your monthly rent slightly higher.
 
@@ -58,11 +58,11 @@ Pet owners often take better care of their rentals than non-pet owners. Owning a
 
 **Reduce The Number Of Sneaky Tenants**
 
-Landlords that don’t allow pets sometimes find themselves still having to deal with them. By not allowing pets, you do run the risk of tenants lying about having them and sneaking them into their rental. This can cause unnecessary headaches between you and your tenant should you find out, not to mention the damages to the property that could have been avoided. Not only will you have missed out on the pet rent and deposits, but you’ll also need to make the difficult decision of whether or not to evict your tenant.
+Landlords that don’t allow pets sometimes find themselves still having to deal with them. By not allowing pets, you do run the risk of tenants lying about having them and sneaking them into their rental. This can cause unnecessary headaches between you and your tenant should you find out, not to mention the [damages to the property that could have been avoided](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage). Not only will you have missed out on the pet rent and deposits, but you’ll also need to make the difficult decision of whether or not to evict your tenant.
 
 **Avoid FHA Fines**
 
-The Fair Housing Act requires landlords to accommodate tenants with service animals and emotional support animals. This applies to all rentals, not just pet-friendly ones. Violating this law will result in a $16k fine, and further violations fines can reach $65k or higher. Unfortunately, a reported 70% of the emotional support letters are fraudulent, so there’s no guarantee the pet is appropriately trained. By allowing pets, you’ll be less likely to run into these fraudulent activities and have policies in place to protect your property.
+The Fair Housing Act requires landlords to accommodate tenants with [service animals and emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference). This applies to all rentals, not just pet-friendly ones. Violating this law will result in a $16k fine, and further violations fines can reach $65k or higher. Unfortunately, a reported 70% of the emotional support letters are fraudulent, so there’s no guarantee the pet is appropriately trained. By allowing pets, you’ll be less likely to run into these fraudulent activities and have policies in place to protect your property.
 
 ![pros and cons of pet-friendly rental properties](/assets/renting-to-pets.jpeg)
 
@@ -82,11 +82,11 @@ If there are common areas on your property for socializing or grilling, you may 
 
 ### Include a Thorough Pet Policy In Your Lease Agreement
 
-Whether you choose to accept pets or not, it’s important to include a pet addendum in your lease that clearly states your pet policy and your expectations of the owner. All tenants should be required to sign the addendum, and they will need to disclose any new animals that they add to their household while in their lease. Make it clear that violating the terms in your policy is considered a breach of the contract.
+Whether you choose to accept pets or not, it’s important to include a pet addendum in your lease that clearly states your [pet policy and your expectations of the owner](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy). All tenants should be required to sign the addendum, and they will need to disclose any new animals that they add to their household while in their lease. Make it clear that violating the terms in your policy is considered a breach of the contract.
 
 The decision to accept pets in your rental properties should not be taken lightly. In addition to the responsibilities of being a landlord, [managing pet-friendly properties](/resources/five-tips-for-managing-pets-on-your-rental-properties) comes with its own unique set of challenges. Whether you decide to make your rentals pet-friendly or not, after weighing the pros and cons, your next step is to create your pet policy to protect yourself.
 
-[OurPetPolicy](/products) can make the process easier. We’ll help you develop a pet policy that keeps you in compliance with the law, eliminates fraudulent emotional support animals, reduces the likelihood of damages, and offers easy management of your contracts with your tenants. [Contact us](https://www.landlordtech.com/contact) today, and we’ll be delighted to assist you.
+[OurPetPolicy](https://landlordtech.com/products) can make the process easier. We’ll help you [develop a pet policy](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property) that keeps you in compliance with the law, eliminates fraudulent emotional support animals, reduces the likelihood of damages, and offers easy management of your contracts with your tenants. [Contact us](https://www.landlordtech.com/contact) today, and we’ll be delighted to assist you.
 
 [![Ebook](/assets/changing-world-of-rental-property-pet-damage.jpg "Ebook")](/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)
 
