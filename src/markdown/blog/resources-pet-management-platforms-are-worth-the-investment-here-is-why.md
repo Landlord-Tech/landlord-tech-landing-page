@@ -64,7 +64,7 @@ Pet management platforms include [ESA verification,](https://landlordtech.com/re
 
 **Calculate your OurPetPolicy ROI**
 
-Still wondering whether a pet management platform is worth the investment? OurPetPolicy publishes an [ROI calculator](/calculator-no-pets-allowed/) that details the exact amount of cost savings you can expect when you choose to use the OurPetPolicy platform. 
+Still wondering whether a pet management platform is worth the investment? OurPetPolicy publishes an [ROI calculator](https://landlordtech.com/calculator-no-pets-allowed/) that details the exact amount of cost savings you can expect when you choose to use the OurPetPolicy platform. 
 
 Try the calculator and see for yourself. With just a few inputs, such as the number of units you have, what you charge in pet rent, and how much time your team spends answering [questions related to pet policies](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy), you’ll be able to easily determine how a pet management platform can yield positive returns.
 
