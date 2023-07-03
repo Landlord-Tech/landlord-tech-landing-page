@@ -65,8 +65,8 @@ Click [here](https://info.ourpetpolicy.com/webinar/) to watch the recorded webin
 
 [![Watch](/assets/free_webinar_to_increase_tenant_applications_in_2023.png "Watch")](https://info.ourpetpolicy.com/webinar/)
 
-**Bottom Line**
+### **Bottom Line**
 
 Establishing a pet guarantee is a smart way for owners and property managers to take advantage of the benefits of allowing pets on property while also resting assured that any associated damage is paid for at no risk to the bottom line.
 
-Pet guarantees are best implemented alongside pet management solutions. This helps ensure that the program is managed successfully and that all pets on property are verified as well. If this approach sounds like it could work for your property management company, [OurPetPolicy](/products) is here to help. With an integrated tenant portal, document storage, and a violation notification system, this solution provides everything you need to start [managing pets on property](/resources/five-tips-for-managing-pets-on-your-rental-properties) today. Give it a shot and see how it helps boost revenue and delver effective management of any new or existing pet program.
+Pet guarantees are best implemented alongside pet management solutions. This helps ensure that the program is managed successfully and that all pets on property are verified as well. If this approach sounds like it could work for your property management company, [OurPetPolicy](https://landlordtech.com/products) is here to help. With an integrated tenant portal, document storage, and a violation notification system, this solution provides everything you need to start [managing pets on property](/resources/five-tips-for-managing-pets-on-your-rental-properties) today. Give it a shot and see how it helps boost revenue and delver effective management of any new or existing pet program.
