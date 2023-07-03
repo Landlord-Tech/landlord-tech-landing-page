@@ -23,7 +23,7 @@ promoSection:
   promo: true
   promoBtnUrl: /products/
 ---
-Boise, ID, June 7, 2022 – **Landlord Tech**, creators of the industry leading property management software OurPetPolicy, announced today the addition of their new Pet Mapping Tool to the platform. The feature will allow property owners, managers, and on-site staff better manage pet-related issues throughout their properties.
+Boise, ID, June 7, 2022 – **Landlord Tech**, creators of the industry leading [property management](https://landlordtech.com/resources/top-property-management-trends-of-2023) software OurPetPolicy, announced today the addition of their new Pet Mapping Tool to the platform. The feature will allow property owners, managers, and on-site staff better manage pet-related issues throughout their properties.
 
 ![Animal mapping tool for properties](/assets/pet-mapping-feature-for-property-managers.jpg)
 
@@ -43,4 +43,4 @@ For more information on OurPetPolicy and how you can start effectively [managing
 
 **About Landlord Tech**
 
-Landlord Tech is a Boise, Idaho-based technology company focused on solving problems for property managers and owners through technology and automation. With their industry leading pet management platform, OurPetPolicy, Landlord Tech helps to reduce fraudulent ESAs, strengthen pet policies and improve tenant-renting experiences, along with many other financial and logistical benefits. For more information, visit [landlordtech.com](https://landlordtech.com/)
+Landlord Tech is a Boise, Idaho-based technology company focused on solving problems for property managers and owners through technology and automation. With their industry leading [pet management platform](https://landlordtech.com/resources/pet-management-platforms-are-worth-the-investment-here-is-why), OurPetPolicy, Landlord Tech helps to reduce fraudulent ESAs, strengthen pet policies and improve tenant-renting experiences, along with many other financial and logistical benefits. For more information, visit [Landlordtech.com](https://landlordtech.com/)
