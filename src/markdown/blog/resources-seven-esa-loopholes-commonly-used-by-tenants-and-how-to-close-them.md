@@ -52,8 +52,7 @@ Regulations do dictate, however, that even emotional support animals can be bann
 
 ![Using ESA letters to get pet accepted in rental property](/assets/3loop.png)
 
-### \
-**4. Avoiding Household Restrictions on Pet Limits**
+### **4. Avoiding Household Restrictions on Pet Limits**
 
 If pets are permitted at your property, limits should always be specified as to how many animals may live within a single unit or residence. Even with these limits in place, however, tenants can still use ESA policies as a loophole to add more animals above any established limits.
 
