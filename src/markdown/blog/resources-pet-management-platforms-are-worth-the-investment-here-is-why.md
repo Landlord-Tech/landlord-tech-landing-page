@@ -70,4 +70,4 @@ Try the calculator and see for yourself. With just a few inputs, such as the num
 
 Even if you don’t charge pet rent and have no plans to do so, using OurPetPolicy will still provide a positive return based solely on the time and hassle it will save you in managing pets on your property.
 
-[![Demo](/assets/free-pet-ownership-training.png "Demo")](https://info.ourpetpolicy.com/demo/)
+[![Demo](/assets/free-pet-ownership-training.png "Demo")](https://landlordtech.com/calculator-no-pets-allowed/)
