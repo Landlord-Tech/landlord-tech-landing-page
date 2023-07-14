@@ -87,7 +87,7 @@ Some pet management software, like [OurPetPolicy](https://landlordtech.com/produ
 
 The software also provides a central place for [addressing pet-related issues](https://landlordtech.com/resources/five-tips-for-managing-pets-on-your-rental-properties) as they come up. This includes racking pet policies, enforcing pet fees and deposits, and addressing any pet-related complaints or concerns.
 
-[![Learn more](/assets/assets/guaranteed_roi_on_rental_properties.png "Learn more")](https://landlordtech.com/products)
+[![Learn more](/assets/ourpetpolicy_pet_management_software.png "Learn more")](https://landlordtech.com/products)
 
 ### Best Practices for Implementing Pet-Friendly Amenities
 
@@ -105,4 +105,4 @@ As we’ve now seen, adding pet-friendly amenities to a property can offer a ran
 
 [Landlord Tech](https://landlordtech.com/) specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our [OurPetPolicy](https://landlordtech.com/products) platform provides an integrated solution that helps to ensure there are no unauthorized pets at your property and create a lawyer-vetted pet policy for your rentals. If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo with us today](https://info.ourpetpolicy.com/demo/).
 
-[![Demo](/assets/assets/guaranteed_roi_on_rental_properties.png "Demo")](https://info.ourpetpolicy.com/demo/)
+[![Demo](/assets/guaranteed_roi_on_rental_properties.png "Demo")](https://info.ourpetpolicy.com/demo/)
