@@ -25,13 +25,13 @@ promoSection:
 ---
 Pet ownership among renters has been on the rise. [A survey by Apartments.com](https://www.apartments.com/docs/default-source/Whitepapers/preferences-of-today-pdf.pdf?sfvrsn=756acb6_0) found that 33% of renters own pets, and more than half are dog owners. 
 
+![Pet-friendly amenities that will add value to your rental property](/assets/rental_property_pet_management_software.png)
+
 This can mean a wide variety of amenities, including dog parks, pet grooming stations, and pet-friendly events. With these, [you can attract and retain much more pet-owning residents](https://landlordtech.com/resources/how-to-increase-tenant-applications-at-your-rental-property). Often, pet-friendly residents will form a community with one another and find it highly attractive. This can mean a higher occupancy rate and increased revenue in the long term.
 
 > There’s been a growing need for property managers to provide pet-friendly options to cater to the increasing demographic.
 
 In addition, pet-friendly amenities can [increase the overall value of a property](https://www.canr.msu.edu/news/the_pros_and_cons_of_renting_to_pet_owners_part_1). Beyond the increase in rent prices, it can help a property stand out in a competitive marketplace, allowing you to find more potential tenants.
-
-![Pet-friendly amenities that will add value to your rental property](/assets/rental_property_pet_management_software.png)
 
 ### Types of Pet-Friendly Amenities
 
