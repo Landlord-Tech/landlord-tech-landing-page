@@ -2,7 +2,7 @@
 metaTitle: Prepare for Peak Rental Season With These Tips for Property Owners
 metaDescription: Top tips for managing pets on properties and pet screening
   during peak rental season for property owners and managers.
-path: /resources/prepare-for-peak-rental-season
+path: /resources/prepare-for-peak-rental-season/
 date: 2023-06-21T13:12:07.273Z
 category: Blog
 excerpt: Between May and August, rental communities are swamped with prospective
