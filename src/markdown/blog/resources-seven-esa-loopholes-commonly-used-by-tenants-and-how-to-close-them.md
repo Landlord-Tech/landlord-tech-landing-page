@@ -82,7 +82,7 @@ If you don’t have an application for visiting pets, tenants can simply claim t
 
 Landlord Tech specializes in providing digital tools to help property owners and managers successfully manage pets in their properties. Our OurPetPolicy platform provides an integrated solution that helps to identify fraudulent ESAs, convert them into paying pet charges, [collect pet fees](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy), reduce [animal-related damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage), and develop policies that help you ensure tenants are compliant with all applicable laws and regulations. 
 
-Contact us today for a [free demonstration](https://landlordtech.com/request-demo/) to see how OurPetPolicy can help you better manage your residential pet program.
+Contact us today for a [free demonstration](https://info.ourpetpolicy.com/demo/) to see how OurPetPolicy can help you better manage your residential pet program.
 
 [![](/assets/fraudulent-esa-loopholes-for-property-managers-to-look-for.jpg)](https://info.ourpetpolicy.com/demo/)
 
