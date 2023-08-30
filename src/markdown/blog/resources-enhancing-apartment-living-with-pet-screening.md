@@ -9,8 +9,7 @@ date: 2023-07-26T05:21:30.933Z
 category: Blog
 excerpt: With more than 70% of renters identifying as pet owners, property
   managers must consider their animals are part of the overall tenant
-  application process. While resident screening is important, so too is
-  screening for their furry companions.
+  application process.
 heroHeading: "Enhancing Apartment Living with Pet Screening: How OurPetPolicy
   Improves Tenant Selection"
 heroImg: /assets/pet_friendly_apartment_living_with_ourpetpolicy.jpg
