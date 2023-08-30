@@ -28,9 +28,9 @@ Implementing a successful pet screening process for an apartment building is a b
 
 You should think about how to draft your policies to cover all the significant aspects you need while remaining clear to residents (don’t resort to legal-ese!). It’s usually the wrong move to leave ambiguous or unclear instructions, which can lead to pain for everyone involved down the line.
 
-> The most crucial first step to success in a pet screening process is setting down clear and comprehensive pet policies.
-
 Policies should include types of pets allowed within the property, acceptable sizes and breeds, and clear expectations of associated fees and restrictions. Clarifying these details upfront reduces the risk of problems down the line, making sure all your bases are covered. Overall, this helps to create a harmonious environment between pet-owning and non-pet-owning tenants.
+
+> The most crucial first step to success in a pet screening process is setting down clear and comprehensive pet policies.
 
 ## Create a Pet Application Process
 
@@ -86,4 +86,4 @@ Establishing a successful [pet screening process](https://landlordtech.com/resou
 
 **[Get started with OurPetPolicy](https://info.ourpetpolicy.com/demo/) today.**
 
-[![Get started](/assets/ourpetpolicy_pet_management_platform_for_apartments.png "Get started")](https://landlordtech.com/products) 
+[![Get started](/assets/ourpetpolicy_pet_management_platform_for_apartments.png "Get started")](https://landlordtech.com/products)
