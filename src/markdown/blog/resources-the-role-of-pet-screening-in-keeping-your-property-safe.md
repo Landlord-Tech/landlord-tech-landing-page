@@ -9,9 +9,7 @@ date: 2023-08-09T02:38:07.527Z
 category: Blog
 excerpt: When it comes to maintaining safety and peace of mind in rental
   properties, pets are a real risk factor. That’s why pet screening is essential
-  for property owners looking to keep everything running smoothly. Failure to
-  properly screen and manage pets can lead to various issues, from property
-  damage to increased liability that no one wants to deal with.
+  for property owners looking to keep everything running smoothly.
 heroHeading: The Role of Pet Screening in Keeping Your Property Safe
 heroImg: /assets/advantages_of_pet_screening.jpg
 heroAltImg: The role of pet screening in keeping your property safe
