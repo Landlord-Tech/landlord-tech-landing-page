@@ -12,8 +12,7 @@ category: Blog
 excerpt: As the number of pet owners continues to rise, property managers face
   the challenge of finding ways to accommodate tenants with pets. According to
   recent studies, more than 33% of households in the United States have at least
-  one pet. Property managers can’t afford to ignore this growing segment of the
-  population.
+  one pet.
 heroHeading: 5 Common Pet Management Challenges Faced by Property Managers (And
   How to Solve Them)
 heroImg: /assets/dealing_with_pets_in_rental_properties.jpg
