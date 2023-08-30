@@ -9,12 +9,9 @@ metaDescription: Over the years, these furry friends have transformed into more
 path: /resources/emotional-support-animals-service-animals-and-pets-whats-the-difference/
 date: 2022-01-13T03:42:29.036Z
 category: Blog
-excerpt: Over the years, these furry friends have transformed into more than
-  just household pets, they have become an integral part of many people’s
-  physical and mental health. Understanding the differences between an emotional
-  support animal, a service animal, and a pet is essential to understanding how
-  to properly accommodate, manage, and appreciate these animals and those who
-  rely on them.
+excerpt: Understanding the differences between an emotional support animal, a
+  service animal, and a pet is essential to understanding how to properly
+  accommodate, manage, and appreciate these animals and those who rely on them.
 heroHeading: Emotional Support Animals, Service Animals, and Pets. What’s the Difference?
 heroImg: /assets/renting-to-tenants-with-pets.jpg
 heroAltImg: Service animal addendum for properties
