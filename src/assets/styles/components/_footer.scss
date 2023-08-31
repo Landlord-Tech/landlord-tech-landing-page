@@ -23,6 +23,16 @@
       margin-bottom: 12px;
     }
   }
+  .footer-logos {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .industry-partner {
+    width: 80px;
+  }
   .opp-badge img {
     width: 120px;
   }
