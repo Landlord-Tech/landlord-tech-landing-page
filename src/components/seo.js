@@ -82,6 +82,7 @@ function Seo({ lang, meta, title, description }) {
         content="b8bc146e-8e9b-4c23-b6c3-14020d16a77e"
       />
       <meta name="description" content={metaDescription} />
+      <meta name="bizjudge-site-verification" content="e99084cc66c3fc07597feba0fcae2840" />
       <script>
         var ubPopup = document.createElement("script"); ubPopup.src =
         "https://cd936e1b3bf74d00b2e7805e49f7877f.js.ubembed.com";
