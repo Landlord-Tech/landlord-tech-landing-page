@@ -38,6 +38,9 @@ export default () => {
     infoSectionBtnSecondaryUrl,
   } = useInfoSectionData()
 
+
+  console.log("Meta Title: ", metaTitle);
+  console.log("Meta Description: ", metaDescription);
   return (
     <Layout className="landing">
       <Seo title={metaTitle} description={metaDescription} />
