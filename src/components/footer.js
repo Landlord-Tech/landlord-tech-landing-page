@@ -34,11 +34,7 @@ const Footer = () => {
         <ul className="footer-top">
           <li className="footer-top-col">
           <div className="footer-logos">
-          <Link
-              to={
-                "#"
-              }
-            >
+          
               <StaticImage
                 src="../images/2018-Industry-Partner.png"
                 alt="OPP"
@@ -46,7 +42,6 @@ const Footer = () => {
                 placeholder="transparent"
                 className="industry-partner"
               />
-            </Link>
             <br />
             <Link
               to={
