@@ -11,7 +11,14 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-gatsby-cloud`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-client-side-redirect`, // keep it in last in list
+    {
+      resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+      options: {
+        siteUrl: `https://landlordtech.com`,
+      },
+    },
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
@@ -20,6 +27,12 @@ module.exports = {
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
+    // {
+    //   resolve: `gatsby-plugin-canonical-urls`,
+    //   options: {
+    //     siteUrl: `https://landlordtech.com`,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

@@ -10,7 +10,8 @@ import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function Seo({ description, lang, meta, title }) {
+
+function Seo({ lang, meta, title, description }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -34,6 +35,8 @@ function Seo({ description, lang, meta, title }) {
         lang,
       }}
       title={title}
+      description={metaDescription}
+      content={metaDescription}
       titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
@@ -78,6 +81,8 @@ function Seo({ description, lang, meta, title }) {
         name="trustpilot-one-time-domain-verification-id"
         content="b8bc146e-8e9b-4c23-b6c3-14020d16a77e"
       />
+      <meta name="description" content={metaDescription} />
+      <meta name="bizjudge-site-verification" content="e99084cc66c3fc07597feba0fcae2840" />
       <script>
         var ubPopup = document.createElement("script"); ubPopup.src =
         "https://cd936e1b3bf74d00b2e7805e49f7877f.js.ubembed.com";

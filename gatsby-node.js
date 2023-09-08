@@ -95,13 +95,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     statusCode: 301, // optional, defaults to 200
   });
 
-  createRedirect({
-    fromPath: "/request-demo/",
-    toPath: "https://info.ourpetpolicy.com/demo/",
-    isPermanent: true, // optional, set to true for 301 permanent redirects
-    redirectInBrowser: true, // optional, set to true for client-side redirects
-    statusCode: 301, // optional, defaults to 200
-  });
+  // createRedirect({
+  //   fromPath: "/request-demo/",
+  //   toPath: "https://info.ourpetpolicy.com/demo/",
+  //   isPermanent: true, // optional, set to true for 301 permanent redirects
+  //   redirectInBrowser: true, // optional, set to true for client-side redirects
+  //   statusCode: 301, // optional, defaults to 200
+  // });
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
