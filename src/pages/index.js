@@ -90,14 +90,15 @@ const Landlords = () => {
                 </div>
               </div>
               <div className="video-container">
-                <iframe
+              <iframe
                   src={videoSrcURL}
+                  title="OurPetPolicy: The Pet Management Software for Rental Property Owners & Managers" 
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   frameBorder="0"
                   webkitallowfullscreen="true"
                   mozallowfullscreen="true"
                   allowFullScreen
-                />
+              />
               </div>
             </div>
           </div>

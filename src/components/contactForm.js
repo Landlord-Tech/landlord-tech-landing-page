@@ -1,7 +1,7 @@
-import React, { useState } from "react"
-import Icon from "./Icon"
-import Select from "./Select"
-import { useContactFormData } from "../fetchHooks/useContactForm"
+import React, { useState } from "react";
+import Icon from "./Icon";
+import Select from "./Select";
+import { useContactFormData } from "../fetchHooks/useContactForm";
 
 const ContactForm = () => {
   const [formState, setFormState] = useState({
@@ -11,47 +11,47 @@ const ContactForm = () => {
     email: "",
     phone: "",
     message: "",
-  })
+  });
 
   const {
     contactFormHeading,
     contactFormBtn,
     formSuccessMessageHeading,
     formSuccessMessageSubhead,
-  } = useContactFormData()
+  } = useContactFormData();
 
-  const [success, setSuccess] = useState(false)
+  const [success, setSuccess] = useState(false);
 
-  const encode = data => {
+  const encode = (data) => {
     return Object.keys(data)
-      .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-      .join("&")
-  }
+      .map((key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+      .join("&");
+  };
 
-  const handleChange = e => {
+  const handleChange = (e) => {
     setFormState({
       ...formState,
       [e.target.name]: e.target.value,
-    })
-  }
+    });
+  };
 
-  const handleSubmit = e => {
+  const handleSubmit = (e) => {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact-us", ...formState }),
     })
       .then(() => setSuccess(true))
-      .catch(error => alert(error))
+      .catch((error) => alert(error));
 
-    e.preventDefault()
-  }
+    e.preventDefault();
+  };
 
   const options = [
     { value: "demoRequest", label: "Demo request" },
     { value: "generalInquiry", label: "General inquiry" },
     { value: "other", label: "Other" },
-  ]
+  ];
 
   return (
     <div className="contact-form">
@@ -75,7 +75,8 @@ const ContactForm = () => {
               id="inquiryType"
               name="inquiryType"
               options={options}
-              onChange={e =>
+              aria-controls="infoDiv"  // Added aria-controls
+              onChange={(e) =>
                 setFormState({ ...formState, inquiryType: e.value })
               }
             />
@@ -91,7 +92,6 @@ const ContactForm = () => {
               required={true}
             />
           </div>
-
           <div className="input-field">
             <input
               type="text"
@@ -102,7 +102,6 @@ const ContactForm = () => {
               placeholder="Company Name"
             />
           </div>
-
           <div className="input-field">
             <input
               type="email"
@@ -114,10 +113,9 @@ const ContactForm = () => {
               required={true}
             />
           </div>
-
           <div className="input-field">
             <input
-              type="phone"
+              type="tel"
               id="phone"
               name="phone"
               onChange={handleChange}
@@ -130,20 +128,26 @@ const ContactForm = () => {
             <textarea
               id="message"
               name="message"
+              aria-controls="previewDiv"  // Added aria-controls
               onChange={handleChange}
               value={formState.message}
               placeholder="Message"
               required={true}
             />
           </div>
-
           <button className="btn btn-md primary min-130" type="submit">
             {contactFormBtn}
           </button>
         </form>
+        <div id="infoDiv">
+            {/* ... Info related to the inquiryType ... */}
+        </div>
+        <div id="previewDiv">
+            {/* ... Preview of the message, if needed ... */}
+        </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ContactForm
+export default ContactForm;

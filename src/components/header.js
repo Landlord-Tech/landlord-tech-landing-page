@@ -53,6 +53,7 @@ const Header = ({ sticky, prodHeader }) => {
               <button
                 className="no-style burger-menu"
                 onClick={handleMenuToggle}
+                aria-label="Toggle menu"
               >
                 <Icon
                   color="#007fff"
@@ -78,6 +79,7 @@ const Header = ({ sticky, prodHeader }) => {
                     <button
                       className="no-style dropdown-btn"
                       onClick={handleDropdownToggle}
+                      aria-label="Toggle dropdown"
                     >
                       <Icon
                         icon={`${

@@ -1,4 +1,5 @@
 import React from "react"
+import { useEffect } from "react"
 import { graphql } from "gatsby"
 import Seo from "../components/seo"
 import Layout from "../components/layout"
@@ -34,6 +35,14 @@ const Template = ({ data, location }) => {
     "&via" +
     "twitterHandle"
   const inShare = "https://linkedin.com/shareArticle?url=" + baseURL + path
+
+  useEffect(() => {
+    document.querySelectorAll('iframe').forEach(iframe => {
+      if (!iframe.getAttribute('title')) {
+        iframe.setAttribute('title', 'Video Content'); // Or any appropriate title
+      }
+    });
+  }, []);
 
   console.log(data);
 

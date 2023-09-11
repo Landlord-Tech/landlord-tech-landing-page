@@ -186,6 +186,23 @@ const CalculatorNoPetsAllowed = () => {
     sec6Desc,
   } = useWithNoPetCalculatorData()
 
+  const checkEmptyValues = data => {
+    const emptyKeys = [];
+  
+    Object.entries(data).forEach(([key, value]) => {
+      if (!value) {
+        emptyKeys.push(key);
+      }
+    });
+  
+    return emptyKeys;
+  };
+  
+  const emptyConstants = checkEmptyValues(useWithNoPetCalculatorData());
+  
+  console.log("Empty constants are:", emptyConstants);
+  
+
   React.useEffect(() => {
     if (scrollTo) {
       refMapping[scrollTo].current?.scrollIntoView({
@@ -283,8 +300,8 @@ const CalculatorNoPetsAllowed = () => {
                         })
                       }
                     />
-                    <h5>{sec1SubHeading2}</h5>
-                    <p>{sec1Text2}</p>
+                    {/* <h5>{sec1SubHeading2}</h5> */}
+                    {/* <p>{sec1Text2}</p> */}
                     <RangeInput
                       inputValue={avgRent}
                       min={0}
@@ -403,8 +420,8 @@ const CalculatorNoPetsAllowed = () => {
                         })
                       }
                     />
-                    <h5>{sec3SubHeading3}</h5>
-                    <p>{sec3Text3}</p>
+                    {/* <h5>{sec3SubHeading3}</h5> */}
+                    {/* <p>{sec3Text3}</p> */}
                     <RangeInput
                       inputValue={avgTenantLife}
                       min={1}
@@ -510,8 +527,8 @@ const CalculatorNoPetsAllowed = () => {
                         })
                       }
                     />
-                    <h5>{sec5SubHeading3}</h5>
-                    <p>{sec5Text3}</p>
+                    {/* <h5>{sec5SubHeading3}</h5> */}
+                    {/* <p>{sec5Text3}</p> */}
                     <RangeInput
                       inputValue={propManagementWagePerHour}
                       min={0}
