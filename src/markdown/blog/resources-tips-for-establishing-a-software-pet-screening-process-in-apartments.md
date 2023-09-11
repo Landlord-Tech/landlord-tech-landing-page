@@ -11,7 +11,7 @@ excerpt: Pet management software, such as OurPetPolicy, can significantly
   an orderly and pet-friendly environment.
 heroHeading: Tips for Establishing a Successful Pet Screening Process in Apartments
 heroImg: /assets/successful_pet_screening_process.jpg
-heroAltImg: '""'
+heroAltImg: Tips for Establishing a Successful Pet Screening Process in Apartments
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
