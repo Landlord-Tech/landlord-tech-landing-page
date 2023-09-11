@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Seo from "../components/seo"
 import Layout from "../components/layout"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
 import Icon from "../components/Icon"
 import { navigate } from "gatsby"
 
@@ -43,7 +43,7 @@ const Template = ({ data, location }) => {
       <section className="hero blog-page withOverlay">
         <GatsbyImage
           className="grid-1"
-          alt={heroAltImg}
+          alt={getImage(heroAltImg)}
           image={getImage(heroImg)}
           formats={["auto", "webp", "avif"]}
           objectFit="cover"
