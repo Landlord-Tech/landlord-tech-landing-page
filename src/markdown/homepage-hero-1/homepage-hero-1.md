@@ -9,7 +9,7 @@ heroText: Transform the way you manage your pet program in your residential
 heroBtnPrimary: Learn more
 heroBtnPrimaryUrl: /products
 heroBtnSecondary: Get a Demo
-heroBtnSecondaryUrl: /request-demo/
+heroBtnSecondaryUrl: https://info.ourpetpolicy.com/demo/
 heroImg: /assets/appartements.png
 calculatorTitle: Calculate Your Savings
 ---

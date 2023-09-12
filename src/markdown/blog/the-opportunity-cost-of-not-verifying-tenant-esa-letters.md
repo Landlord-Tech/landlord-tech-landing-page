@@ -1,5 +1,10 @@
 ---
-path: /resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters
+metaTitle: The Opportunity Cost of Not Verifying Tenant ESA Letters
+metaDescription: As a property manager, pet fees and deposits are the best way
+  to protect your property from pet-related damages and unexpected costs.
+  Unfortunately, pet owners have found a convenient loophole using Emotional
+  Support Animal (ESA) letters to help them get out of paying any pet fees.
+path: /resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters/
 date: 2021-12-07T08:44:21.760Z
 category: Blog
 excerpt: As a property manager, pet fees and deposits are the best way to
@@ -8,9 +13,7 @@ excerpt: As a property manager, pet fees and deposits are the best way to
   Support Animal (ESA) letters to help them get out of paying any pet fees.
 heroHeading: The Opportunity Cost of Not Verifying Tenant ESA Letters
 heroImg: /assets/pet-screening-and-pet-management-.jpg
-heroAltImg: "test"
-metaTitle: "The Opportunity Cost of Not Verifying Tenant ESA Letters"
-metaDescription: "As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, pet owners have found a convenient loophole using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees."
+heroAltImg: Verifying tenant's ESA letters with a pet management tool
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
@@ -22,11 +25,11 @@ promoSection:
   promo: true
 title: The Opportunity Cost of Not Verifying Tenant ESA Letters
 ---
-As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, pet owners have found a convenient loophole using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees.
+As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, [pet owners have found a convenient loophole](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees.
 
 ![ESAs are not service animals, but owners of ESAs not required to pay pet-related fees](/assets/verifying-esas-in-your-rentals.jpeg)
 
-Emotional Support Animals provide a sense of safety and companionship to individuals suffering from various emotional and psychological conditions. While [ESAs are not service animals](https://adata.org/guide/service-animals-and-emotional-support-animals), according to the ADA, they do receive some of the same rights. As they are not considered pets, owners of ESAs are not required to pay pet fees, pet deposits, or pet rent.
+Emotional Support Animals provide a sense of safety and companionship to individuals suffering from various emotional and psychological conditions. While [ESAs are not service animals](https://adata.org/guide/service-animals-and-emotional-support-animals), according to the ADA, they do receive some of the same rights. As they are not considered pets, owners of ESAs are not required to pay [pet fees, pet deposits, or pet rent](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy).
 
 While you can require that your tenants provide documentation for their ESAs, many tenants have found ways to secure [fraudulent documentation that can easily be mistaken for the real thing](https://www.biggerpockets.com/blog/process-esa-letters).
 
@@ -84,6 +87,6 @@ Neighboring tenants that are surrounded by poorly behaved emotional support anim
 * We help ensure that you're renting to tenants who pay their pet fees, increasing the funds you have to cover pet-related maintenance and repairs to your property.
 * Increase the amount of time you have to handle other property management activities.
 
-[Contact OurPetPolicy](https://www.landlordtech.com/products) today to see how we can help you eliminate the risk of unauthorized Emotional Support Animals, reduce pet-related property damage, and prevent accidental HIPAA or FHA violations.
+[Contact OurPetPolicy](https://www.landlordtech.com/products) today to see how we can help you eliminate the risk of unauthorized Emotional Support Animals, [reduce pet-related property damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage), and prevent accidental HIPAA or FHA violations.
 
 OurPetPolicy is powered by [Landlord Tech](https://www.landlordtech.com), a software company that leverages technology and automation to solve and prevent the problems that property managers and owners face.
