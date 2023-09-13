@@ -32,9 +32,13 @@ One of the main areas where pet management software shines is in the [pet screen
 
 Here are just a few of the areas pet management software assists in:
 
-* Collecting all relevant pet information, including breed, age, weight, and vaccinations.
-* Conducting screenings to ensure the pet complies with the property's pet policy.
-* Keeping up-to-date records to ensure ongoing compliance.
+• Collecting all relevant pet information, including breed, age, weight, and vaccinations. 
+
+• Conducting screenings to ensure the pet complies with the property's pet policy.
+
+• Keeping up-to-date records to ensure ongoing compliance.
+
+
 
 [![Learn more](/assets/streamline_pet_management_program_for_landlords.png "Learn more")](https://landlordtech.com/products)
 
