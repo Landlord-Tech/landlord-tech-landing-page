@@ -186,22 +186,6 @@ const CalculatorNoPetsAllowed = () => {
     sec6Desc,
   } = useWithNoPetCalculatorData()
 
-  const checkEmptyValues = data => {
-    const emptyKeys = [];
-  
-    Object.entries(data).forEach(([key, value]) => {
-      if (!value) {
-        emptyKeys.push(key);
-      }
-    });
-  
-    return emptyKeys;
-  };
-  
-  const emptyConstants = checkEmptyValues(useWithNoPetCalculatorData());
-  
-  console.log("Empty constants are:", emptyConstants);
-  
 
   React.useEffect(() => {
     if (scrollTo) {
