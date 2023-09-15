@@ -4,7 +4,7 @@ metaTitle: "Enhancing Apartment Living with Pet Screening: How OurPetPolicy
 metaDescription: When it comes to tenant selection, screening pets has become
   just as important as checking the credit of their human owners. Here’s how to
   leverage pet management tools to screen animals the right way.
-path: /resources/enhancing-apartment-living-with-pet-screening
+path: /resources/enhancing-apartment-living-with-pet-screening/
 date: 2023-07-26T05:21:30.933Z
 category: Blog
 excerpt: With more than 70% of renters identifying as pet owners, property
