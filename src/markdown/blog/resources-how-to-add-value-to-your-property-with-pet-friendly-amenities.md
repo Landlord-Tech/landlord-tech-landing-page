@@ -3,7 +3,7 @@ metaTitle: How to Add Value to Your Property with Pet-Friendly Amenities
 metaDescription: Pet-friendly amenities can increase the overall value of a
   property. Beyond the increase in rent prices, it can help a property stand out
   in a competitive marketplace, allowing you to find more potential tenants.
-path: /resources/how-to-add-value-to-your-property-with-pet-friendly-amenities
+path: /resources/how-to-add-value-to-your-property-with-pet-friendly-amenities/
 date: 2023-07-14T06:00:10.862Z
 category: Blog
 excerpt: Pet ownership among renters has been on the rise. A survey by
