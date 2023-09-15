@@ -4,7 +4,7 @@ metaDescription: Failure to properly screen and manage pets can lead to various
   issues, from property damage to increased liability that no one wants to deal
   with. The following information will help avoid these pitfalls and ultimately
   lead to better pet-friendly rental properties.
-path: /resources/the-role-of-pet-screening-in-keeping-your-property-safe
+path: /resources/the-role-of-pet-screening-in-keeping-your-property-safe/
 date: 2023-08-09T02:38:07.527Z
 category: Blog
 excerpt: When it comes to maintaining safety and peace of mind in rental
