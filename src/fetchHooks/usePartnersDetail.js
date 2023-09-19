@@ -31,6 +31,7 @@ export const usePartnersDetailData = () => {
     }
   `)
 
+  
   const data = partnersDetailData?.markdownRemark?.frontmatter
 
   return data
