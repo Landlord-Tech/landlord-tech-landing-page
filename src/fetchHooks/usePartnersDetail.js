@@ -7,6 +7,7 @@ export const usePartnersDetailData = () => {
         frontmatter {
           metaTitle
           metaDescription
+          logo
           path
           partnerName
           address
