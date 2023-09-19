@@ -7,7 +7,11 @@ export const usePartnersDetailData = () => {
         frontmatter {
           metaTitle
           metaDescription
-          logo
+          logo {
+            childImageSharp {
+              gatsbyImageData
+            }
+          }
           path
           partnerName
           address
