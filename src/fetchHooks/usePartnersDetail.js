@@ -7,11 +7,6 @@ export const usePartnersDetailData = () => {
         frontmatter {
           metaTitle
           metaDescription
-          logo {
-            childImageSharp {
-              gatsbyImageData
-            }
-          }
           path
           partnerName
           address
@@ -31,7 +26,7 @@ export const usePartnersDetailData = () => {
     }
   `)
 
-  
+
   const data = partnersDetailData?.markdownRemark?.frontmatter
 
   return data
