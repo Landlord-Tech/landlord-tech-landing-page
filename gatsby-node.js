@@ -76,17 +76,17 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // `)
 
   // Handle errors
-  if (partnersDetailResult.errors) {
-    reporter.panicOnBuild(`Error while running GraphQL query.`)
-    return
-  }
-  partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    createPage({
-      path: node.frontmatter.path,
-      component: partnersDetail,
-      context: {}, // additional data can be passed via context
-    })
-  })
+  // if (partnersDetailResult.errors) {
+  //   reporter.panicOnBuild(`Error while running GraphQL query.`)
+  //   return
+  // }
+  // partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+  //   createPage({
+  //     path: node.frontmatter.path,
+  //     component: partnersDetail,
+  //     context: {}, // additional data can be passed via context
+  //   })
+  // })
   createRedirect({
     fromPath: "/request-demo",
     toPath: "https://info.ourpetpolicy.com/demo/",
