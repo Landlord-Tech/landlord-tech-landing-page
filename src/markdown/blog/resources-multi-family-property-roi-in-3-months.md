@@ -9,7 +9,7 @@ metaDescription: >-
   bad outcomes have been greatly reduced.
 path: /resources/multi-family-property-roi-in-3-months/
 date: 2023-04-05T11:15:03.195Z
-category: Case
+category: Case Of Study
 excerpt: The Client was struggling with their pet program. There had been
   fraudulent ESA letters, significant property damage and serious bit incidents.
   It had put a tremendous amount of stress on the property management team, and
