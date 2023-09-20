@@ -91,3 +91,12 @@
   padding: 40px;
   flex: 1;
 }
+
+:focus {
+  outline: 3px solid #007BFF;
+}
+
+button:focus {
+  outline: 3px solid #007BFF;
+  border-color: transparent; 
+}
