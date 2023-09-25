@@ -28,7 +28,7 @@
     text-decoration: underline;
     text-decoration-color: $color-primary;
   }
-  
+
   h1,
   h2,
   h3,
@@ -174,8 +174,10 @@
       padding-bottom: 20px;
 
       h1 {
+        padding-top:60px;
         padding-bottom: 40px;
         color: $color-white;
+        font-size:46px;
       }
     }
 

@@ -70,7 +70,7 @@ const Template = ({ data, location }) => {
                 Return to the resources homepage
               </button>
               <div className="hero-left">
-                <h1 className="h2">{heroHeading}</h1>
+                <h1 className="heading">{heroHeading}</h1>
                 <p className="hero-text">
                   Posted on {date} | In {category}{" "}
                 </p>
