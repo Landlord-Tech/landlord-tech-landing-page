@@ -1,21 +1,34 @@
-import * as React from "react"
-import { navigate } from "gatsby"
-import BlogCard from "./BlogCard"
-import { useLocation } from "@reach/router"
-import { useSingleBlogData } from "../../fetchHooks/useSingleBlog"
+import * as React from "react";
+import { navigate } from "gatsby";
+import BlogCard from "./BlogCard";
+import { useLocation } from "@reach/router";
+import { useSingleBlogData } from "../../fetchHooks/useSingleBlog";
 
 const BlogPostList = () => {
-  const location = useLocation()
-  const data = useSingleBlogData()
-  const newData = data.map(item => item.node.frontmatter)
-  const categories = newData.map(card => card.category)
-  const uniqueCategories = [...new Set(categories)]
-  const filteredData = location.search
-    ? newData.filter(item => item.category === location.search.substring(1))
-    : newData
+  const location = useLocation();
+  const data = useSingleBlogData();
+  const newData = data.map(item => item.node.frontmatter);
+  const categories = newData.map(card => card.category);
+  const uniqueCategories = [...new Set(categories)];
+
+  function slugify(text) {
+    return text
+      .toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w-]+/g, '')
+      .replace(/--+/g, '-');
+  }
+
+  const currentCategorySlug = location.search.substring(1);
+  const currentCategory = uniqueCategories.find(cat => slugify(cat) === currentCategorySlug);
+  
+  const filteredData = currentCategory
+    ? newData.filter(item => item.category === currentCategory)
+    : newData;
 
   function handleCategoryFilter(category) {
-    navigate(category ? `?${category}` : "/resources", { replace: false })
+    const slug = slugify(category);
+    navigate(slug ? `/resources/?${slug}` : "/resources", { replace: false });
   }
 
   return (
@@ -24,7 +37,7 @@ const BlogPostList = () => {
         <ul className="blog-categories">
           <li>
             <button
-              className={!location.search ? "active" : ""}
+              className={!currentCategory ? "active" : ""}
               onClick={() => handleCategoryFilter("")}
             >
               All
@@ -33,7 +46,7 @@ const BlogPostList = () => {
           {uniqueCategories.map((category, index) => (
             <li key={index}>
               <button
-                className={location.search === `?${category}` ? "active" : ""}
+                className={slugify(category) === currentCategorySlug ? "active" : ""}
                 onClick={() => handleCategoryFilter(category)}
               >
                 {category}
@@ -50,7 +63,7 @@ const BlogPostList = () => {
         </ul>
       </div>
     </section>
-  )
+  );
 }
 
-export default BlogPostList
+export default BlogPostList;

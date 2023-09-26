@@ -99,12 +99,12 @@ const Footer = () => {
                   <li key={index}>
                     {link ? (
                       <a href={link} rel="noreferrer">
-                        <Icon color="#007FFF" icon={icon} size={24} />
+                        <Icon color="#0073E6" icon={icon} size={24} />
                         {listItem}
                       </a>
                     ) : (
                       <>
-                        <Icon color="#007FFF" icon={icon} size={24} />
+                        <Icon color="#0073E6" icon={icon} size={24} />
                         {listItem}
                       </>
                     )}

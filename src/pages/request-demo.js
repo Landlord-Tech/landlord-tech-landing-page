@@ -25,7 +25,7 @@ const RequestDemo = () => {
               {requestDemoInfoList.map(({ requestDemoInfoText }, i) => {
                 return (
                   <li key={i}>
-                    <Icon color="#007FFF" size={17} icon="check" />
+                    <Icon color="#0073E6" size={17} icon="check" />
                     {requestDemoInfoText}
                   </li>
                 )

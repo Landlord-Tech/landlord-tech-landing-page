@@ -1,8 +1,9 @@
 import React from "react"
+import { useEffect } from "react"
 import { graphql } from "gatsby"
 import Seo from "../components/seo"
 import Layout from "../components/layout"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
 import Icon from "../components/Icon"
 import { navigate } from "gatsby"
 
@@ -35,6 +36,14 @@ const Template = ({ data, location }) => {
     "twitterHandle"
   const inShare = "https://linkedin.com/shareArticle?url=" + baseURL + path
 
+  useEffect(() => {
+    document.querySelectorAll('iframe').forEach(iframe => {
+      if (!iframe.getAttribute('title')) {
+        iframe.setAttribute('title', 'Video Content'); // Or any appropriate title
+      }
+    });
+  }, []);
+
   console.log(data);
 
   return (
@@ -43,7 +52,7 @@ const Template = ({ data, location }) => {
       <section className="hero blog-page withOverlay">
         <GatsbyImage
           className="grid-1"
-          alt={heroAltImg}
+          alt={getImage(heroAltImg)}
           image={getImage(heroImg)}
           formats={["auto", "webp", "avif"]}
           objectFit="cover"
@@ -61,7 +70,7 @@ const Template = ({ data, location }) => {
                 Return to the resources homepage
               </button>
               <div className="hero-left">
-                <h1 className="h2">{heroHeading}</h1>
+                <h1 className="heading">{heroHeading}</h1>
                 <p className="hero-text">
                   Posted on {date} | In {category}{" "}
                 </p>

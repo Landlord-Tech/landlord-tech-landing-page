@@ -2,12 +2,15 @@ import React from "react"
 import Layout from "../components/layout"
 import HTMLContent from "../components/HTMLContent"
 import { usePrivacyPolicyData } from "../fetchHooks/usePrivacyPolicy"
+import Seo from "../components/seo"
+
 
 const PrivacyPolicy = () => {
   const { frontmatter, html } = usePrivacyPolicyData()
   const { heroHeading } = frontmatter
   return (
     <Layout>
+      <Seo title="Privacy Policy | Protect your Properties with Landlord Tech" description="Ensure protection of your rental properties with the best pet management platform from Landlord Tech." />
       <section className="small-hero xs">
         <div className="container">
           <div className="small-hero-content">
