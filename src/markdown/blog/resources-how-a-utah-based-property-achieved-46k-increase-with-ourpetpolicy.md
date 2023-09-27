@@ -69,7 +69,7 @@ Post-implementation, the property could account for 192 known animals, a rise fr
 
 Landlord Tech and the [OurPetPolicy](https://landlordtech.com/products) platform have revolutionized the way properties, such as the one in Utah, approach pet and ESA management. The comprehensive platform not only alleviated the immediate challenges faced but also brought about significant financial benefits, making it an indispensable tool for properties aiming for efficient, streamlined, and profitable pet management. 
 
-> Before we were in the red quite a bit, and so this has definitely boosted our pet income, which is good. It’s definitely helping that area. \[OPP] has a lot of perks. I like that you have them sign the pet addendum through there. Something that gets missed a lot is the pet addendum in move-in. And it’s all just in one place. Overall, we’re really happy with it.
+> Before we were in the red quite a bit, and so this has definitely boosted our pet income, which is good. It’s definitely helping that area. \[OurPetPolicy] has a lot of perks. I like that you have them sign the pet addendum through there. Something that gets missed a lot is the pet addendum in move-in. And it’s all just in one place. Overall, we’re really happy with it.
 
 If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo](https://info.ourpetpolicy.com/demo/) with us today.
 
