@@ -73,4 +73,4 @@ Landlord Tech and the [OurPetPolicy](https://landlordtech.com/products) platform
 
 If you're looking for an immediate return on investment, and peace of mind managing pets on your properties, then it's time to consider OurPetPolicy. [Schedule a demo](https://info.ourpetpolicy.com/demo/) with us today.
 
-[![Demo](/assets/guaranteed_roi_with_ourpetpolicy.png "Demo")](https://info.ourpetpolicy.com/demo/)
+[![Demo](/assets/guaranteed_roi_with_ourpetpolicy.png "Schedule a demo today with OurPetPolicy")](https://info.ourpetpolicy.com/demo/)
