@@ -12,7 +12,7 @@ excerpt: With a myriad of pets and emotional support animals (ESAs) across the
   converting non-paying pet owners, and keeping track of all documentation
   without human-errors.
 heroHeading: How a Utah-Based Property Achieved $46K Increase with OurPetPolicy
-heroImg: /assets/ourpetpolicy_case_study.jpg
+heroImg: /assets/ourpetpolicy_case_study-1-.jpg
 social: true
 promoSection:
   promoTitle: We Manage Pets Better
