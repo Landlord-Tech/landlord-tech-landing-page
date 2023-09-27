@@ -33,7 +33,7 @@ These structural changes in US culture and society will only continue in 2023. A
 
 ![What landlords need to know about animals in rentals in 2023](/assets/what_landlords_need_to_know_about_animals_in_rentals.png)
 
-### **Overview of Pet Ownership in the USA**
+## **Overview of Pet Ownership in the USA**
 
 Yes, it’s true that Americans love their cats and dogs. In fact, the USA ranks first for pet ownership in the world. So, whether it’s a studio apartment in New York City or a suburban estate in Los Angeles, there’s more than likely a pet being housed at that address. 
 
@@ -45,7 +45,7 @@ From there, horses are the third most-popular pet followed by fish. And there ar
 
 The reality is that pet ownership is only becoming more popular. In 1988, nearly half of US households owned a pet. Today, that number has climbed to a staggering 70%. The pandemic only grew Americans’ desire for pet companionship. As lockdowns took hold, approximately 20% of US residents acquired a cat or dog between March 2020 and May 2021. Pet ownership is only growing, and there’s no sign that it’s slowing down.
 
-### **ESA/Service Animal Laws by State**
+## **ESA/Service Animal Laws by State**
 
 As pet ownership has grown, so has the number of service animals in the United States. [Emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs) have become particularly popular. The staggering growth of ESAs is observed in the airline industry as the number of passengers flying with emotional support animals has nearly doubled since 2016. It was estimated that more than one million ESAs were onboard aircrafts in 2019 alone according to Airlines for America.
 
@@ -55,7 +55,7 @@ As they are classified as service animals, ESAs are governed under federal fair 
 
 As a landlord, you are legally required to allow ESAs and service animals on your properties regardless of what pet restrictions you may have in place. It’s important that you review the laws that apply to these animals both on a federal and local level to ensure you’re in full compliance. [ESA verification services](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters) can also help to curb fraudulent service animal requests, which are becoming increasingly common.
 
-### **The Most Pet-Friendly States for Rentals**
+## **The Most Pet-Friendly States for Rentals**
 
 Many rental communities have come to understand that “pet friendly” isn’t just a nice thing to have; it’s good for business too. As the number of pet owners continues to climb, [pet-friendly policies](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) are becoming more popular. Currently, North Carolina ranks first in the number of pet-friendly rental listings. Nearly 59% of rentals in the Tar Heel State permit large dogs. Georgia ranks second at 56.7% with Mississippi coming in third at 50.5%.
 
@@ -63,7 +63,7 @@ Many rental communities have come to understand that “pet friendly” isn’t 
 
 These statistics can help property managers better understand the expectations of renters and capitalize on market opportunities. If you manage rental properties in North Carolina, for example, you’d be in the minority if you [implement more restrictive pet policies](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property). Renters with large dogs can easily take their business elsewhere. On the other hand, in Hawaii, where less than 7% of rentals permit large dogs, landlords would be wise to adopt pet-friendly policies in order to attract those with limited options. 
 
-### **Don’t Miss the Boat on Pet-Friendly Policies**
+## **Don’t Miss the Boat on Pet-Friendly Policies**
 
 Pets aren’t going anywhere in the United States. The number of households caring for an animal continues to rise, and renters have come to expect that landlords adopt policies that allow them to keep their furry friends when they look for new homes.
 
