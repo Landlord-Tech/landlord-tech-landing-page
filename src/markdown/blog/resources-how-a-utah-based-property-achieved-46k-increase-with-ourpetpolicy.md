@@ -3,7 +3,7 @@ metaTitle: How a Utah-Based Property Achieved $46K Increase with OurPetPolicy
 metaDescription: Situated in the picturesque state of Utah, a sizable property
   housing 572 units grappled with some persistent challenges related to pet
   management.
-path: /resources/how-a-utah-based-property-achieved-46k-increase-with-ourpetpolicy
+path: /resources/how-a-utah-based-property-achieved-46k-increase-with-ourpetpolicy/
 date: 2023-09-25T08:00:26.947Z
 category: Blog
 excerpt: With a myriad of pets and emotional support animals (ESAs) across the
