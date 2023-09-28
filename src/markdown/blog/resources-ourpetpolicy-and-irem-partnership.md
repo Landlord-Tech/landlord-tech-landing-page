@@ -3,7 +3,7 @@ metaTitle: "OurPetPolicy and IREM: A Property Management Partnership"
 metaDescription: OurPetPolicy and The Institute of Real Estate Management
   announce their partnership to bring innovation to the world of property
   management.
-path: /resources/ourpetpolicy-and-irem-partnership
+path: /resources/ourpetpolicy-and-irem-partnership/
 date: 2023-09-19T08:18:05.873Z
 category: Blog
 excerpt: Exciting times are ahead in the world of real estate and pet policies!
