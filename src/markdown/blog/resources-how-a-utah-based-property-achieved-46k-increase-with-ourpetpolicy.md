@@ -49,7 +49,7 @@ Through our specialized Pet Training Curriculum, residents can learn about respo
 
 ![](/assets/property_pet_management_with_ourpetpolicy.png)
 
-## The results following the adoption of OurPetPolicy were nothing short of transformative
+### The results following the adoption of OurPetPolicy were nothing short of transformative
 
 ### Financial Upswing
 
@@ -65,7 +65,7 @@ Post-implementation, the property could account for 192 known animals, a rise fr
 
 > I just like having the organization of having everything in one place, like when tenants move, or a paper gets lost, it’s all just electronic and automatic. I like being able to look at OurPetPolicy and see okay this person has XYZ animals and see all of their information. Or there’s been cases where someone’s like ‘oh the owner of a brown pitbull always lets their dog poop and never picks it up’ and now I can go in and see oh ‘brown pitbull,’ that’s tenant X.
 
-## The Bottom Line
+### The Bottom Line
 
 Landlord Tech and the [OurPetPolicy](https://landlordtech.com/products) platform have revolutionized the way properties, such as the one in Utah, approach pet and ESA management. The comprehensive platform not only alleviated the immediate challenges faced but also brought about significant financial benefits, making it an indispensable tool for properties aiming for efficient, streamlined, and profitable pet management. 
 
