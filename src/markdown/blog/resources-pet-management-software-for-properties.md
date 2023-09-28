@@ -5,7 +5,7 @@ metaDescription: As a property manager, you’re probably all too often stuck
   management platforms like OurPetPolicy can help. They streamline pet
   management, ensuring a more efficient, compliant, and pet-friendly
   environment.
-path: /resources/pet-management-software-for-properties
+path: /resources/pet-management-software-for-properties/
 date: 2023-09-13T12:36:17.137Z
 category: Blog
 excerpt: As a property manager, you’re probably all too often stuck looking for
