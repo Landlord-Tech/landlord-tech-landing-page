@@ -103,6 +103,14 @@
   padding: 40px;
   flex: 1;
 }
+.rc-slider-handle:focus {
+  outline: 2px solid #007BFF;
+}
+
+.btn:focus {
+  outline: 2px solid #007BFF;
+  border: none;  /* or adjust border if needed */
+}
 
 :focus {
   outline: 3px solid #007BFF;
