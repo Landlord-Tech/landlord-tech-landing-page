@@ -39,6 +39,8 @@ const Layout = ({ children, className, prodHeader }) => {
       <button
         onClick={() => scrollTo("#top")}
         className={`go-top-btn ${scrollTop ? "fade-in" : ""}`}
+        aria-label="Go to top"
+        title="Go to top"
       >
         <Icon color="#fff" size={36} icon="arrow-top" />
       </button>
