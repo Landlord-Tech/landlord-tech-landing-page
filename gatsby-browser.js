@@ -127,6 +127,7 @@ exports.onInitialClientRender = () => {
     if (!associatedLabel) {
       let labelElem = document.createElement("label")
       labelElem.setAttribute("for", controlId)
+      labelElem.className = "visually-hidden" // Added the visibility hidden class here.
 
       switch (control.tagName.toLowerCase()) {
         case "textarea":
@@ -193,4 +194,20 @@ exports.onInitialClientRender = () => {
       element.style.outline = ""
     })
   })
+
+  // Targeting the specific input based on its attributes
+let specificInput = document.querySelector('input[autocapitalize="none"][autocomplete="off"][autocorrect="off"][id="react-select-2-input"][type="text"][role="combobox"]');
+
+if (specificInput) {
+    specificInput.addEventListener('focus', () => {
+        if (window.getComputedStyle(specificInput).outlineWidth === "0px" || window.getComputedStyle(specificInput).outlineStyle === "none") {
+            specificInput.style.outline = '2px solid blue !important'; // Adding !important
+        }
+    });
+
+    specificInput.addEventListener('blur', () => {
+        specificInput.style.outline = '';  // Resetting the outline when the element loses focus
+    });
+}
+
 }
