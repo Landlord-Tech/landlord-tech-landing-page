@@ -173,7 +173,8 @@ const Landlords = () => {
           })}
         </div>
       </section>
-      <section className="half-image-banner">
+      {/* EBOOK SECTION */}
+      {/* <section className="half-image-banner">
         <GatsbyImage
           className="grid-1"
           alt={heroHeading2}
@@ -193,7 +194,7 @@ const Landlords = () => {
             {heroBtnPrimary2}
           </a>
         </div>
-      </section>
+      </section> */}
       <InfoSection
         title={infoSectionHeading}
         content={infoSectionContent}
