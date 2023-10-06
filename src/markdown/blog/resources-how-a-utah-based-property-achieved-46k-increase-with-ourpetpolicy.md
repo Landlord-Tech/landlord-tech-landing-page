@@ -31,6 +31,8 @@ Situated in the picturesque state of Utah, a sizable property housing 572 units 
 
 To tackle these challenges, the property turned to OurPetPolicy, a [comprehensive pet management platform](https://landlordtech.com/products) offering a suite of services.
 
+> I just like having the organization of having everything in one place, like when tenants move, or a paper gets lost, it’s all just electronic and automatic. I like being able to look at OurPetPolicy and see okay this person has XYZ animals and see all of their information. Or there’s been cases where someone’s like ‘oh the owner of a brown pitbull always lets their dog poop and never picks it up’ and now I can go in and see oh ‘brown pitbull,’ that’s tenant X.
+
 ### **ESA Verification**
 
 By leveraging OurPetPolicy's ESA Verification, the property could efficiently verify the authenticity of emotional support animals' letters, helping in rooting out fraudulent claims.
@@ -62,8 +64,6 @@ There was a notable decrease in the number of assistance animals from 75 to 46, 
 ### Enhanced Tracking
 
 Post-implementation, the property could account for 192 known animals, a rise from the initial 150, ensuring that each pet was adequately managed and cared for.
-
-> I just like having the organization of having everything in one place, like when tenants move, or a paper gets lost, it’s all just electronic and automatic. I like being able to look at OurPetPolicy and see okay this person has XYZ animals and see all of their information. Or there’s been cases where someone’s like ‘oh the owner of a brown pitbull always lets their dog poop and never picks it up’ and now I can go in and see oh ‘brown pitbull,’ that’s tenant X.
 
 ### The Bottom Line
 
