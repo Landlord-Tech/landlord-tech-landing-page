@@ -41,4 +41,4 @@ When all is said and done, denying an ESA may not be your best course of action.
 
 There are countless other rules and regulations surrounding ESA approval and status confirmation, including traditional animals that serve in the role of an ESA and tiered fines for improperly denying an ESA. To learn more about the process of verifying, denying, or allowing ESAs on your property, download our latest e-book, *[The Landlord's Essential Guide to ESAs](https://info.ourpetpolicy.com/landlords_guide/)*.
 
-[![T﻿he Landlord's Essential Guide to ESAs -﻿ Download for Free](/esa_guide_ebook.png "T﻿he Landlord's Essential Guide to ESAs -﻿ Download for Free")](https://info.ourpetpolicy.com/landlords_guide/)
+[![T﻿he Landlord's Essential Guide to ESAs -﻿ Download for Free](/assets/esa_guide_ebook.png "T﻿he Landlord's Essential Guide to ESAs -﻿ Download for Free")](https://info.ourpetpolicy.com/landlords_guide/)
