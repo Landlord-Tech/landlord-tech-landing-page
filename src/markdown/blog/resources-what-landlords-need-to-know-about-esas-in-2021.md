@@ -1,17 +1,17 @@
 ---
-metaTitle: What Landlords Need To Know About ESAs In 2023
+metaTitle: The Landlord's Essential Guide to ESAs
 metaDescription: If your property normally does not allow pets, it may be
   tempting to deny an ESA outright, but there are multiple reasons why this may
   not be the best course of action.
-path: /resources/what-landlords-need-to-know-about-esas-in-2023/
+path: /resources/the-landlords-essential-guide-to-esas/
 date: 2021-07-01T12:43:40.558Z
 category: Ebook
 excerpt: If your property normally does not allow pets, it may be tempting to
   deny an ESA outright, but there are multiple reasons why this may not be the
   best course of action.
-heroHeading: What Landlords Need To Know About ESAs In 2023
+heroHeading: The Landlord's Essential Guide to ESAs
 heroImg: /assets/landlords-and-esa-verification.jpg
-heroAltImg: ESA in 2023 for the landlords and property managers
+heroAltImg: ESA guide for the landlords and property managers
 social: true
 promoSection:
   promoTitle: We Manage Pets Better​
@@ -39,8 +39,6 @@ If you do have the right to deny an ESA, you can try to accommodate them in anot
 
 When all is said and done, denying an ESA may not be your best course of action. In cases as such, it’s important to [fully verify the status of an ESA](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters). Mental health professionals will most commonly provide a letter that verifies their client’s need for an ESA. When confirming these letters, landlords can look up the mental health professional’s licensing and confirm their legal ability to practice in their state. These letters are easy to forge, though, so it’s encouraged to partner with a solution provider with experience verifying these letters through their all-in-one software platform, like [OurPetPolicy](https://landlordtech.com/products).
 
-There are countless other rules and regulations surrounding ESA approval and status confirmation, including traditional animals that serve in the role of an ESA and tiered fines for improperly denying an ESA. To learn more about the process of verifying, denying, or allowing ESAs on your property, download our latest e-book, *[What Landlords Need To Know About ESAs In 2023](/assets/what_landords_need_to_know_ebook_2023.pdf)*.
+There are countless other rules and regulations surrounding ESA approval and status confirmation, including traditional animals that serve in the role of an ESA and tiered fines for improperly denying an ESA. To learn more about the process of verifying, denying, or allowing ESAs on your property, download our latest e-book, *[The Landlord's Essential Guide to ESAs](https://info.ourpetpolicy.com/landlords_guide/)*.
 
-[![Ebook](/assets/what_landords_need_to_know_2023.png "Ebook")](/assets/what_landords_need_to_know_ebook_2023.pdf)
-
-###### **[Download Ebook](/assets/what_landords_need_to_know_ebook_2023.pdf)**
+[![T﻿he Landlord's Essential Guide to ESAs -﻿ Download for Free](/esa_guide_ebook.png "T﻿he Landlord's Essential Guide to ESAs -﻿ Download for Free")](https://info.ourpetpolicy.com/landlords_guide/)
