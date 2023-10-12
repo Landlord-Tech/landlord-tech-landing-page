@@ -195,19 +195,33 @@ exports.onInitialClientRender = () => {
     })
   })
 
-  // Targeting the specific input based on its attributes
-let specificInput = document.querySelector('input[autocapitalize="none"][autocomplete="off"][autocorrect="off"][id="react-select-2-input"][type="text"][role="combobox"]');
+ // Handle Sliders:
+ let sliderHandles = document.querySelectorAll('.rc-slider-handle[role="slider"]');
+  
+ sliderHandles.forEach((slider, index) => {
+   // If slider already has an aria-label, skip
+   if (!slider.hasAttribute("aria-label")) {
+     // Find the closest heading or relevant label for the slider
+     let labelElem = slider.closest(".rangeInput-wrapper").previousElementSibling;
 
-if (specificInput) {
-    specificInput.addEventListener('focus', () => {
-        if (window.getComputedStyle(specificInput).outlineWidth === "0px" || window.getComputedStyle(specificInput).outlineStyle === "none") {
-            specificInput.style.outline = '2px solid blue !important'; // Adding !important
-        }
-    });
+     if (labelElem && labelElem.tagName === "H5") {
+       let labelText = labelElem.textContent.trim();
+       slider.setAttribute("aria-label", labelText);
+     } else {
+       slider.setAttribute("aria-label", `Slider ${index + 1}`);
+     }
+   }
+ });
 
-    specificInput.addEventListener('blur', () => {
-        specificInput.style.outline = '';  // Resetting the outline when the element loses focus
-    });
-}
+ // Handle Comboboxes:
+ let comboBoxes = document.querySelectorAll('input[role="combobox"]');
+ comboBoxes.forEach(comboBox => {
+   if (!comboBox.hasAttribute("aria-label") && !comboBox.hasAttribute("aria-labelledby")) {
+     // If there's no label, provide a generic one (this can be enhanced)
+     comboBox.setAttribute("aria-label", "Select an option");
+   }
+ });
+
+
 
 }
