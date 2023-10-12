@@ -116,9 +116,11 @@ const Footer = () => {
         </ul>
         <div className="footer-bottom">
           <p>
-            <a href={privacyPolicyUrl}>{privacyPolicyTitle}</a>
-            <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a> ©{" "}
-            {new Date().getFullYear()} Landlord Tech. All Rights Reserved.
+            {/* {new Date().getFullYear()}  */}
+            ©{" "}Landlord Tech. All Rights Reserved. |
+            <a href={privacyPolicyUrl}>{privacyPolicyTitle}</a> |
+            <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a> |
+            <a href="#">Accessibility Statement</a> 
           </p>
         </div>
       </div>
