@@ -5,22 +5,7 @@
  */
 
 exports.onInitialClientRender = () => {
-  // Code for label element
-  let label = document.querySelector(".switch")
-  if (label) {
-    // Create a text node with the desired text
-    let textNode = document.createTextNode("Toggle option: ")
-
-    // Create a span element to wrap the text node
-    let span = document.createElement("span")
-    span.className = "visually-hidden"
-
-    // Append the text node to the span element
-    span.appendChild(textNode)
-
-    // Insert the span element as the first child of the label element
-    label.insertBefore(span, label.firstChild)
-  }
+ 
 
   // Code for input element
   let inputElement = document.querySelector('input[max="100000"]')

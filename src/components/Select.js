@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import Select from "react-select"
+import Select, { components } from "react-select"
 
 export default ({ options, ...props }) => {
   const selectStyles = {
@@ -35,11 +35,21 @@ export default ({ options, ...props }) => {
     placeholder: () => ({ color: "#9E9E9E" }),
   }
 
+  const ControlComponent = props => (
+    <components.Control {...props} innerProps={{ ...props.innerProps, 'aria-controls': props.selectProps.ariaControls }} />
+  );
+
+  const InputComponent = props => (
+    <components.Input {...props} innerProps={{ ...props.innerProps, 'aria-controls': props.selectProps.ariaControls }} />
+  );
+
   return (
     <Select
       {...props}
       components={{
         IndicatorSeparator: () => null,
+        Control: ControlComponent,
+        Input: InputComponent
       }}
       options={options}
       styles={selectStyles}
