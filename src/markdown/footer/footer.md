@@ -29,4 +29,6 @@ privacyPolicyTitle: Privacy.
 privacyPolicyUrl: /privacy-policy/
 termsAndConditionsTitle: Terms & Conditions.
 termsAndConditionsUrl: /terms-and-conditions/
+accessibilityStatementTitle: Website Statement.
+accessibilityStatementUrl: /accessibility-commitment/
 ---

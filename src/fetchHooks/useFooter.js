@@ -30,6 +30,8 @@ export const useFooterData = () => {
           privacyPolicyUrl
           termsAndConditionsTitle
           termsAndConditionsUrl
+          accessibilityStatementTitle
+          accessibilityStatementUrl
         }
       }
     }

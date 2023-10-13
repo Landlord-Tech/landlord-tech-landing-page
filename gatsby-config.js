@@ -78,6 +78,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `accessibility-commitment`,
+        path: `${__dirname}/src/markdown/accessibility-commitment`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `contact-us`,
         path: `${__dirname}/src/markdown/contact-us`,
       },
