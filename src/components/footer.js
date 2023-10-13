@@ -120,7 +120,7 @@ const Footer = () => {
             {/* {new Date().getFullYear()}  */}© Landlord Tech. All Rights
             Reserved. |<a href={privacyPolicyUrl}>{privacyPolicyTitle}</a> |
             <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a> |
-            <a href={accessibilityStatementUrl}>{accessibilityStatementTitle}
+            <a href="https://landlordtech.com/accessibility-commitment">Website Statement
             </a>
           </p>
         </div>
