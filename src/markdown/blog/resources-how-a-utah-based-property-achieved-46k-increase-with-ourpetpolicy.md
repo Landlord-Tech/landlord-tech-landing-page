@@ -23,13 +23,9 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 ---
-
-
 Situated in the picturesque state of Utah, a sizable property housing 572 units grappled with some persistent challenges related to pet management. With a myriad of pets and emotional support animals (ESAs) across the units, the management faced hurdles in streamlining the onboarding process, spotting unknown pets, identifying potentially fraudulent ESA letters, converting non-paying pet owners, and keeping track of all documentation without human-errors.
 
-
-
-![](/assets/manage_pet_in_rental_property_with_ourpetpolicy.png)
+![](/assets/manage_pet_in_rental_property_with_ourpetpolicy-1-.png)
 
 ## The Solution: OurPetPolicy
 
