@@ -40,11 +40,11 @@ Ironclad pet policies set expectations for tenants by outlining the dos and donâ
 
 When tenants first bring pets onto the property, it's essential to obtain specific details in order to ensure a complete and accurate profile of the animal. Be sure to at least collect information on the pet's breed, age, size, and behavioral history. The use of digital forms and pet management software can greatly streamline this collection process. Professional tools allow pet owners to easily submit required documents and information online, reducing the risk of missing or incomplete forms. Property owners can access this data in real time, ensuring up-to-date records and enabling a quicker response to any concerns.
 
-![Learn more how to properly screen pets for your rental property with OurPetPolicy pet management program](/assets/property_pet_screening_for_landlords.png)
-
 ## Communicating With Tenants
 
 Regular communication and [education about responsible pet ownership](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy/) are essential for maintaining a harmonious pet-friendly rental community. By keeping pet-owning tenants updated and informed, your property team can help reinforce expectations, prevent misunderstandings, and ensure that tenants and pets coexist peacefully. Pet management software can serve as a great vehicle to get the word out. Many applications include the ability to distribute guides on pet care and etiquette, update residents on any policy changes, or offer information on local pet-friendly activities and services. Platforms such as OurPetPolicy even offer responsible pet owner training modules as part of their out-of-the-box solution.
+
+[![Demo](/assets/property_pet_screening_for_landlords.png "Lï»¿earn more how to properly screen pets for your rental property with OurPetPolicy")](https://landlordtech.com/resources/the-landlords-essential-guide-to-esas/)
 
 ## Implementing Screening Procedures
 
