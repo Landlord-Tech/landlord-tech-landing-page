@@ -64,4 +64,4 @@ The advantages of investing in a pet management solution are clear: It streamlin
 
 Between property maintenance projects, new tenant applications, and renewal filings, you have enough paperwork to worry about. Pet policies don’t have to be another headache. Let solutions such as [OurPetPolicy](https://landlordtech.com/products) help you optimize your pet management and screening processes today. [Schedule a demo](https://info.ourpetpolicy.com/demo/) today!
 
-[![Demo](/assets/D﻿emo.png "Schedule a demo today with OurPetPolicy")](https://info.ourpetpolicy.com/demo/)
+[![Demo](/assets/demo.png "Schedule a demo today with OurPetPolicy")](https://info.ourpetpolicy.com/demo/)
