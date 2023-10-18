@@ -17,6 +17,7 @@ import { useHomepageVideoSectionData } from "../fetchHooks/useHomepageVideoSecti
 import { useTestimonialData } from "../fetchHooks/useTestimonials"
 import { useHomepageHero2 } from "../fetchHooks/useHomepageHero2"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
+import Badges from "../components/Badges"
 
 const Landlords = () => {
   const {
@@ -195,6 +196,7 @@ const Landlords = () => {
           </a>
         </div>
       </section> */}
+      <Badges />
       <InfoSection
         title={infoSectionHeading}
         content={infoSectionContent}

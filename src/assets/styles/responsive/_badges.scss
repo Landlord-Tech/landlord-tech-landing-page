@@ -1,0 +1,25 @@
+.badges-section .content-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:80px;
+}
+.badges-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin-bottom: 20px;
+}
+.getapp-logo {
+    width: 150px;
+    max-width: 150px;
+    margin: 0 10px;
+}
+.capterra-logo {
+    width: 160px;
+    max-width: 160px;
+    margin: 0 10px;
+    margin-left: 1px;
+}

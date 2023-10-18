@@ -1,0 +1,28 @@
+.badges-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;  /* Assuming you want it to be centered vertically on the entire viewport. Adjust as needed. */
+  }
+  
+  .badges-section .content-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .software-logo {
+    width: 150px;
+    max-width: 150px;
+    margin: 0 10px;
+}
+  .getapp-logo {
+    width:90px;
+    max-width: 90px;
+    margin: 0 10px;
+  }
+  .capterra-logo {
+    width: 188px;
+    max-width: 188px;  /* Adjust to your desired logo size. */
+    margin: 0 10px;    /* Adding a bit of space between the logos. Adjust as needed. */
+  }
+  

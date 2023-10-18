@@ -72,7 +72,7 @@ collections:
             }
       - { name: accessibilityStatementTitle, label: Accesibility Statement Title }
       - { name: accessibilityStatementUrl, label: Accesibility Statement Url }
-       - { name: privacyPolicyTitle, label: Privacy Policy Title }
+      - { name: privacyPolicyTitle, label: Privacy Policy Title }
       - { name: privacyPolicyUrl, label: Privacy Policy Url }
       - { name: termsAndConditionsTitle, label: Terms and Conditions Title }
       - { name: termsAndConditionsUrl, label: Terms and Conditions Url }
