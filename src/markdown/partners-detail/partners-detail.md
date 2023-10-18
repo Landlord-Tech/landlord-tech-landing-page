@@ -1,18 +1,18 @@
 ---
 title: partners-detail
-metaTitle: Tools for ResMan Users | Landlord Tech
-metaDescription: Grow your property management business with the ResMan to
-  Landlord Tech integration.
-path: /partners/resman/
-logo: /assets/resman_logo.png
-partnerName: ResMan
-address: Plano, Texas, United States
-about: "ResMan® property management software supports your business growth and
-  community engagement through a platform that better connects the Multifamily
-  landscape. Our software empowers property managers and investors to operate,
-  market and push their business forward. "
-buttonName: Go to ResMan page
-buttonUrl: https://myresman.com/
+metaTitle: IREM | Landlord Tech
+metaDescription: IREM® is an international institute with the learning,
+  certifications, and networking that property managers need to take on real
+  estate management’s most dynamic challenges.
+path: /partners/irem/
+logo: /assets/image.png
+partnerName: IREM
+address: 430 North Michigan Avenue, Suite 500, Chicago, Illinois 60611 US
+about: IREM® is an international institute with the learning, certifications,
+  and networking that property managers need to take on real estate management’s
+  most dynamic challenges.
+buttonName: Go to IREM page
+buttonUrl: https://www.irem.org/
 partnerDetailsList:
   - label: SERVICES OFFERED
     content: Integration between ResMan and OurPetPolicy
