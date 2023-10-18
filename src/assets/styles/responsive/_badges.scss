@@ -1,9 +1,12 @@
+@media screen and (max-width: 568px) {
+
 .badges-section .content-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin-bottom:80px;
+    margin-right: 0px;
 }
 .badges-section {
     display: flex;
@@ -22,4 +25,5 @@
     max-width: 160px;
     margin: 0 10px;
     margin-left: 1px;
+}
 }

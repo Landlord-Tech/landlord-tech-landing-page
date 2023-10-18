@@ -10,6 +10,7 @@ import { useAboutUsData } from "../fetchHooks/useAboutUsSection"
 import { useOurProductsData } from "../fetchHooks/useOurProductsSection"
 import { useInfoBoxData } from "../fetchHooks/useInfoBox"
 import { useInfoSectionData } from "../fetchHooks/useInfoSection"
+import Badges from "../components/Badges"
 
 export default () => {
   const { metaTitle, metaDescription, heroHeading, heroImg } =
@@ -119,6 +120,7 @@ export default () => {
           </div>
         </div>
       </section>
+      <Badges />
       <InfoSection
         title={infoSectionHeading}
         content={infoSectionContent}
