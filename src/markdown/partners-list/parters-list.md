@@ -19,3 +19,4 @@ partnersList:
     buttonName: Learn more
     buttonUrl: https://myresman.com/
 ---
+

@@ -277,6 +277,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={unitCount}
                       min={1}
                       max={100000}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_UNIT_COUNT",
@@ -290,6 +291,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={avgRent}
                       min={0}
                       max={4000}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_AVG_RENT",
@@ -317,6 +319,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={unitPerPetRate}
                       min={0}
                       max={100}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_UNIT_PER_PET_RATE",
@@ -330,6 +333,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={petDamageRate}
                       min={0}
                       max={100}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_DAMAGE_RATE",
@@ -343,6 +347,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={petDamagePerTenant}
                       min={0}
                       max={2000}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_DAMAGE_PER_TENANT",
@@ -384,6 +389,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={additionalTurnAroundTime}
                       min={0}
                       max={8}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_ADDITIONAL_TURN_AROUND_TIME",
@@ -397,6 +403,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={petReductionRate}
                       min={0}
                       max={100}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_REDUCTION_RATE",
@@ -410,6 +417,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={avgTenantLife}
                       min={1}
                       max={48}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_AVG_TENANT_LIFE",
@@ -437,6 +445,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={unAuthPetFee}
                       min={0}
                       max={600}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_UN_AUTH_PET_FEE",
@@ -450,6 +459,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={unAuthPetFeeRate}
                       min={0}
                       max={100}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_UN_AUTH_PET_FEE_RATE",
@@ -463,6 +473,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={petApprovalRate}
                       min={0}
                       max={100}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_APPROVAL_RATE",
@@ -490,6 +501,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={petDealTimeInHours}
                       min={0}
                       max={5}
+                      label="Slider"
                       step={0.1}
                       changeValue={number =>
                         dispatch({
@@ -504,6 +516,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={damageDealTimeInHours}
                       min={0}
                       max={10}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_DAMAGE_DEAL_TIME_IN_HOURS",
@@ -517,6 +530,7 @@ const CalculatorNoPetsAllowed = () => {
                       inputValue={propManagementWagePerHour}
                       min={0}
                       max={120}
+                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PROP_MANAGEMENT_WAGE_PER_HOUR",
