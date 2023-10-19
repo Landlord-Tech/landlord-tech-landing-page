@@ -55,17 +55,6 @@ exports.onInitialClientRender = () => {
     buttonElement.setAttribute("aria-label", "Go to Top")
   }
 
-  // Added code for accessibility enhancement of the PDF download link
-  let downloadLink = document.querySelector(
-    'a[href="/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf"]'
-  )
-  if (downloadLink) {
-    downloadLink.setAttribute(
-      "aria-label",
-      "Download Changing World of Rental Property Pet Damage PDF"
-    )
-  }
-
   // Handle unlabeled checkboxes:
   const checkboxes = document.querySelectorAll('input[type="checkbox"]')
 

@@ -55,20 +55,21 @@ const CalculatorSection = () => {
 
   return (
     <div className="calculator-section">
-    <div className="range-data">
+      <div className="range-data">
         <h3 className="calculator-title h3 primary bold">Your data</h3>
         <div className="switch-wrapper">
-            <strong>Pets allowed</strong>
-            <label className="switch">
-                <input
-                    type="checkbox"
-                    id="petsAllowedCheckbox"
-                    checked={noPetsAllowed}
-                    onChange={handleSwitchChange}
-                />
-                <span className="slider" />
-            </label>
-            <strong>Pets not allowed</strong>
+          <strong>Pets allowed</strong>
+          <label className="switch">
+            <input
+              type="checkbox"
+              id="petsAllowedCheckbox"
+              checked={noPetsAllowed}
+              onChange={handleSwitchChange}
+              aria-label="Toggle for allowing or disallowing pets"
+            />
+            <span className="slider" />
+          </label>
+          <strong>Pets not allowed</strong>
         </div>
 
         <h5>Number of Rental Units</h5>
