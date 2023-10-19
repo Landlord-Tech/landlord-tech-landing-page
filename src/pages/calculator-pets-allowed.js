@@ -319,7 +319,6 @@ const Calculator = () => {
                       inputValue={petRentPerMonth}
                       min={0}
                       max={125}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_RENT_PER_MONTH",
@@ -333,7 +332,6 @@ const Calculator = () => {
                       inputValue={ESABeforeOPPRate}
                       min={0}
                       max={100}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_ESA_BEFORE_OPP_RATE",
@@ -347,7 +345,6 @@ const Calculator = () => {
                       inputValue={fraudulentESAtoPetConversion}
                       min={0}
                       max={100}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_FRAUDULENT_ESA_TO_PET_CONVERSION",
@@ -375,7 +372,6 @@ const Calculator = () => {
                       inputValue={petDeposit}
                       min={0}
                       max={1200}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_DEPOSIT",
@@ -389,7 +385,6 @@ const Calculator = () => {
                       inputValue={petPerRental}
                       min={0}
                       max={6}
-                      label="Slider"
                       step={0.1}
                       changeValue={number =>
                         dispatch({
@@ -418,7 +413,6 @@ const Calculator = () => {
                       inputValue={unAuthPetFee}
                       min={0}
                       max={600}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_UN_AUTH_PET_FEE",
@@ -432,7 +426,6 @@ const Calculator = () => {
                       inputValue={unAuthPetFeeRate}
                       min={0}
                       max={100}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_UN_AUTH_PET_FEE_RATE",
@@ -446,7 +439,6 @@ const Calculator = () => {
                       inputValue={petApprovalRate}
                       min={0}
                       max={100}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PET_APPROVAL_RATE",
@@ -474,7 +466,6 @@ const Calculator = () => {
                       inputValue={petDealTimeInHours}
                       min={0}
                       max={5}
-                      label="Slider"
                       step={0.1}
                       changeValue={number =>
                         dispatch({
@@ -489,7 +480,6 @@ const Calculator = () => {
                       inputValue={propManagementWagePerHour}
                       min={0}
                       max={120}
-                      label="Slider"
                       changeValue={number =>
                         dispatch({
                           type: "SET_PROP_MANAGEMENT_WAGE_PER_HOUR",

@@ -89,7 +89,6 @@ const ContactForm = () => {
               onChange={handleChange}
               value={formState.name}
               placeholder="Full Name"
-              aria-controls="infoDiv"  // Added aria-controls
               required={true}
             />
           </div>
@@ -100,7 +99,6 @@ const ContactForm = () => {
               name="company"
               onChange={handleChange}
               value={formState.company}
-              aria-controls="infoDiv"  // Added aria-controls
               placeholder="Company Name"
             />
           </div>
@@ -111,7 +109,6 @@ const ContactForm = () => {
               name="email"
               onChange={handleChange}
               value={formState.email}
-              aria-controls="infoDiv"  // Added aria-controls
               placeholder="Work Email"
               required={true}
             />
@@ -124,7 +121,6 @@ const ContactForm = () => {
               onChange={handleChange}
               value={formState.phone}
               placeholder="Phone"
-              aria-controls="infoDiv"  // Added aria-controls
               required={true}
             />
           </div>
