@@ -84,6 +84,6 @@ Landlord Tech specializes in providing digital tools to help property owners and
 
 Contact us today for a [free demonstration](https://info.ourpetpolicy.com/demo/) to see how OurPetPolicy can help you better manage your residential pet program.
 
-[![](/assets/fraudulent-esa-loopholes-for-property-managers-to-look-for.jpg)](https://info.ourpetpolicy.com/demo/)
+[![Request Demo](/assets/fraudulent-esa-loopholes-for-property-managers-to-look-for.jpg)](https://info.ourpetpolicy.com/demo/)
 
 ![]()
