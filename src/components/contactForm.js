@@ -71,17 +71,17 @@ const ContactForm = () => {
         >
           <input type="hidden" name="form-name" value="contact-us" />
           <div className="input-field">
+            <label htmlFor="inquiryType">Inquiry Type</label>
             <Select
               id="inquiryType"
               name="inquiryType"
               options={options}
-              aria-controls="infoDiv"  // Added aria-controls
-              onChange={(e) =>
-                setFormState({ ...formState, inquiryType: e.value })
-              }
+              aria-controls="infoDiv"
+              onChange={(e) => setFormState({ ...formState, inquiryType: e.value })}
             />
           </div>
           <div className="input-field">
+            <label htmlFor="name">Full Name</label>
             <input
               type="text"
               id="name"
@@ -90,9 +90,11 @@ const ContactForm = () => {
               value={formState.name}
               placeholder="Full Name"
               required={true}
+              aria-required="true"
             />
           </div>
           <div className="input-field">
+            <label htmlFor="company">Company Name</label>
             <input
               type="text"
               id="company"
@@ -103,6 +105,7 @@ const ContactForm = () => {
             />
           </div>
           <div className="input-field">
+            <label htmlFor="email">Work Email</label>
             <input
               type="email"
               id="email"
@@ -111,9 +114,11 @@ const ContactForm = () => {
               value={formState.email}
               placeholder="Work Email"
               required={true}
+              aria-required="true"
             />
           </div>
           <div className="input-field">
+            <label htmlFor="phone">Phone</label>
             <input
               type="tel"
               id="phone"
@@ -122,17 +127,20 @@ const ContactForm = () => {
               value={formState.phone}
               placeholder="Phone"
               required={true}
+              aria-required="true"
             />
           </div>
           <div className="input-field">
+            <label htmlFor="message">Message</label>
             <textarea
               id="message"
               name="message"
-              aria-controls="previewDiv"  // Added aria-controls
+              aria-controls="previewDiv"
               onChange={handleChange}
               value={formState.message}
               placeholder="Message"
               required={true}
+              aria-required="true"
             />
           </div>
           <button className="btn btn-md primary min-130" type="submit">
