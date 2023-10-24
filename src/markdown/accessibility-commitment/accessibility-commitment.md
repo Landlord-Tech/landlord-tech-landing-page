@@ -1,5 +1,7 @@
 ---
 title: accessibility-commitment
+metaTitle: Landlord Tech Accesibility Commitment | Website Statement
+metaDescription: "Ultra Labs is committed to ensuring digital accessibility for all visitors"
 heroHeading: Website Statement
 ---
 

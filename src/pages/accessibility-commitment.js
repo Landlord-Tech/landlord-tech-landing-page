@@ -4,13 +4,13 @@ import HTMLContent from "../components/HTMLContent"
 import { useAccessibilityCommitment } from "../fetchHooks/useAccessibilityCommitment"
 import Seo from "../components/seo"
 
-
 const AccessibilityCommitment = () => {
-  const { frontmatter, html } = useAccessibilityCommitment()
+  const { frontmatter, html, metaTitle, metaDescription } =
+    useAccessibilityCommitment()
   const { heroHeading } = frontmatter
   return (
     <Layout>
-      <Seo title="ADA Statement | Protect your Properties with Landlord Tech" description="Ensure protection of your rental properties with the best pet management platform from Landlord Tech." />
+      <Seo title={metaTitle} description={metaDescription} />
       <section className="small-hero xs">
         <div className="container">
           <div className="small-hero-content">

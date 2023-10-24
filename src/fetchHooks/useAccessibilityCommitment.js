@@ -6,6 +6,8 @@ export const useAccessibilityCommitment = () => {
       markdownRemark(frontmatter: { title: { eq: "accessibility-commitment" } }) {
         html
         frontmatter {
+          metaTitle
+          metaDescription
           heroHeading
         }
       }
