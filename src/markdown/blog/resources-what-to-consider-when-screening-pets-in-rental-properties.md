@@ -44,7 +44,7 @@ When tenants first bring pets onto the property, it's essential to obtain specif
 
 Regular communication and [education about responsible pet ownership](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy/) are essential for maintaining a harmonious pet-friendly rental community. By keeping pet-owning tenants updated and informed, your property team can help reinforce expectations, prevent misunderstandings, and ensure that tenants and pets coexist peacefully. Pet management software can serve as a great vehicle to get the word out. Many applications include the ability to distribute guides on pet care and etiquette, update residents on any policy changes, or offer information on local pet-friendly activities and services. Platforms such as OurPetPolicy even offer responsible pet owner training modules as part of their out-of-the-box solution.
 
-[![Demo](/assets/property_pet_screening_for_landlords.png "L﻿earn more how to properly screen pets for your rental property with OurPetPolicy")](https://landlordtech.com/resources/the-landlords-essential-guide-to-esas/)
+[![L﻿earn more how to properly screen pets for your rental property with OurPetPolicy](/assets/property_pet_screening_for_landlords.png "L﻿earn more how to properly screen pets for your rental property with OurPetPolicy")](https://landlordtech.com/resources/the-landlords-essential-guide-to-esas/)
 
 ## Implementing Screening Procedures
 
