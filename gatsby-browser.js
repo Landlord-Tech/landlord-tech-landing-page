@@ -5,22 +5,7 @@
  */
 
 exports.onInitialClientRender = () => {
-  // Code for label element
-  let label = document.querySelector(".switch")
-  if (label) {
-    // Create a text node with the desired text
-    let textNode = document.createTextNode("Toggle option: ")
-
-    // Create a span element to wrap the text node
-    let span = document.createElement("span")
-    span.className = "visually-hidden"
-
-    // Append the text node to the span element
-    span.appendChild(textNode)
-
-    // Insert the span element as the first child of the label element
-    label.insertBefore(span, label.firstChild)
-  }
+ 
 
   // Code for input element
   let inputElement = document.querySelector('input[max="100000"]')
@@ -68,17 +53,6 @@ exports.onInitialClientRender = () => {
   if (buttonElement) {
     // Add the 'aria-label' attribute to the button element
     buttonElement.setAttribute("aria-label", "Go to Top")
-  }
-
-  // Added code for accessibility enhancement of the PDF download link
-  let downloadLink = document.querySelector(
-    'a[href="/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf"]'
-  )
-  if (downloadLink) {
-    downloadLink.setAttribute(
-      "aria-label",
-      "Download Changing World of Rental Property Pet Damage PDF"
-    )
   }
 
   // Handle unlabeled checkboxes:
@@ -195,19 +169,33 @@ exports.onInitialClientRender = () => {
     })
   })
 
-  // Targeting the specific input based on its attributes
-let specificInput = document.querySelector('input[autocapitalize="none"][autocomplete="off"][autocorrect="off"][id="react-select-2-input"][type="text"][role="combobox"]');
+ // Handle Sliders:
+ let sliderHandles = document.querySelectorAll('.rc-slider-handle[role="slider"]');
+  
+ sliderHandles.forEach((slider, index) => {
+   // If slider already has an aria-label, skip
+   if (!slider.hasAttribute("aria-label")) {
+     // Find the closest heading or relevant label for the slider
+     let labelElem = slider.closest(".rangeInput-wrapper").previousElementSibling;
 
-if (specificInput) {
-    specificInput.addEventListener('focus', () => {
-        if (window.getComputedStyle(specificInput).outlineWidth === "0px" || window.getComputedStyle(specificInput).outlineStyle === "none") {
-            specificInput.style.outline = '2px solid blue !important'; // Adding !important
-        }
-    });
+     if (labelElem && labelElem.tagName === "H5") {
+       let labelText = labelElem.textContent.trim();
+       slider.setAttribute("aria-label", labelText);
+     } else {
+       slider.setAttribute("aria-label", `Slider ${index + 1}`);
+     }
+   }
+ });
 
-    specificInput.addEventListener('blur', () => {
-        specificInput.style.outline = '';  // Resetting the outline when the element loses focus
-    });
-}
+ // Handle Comboboxes:
+ let comboBoxes = document.querySelectorAll('input[role="combobox"]');
+ comboBoxes.forEach(comboBox => {
+   if (!comboBox.hasAttribute("aria-label") && !comboBox.hasAttribute("aria-labelledby")) {
+     // If there's no label, provide a generic one (this can be enhanced)
+     comboBox.setAttribute("aria-label", "Select an option");
+   }
+ });
+
+
 
 }

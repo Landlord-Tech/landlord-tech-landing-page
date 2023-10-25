@@ -18,6 +18,8 @@ const Footer = () => {
     privacyPolicyUrl,
     termsAndConditionsTitle,
     termsAndConditionsUrl,
+    accessibilityStatementTitle,
+    accessibilityStatementUrl,
   } = useFooterData()
 
   return (
@@ -33,8 +35,7 @@ const Footer = () => {
         </Link>
         <ul className="footer-top">
           <li className="footer-top-col">
-          <div className="footer-logos">
-          
+            <div className="footer-logos">
               <StaticImage
                 src="../images/2018-Industry-Partner.png"
                 alt="OPP"
@@ -42,23 +43,23 @@ const Footer = () => {
                 placeholder="transparent"
                 className="industry-partner"
               />
-            <br />
-            <Link
-              to={
-                "https://landlordtech.com/resources/ourpetpolicy-narpm-affiliate-of-the-year"
-              }
-            >
-              <StaticImage
-                src="../images/OPP-badge.png"
-                alt="OPP"
-                formats={["AUTO", "WEBP", "AVIF"]}
-                placeholder="transparent"
-                className="opp-badge"
-              />
-            </Link>
+              <br />
+              <Link
+                to={
+                  "https://landlordtech.com/resources/ourpetpolicy-narpm-affiliate-of-the-year"
+                }
+              >
+                <StaticImage
+                  src="../images/OPP-badge.png"
+                  alt="OPP"
+                  formats={["AUTO", "WEBP", "AVIF"]}
+                  placeholder="transparent"
+                  className="opp-badge"
+                />
+              </Link>
             </div>
           </li>
-          
+
           <li className="footer-top-col">
             <h4 className="h4">{col1Title}</h4>
             {col1List.map(({ listItem, listItemUrl }, i) => {
@@ -116,9 +117,11 @@ const Footer = () => {
         </ul>
         <div className="footer-bottom">
           <p>
-            <a href={privacyPolicyUrl}>{privacyPolicyTitle}</a>
-            <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a> ©{" "}
-            {new Date().getFullYear()} Landlord Tech. All Rights Reserved.
+            {/* {new Date().getFullYear()}  */}© Landlord Tech. All Rights
+            Reserved. |<a href={privacyPolicyUrl}>{privacyPolicyTitle}</a> |
+            <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a> |
+            <a href="https://landlordtech.com/accessibility-commitment">Website Statement
+            </a>
           </p>
         </div>
       </div>

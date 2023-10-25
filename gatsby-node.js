@@ -37,56 +37,56 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 
 
-  // const partnersDetail = path.resolve(`./src/templates/partnersDetail.js`)
-  // const partnersDetailResult = await graphql(`
-  //   {
-  //     allMarkdownRemark(
-  //       filter: { frontmatter: { title: { eq: "partners-detail" } } }
-  //     ) {
-  //       edges {
-  //         node {
-  //           id
-  //           frontmatter {
-  //             metaTitle
-  //             metaDescription
-  //             path
-  //             logo {
-  //               childImageSharp {
-  //                 gatsbyImageData
-  //               }
-  //             }
-  //             partnerName
-  //             address
-  //             about
-  //             buttonName
-  //             buttonUrl
-  //             partnerDetailsList {
-  //               label
-  //               content
-  //             }
-  //             faqList {
-  //               faqQuestion
-  //               faqAnswer
-  //             }
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
+  const partnersDetail = path.resolve(`./src/templates/partnersDetail.js`)
+  const partnersDetailResult = await graphql(`
+    {
+      allMarkdownRemark(
+        filter: { frontmatter: { title: { eq: "partners-detail" } } }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              metaTitle
+              metaDescription
+              path
+              logo {
+                childImageSharp {
+                  gatsbyImageData
+                }
+              }
+              partnerName
+              address
+              about
+              buttonName
+              buttonUrl
+              partnerDetailsList {
+                label
+                content
+              }
+              faqList {
+                faqQuestion
+                faqAnswer
+              }
+            }
+          }
+        }
+      }
+    }
+  `)
 
   // Handle errors
-  // if (partnersDetailResult.errors) {
-  //   reporter.panicOnBuild(`Error while running GraphQL query.`)
-  //   return
-  // }
-  // partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
-  //   createPage({
-  //     path: node.frontmatter.path,
-  //     component: partnersDetail,
-  //     context: {}, // additional data can be passed via context
-  //   })
-  // })
+  if (partnersDetailResult.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+  partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.path,
+      component: partnersDetail,
+      context: {}, // additional data can be passed via context
+    })
+  })
   createRedirect({
     fromPath: "/request-demo",
     toPath: "https://info.ourpetpolicy.com/demo/",

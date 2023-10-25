@@ -62,8 +62,10 @@ const CalculatorSection = () => {
           <label className="switch">
             <input
               type="checkbox"
+              id="petsAllowedCheckbox"
               checked={noPetsAllowed}
               onChange={handleSwitchChange}
+              aria-label="Toggle for allowing or disallowing pets"
             />
             <span className="slider" />
           </label>
