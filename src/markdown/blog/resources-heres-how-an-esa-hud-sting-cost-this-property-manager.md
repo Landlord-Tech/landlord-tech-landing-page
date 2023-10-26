@@ -44,6 +44,8 @@ Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the inte
 
 `youtube: https://youtu.be/1m-TfVdiPGc`
 
+<iframe src="https://www.youtube.com/embed/1m-TfVdiPGc" title="Interview with the landlord"></iframe>
+
 **How to Avoid HUD Fines Surrounding Emotional Support Animals**
 
 As a property manager, it is imperative that you understand all the legalities involving housing disability accommodations and assistance animals. This is your legal duty as a landlord. Failure to understand these regulations and appropriately train your staff can place you on the wrong end of a legal battle with the government of the United States, costing you nearly $100,000 or more in fines and legal fees.  
