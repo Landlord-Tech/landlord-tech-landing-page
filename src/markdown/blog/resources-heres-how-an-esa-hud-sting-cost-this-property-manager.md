@@ -44,7 +44,7 @@ Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the inte
 
 `youtube: https://youtu.be/1m-TfVdiPGc`
 
-<iframe width="100%" src="https://www.youtube.com/embed/1m-TfVdiPGc" title="Interview with the landlord"></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/1m-TfVdiPGc" title="Interview with the landlord"></iframe>
 
 **How to Avoid HUD Fines Surrounding Emotional Support Animals**
 
