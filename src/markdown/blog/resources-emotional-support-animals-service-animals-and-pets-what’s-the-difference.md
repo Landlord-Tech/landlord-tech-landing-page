@@ -30,7 +30,7 @@ Anyone that has a pet knows how significant their role in our lives can be. It�
 
 ![Differentiating ESA, service animals, and pets](/assets/manage-esas-service-animals-and-pets.jpg)
 
-### Emotional Support Animals (ESAs)
+## Emotional Support Animals (ESAs)
 
 With a steady rise in mental health awareness and a focus on providing the proper resources to those in need, emotional support animals (ESAs) have become an alternative solution in people’s lives replacing, or supporting, prescription medications and other forms of help. Also referred to as comfort animals or therapy animals, ESAs do not require any specific training and they can be any type of animal, according to the U.S. Department of Housing and Urban Development. It has been noted that people living with mental disabilities and mental illnesses find much-needed comfort and companionship from ESAs. ESAs have been said to alleviate certain symptoms, lessen loneliness, help with depression, anxiety, and even some phobias.
 
@@ -38,7 +38,7 @@ With a steady rise in mental health awareness and a focus on providing the prope
 
 Emotional support animals receive different accommodations than a pet in some housing instances, as they are not considered pets. When it comes to renting, under the Fair Housing Act, individuals with an Emotional Support Animal may request reasonable accommodations and waive a “no pet policy”. This means that if the housing has a No Pet Policy on their premise, the ESA is permitted to reside on the property regardless of the policy so long as the animal does not pose a direct threat to the health or safety of others. Since emotional support animals are not considered pets, they are considered assistive aids. People with ESAs are protected from being asked about the existence, nature, and extent of their disability so long as a letter indicating the need for an ESA is presented. An ESA letter, provided by a doctor or mental health professional, not only waives a no pet policy but also exempts the individual from paying any pet fees.
 
-### Service Animals
+## Service Animals
 
 Service animals are those animals that have undergone [specialized training](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) to perform certain tasks or work in aid of people with disabilities, which might include physical, sensory, psychiatric, intellectual, or others as defined under [Title II and Title III of the ADA](https://adata.org/factsheet/service-animals).
 
@@ -53,7 +53,7 @@ A business is only entitled to ask:
 
 Similar to an ESA, service animals are permitted to reside on a rental property regardless of a no-pet rule so long as the animal does not pose a direct threat to the health or safety of others.
 
-### Pets
+## Pets
 
 Pets, on the other hand, are considered animals that people keep just for the joy of their companionship and entertainment. However, unlike the above-mentioned service animals and emotional support animals, they do not receive any special considerations when it comes to the pet policies at rentals. If a landlord has a “No Pet Policy,” then a resident is not allowed to have a pet regardless of whether ESAs or Service Animals are accommodated. If pets are allowed at a rental, then [pet-owning tenants](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets) must agree to the rental’s specific pet policies, which can include pet fees, pet deposits, and/or pet rent.
 
