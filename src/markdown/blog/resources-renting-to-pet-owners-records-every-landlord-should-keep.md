@@ -27,29 +27,29 @@ We’ve talked about the [positive benefits](https://landlordtech.com/resources/
 
 ![Records every landlord should keep](/assets/records-every-landlord-should-keep.jpg)
 
-### **Vaccination Records**
+## **Vaccination Records**
 
 First and foremost, make sure that the pet has received all necessary vaccinations and that they are regularly updated. Rabies is a serious concern and even the friendliest of pets can still bite. Not only that, pets can also carry infectious viruses which can be quite dangerous for younger animals. Making sure that all pets on your properties have been vaccinated and are regularly updated with their boosters as recommended makes it safer for everyone. When it comes to your pet screening process, health should be at the top of the list.
 
 ![Animal addendum to lease for rental properties](/assets/systemize-your-pet-program.jpg)
 
-### **Breed and Animal Type**
+## **Breed and Animal Type**
 
 Pets come in all shapes and sizes, and some tenants will prefer them to be big and playful while others like them small enough to fit in a backpack! The type of animal is important when it comes to insurance costs and projected [pet-related damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage). Damage could result from a pet having too much energy and restlessness, the fact that they’re bigger, a propensity to chew on anything, or dig holes anywhere. As a property manager, you need to be prepared to deal with issues a prospective tenant’s pet might have in your property.
 
-### **Consider a Pet Resume**
+## **Consider a Pet Resume**
 
 It might sound silly, but a pet resume can be a great way to simplify the pet screening process. Making a template and asking the tenant to provide documents with signed references makes vetting information a lot easier. You can indicate requirements such as a note from their vet on how well they keep up with vaccinations or if they have any medical conditions, a word from a former landlord about if the pet is house trained, the general behavior of the pet, and a list of care arrangements when tenants are at work or in emergency situations. You might even want to ask the tenant to show that their pet can follow basic commands. All of these things will come up one way or another in the future, and being transparent about it from the get-go will immensely benefit both parties.
 
-### **Resident Allergy Information**
+## **Resident Allergy Information**
 
 Allergies are very serious, and it can be dangerous for people to be exposed to animal dander. In fact, according to the Asthma and Allergy Foundation of America, three in ten people who have allergies have allergic reactions to cats and dogs, with cats being the more common allergen. This can cause quite an issue if you bring in a new tenant with an animal and somebody next door starts having trouble breathing! There have been many reported cases that have resulted in lawsuits where the property manager was found negligent, so better be careful and always cover your bases and gather information for a [proper pet screening](/resources/best-practices-to-properly-screen-pets-for-apartments).
 
-### **Identify Which Pet Lives With Whom**
+## **Identify Which Pet Lives With Whom**
 
 Ask the tenant for a clear photograph of the pet and keep a record of who goes with whom. This is a great way to get to know the pets so you can recognize them if they go missing or trespass on other properties, and identify unauthorized animals. Being familiar with who lives in which property might also come in handy when considering who their neighbors are going to be. It could be that one has allergies or that they might have a pet that would not go well with existing pets. After all, matching the right tenant to the right neighbor is a huge [consideration in rental spaces](https://landlordtech.com/resources/considerations-tenants-make-when-choosing-a-rental) if you want to maintain the peace.
 
-### **Incident Reports and Details**
+## **Incident Reports and Details**
 
 When pets are involved, there’s bound to be some sort of incident down the road. From noise complaints to property damage, and even aggressive behavior, it’s a property manager’s job to take note of incidents and address them. This makes it easier for you to identify repeat offenders and think of proper ways to address the issues so that they don’t happen again. This could mean [additional fees](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy), mediating tenants, or even recommending [pet training](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) to curtail bad behavior. In any case, conflict resolution is a big part of your responsibilities so always keep your records up to date.
 
