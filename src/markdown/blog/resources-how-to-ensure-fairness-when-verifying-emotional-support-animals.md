@@ -66,3 +66,5 @@ The importance of following federal guidelines and ensuring fairness in the ESA 
 That’s where [ESA verification platforms](https://landlordtech.com/resources/seven-esa-loopholes-commonly-used-by-tenants-and-how-to-close-them/) can help. OurPetPolicy in particular is an ideal solution that allows landlords to confidently manage ESA accommodation requests while upholding the highest standards of fairness and compliance. Additionally, OurPetPolicy’s proprietary technology helps to streamline the verification process while also providing centralized documentation storage, resident communication channels, task automation, and many other useful features.
 
 Take charge of your ESA verification process. [Get started with OurPetPolicy](https://info.ourpetpolicy.com/demo/) today!
+
+[![Demo](/assets/efficient_esa_verification_process_with_ourpetpolicy.png "Schedule a demo today with OurPetPolicy")](https://info.ourpetpolicy.com/demo/)
