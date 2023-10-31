@@ -97,8 +97,8 @@ Why Pet Fees are a Necessary Landlord Strategy
 
 • And more!
 
-\*\*Get the complete guide \[here]
+\*\*Get the coplete guide \[here]
 
 [![Download Ebook](/assets/why-pet-fees.png "Ebook")](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
 
-### **[Download Ebook](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)**
+###### **[Download Ebook](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)**
