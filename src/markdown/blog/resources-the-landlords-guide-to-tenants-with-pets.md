@@ -91,3 +91,5 @@ The decision to accept pets in your rental properties should not be taken lightl
 [![Ebook](/assets/changing-world-of-rental-property-pet-damage.jpg "Ebook")](/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)
 
 ### **[Download Pet Damage Report PDF](/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf)**
+
+<button type="button" onclick="/assets/Changing-World-of-Rental-Property-Pet-Damage.pdf">Download Pet Damage Report PDF</button>
