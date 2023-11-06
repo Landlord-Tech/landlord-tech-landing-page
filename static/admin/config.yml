@@ -98,10 +98,10 @@ collections:
       - { name: title, label: Title, widget: hidden }
       - { name: heroHeading, label: Hero title }
       - { name: body, label: Content, widget: markdown }
-   # Accesibility Statement
-  - name: accesibility-statement
-    label: Accesibility Statement
-    folder: src/markdown/accesibility-statement
+   # accesibility statement
+  - name: accessibility-commitment
+    label: Accessibility Commitment
+    folder: src/markdown/accessibility-commitment
     preview_path: /
     editor:
       preview: false
@@ -670,6 +670,8 @@ collections:
         fields:
           - { name: faqQuestion, label: FAQ question }
           - { name: faqAnswer, label: FAQ answer, widget: markdown }
+    identifier_field: "partnerName"
+
   # 404
   - name: not-found
     label: Not Found
