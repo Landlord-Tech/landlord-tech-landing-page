@@ -30,7 +30,7 @@ With the surge in popularity of emotional support animals (ESAs) in recent years
 
 Here are seven of the most common loopholes that tenants often use in regards to [ESAs and how you, as a landlord or property manager, can close them for good](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023).
 
-![ESA loopholes use by tenants](/assets/esa-verification-for-property-managers.jpg)
+![ESA loopholes use by tenants](/assets/esa-verification-for-property-managers.jpg "ESA loopholes use by tenants")
 
 ## **1. Taking Advantage of No-Unauthorized-Pet Fees**
 
@@ -50,7 +50,7 @@ Breed restrictions are often a good idea to avoid large or potentially aggressiv
 
 Regulations do dictate, however, that even emotional support animals can be banned from a residential property based on a history of misbehavior. If pets are permitted at your property, the lease terms and/or ESA policies should specify how and when ESAs may be barred from the premises.
 
-![Using ESA letters to get pet accepted in rental property](/assets/3loop.png)
+![Using ESA letters to get pet accepted in rental property](/assets/3loop.png "Using ESA letters to get pet accepted in rental property")
 
 ## **4. Avoiding Household Restrictions on Pet Limits**
 
@@ -64,7 +64,7 @@ Obtaining a true emotional support animal starts with seeing a doctor or special
 
 In order to house more pets beyond what’s recommended, tenants have been known to see multiple therapists in order to obtain additional emotional support animals. As a landlord or property manager, you’ll want to be sure that any such letters are verified and in compliance with local and federal laws.
 
-![Taking advantage of ESAs](/assets/online-esa-verification-for-property-owners.jpg)
+![Taking advantage of ESAs](/assets/online-esa-verification-for-property-owners.jpg "Taking advantage of ESAs")
 
 ## **6. Pet Waste Fees That Are Too Low**
 
@@ -84,6 +84,4 @@ Landlord Tech specializes in providing digital tools to help property owners and
 
 Contact us today for a [free demonstration](https://info.ourpetpolicy.com/demo/) to see how OurPetPolicy can help you better manage your residential pet program.
 
-[![Request Demo](/assets/fraudulent-esa-loopholes-for-property-managers-to-look-for.jpg)](https://info.ourpetpolicy.com/demo/)
-
-![]()
+![Request Demo](/assets/fraudulent-esa-loopholes-for-property-managers-to-look-for.jpg)](https://info.ourpetpolicy.com/demo/ "Request Demo)
