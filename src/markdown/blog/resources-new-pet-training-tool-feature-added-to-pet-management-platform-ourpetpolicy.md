@@ -37,7 +37,7 @@ The addition of the Pet Owner Curriculum to OurPetPolicy enhances the [platformâ
 
 For more information on OurPetPolicy and the other digital tools from Landlord Tech, visit them online at [landlordtech.com](https://landlordtech.com/).
 
-[![Learn More About Protect Rental Properties](/assets/protect_rental_properties_from_pet_damage.png "Learn More About Protect Rental Properties")](https://landlordtech.com/)
+[![About Protect Rental Properties](/assets/protect_rental_properties_from_pet_damage.png "About Protect Rental Properties")](https://landlordtech.com/)
 
 **\
 About Landlord Tech**
