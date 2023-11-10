@@ -50,7 +50,7 @@ There are many ways to increase your average rent for pet owners.
 
 80% of pet owners currently pay pet deposits, so you won’t need to worry about being less competitive.
 
-![Pet-friendly properties increases rental pool](/assets/renters-with-pets.jpeg)
+![Pet-friendly properties increases rental pool](/assets/renters-with-pets.jpeg "Pet-friendly properties increases rental pool")
 
 ### **Pet Owners Are More Responsible**
 
@@ -64,7 +64,7 @@ Landlords that don’t allow pets sometimes find themselves still having to deal
 
 The Fair Housing Act requires landlords to accommodate tenants with [service animals and emotional support animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference). This applies to all rentals, not just pet-friendly ones. Violating this law will result in a $16k fine, and further violations fines can reach $65k or higher. Unfortunately, a reported 70% of the emotional support letters are fraudulent, so there’s no guarantee the pet is appropriately trained. By allowing pets, you’ll be less likely to run into these fraudulent activities and have policies in place to protect your property.
 
-![pros and cons of pet-friendly rental properties](/assets/renting-to-pets.jpeg)
+![pros and cons of pet-friendly rental properties](/assets/renting-to-pets.jpeg "pros and cons of pet-friendly rental properties")
 
 ## Cons
 
