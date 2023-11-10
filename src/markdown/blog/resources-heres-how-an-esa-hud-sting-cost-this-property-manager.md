@@ -40,9 +40,9 @@ In 2008, HUD agents called the property and spoke with a newly hired onsite mana
 
 The undercover agents called multiple times asking the same question, and the manager continued to deny the request. That was enough for the government. They levied fines against the landlord totaling $60,000. In addition, the victim of this sting spent more than $20,000 in attorney’s fees as part of the lawsuit, resulting in well over $80,000 in charges as a result of a simple disregard for Fair Housing Act policies surrounding ESAs.
 
-Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the interview with the landlord.
+Here’s a [Interview with the landlord](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the interview with the landlord.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/1m-TfVdiPGc" title="Interview with the landlord"></iframe>
+<p><iframe width="100%" height="500" src="https://www.youtube.com/embed/1m-TfVdiPGc" title="Interview with the landlord"></iframe></p>
 
 **How to Avoid HUD Fines Surrounding Emotional Support Animals**
 
