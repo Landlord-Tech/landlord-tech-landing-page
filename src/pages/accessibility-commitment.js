@@ -5,9 +5,9 @@ import { useAccessibilityCommitment } from "../fetchHooks/useAccessibilityCommit
 import Seo from "../components/seo"
 
 const AccessibilityCommitment = () => {
-  const { frontmatter, html, metaTitle, metaDescription } =
-    useAccessibilityCommitment()
-  const { heroHeading } = frontmatter
+  const { frontmatter, html } = useAccessibilityCommitment()
+  const { heroHeading, metaTitle, metaDescription } = frontmatter
+
   return (
     <Layout>
       <Seo title={metaTitle} description={metaDescription} />
