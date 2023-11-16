@@ -32,7 +32,7 @@ Some may ask, what is the point of having a pet-friendly policy? And, are there 
 
 ![Thinking of moving to a pet-friendly policy](/assets/lawyer-vetted-pet-policies.jpeg)
 
-## Challenges of transitioning to a pet-friendly policy
+### Challenges of transitioning to a pet-friendly policy
 
 As with any change, some adjustments need to be made, and these are the most common points of concern many landlords face when making the transition:
 
@@ -40,7 +40,7 @@ As with any change, some adjustments need to be made, and these are the most com
 * Time, paperwork, and process change. Although the initial effort to adjust your processes may seem time-consuming and costly, it’s a great step to initiate additional revenue. Putting in the time to set up strong pet policies, ensure you are meeting your tenant’s expectations, as well as having a clear understanding of the related [pet fees](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy), waste management practices, and maintenance of pet damage can help make the tenant-landlord relationship that much better.
 * Disgruntled non-pet owners. This goes hand in hand with the previous point. [Setting up a clear pet policy](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property) on what areas are common areas for everyone, where pets are allowed, and setting clear animal expectations such as proper pet waste management, noise, and [damage around the premise](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) are all ways to mitigate animal-related complaints. 
 
-## Going Pet Friendly - What’s in it for you?
+### Going Pet Friendly - What’s in it for you?
 
 As a landlord, you need to balance giving your tenants the best living experience possible as well as making sure that you are maximizing profits. Here are the biggest reasons why you should consider going pet-friendly today:
 

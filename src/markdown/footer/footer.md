@@ -25,8 +25,8 @@ col4List:
   - listItem: info@landlordtech.com
     icon: envelope
     link: mailto:info@landlordtech.com
-privacyPolicyTitle: Privacy
-privacyPolicyUrl: https://landlordtech.com/privacy-policy/
-termsAndConditionsTitle: Terms & Conditions
-termsAndConditionsUrl: https://landlordtech.com/terms-and-conditions/
+privacyPolicyTitle: Privacy.
+privacyPolicyUrl: /privacy-policy/
+termsAndConditionsTitle: Terms & Conditions.
+termsAndConditionsUrl: /terms-and-conditions/
 ---

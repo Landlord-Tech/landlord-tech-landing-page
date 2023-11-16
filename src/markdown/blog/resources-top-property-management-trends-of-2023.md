@@ -30,7 +30,7 @@ Each new year is marked by notable shifts in how tenants approach leasing and ho
 
 Here are the top trends in property management to look out for in 2023:
 
-## **1. Strong Growth and Demand**
+#### **1. Strong Growth and Demand**
 
 Even with fears of a looming recession, the rental market is still booming. Rent prices have continued to climb in top markets across the United States, and demand is still strong. This is especially true for [multifamily properties](/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy). Single-family homes remain a rare find on the rental market, so tenants have begun to explore other housing options with multiple units. 
 
@@ -38,7 +38,7 @@ With demand still hot, many property management companies have already stated th
 
 ![Strong growth and demand is one of the top trends in 2023](/assets/increase_tenant_applications_in_2023.png)
 
-## **2. Creative Rental Incentives**
+#### **2. Creative Rental Incentives**
 
 Even with a strong rental market, property managers will still be experimenting with unique incentives in 2023. Attracting top tenants remains a top priority, and competing for these tenants can often drive attractive incentive terms for prospective renters. There has been especially strong growth in new construction of luxury apartment complexes, which are notorious for offering incentives to fill their slate of apartments. Established landlords have no choice but to compete.
 
@@ -46,7 +46,7 @@ Incentives may include longer lease terms or promotional deals with additional i
 
 ![Creative rental incentives can attract tenants to stay longer](/assets/tips_for_longer_lease_terms.png)
 
-## **3. More Pet-Friendly Policies**
+#### **3. More Pet-Friendly Policies**
 
 [Pet-friendly policies will remain competitive](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) advantages for landlords in 2023. Not only do pet-friendly facilities instantly [increase tenant application](/resources/how-to-increase-tenant-applications-at-your-rental-property) pools, but they can also help boost the quality of tenant applicants. Typically, [renters who own pets](/resources/the-landlords-guide-to-tenants-with-pets) are also more responsible, accountable, and interested in longer lease terms.
 
@@ -54,7 +54,7 @@ Developing a pet-friendly policy for your property can also increase net operati
 
 ![Pet-friendly rental properties tend to have more tenant application pools](/assets/rental_agreement_animal_addendum.png)
 
-## **4. Shift to Services vs. Amenities**
+#### **4. Shift to Services vs. Amenities**
 
 Years ago, amenities were a hot commodity. Apartment complexes raced to add free coffee, ping pong tables, and upgraded fitness centers to attract the next generation of tenants. While amenities will certainly still be an important draw in 2023, tenants are increasingly more interested in services rather than saunas or rooftop lounges.
 
@@ -62,7 +62,7 @@ Property managers would be wise to invest in their maintenance response times an
 
 ![Tenants are becoming more interested in services over amenities](/assets/property_tech_software_for_landlords.png)
 
-## **5. Use of Property Management Software**
+#### **5. Use of Property Management Software**
 
 Software solutions have become [important tools](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) to manage businesses across industries. Real estate and rental housing is no different. A top trend to look out for in the coming year is the growth in tools available to property owners. These tools can help automate processes like rent collection, virtual leasing, property maintenance, and even [pet management](https://landlordtech.com/about/). 
 
@@ -70,7 +70,7 @@ Not only can these solutions drive efficiency, productivity, and cost savings, b
 
 ![Property management software can help property owners to automate processes in managing rental properties](/assets/pet_management_software_for_rental_properties.png)
 
-## **Get a Head Start on 2023**
+### **Get a Head Start on 2023**
 
 Property managers have a lot to be optimistic about in the new year. With rental demand still strong, now’s the time to start rethinking your business strategy and how you can better manage your units to better serve your tenants and your bottom line.
 

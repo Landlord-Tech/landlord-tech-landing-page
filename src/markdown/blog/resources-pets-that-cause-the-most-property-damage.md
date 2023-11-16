@@ -32,7 +32,7 @@ As long as [animals have been cohabiting with humans](https://landlordtech.com/r
 
 Allowing pets on a property can help increase the prospective [tenant pool](https://landlordtech.com/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee) and allow leasers to earn more revenue through [pet fees](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy). And while it is unavoidable, such damage caused by cats and dogs can also be heavily mitigated with the right pet policy and protections in place. Understanding what to expect and what breeds are more likely to cause loss and destruction can help you prepare and set appropriate boundaries. 
 
-## **Cats Can Cause Property Damage Too**
+**Cats Can Cause Property Damage Too**
 
 While cats are generally less hyperactive than dogs, they can still cause their fair share of property damage, especially if they are left unattended for too long. Cat urine carries a strong smell, and untended litter boxes can cause the smell to permeate the property long after a resident leaves. If urine winds up imbedded in carpeting, pricey deep cleaning or removal/replacement may be necessary.
 
@@ -43,7 +43,7 @@ Cats are also natural-born climbers and scratchers. Tall furniture, curtains, sc
 
 Out of 100 renters in a complex, at least 15 will be allergic to cats. Nearly twice as many people are allergic to cats than dogs, and cat hair and dander is known to stick and linger. Even after a tenant moves out and the apartment is cleaned, there’s a risk of an allergic reaction to future tenants occupying an apartment where the cat recently lived.
 
-## **Dog Breeds to Watch Out For**
+**Dog Breeds to Watch Out For**
 
 Dogs can wreak havoc in homes and apartments, especially if they are not properly trained. And with more dogs than cats living as pets, there’s just a naturally greater chance of property damage occurring. The amount and type of damage that can occur does vary widely, however. Some breeds are more likely than others to chew, bark, and bite. Here are the breeds that are most likely to cause the most damage to your property.
 
@@ -57,7 +57,7 @@ Dogs can wreak havoc in homes and apartments, especially if they are not properl
 
 ![Pet damage reduction from pet platform](/assets/pet-damage-reduction-from-pet-platform.png "Pet Damage Reduction from Pet Platform")
 
-## **Collect More Income and Manage Pet Damage With OurPetPolicy**
+**Collect More Income and Manage Pet Damage With OurPetPolicy**
 
 While property damage is probable with any pet at your property, it’s manageable with the right policies. The deposits and fees that can be collected by permitting pets can easily make up for the hassle of [handling any damage](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage).
 
