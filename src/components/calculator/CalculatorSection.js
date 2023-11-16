@@ -59,7 +59,7 @@ const CalculatorSection = () => {
         <h3 className="calculator-title h3 primary bold">Your data</h3>
         <div className="switch-wrapper">
           <strong>Pets allowed</strong>
-          <label className="switch" aria-label="Switch for allowing or disallowing pets">
+          <label className="switch">
             <input
               type="checkbox"
               id="petsAllowedCheckbox"

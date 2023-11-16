@@ -134,6 +134,40 @@ exports.onInitialClientRender = () => {
     }
   })
 
+  // Find all images within links that don't have an alt attribute
+  const imagesWithoutAlt = document.querySelectorAll(
+    'a img:not([alt]), a img[alt=""]'
+  )
+
+  imagesWithoutAlt.forEach(img => {
+    // Set a default alt text
+    img.setAttribute("alt", "Linked Image")
+  })
+
+  // Get all focusable elements, which includes links (a), buttons, and elements with a tabindex of 0.
+  let focusableElements = [
+    ...document.querySelectorAll('a, button, [tabindex="0"]'),
+  ]
+
+  focusableElements.forEach(element => {
+    // Add an event listener for when the element receives focus.
+    element.addEventListener("focus", () => {
+      // Check if the currently focused element has its outline style turned off.
+      if (
+        window.getComputedStyle(element).outlineWidth === "0px" ||
+        window.getComputedStyle(element).outlineStyle === "none"
+      ) {
+        // If the outline is off, provide a custom outline style for better accessibility.
+        element.style.outline = "2px solid blue" // This style can be adjusted to match the website's theme.
+      }
+    })
+
+    // Add an event listener for when the element loses focus.
+    element.addEventListener("blur", () => {
+      // Reset the outline style when the element is no longer focused.
+      element.style.outline = ""
+    })
+  })
 
  // Handle Sliders:
  let sliderHandles = document.querySelectorAll('.rc-slider-handle[role="slider"]');

@@ -94,16 +94,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     redirectInBrowser: true, // optional, set to true for client-side redirects
     statusCode: 301, // optional, defaults to 200
   });
-  createRedirect({
-    fromPath: "/resources/what-landlords-need-to-know-about-esas-in-2021/",
-    toPath: "/resources/the-landlords-essential-guide-to-esas/",
-    isPermanent: true, // optional, set to true for 301 permanent redirects
-    redirectInBrowser: true, // optional, set to true for client-side redirects
-    statusCode: 301, // optional, defaults to 200
-  });
+
   createRedirect({
     fromPath: "/resources/what-landlords-need-to-know-about-esas-in-2022/",
-    toPath: "/resources/the-landlords-essential-guide-to-esas/",
+    toPath: "/resources/what-landlords-need-to-know-about-esas-in-2023/",
     isPermanent: true, // optional, set to true for 301 permanent redirects
     redirectInBrowser: true, // optional, set to true for client-side redirects
     statusCode: 301, // optional, defaults to 200

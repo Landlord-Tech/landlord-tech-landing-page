@@ -91,7 +91,6 @@ const ContactForm = () => {
               placeholder="Full Name"
               required={true}
               aria-required="true"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -103,7 +102,6 @@ const ContactForm = () => {
               onChange={handleChange}
               value={formState.company}
               placeholder="Company Name"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -117,7 +115,6 @@ const ContactForm = () => {
               placeholder="Work Email"
               required={true}
               aria-required="true"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -131,7 +128,6 @@ const ContactForm = () => {
               placeholder="Phone"
               required={true}
               aria-required="true"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
