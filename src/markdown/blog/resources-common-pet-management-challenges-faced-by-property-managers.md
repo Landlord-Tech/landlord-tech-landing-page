@@ -35,7 +35,7 @@ However, with these benefits, property managers must ensure pets are well-behave
 
 > Therefore, effective pet management is crucial for property managers to maintain a positive relationship with tenants and ensure the success of their rental properties.
 
-## 1. Noise Complaints
+### 1. Noise Complaints
 
 One of the most common complaints about pets in the building is the noise they create. These include darks barking, cats meowing, and even birds cawing. Unfortunately, noise complaints can be challenging to address as they are subjective. However, as a property manager, addressing these complaints as best you can is essential. This not only helps to maintain a comfortable living environment for all tenants but can also reduce legal liabilities and potential damage. 
 
@@ -43,7 +43,7 @@ The most important part of dealing with noise complaints is setting clear expect
 
 If the issue becomes severe enough, it may become necessary to issue warnings and fines to tenants who repeatedly violate the pet policies. However, always be sure this is done consistently and fairly, according to the lease agreement and local laws. This is also where pet management software can be helpful. With a centralized system to track and respond to complaints, you can more quickly and consistently respond and take the appropriate action. Plus, the software can provide a channel for residents to access helpful resources and information to address noise on their own. 
 
-## 2. Damage to Common Areas
+### 2. Damage to Common Areas
 
 Damage caused by pets can become a significant concern for property managers, as it can be costly to repair, affecting the property's overall value. Some typical damage caused by pets is scratching and staining on carpets or walls. However, addressing damage can be difficult as it can be hard to attribute it to a specific pet. 
 
@@ -55,7 +55,7 @@ You can also consider charging pet deposits or fees to help cover damage costs. 
 
  Plus, it can streamline charging and collecting pet deposits and fees. 
 
-## 3. Unauthorized Pets
+### 3. Unauthorized Pets
 
 Another common issue with managing pets in rental properties is tenants bringing in pets without prior approval or outside the pet policy. This causes problems for several reasons, including potential damage, noise complaints, and safety concerns.
 
@@ -67,7 +67,7 @@ Finally, you can use pet management software, such as [OurPetPolicy](https://lan
 
 ![Pet management software can be beneficial for landlords and property managers in dealing with pets.](/assets/pet_management_software_for_landlords_and_property_managers.png)
 
-## 4. Lack of Compliance with Pet Policies
+### 4. Lack of Compliance with Pet Policies
 
 Another common problem is the lack of compliance with pet policies. Some of the most commonly violated policies are not cleaning up after their pets, not keeping pets on a leash, and failing to follow the rules for pet behavior in common areas. Addressing these are important for the long-term success of the living environment. However, as has been the theme, enforcing these policies can be difficult, as it’s hard to monitor who is at fault. We can look through some solutions, though.
 
@@ -76,7 +76,7 @@ If there is a lack of compliance, then it’s potentially time to issue warnings
 
 > Finally, you can use pet management software to help track and document violations, making knowing when to take action easier. It can also streamline issuing warnings and fines, saving time and money.
 
-## 5. Difficulty Collecting Pet Fees and Deposits
+### 5. Difficulty Collecting Pet Fees and Deposits
 
 Finally, [collecting pet fees and deposits](https://landlordtech.com/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee) when they’re due can sometimes be challenging. Tenants often can’t see the value in these extra fees, or may just not have the funds available. 
 
@@ -84,7 +84,7 @@ First, it's important to be open about how these deposits help protect everyone 
 
 You can also offer alternative payment methods. This can make it easier for some currently struggling tenants, preventing them from leaving unnecessarily. In addition, payment plans can be set up with the right pet management software, making the whole process easier. 
 
-## The Bottom Line
+### The Bottom Line
 
 To cap things off, [pet management for properties](https://landlordtech.com/) will always have its challenges, but with effective policies, property managers can always find solutions. To help, pet management software for properties can streamline the process, providing an easy, central system to track and respond to complaints, document damage, and violations, and even collect pet fees and deposits. By addressing these specific challenges, property managers can ensure that all the tenants and their pets can coexist safely and comfortably in their rental spaces. 
 
