@@ -34,7 +34,7 @@ This post details unique insight into ESAs that our team has collected as a resu
 
 ![OurPetPolicy inside scoop on ESAs](/assets/pet_management_in_properties_with_esa.png)
 
-### **Overview of ESAs**
+## **Overview of ESAs**
 
 As defined by the U.S. Department of [Housing and Urban Development](https://landlordtech.com/resources/heres-how-an-esa-hud-sting-cost-this-property-manager) (HUD), an emotional support animal (ESA) is any animal that provides emotional support to an individual in an effort to alleviate one or more symptoms of their disability. Although all pets provide some form of emotional connection, ESAs specifically support mental and emotional health conditions. 
 
@@ -42,7 +42,7 @@ Over time, the popularity of ESAs has grown in the United States as a way for mo
 
 ![Fraudulent ESA claims can be made to force property managers to accommodate pets](/assets/identify_fraud_esa_letters.png)
 
-### **Publicly Available Data on ESAs**
+## **Publicly Available Data on ESAs**
 
 In order to receive housing accommodation, an ESA should be prescribed by a mental health professional to a person with a mental disability. The industry standard is that it should be re-evaluated annually whether for housing accommodations or travel requiring documentation.
 
@@ -52,7 +52,7 @@ After interviewing several licensed medical health professionals, we learned tha
 
 ![On average, mental health professionals write ESA letters for less than 10% of their patients.](/assets/validity_of_online_esa_certification.png)
 
-### **OurPetPolicy Data on ESAs**
+## **OurPetPolicy Data on ESAs**
 
 Through data collected for case studies, landlords typically report that between 40%-87% of units are housing an ESA. This statistic is significantly higher than what should be expected based on public data, meaning that a sizeable number of ESA letters are indeed fraudulent.
 
@@ -60,7 +60,7 @@ There are a plethora of online websites that offer to sell [ESA letters](https:/
 
 ![OurPetPolicy can identify fraudulent ESA letters](/assets/confirm_legitimacy_of_esa_letter_with_ourpetpolicy.png)
 
-### **Verifying ESA Letters is Crucial**
+## **Verifying ESA Letters is Crucial**
 
 Renters who abuse the ESA system typically do so for two main reasons — it allows them to house a pet in units where pets are prohibited, or it permits them to have a pet on property at no cost, avoiding any required [pet fees and deposits](/resources/why-pet-fees-are-an-essential-landlord-strategy). 
 
@@ -68,7 +68,7 @@ By [verifying ESA letters](https://landlordtech.com/resources/the-opportunity-co
 
 ![Verifying ESA letters can save you from pet-related damage](/assets/verifying_esa_letter_from_tenants.png)
 
-### **Bottom Line**
+## **Bottom Line**
 
 Given the number of fraudulent ESA letters being written every day, you should no longer view verification as optional. [OurPetPolicy](https://landlordtech.com/products) is currently the only service on the market that allows landlords and property managers to appropriately verify whether that service animal in unit 4B is actually supporting a disability. 
 

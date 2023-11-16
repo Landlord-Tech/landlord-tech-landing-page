@@ -34,7 +34,7 @@ This is where a pet-friendly housing policy comes in. Pet ownership continues to
 
 If you’re convinced that [the benefits of a pet-friendly policy](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) can work for your property, here are some key items to consider.
 
-### **Understand the Pet Policy Landscape**
+## **Understand the Pet Policy Landscape**
 
 > Understanding the pet policy landscape is crucial to effectively manage existing animals on property and ensure compliance with state and local regulations.
 
@@ -42,7 +42,7 @@ Additionally, keeping up with industry trends and the preferences of your local 
 
 When you’re ready to get serious about a pet policy, you’ll want to look to implement best practices, such as offering a [pet guarantee](https://landlordtech.com/resources/boost-income-and-cover-damage-expenses-with-a-pet-guarantee). This can provide added security for both you and your tenants while also mitigating potential property damage. Another best practice is to charge pet rent and/or deposits, which can help to offset wear and tear and the costs of any pet-related services.
 
-### **Implementing a Pet Policy**
+## **Implementing a Pet Policy**
 
 When you start writing your policy, there are some [important considerations to take into account.](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy) For example, you’ll need to determine if any size or breed restrictions will apply. By determining which types of pets are allowed, you can ensure that your property is protected against potential [damage caused by larger or more aggressive breeds](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage).
 
@@ -50,7 +50,7 @@ Next, you'll want to set pet fees and deposits. These can include an initial pet
 
 ![Protect your rental property from possible pet-damaged by implementing a pet policy](/assets/pet_management_program_for_damage_free_rental_property.png)
 
-### Marketing Your Pet-Friendly Policy
+## Marketing Your Pet-Friendly Policy
 
 Permitting pets will instantly attract new tenants, but you need to invest in getting the word out. On your website and in marketing materials, be sure to highlight pet-specific benefits of your property. This can include things like a private yard, dedicated pet washing area, and nearby pet-friendly parks. Additional amenities such as on-site pet grooming services, dog walkers, or dog sitters can also help make your property stand out to potential tenants who are looking for a comfortable place for their furry friends.
 
@@ -58,7 +58,7 @@ If you have the resources, it’ll also be wise to invest in (and market) a comm
 
 ![Promote your pet-friendly policy and attract more tenants](/assets/marketing_pet_friendly_policy.png)
 
-### Managing Pets at Your Property
+## Managing Pets at Your Property
 
 Once your pet policy is in place, enforcement is key. This includes enforcing size and breed restrictions as well as requiring payment for pet fees and deposits.
 
@@ -66,7 +66,7 @@ Once your pet policy is in place, enforcement is key. This includes enforcing si
 
 By the same token, it’s also crucial to be proactive about handling pet-related complaints and disputes. This can include addressing concerns about noise and pet waste and stepping in to mediate disputes between pet owners and non-pet owners. By being proactive, you can resolve issues before they become major problems and [maintain a positive living environment](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets) for all tenants.
 
-### Utilize a Pet Management Software Solution
+## Utilize a Pet Management Software Solution
 
 [Managing pets at your rental property](/resources/five-tips-for-managing-pets-on-your-rental-properties)can be a complex task, and it can become overwhelming as the number of pet-owning tenants increases. As a result, landlords and property managers are turning to pet management software as a way to streamline processes and ensure compliance with laws and regulations.
 
@@ -74,7 +74,7 @@ Before settling on a solution, be sure to research the [features](/resources/top
 
 ![Use a pet management software solution for your rental property](/assets/pet_management_software_solution_for_rental_property.png)
 
-### **Bottom Line**
+## **Bottom Line**
 
 Implementing a pet-friendly policy at your rental property can have a significant impact on resident retention rates and the long-term success of your business. As pet ownership continues to grow in the US, a pet-friendly policy can help attract a wider tenant application pool and higher-quality residents who are more likely to stay for many years.
 

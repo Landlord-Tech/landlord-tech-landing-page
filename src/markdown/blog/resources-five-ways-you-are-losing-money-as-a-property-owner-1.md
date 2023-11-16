@@ -34,7 +34,7 @@ Whether you already have a well-structured pet policy in place at your property 
 
 Here are five ways you may be losing money as a landlord when it comes to pets on property and how you can better manage and minimize these expenses.
 
-**1. Pet-Related Property Damage**
+## **1. Pet-Related Property Damage**
 
 If there are animals roaming around, you can count on some level of damage occurring. Whether it’s unwanted elimination in common areas or unit damage that exceeds security deposit costs, pets can be costly to property managers. If you don’t properly vet your tenants and their pets, this may come back to haunt you in the form of unexpected and unbudgeted expenses. Take a look at [this example](https://www.instagram.com/reel/Ce6sJGAsqUp/) of a [property management](https://landlordtech.com/resources/top-property-management-trends-of-2023) company that dealt with $150,000 in damage from just one pet.
 
@@ -42,31 +42,31 @@ Additionally, it can be hard to know whether tenants will be responsible with th
 
 ![losing money to pet-related property damage](/assets/apartment_pet_management.png)
 
-**2. Loss of Income from Pet Fees**
+## **2. Loss of Income from Pet Fees**
 
 As the popularity of emotional support animals (ESAs) grows, there’s an increasing number of fraudulent pets being housed under the guise of support animals. [If you aren’t verifying ESA claims](https://landlordtech.com/resources/the-opportunity-cost-of-not-verifying-tenant-esa-etters), you are potentially losing out on significant income as tenants may try to claim that their pet is an ESA to avoid paying pet rent, pet deposits, and/or [pet fees](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy). In order to verify ESAs the right way and avoid any legal complications, you’ll want to be sure you’re using the right tools. See below for one great option (OurPetPolicy).
 
 ![Loss of income from pet fees](/assets/esa_verification.png)
 
-**3. HIPAA/Fair Housing Act Violations** 
+## **3. HIPAA/Fair Housing Act Violations** 
 
 Whether you like it or not, it’s probable that you will need to house ESAs on your property, especially if you manage dozens of units. This can be another area where you could lose big as a property owner. If you don’t properly handle all ESA requests, you could be liable under HIPAA and Fair Housing Act rules. [HUD](https://landlordtech.com/resources/heres-how-an-esa-hud-sting-cost-this-property-manager) has also been known to conduct [sting operations](https://youtu.be/1m-TfVdiPGc) to be sure that property owners are complying with published [ESA guidelines](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023). Some landlords have been fined up to $80,000 for not fully knowing the rules when it comes to housing support animals.
 
 ![HIPAA or Fair Housing Act Violations](/assets/pet_screening_for_apartments.png)
 
-**4. Increased Labor Costs from Fixing Damage**
+## **4. Increased Labor Costs from Fixing Damage**
 
 Inevitable [damage caused by pets](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) on property will drive up your labor costs. Even if tenants are responsible for their individual units, any damage that occurs inside common areas or around the perimeter of the property from pets ends up being your responsibility to fix. If you don’t have specific language in your pet policy, you may be leaving yourself exposed to pay for this damage yourself. It’s best to be specific and [ensure tenants are aware of their responsibilities as pet owners](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them).
 
 ![Increased labor costs from fixing damage](/assets/tenant_screening.png)
 
-**5. Unhappy Tenants, Turnover, and Complaints**
+## **5. Unhappy Tenants, Turnover, and Complaints**
 
 If you aren’t keeping tenants happy with your current pet policy or are not adequately addressing pet-related issues, you will likely have higher turnover. Of course, turnover can be costly. It’s less expensive to keep a good tenant than to turn an apartment and sign a new one. Providing tenants with an [easy-to-use tool where they can see all the property’s pets and make anonymous complaints](https://landlordtech.com/resources/new-pet-mapping-tool-feature-added-to-pet-management-platform-ourpetpolicy) (that management addresses) ensures happier, more engaged tenants who are less likely to find another living situation.
 
 ![Increase turnover rates and complaints](/assets/pet_management_software_rentals.png)
 
-**Bottom Line**
+## **Bottom Line**
 
 More people are choosing to add pets into their families, and it’s no longer practical to ignore the expenses that come with housing these animals. Even if you don’t have a formal pet policy in place, tenants will still bring support animals into their home, which can come with their own set of headaches and expensive challenges if not managed properly.
 

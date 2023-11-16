@@ -29,13 +29,13 @@ Despite the frustrations and hesitations, there’s no ignoring the importance o
 
 In today’s article, we’ll be covering the different pet-related issues that these fees can cover.
 
-### The Challenges of Managing Pet-Friendly Rentals
+## The Challenges of Managing Pet-Friendly Rentals
 
 By encouraging pet owners to apply for your rentals, you expand your tenant pool to the [75% of renters that own pets](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/). While this can definitely help you reduce your vacancies and increase your tenant rent, it does create some new challenges.
 
 ![Renters with pets](/assets/pet-screening-for-landlords.jpg "Renters with pets")
 
-#### Pet-Related Complaints
+### Pet-Related Complaints
 
 Allowing pets into your rentals can increase the number of complaints that you receive from your tenants.
 
@@ -49,11 +49,11 @@ Depending on the types of pets you allow, you can expect to get one or several o
 
 • Allergies
 
-#### Vacant Rentals
+### Vacant Rentals
 
 Tenants do have the right to [break their lease without penalty](https://www.nolo.com/legal-encyclopedia/question-break-lease-noise-apartment-28219.html#:~:text=Shouting%20neighbors%20and%20barking%20dogs,rent%20due%20under%20the%20lease.) if their landlord cannot provide an acceptable solution to repeated pet complaints. If the situation persists, this can result in the loss of several tenants, including a possible eviction of the pet owner. These sudden vacancies can lead to a [loss in rental income](https://landlordtech.com/resources/five-ways-you-are-losing-money-as-a-property-owner).
 
-#### Pet-Related Property Damages 
+### Pet-Related Property Damages 
 
 It’s much easier to recoup the cost of any [damages that your tenant's pets may cause](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage) by receiving pet deposits upfront.
 
@@ -73,13 +73,13 @@ Carpets are among the most costly repairs for landlords. The average cost to rep
 
 ![Challenges of managing pet-friendly rentals](/assets/pet-friendly-rentals-.jpg "Challenges of Managing Pet-Friendly Rentals")
 
-#### Loss of Rental Income During Repairs 
+### Loss of Rental Income During Repairs
 
 Closing a unit for repairs is one of the most costly situations a landlord must endure. Since repairs can take upwards of two weeks or more, new tenants are unable to move in, resulting in the loss of rent in addition to the cost of the repairs.
 
 On a $1,200 monthly rent, those two weeks result in a $600 loss, and that doesn't include the time it may take to assess the damages and get contractors on site.
 
-### Get the Complete Guide
+## Get the Complete Guide
 
 If you’d like to know more about how pet fees can help you protect your profit and property, download our complete guide:
 
@@ -97,8 +97,8 @@ Why Pet Fees are a Necessary Landlord Strategy
 
 • And more!
 
-**Get the complete guide [here](https://landlordtech.com/assets/ourpetpolicy_landlord_strategy_e-book.pdf).**[](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)[](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
+\*\*Get the coplete guide \[here]
 
-[![Ebook](/assets/why-pet-fees.png "Ebook")](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
+[![Download Ebook](/assets/why-pet-fees.png "Ebook")](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)
 
 ###### **[Download Ebook](/assets/ourpetpolicy_landlord_strategy_e-book.pdf)**

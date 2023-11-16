@@ -30,33 +30,33 @@ When you’re a property manager, pet management can be one of the more frustrat
 
 Luckily, there’s now excellent [pet management software for properties](https://landlordtech.com/products) available to streamline the process and make managing the building’s pets a breeze. The software can help you track the pets in the building, both their needs and what’s necessary for the building. We’ll dive right into the benefits of pet management software for your property. 
 
-### Benefits of a Digital Pet Management Software
+## Benefits of a Digital Pet Management Software
 
 ![How a pet management software can streamline process for rental properties](/assets/pet_management_software_benefits.png)
 
-#### Improved Efficiency
+### Improved Efficiency
 
 First, you can use it for much of the grunt work, including pet screening, which is quite time-consuming. Second, the software will automate the screening process for you, making it both faster and more accurate. Also, with its built-in resident communication, you get a more [centralized location for pet-related inquiries](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy). Third, you get organized for your pet-related services, including grooming, dog walking, and pet-sitting, making it easy to schedule and process payments.
 
 > Perhaps the most significant benefit of using digital pet management software is the improvement in efficiency it can bring. 
 
-#### Reduced Paperwork
+### Reduced Paperwork
 
 The second big benefit is reducing your paperwork. Traditional pet management processes often involve a lot of paperwork, which is both time-consuming and resource-intense. With new software, you can automate most of the process, saving staff time and resources. In fact, it can also help reduce errors and miscommunication, as digital records are more easily updated.  
 
-#### Better Resident Experience
+### Better Resident Experience
 
 This includes educational materials on pet care, information about local dog parks and pet services, and guidelines for responsible pet behavior in common areas. Overall, this can help foster a more positive living experience for everyone.
 
 > Pet management software can provide a better resident experience - by offering easy-to-access [online resources for better pet ownership](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy). 
 
-#### Increased Data Accuracy
+### Increased Data Accuracy
 
 As mentioned [in the paperwork section](https://landlordtech.com/resources/renting-to-pet-owners-records-every-landlord-should-keep), digital management software has been shown to increase the accuracy of records over manual paperwork. Of course, when you rely on manual data collection and verification, there is much room for errors and inaccuracies. But you can improve data accuracy and reduce this risk by automating the process. Plus, digital records are much easier to access and update for the most up-to-date information. 
 
-### How a Pet Management Software Can Streamline Your Processes
+## How a Pet Management Software Can Streamline Your Processes
 
-#### Key Features of Pet Management Software
+### Key Features of Pet Management Software
 
 **1. Pet screening tools.** Pet screening is essential to ensure tenants' pets meet the right criteria, such as breed restrictions, weight limits, and behavior standards.
 
@@ -77,23 +77,23 @@ The software can also generate pet reports for your review to approve or deny th
 In addition, by providing an online platform for pet owners to register their pets and update their information, the software can also reduce the need for manually updating pet records.
 Finally, the software can even reduce miscommunications between property managers and tenants through its centralized communication hub. It automates notifications and reminders, making all these more consistent for more timely updates and follow-ups on pet-related issues. 
 
-#### The ROI of Going Digital
+### The ROI of Going Digital
 
 The return on investment (ROI) of going digital with pet management software can be significant. Here are some of the ways that [pet management software can generate ROI](https://landlordtech.com/calculator-no-pets-allowed/).
 
-#### Cost Savings
+### Cost Savings
 
 Cost savings are the first big ROI you’ll see with pet management software. By automating processes and reducing the need for paperwork, staff time is freed up, saving you money. Additionally, paperless systems can reduce printing and mailing costs, which can add up. 
 
-#### Increased Revenue
+### Increased Revenue
 
 On top of the cost savings, [pet management software can also help generate additional revenue](https://landlordtech.com/resources/how-to-increase-your-rental-income-in-2023). For example, properties can offer pet-related services, such as pet grooming or dog walking, and collect pet deposits or fees online through the software. 
 
-#### Improved Resident Retention
+### Improved Resident Retention
 
 Pet management software can also help property managers deliver a better resident experience through a demonstrated commitment to [pet-friendly policies](https://landlordtech.com/resources/how-to-implement-a-pet-friendly-policy-at-your-rental-property). This improves resident satisfaction, ultimately reducing vacancy rates and improving the bottom line.
 
-#### Choosing the Right Pet Management Software
+### Choosing the Right Pet Management Software
 
 There are a few key features in the right pet management software. First, you want something that will help streamline your processes and improve efficiency without breaking the bank or being too hard to use. 
 
@@ -115,7 +115,7 @@ The software provider should offer good customer support, including phone and em
 
 In addition, some software providers can offer additional customization options for an additional fee.
 
-### The Bottom Line
+## The Bottom Line
 
 Going digital is a big step, but pet management software offers enough benefits to be worth it. It improves efficiency, reduces paperwork, increases data accuracy, and creates a better resident experience. It can also provide a significant ROI in the long term. That’s why it’s crucial to select pet management software with the key features you need at a cost and level of customer support you can count on. 
 

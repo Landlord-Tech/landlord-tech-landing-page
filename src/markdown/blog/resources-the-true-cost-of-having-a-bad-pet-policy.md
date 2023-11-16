@@ -29,7 +29,7 @@ Having a pet policy for your renters is an essential part of protecting your pro
 
 When evaluating your current system, consider whether or not it protects you from the following issues.
 
-#### Increased Labor Hours
+## Increased Labor Hours
 
 Allowing poorly vetted pets on the property may lead to some serious extra labor for your team.
 
@@ -39,11 +39,11 @@ Allowing poorly vetted pets on the property may lead to some serious extra labor
 
 • Time spent identifying unauthorized animals or fraudulent [ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2022) and then needing to monitor and address the situations appropriately.
 
-#### Added Property Damage
+## Added Property Damage
 
 A good pet policy should include proper pet and tenant screenings to ensure that the pets behaved well in previous rentals. Without an [effective screening process](/resources/best-practices-to-properly-screen-pets-for-apartments), the time, cost, and frustration of dealing with [pet-related damages](https://www.cicreports.com/resources/cats-vs-dogs-which-can-cause-the-most-property-damage/) become your responsibility as the property manager.
 
-#### Common Dog-Related Property Damage:
+### Common Dog-Related Property Damage:
 
 • Chewing and scratching of walls and floors;
 
@@ -53,7 +53,7 @@ A good pet policy should include proper pet and tenant screenings to ensure that
 
 • Holes and yellow patches on the property lawns.
 
-#### Common Cat-Related Property Damage:
+### Common Cat-Related Property Damage:
 
 • Urine odors and stains in rentals;
 
@@ -63,7 +63,7 @@ A good pet policy should include proper pet and tenant screenings to ensure that
 
 ![Poor screening process can cause pet-related damages](/assets/pet-and-tenant-screening-for-landlords.jpg)
 
-#### Rental Turnover Downtime
+## Rental Turnover Downtime
 
 A pet policy that fails to screen pets or outline size and breed restrictions can increase the duration of your rental turnover downtime.
 
@@ -71,7 +71,7 @@ Larger breeds and poorly behaved pets can dramatically increase the [amount of d
 
 [Carpet and floor damage](https://tntcarpetcare.com/pet-damage-carpet-repair-cost/) are among the most expensive to repair, especially when the policy doesn't hold the tenant accountable. Trying to locate and retrieve funds from the tenant after they've already vacated to property requires a lot of time and effort.
 
-#### Pet Fees Avoided
+## Pet Fees Avoided
 
 While [pet fees can help offset the cost of allowing pets on your property](https://landlordtech.com/resources/why-pet-fees-are-an-essential-landlord-strategy), a weak policy gives tenants the ability to evade fees.
 
@@ -81,7 +81,7 @@ Many tenants sneak pets onto the property to avoid pet fees entirely. Policies l
 
 ![Weak policy gives tenants the ability to evade fees](/assets/manage-fraudulent-esa-requests-online.jpg)
 
-#### Irresponsible Pet Owners
+## Irresponsible Pet Owners
 
 Failure to screen pet owners via their previous rentals can invite irresponsible tenants to your property.
 
@@ -91,19 +91,19 @@ Failure to screen pet owners via their previous rentals can invite irresponsible
 
 • They cause headaches for property owners whose pet policy leaves them ill-equipped to manage complaints and respond to these difficult situations.
 
-#### Disgruntled Tenant Complaints
+## Disgruntled Tenant Complaints
 
 Without the proper policies in place to help resolve pet-related issues, [complaints from neighboring tenants](https://www.renterswarehouse.com/education/barking-mad-resolving-tenant-complaints-pets) can escalate quickly. An overwhelming amount of complaints can lead to a high turnover rate and unexpected vacancies.
 
 In many states, a property manager's inability to address repeated tenant complaints is grounds for the tenant to [vacate the property early without penalty](https://www.nolo.com/legal-encyclopedia/question-break-lease-noise-apartment-28219.html).
 
-#### Exposure to Liabilities
+## Exposure to Liabilities
 
 A pet policy is a great tool to help minimize your exposure to liability and limit the amount of dangerous pet-related incidents. Through your policy, all animals should be pre-screened for aggression to ensure that the pet does not attack or bite any neighboring pets or tenants.
 
 Although these cases are rare, you can be held liable for allowing this aggressive animal onto your rental property.
 
-#### Protect Yourself With a Policy Done Right
+## Protect Yourself With a Policy Done Right
 
 [OurPetPolicy](https://www.landlordtech.com/products) is an easy-to-use pet policy process that is vetted by lawyers to help protect your property.
 
