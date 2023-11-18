@@ -67,4 +67,4 @@ That’s where [ESA verification platforms](https://landlordtech.com/resources/s
 
 Take charge of your ESA verification process. [Get started with OurPetPolicy](https://info.ourpetpolicy.com/demo/) today!
 
-[![Demo](/assets/efficient_esa_verification_process_with_ourpetpolicy.png "Schedule a demo today with OurPetPolicy")](https://info.ourpetpolicy.com/demo/)
+[![Schedule a demo today with OurPetPolicy](/assets/efficient_esa_verification_process_with_ourpetpolicy.png "Schedule a demo today with OurPetPolicy")](https://info.ourpetpolicy.com/demo/)
