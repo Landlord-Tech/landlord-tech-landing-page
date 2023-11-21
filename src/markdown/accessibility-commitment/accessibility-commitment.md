@@ -5,7 +5,7 @@ metaDescription: Ultra Labs is committed to ensuring digital accessibility for a
 heroHeading: Accessibility Statement
 ---
 
-**Accessibility Commitment**
+Accessibility Commitment
 
 Ultra Labs is committed to ensuring digital accessibility for all visitors, including those with disabilities. We understand the importance of providing equal access to information and services online. To achieve this goal, we have implemented a range of measures and continue to make accessibility a top priority:
 
