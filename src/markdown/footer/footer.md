@@ -26,7 +26,11 @@ col4List:
     icon: envelope
     link: mailto:info@landlordtech.com
 accessibilityStatementTitle: Accessibility Statement
+<<<<<<< HEAD
 accessibilityStatementUrl: /accessibility-commitment/
+=======
+accessibilityStatementUrl: https://landlordtech.com/accessibility-commitment/
+>>>>>>> 26037f73458fdc36a1f4dfa1bf640a7d87761639
 privacyPolicyTitle: Privacy
 privacyPolicyUrl: /privacy-policy/
 termsAndConditionsTitle: Terms & Conditions

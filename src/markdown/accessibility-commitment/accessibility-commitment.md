@@ -4,7 +4,10 @@ metaTitle: Landlord Tech Accesibility Commitment | Website Statement
 metaDescription: Ultra Labs is committed to ensuring digital accessibility for all visitors
 heroHeading: Accessibility Statement
 ---
+<<<<<<< HEAD
 
+=======
+>>>>>>> 26037f73458fdc36a1f4dfa1bf640a7d87761639
 Accessibility Commitment
 
 Ultra Labs is committed to ensuring digital accessibility for all visitors, including those with disabilities. We understand the importance of providing equal access to information and services online. To achieve this goal, we have implemented a range of measures and continue to make accessibility a top priority:
