@@ -116,7 +116,7 @@ const Footer = () => {
           </li>
         </ul>
         <div className="footer-bottom">
-          <p>
+        <p>
             {/* {new Date().getFullYear()}  */}© Landlord Tech. All Rights
             Reserved. |{" "}
             <a href={accessibilityStatementUrl}>
