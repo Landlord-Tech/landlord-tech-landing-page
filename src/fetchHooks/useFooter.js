@@ -26,6 +26,8 @@ export const useFooterData = () => {
             link
             icon
           }
+          accessibilityStatementTitle
+          accessibilityStatementUrl
           privacyPolicyTitle
           privacyPolicyUrl
           termsAndConditionsTitle

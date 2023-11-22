@@ -116,12 +116,13 @@ const Footer = () => {
           </li>
         </ul>
         <div className="footer-bottom">
-          <p>
+        <p>
             {/* {new Date().getFullYear()}  */}© Landlord Tech. All Rights
-            Reserved. |<a href={privacyPolicyUrl}>{privacyPolicyTitle}</a> |
-            <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a> |
-            <a href="https://landlordtech.com/accessibility-commitment">Accessibility Statement.
-            </a>
+            Reserved. |{" "}
+            <a href={accessibilityStatementUrl}>
+              {accessibilityStatementTitle}
+            </a> | <a href={privacyPolicyUrl}>{privacyPolicyTitle}</a> |
+            <a href={termsAndConditionsUrl}>{termsAndConditionsTitle}</a>
           </p>
         </div>
       </div>

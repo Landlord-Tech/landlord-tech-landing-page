@@ -28,7 +28,7 @@ col4List:
 accessibilityStatementTitle: Accessibility Statement
 accessibilityStatementUrl: https://landlordtech.com/accessibility-commitment/
 privacyPolicyTitle: Privacy
-privacyPolicyUrl: https://landlordtech.com/privacy-policy/
+privacyPolicyUrl: /privacy-policy/
 termsAndConditionsTitle: Terms & Conditions
-termsAndConditionsUrl: https://landlordtech.com/terms-and-conditions/
+termsAndConditionsUrl: /terms-and-conditions/
 ---

@@ -28,7 +28,7 @@ Marketing to and bringing in new tenants is a critical piece in the overall succ
 
 These are possibly the most important, and at times most difficult to answer, questions for property owners and managers. Thankfully, you don’t have to leave it up to luck. There are specific steps you can take to appeal to and keep tenants, and there are beneficial, easy-to-use platforms such as [OurPetPolicy](https://landlordtech.com/products) to help you do so.
 
-## What makes a rental property desirable to tenants?
+#### What makes a rental property desirable to tenants?
 
 Studies show [75% of renters own at least one pet](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/), and pet owners rent for an average of 8 months longer than non-pet-owners. This means allowing pets to live at your rental property is one way you can [attract and keep long-term tenants](https://landlordtech.com/resources/considerations-tenants-make-when-choosing-a-rental). With that in mind, here are some specific [policies and practices](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy) to consider if you want to take this step and allow pets at your rental property.
 
@@ -46,7 +46,7 @@ While a pet-friendly policy can make your property more desirable, it can often 
 
 Additionally, outline [rules and guidelines directly in the lease](https://landlordtech.com/resources/renting-to-pet-owners-records-every-landlord-should-keep) so pet owners are aware of their responsibilities and what you and the community expect of them and their animal companions. It will also help other tenants know what kind of behavior is unacceptable so they can report it to you. This ensures that your property runs smoothly and other tenants are not inconvenienced by pets.
 
-## How can OurPetPolicy help landlords make this happen?
+#### How can OurPetPolicy help landlords make this happen?
 
 [OurPetPolicy](https://www.landlordtech.com/products) offers a seamless solution for [pet management](https://landlordtech.com/resources/pet-management-in-properties) that helps you process pet and assistance animal requests, save time and resources, and better track animal data on your property. [OurPetPolicy](https://www.landlordtech.com/products) has established a streamlined workflow and supporting services that provides your staff with better management capabilities, giving them more time to focus on customer service.
 

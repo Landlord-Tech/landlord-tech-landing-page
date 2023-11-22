@@ -28,13 +28,13 @@ Here are our top tips to ensure your property is ready for this upcoming rental 
 
 ![Tips on how to prepare for peak rental season](/assets/preparing_for_rental_season.png)
 
-## Evaluate and Update Rental Policies
+### Evaluate and Update Rental Policies
 
 As you prepare to accept an influx of new tenants at your property, now’s a great time to [review your existing rental policies](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy). This ensures that contractual language is modernized to reflect the current environment and you’re able to appropriately mitigate risk under new agreements.
 
 One area that is often overlooked is pet policies. If you already accept pets on your property, it’s important to continually review fees, deposits, and other rules around animals living in units. If you don’t have a pet policy in place yet, now’s the perfect opportunity to consider adding one. [Pet management programs](https://landlordtech.com/products) such as OurPetPolicy are available to help you draft smart pet agreements to ensure appropriate protections for both tenants and landlords.
 
-## Conduct Property Maintenance and Prepares
+### Conduct Property Maintenance and Prepares
 
 With so many new prospective tenants touring your property during this busy season, you’ll want to give a positive first impression. That starts with conducting repairs and performing appropriate maintenance both inside units and in the exterior and common areas. This also makes it more likely that new renters won’t encounter issues with their new home when they first move in.
 
@@ -42,7 +42,7 @@ With so many new prospective tenants touring your property during this busy seas
 
 Of course, you’ll also want to fix up any pet-related damage, such as scratches and stains. These improvements can go a long way to making your property appealing to both pet owners and non-pet owners alike.
 
-## Market Your Pet-Friendly Rentals
+### Market Your Pet-Friendly Rentals
 
 If you already allow pets on your property, ensure you highlight that fact in every piece of customer-facing collateral. Prospective tenants with pets often narrow down their search based on pet policies, and you’ll want to ensure your property is in their consideration set. If you have on-site amenities such as pet-designated play areas, wash stations, or nearby parks, be sure to promote those as well.
 
@@ -50,7 +50,7 @@ If you already allow pets on your property, ensure you highlight that fact in ev
 
 [The right pet management software](https://landlordtech.com/resources/pet-management-software-benefits-and-roi) can even help you track and monitor all animals on your property.
 
-## Streamline the Tenant Screening and Application Process
+### Streamline the Tenant Screening and Application Process
 
 With so many applications to process in such a short amount of time, you’ll want to ensure a seamless experience for both your staff and rental applicants. A tedious approval process or delays can risk losing out on tenants and frustrating your team. When possible, utilize software to help you with documentation and completely [digitize the pet screening](https://landlordtech.com/resources/best-practices-to-properly-screen-pets-for-apartments) and application experience. This will reduce manual work and get your tenants in quicker.
 
@@ -58,7 +58,7 @@ Much like humans, pets should also be screened and verified before being accepte
 
 > Pet management programs simplify these processes by screening new animals for specifications including breed, size, behavior history, and vaccinations. These solutions can also help organize documentation and ensure compliance with pet-related housing regulations. 
 
-## Final Thoughts
+### Final Thoughts
 
 Before you know it, you’ll be hosting back-to-back property tours and processing stacks of new resident applications. Now’s the time to get ahead of the game. By updating your policies, performing property maintenance, marketing to prospects the right way, and investing in the right screening and processing solutions, you’ll be ready to welcome new tenants with open arms.
 

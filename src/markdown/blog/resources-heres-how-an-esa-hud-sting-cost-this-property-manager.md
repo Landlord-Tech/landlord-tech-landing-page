@@ -40,9 +40,9 @@ In 2008, HUD agents called the property and spoke with a newly hired onsite mana
 
 The undercover agents called multiple times asking the same question, and the manager continued to deny the request. That was enough for the government. They levied fines against the landlord totaling $60,000. In addition, the victim of this sting spent more than $20,000 in attorney’s fees as part of the lawsuit, resulting in well over $80,000 in charges as a result of a simple disregard for Fair Housing Act policies surrounding ESAs.
 
-Here’s a [Interview with the landlord](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the interview with the landlord.
+Here’s a [video](https://www.youtube.com/watch?v=1m-TfVdiPGc&t=2s) of the interview with the landlord.
 
-<p><iframe width="100%" height="500" src="https://www.youtube.com/embed/1m-TfVdiPGc" title="Interview with the landlord"></iframe></p>
+`youtube: https://youtu.be/1m-TfVdiPGc`
 
 **How to Avoid HUD Fines Surrounding Emotional Support Animals**
 
@@ -55,4 +55,4 @@ That’s where OurPetPolicy comes in. Our team of experts understands the HUD gu
 
 Liability and legal compliance are our specialties, and we are happy to offer initial [training for all property managers](https://landlordtech.com/resources/new-pet-training-tool-feature-added-to-pet-management-platform-ourpetpolicy) and provide them with the resources they need to be prepared for assistance animal accommodation requests. As the victim in the interview said, hindsight is 20/20. Don’t risk suffering the same outcome at the hands of HUD. Get started with [OurPetPolicy](https://info.ourpetpolicy.com/demo/) today.
 
-[![Request a Demo](/assets/esa-verification-that-is-hud-compliant.jpg)](https://info.ourpetpolicy.com/demo/)
+[![](/assets/esa-verification-that-is-hud-compliant.jpg)](https://info.ourpetpolicy.com/demo/)

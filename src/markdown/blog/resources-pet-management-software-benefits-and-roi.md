@@ -29,7 +29,7 @@ Let’s look at the benefits and ROI of using one such software, [OurPetPolicy b
 
 ![Pet management software for rental properties](/assets/pet_management_software_for_properties.png)
 
-## Benefits of Pet Management Software
+### Benefits of Pet Management Software
 
 There are 4 main [benefits to pet management software](https://landlordtech.com/resources/pet-management-platforms-are-worth-the-investment-here-is-why): improved pet screening, better resident communication, increased resident satisfaction, and reduced liability. Let’s go through the benefits of each in turn.
 
@@ -41,7 +41,7 @@ There are 4 main [benefits to pet management software](https://landlordtech.com/
 
 **4. Reduced Liability.** The software can help property managers mitigate risk by reducing liability for pet-related incidents. Incidents can include [property damage](https://landlordtech.com/resources/pets-that-cause-the-most-property-damage) and bites. By ensuring that pets are screened and up-to-date on vaccinations and providing resources on responsible pet ownership, OurPetPolicy can help [reduce the risk of pet-related incidents](https://landlordtech.com/resources/protecting-your-rental-property-from-pet-damage)
 
-## ROI of Pet Management Software
+### ROI of Pet Management Software
 
 Beyond the benefits of OurPetPolicy, there is also a concrete ROI: case studies and data to support the use of pet management software for higher returns. See our [ROI calculator](https://landlordtech.com/calculator-no-pets-allowed/) and [blog](https://landlordtech.com/resources/) for additional resources.
 
@@ -53,7 +53,7 @@ Beyond the benefits of OurPetPolicy, there is also a concrete ROI: case studies 
 
 > Other factors to consider and compare when selecting the appropriate pet management software are **cost**, **ease of use**, and **customer support**. You want a solution that fits your budget, is easy to use and understand and offers strong customer support if you run into any problems.
 
-### Choosing the Right Pet Management Software
+#### Choosing the Right Pet Management Software
 
 You want to choose the right pet management software to ensure the most efficient, easy-to-use, and effective management of your pet policies. **Here are 3 key features property managers can look for:**
 
@@ -65,7 +65,7 @@ You want to choose the right pet management software to ensure the most efficien
 
 Finally, you can customize most pet management software to the specific needs of different properties. Look into each one to be sure it has the [features you need](https://landlordtech.com/resources/top-pet-management-software-features-for-properties)
 
-## Conclusion
+### Conclusion
 
 In conclusion, we’ve seen how pet management software like OurPetPolicy by Landlord Tech offers numerous benefits and ROI to property managers. 
 

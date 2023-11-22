@@ -55,40 +55,6 @@ exports.onInitialClientRender = () => {
     buttonElement.setAttribute("aria-label", "Go to Top")
   }
 
-  // Handle unlabeled checkboxes:
-  const checkboxes = document.querySelectorAll('input[type="checkbox"]')
-
-  checkboxes.forEach(checkbox => {
-    if (!checkbox.hasAttribute("id")) {
-      checkbox.setAttribute("id", "checkbox-" + new Date().getTime())
-    }
-
-    const checkboxId = checkbox.getAttribute("id")
-    let associatedLabel = document.querySelector(`label[for="${checkboxId}"]`)
-
-    if (!associatedLabel) {
-      let nextSibling = checkbox.nextElementSibling
-
-      // If the next sibling is a span or strong tag, use its text as a label
-      if (
-        nextSibling &&
-        (nextSibling.tagName === "SPAN" || nextSibling.tagName === "STRONG")
-      ) {
-        const labelText = nextSibling.textContent
-
-        let labelElem = document.createElement("label")
-        labelElem.setAttribute("for", checkboxId)
-        labelElem.className = "visually-hidden"
-        labelElem.textContent = labelText
-
-        checkbox.parentNode.insertBefore(labelElem, checkbox)
-      } else {
-        // If no appropriate label is found, use a generic aria-label
-        checkbox.setAttribute("aria-label", "Checkbox without a label")
-      }
-    }
-  })
-
   // Handle unlabeled textareas and inputs:
   const formControls = document.querySelectorAll(
     'textarea, input:not([type="hidden"])'
