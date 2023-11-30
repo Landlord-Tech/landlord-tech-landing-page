@@ -33,7 +33,11 @@ const Partners = () => {
         </div>
       </section>
       <section className="section">
-        <Partner data={data} />
+        <section className="section">
+          {data.map(partner => (
+            <Partner key={partner.partnerName} data={partner} />
+          ))}
+        </section>
       </section>
     </Layout>
   )
