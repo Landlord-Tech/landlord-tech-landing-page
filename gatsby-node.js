@@ -29,17 +29,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    const hasLogo = node.frontmatter.logo && node.frontmatter.logo.childImageSharp;
     createPage({
       path: node.frontmatter.path,
       component: blogPostTemplate,
-      context: {
-        frontmatter: {
-          ...node.frontmatter,
-          // Override the logo field in context if it's not in the expected format
-          logo: hasLogo ? node.frontmatter.logo : null,
-        },
-      }, // additional data can be passed via context
+      context: {}, // additional data can be passed via context
     })
   })
 
