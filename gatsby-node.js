@@ -29,64 +29,71 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const hasLogo = node.frontmatter.logo && node.frontmatter.logo.childImageSharp;
     createPage({
       path: node.frontmatter.path,
       component: blogPostTemplate,
-      context: {}, // additional data can be passed via context
+      context: {
+        frontmatter: {
+          ...node.frontmatter,
+          // Override the logo field in context if it's not in the expected format
+          logo: hasLogo ? node.frontmatter.logo : null,
+        },
+      }, // additional data can be passed via context
     })
   })
 
 
-  // const partnersDetail = path.resolve(`./src/templates/partnersDetail.js`)
-  // const partnersDetailResult = await graphql(`
-  //   {
-  //     allMarkdownRemark(
-  //       filter: { frontmatter: { title: { eq: "partners-detail" } } }
-  //     ) {
-  //       edges {
-  //         node {
-  //           id
-  //           frontmatter {
-  //             metaTitle
-  //             metaDescription
-  //             path
-  //             logo {
-  //               childImageSharp {
-  //                 gatsbyImageData
-  //               }
-  //             }
-  //             partnerName
-  //             address
-  //             about
-  //             buttonName
-  //             buttonUrl
-  //             partnerDetailsList {
-  //               label
-  //               content
-  //             }
-  //             faqList {
-  //               faqQuestion
-  //               faqAnswer
-  //             }
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
+  const partnersDetail = path.resolve(`./src/templates/partnersDetail.js`)
+  const partnersDetailResult = await graphql(`
+    {
+      allMarkdownRemark(
+        filter: { frontmatter: { title: { eq: "partners-detail" } } }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              metaTitle
+              metaDescription
+              path
+              logo {
+                childImageSharp {
+                  gatsbyImageData
+                }
+              }
+              partnerName
+              address
+              about
+              buttonName
+              buttonUrl
+              partnerDetailsList {
+                label
+                content
+              }
+              faqList {
+                faqQuestion
+                faqAnswer
+              }
+            }
+          }
+        }
+      }
+    }
+  `)
 
-  // // Handle errors
-  // if (partnersDetailResult.errors) {
-  //   reporter.panicOnBuild(`Error while running GraphQL query.`)
-  //   return
-  // }
-  // partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
-  //   createPage({
-  //     path: node.frontmatter.path,
-  //     component: partnersDetail,
-  //     context: {}, // additional data can be passed via context
-  //   })
-  // })
+  // Handle errors
+  if (partnersDetailResult.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+  partnersDetailResult.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.path,
+      component: partnersDetail,
+      context: {}, // additional data can be passed via context
+    })
+  })
   createRedirect({
     fromPath: "/request-demo",
     toPath: "https://info.ourpetpolicy.com/demo/",
