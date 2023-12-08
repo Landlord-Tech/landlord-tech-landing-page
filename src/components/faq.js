@@ -4,10 +4,10 @@ import ReactMarkdown from "react-markdown"
 import Icon from "./Icon"
 
 const Faq = ({ data }) => {
-  // Check if data is an array before mapping
-  if (!Array.isArray(data)) {
+  // Check if data is null
+  if (!(data)) {
     // You can either return null, an empty fragment, or some placeholder content
-    return null; // or <>No FAQs available</> or any other placeholder you prefer
+    return <div className="text-center">No FAQs available</div>; 
   }
 
   return (

@@ -7,7 +7,7 @@ export default ({ frontmatter }) => {
   return (
     <div className="partner-block-wrapper">
       {logo && <GatsbyImage alt="partner-logo" image={getImage(logo)} />}
-      {partnerDetailsList &&
+      {partnerDetailsList && partnerDetailsList.length > 0 &&
         partnerDetailsList.map((item, i) => (
           <div key={i}>
             <h5 className="h5 label">{item.label}</h5>
