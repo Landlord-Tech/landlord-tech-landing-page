@@ -8,7 +8,7 @@ export default ({ data }) => {
       <div className="container">
         <div className="partner-content">
           <div className="partner-img-wrapper">
-            <GatsbyImage alt="partner-logo" image={getImage(logo)} />
+          {logo && <GatsbyImage alt="partner-logo" image={getImage(logo)} />}
           </div>
           <div className="partner-list-content">
             <h2 className="h2">{partnerName}</h2>

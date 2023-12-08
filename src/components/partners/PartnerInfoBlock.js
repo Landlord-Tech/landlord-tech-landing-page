@@ -6,13 +6,13 @@ export default ({ frontmatter }) => {
 
   return (
     <div className="partner-block-wrapper">
-      <GatsbyImage alt="partner-logo" image={getImage(logo)} />
-      {partnerDetailsList.map((item, i) => (
-        <div key={i}>
-          <h5 className="h5 label">{item.label}</h5>
-          <h5 className="h5 content">{item.content}</h5>
-        </div>
-      ))}
+      {logo && <GatsbyImage alt="partner-logo" image={getImage(logo)} />}
+      {partnerDetailsList?.map((item, i) => (
+          <div key={i}>
+            <h5 className="h5 label">{item.label}</h5>
+            <h5 className="h5 content">{item.content}</h5>
+          </div>
+        ))}
     </div>
   )
 }
