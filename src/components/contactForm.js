@@ -76,7 +76,6 @@ const ContactForm = () => {
               id="inquiryType"
               name="inquiryType"
               options={options}
-              aria-controls="infoDiv"
               onChange={(e) => setFormState({ ...formState, inquiryType: e.value })}
             />
           </div>
@@ -91,7 +90,6 @@ const ContactForm = () => {
               placeholder="Full Name"
               required={true}
               aria-required="true"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -103,7 +101,6 @@ const ContactForm = () => {
               onChange={handleChange}
               value={formState.company}
               placeholder="Company Name"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -117,7 +114,6 @@ const ContactForm = () => {
               placeholder="Work Email"
               required={true}
               aria-required="true"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -131,7 +127,6 @@ const ContactForm = () => {
               placeholder="Phone"
               required={true}
               aria-required="true"
-              aria-controls="infoDiv"
             />
           </div>
           <div className="input-field">
@@ -139,7 +134,6 @@ const ContactForm = () => {
             <textarea
               id="message"
               name="message"
-              aria-controls="previewDiv"
               onChange={handleChange}
               value={formState.message}
               placeholder="Message"
@@ -151,12 +145,6 @@ const ContactForm = () => {
             {contactFormBtn}
           </button>
         </form>
-        <div id="infoDiv">
-            {/* ... Info related to the inquiryType ... */}
-        </div>
-        <div id="previewDiv">
-            {/* ... Preview of the message, if needed ... */}
-        </div>
       </div>
     </div>
   );
