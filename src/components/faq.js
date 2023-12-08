@@ -4,7 +4,8 @@ import ReactMarkdown from "react-markdown"
 import Icon from "./Icon"
 
 const Faq = ({ data }) => {
-  if (data === null || data === undefined || data.length === 0) {
+
+  if (!data) {
     return <div className="text-center">No FAQs available</div>; 
   }
 
