@@ -6,7 +6,7 @@ metaDescription: For many pet-owning tenants, the pet screening process can be
   pet screening process and what they need to prepare for the next time they go
   to rent with an animal.
 path: /resources/a-residents-guide-to-the-pet-screening-process
-date: 2023-12-21T06:17:06.583Z
+date: 2023-12-20T06:38:07.412Z
 category: Blog
 excerpt: While many prospective tenants can find this process cumbersome, it is
   necessary to ensure that pets and residents can peacefully coexist in a rental
