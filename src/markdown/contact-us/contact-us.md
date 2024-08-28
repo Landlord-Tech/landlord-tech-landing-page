@@ -9,8 +9,6 @@ contactUsBannerSubhead: We’d love to hear from you! Please contact us with
 heroImg: /assets/working-table.png
 contactUsHeading: Contact Information
 contactInfoList:
-  - contactInfoText: "950 W Bannock Street, #860 Boise, ID 83702"
-    icon: location
   - contactInfoText: info@landlordtech.com
     icon: envelope
     link: mailto:info@landlordtech.com
