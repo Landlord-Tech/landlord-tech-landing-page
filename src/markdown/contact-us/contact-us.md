@@ -12,8 +12,6 @@ contactInfoList:
   - contactInfoText: info@landlordtech.com
     icon: envelope
     link: mailto:info@landlordtech.com
-  - contactInfoText: (208) 906-8886
-    icon: phone
 aboutUsSubhead: We’d love to hear from you! Please contact us with questions,
   suggestions and feedback!
 aboutUsHeading: Get in touch!
