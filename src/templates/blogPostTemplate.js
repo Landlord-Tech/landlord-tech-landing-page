@@ -3,7 +3,7 @@ import { useEffect } from "react"
 import { graphql } from "gatsby"
 import Seo from "../components/seo"
 import Layout from "../components/layout"
-import { GatsbyImage, getImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Icon from "../components/Icon"
 import { navigate } from "gatsby"
 
@@ -22,33 +22,35 @@ const Template = ({ data, location }) => {
     heroHeading,
     social,
     promoSection,
+    canonicalUrl, // Extraemos canonicalUrl del frontmatter
   } = frontmatter
+
   const baseURL = "https://landlordtech.com"
-  const fbShare =
-    "https://www.facebook.com/sharer/sharer.php?u=" + baseURL + path
-  const twitterShare =
-    "https://twitter.com/share?url=" +
-    baseURL +
-    path +
-    "&text=" +
-    title +
-    "&via" +
-    "twitterHandle"
-  const inShare = "https://linkedin.com/shareArticle?url=" + baseURL + path
+  const fbShare = `https://www.facebook.com/sharer/sharer.php?u=${baseURL}${path}`
+  const twitterShare = `https://twitter.com/share?url=${baseURL}${path}&text=${title}&via=twitterHandle`
+  const inShare = `https://linkedin.com/shareArticle?url=${baseURL}${path}`
+
+  // Determinar la URL canónica: usa canonicalUrl si está presente, sino usa la URL por defecto
+  const canonicalLink = canonicalUrl ? canonicalUrl : `${baseURL}${path}`
 
   useEffect(() => {
     document.querySelectorAll('iframe').forEach(iframe => {
       if (!iframe.getAttribute('title')) {
-        iframe.setAttribute('title', 'Video Content'); // Or any appropriate title
+        iframe.setAttribute('title', 'Video Content') // O cualquier título apropiado
       }
-    });
-  }, []);
+    })
+  }, [])
 
-  console.log(data);
+  console.log(data)
 
   return (
     <Layout className="landing">
-      <Seo title={metaTitle} description={metaDescription} />
+      {/* Pasar la URL canónica al componente Seo */}
+      <Seo 
+        title={metaTitle} 
+        description={metaDescription} 
+        canonical={canonicalLink} // Pasar la prop 'canonical'
+      />
       <section className="hero blog-page withOverlay">
         <GatsbyImage
           className="grid-1"
@@ -142,10 +144,7 @@ const Template = ({ data, location }) => {
   )
 }
 
-
-
 export default Template
-
 
 export const pageQuery = graphql`
   query($path: String) {
@@ -177,9 +176,8 @@ export const pageQuery = graphql`
           promoBtn
           promoBtnUrl
         }
+        canonicalUrl  
       }
     }
   }
 `
-
-

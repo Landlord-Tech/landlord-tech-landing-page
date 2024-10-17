@@ -25,6 +25,8 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: "https://www.ourpetpolicy.com/post/seven-esa-loopholes"
+
 ---
 With the surge in popularity of emotional support animals (ESAs) in recent years, landlords and property owners have reported a corresponding increase in unfavorable behavior on the part of tenants. Residential pet owners can often find crafty ways to skirt around policies or stretch the rules of leases and pet agreements in order to avoid fees or bring more [animals into their homes](https://landlordtech.com/resources/animals-in-rentals-in-2023).
 
