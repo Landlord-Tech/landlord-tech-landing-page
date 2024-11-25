@@ -22,8 +22,6 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
-  canonicalUrl: "https://www.ourpetpolicy.com/post/tips-for-managing-pets-on-your-rental-properties"
-
 ---
 [Property management](https://landlordtech.com/resources/top-property-management-trends-of-2023) can be a challenging task, especially when it comes to dealing with pets. From enforcing pet policies to managing pet waste, there are a variety of issues that property managers must navigate. However, effectively managing pet-related issues is crucial for maintaining a safe and enjoyable living environment for all tenants.
 
