@@ -1,5 +1,3 @@
-// gatsby-node.js
-
 const { createFilePath } = require("gatsby-source-filesystem")
 const { fmImagesToRelative } = require("gatsby-remark-relative-images")
 const path = require(`path`)
@@ -140,12 +138,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 }
 
-// Añade esta sección para personalizar el esquema de GraphQL
-exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
-  createTypes(`
-    type MarkdownRemarkFrontmatter {
-      canonicalUrl: String
-    }
-  `)
-}
+
