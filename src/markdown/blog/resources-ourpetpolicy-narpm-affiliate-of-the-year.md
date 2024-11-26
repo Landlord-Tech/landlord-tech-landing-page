@@ -23,7 +23,7 @@ promoSection:
   promoText: |-
     No more hassle and potential legal disputes. 
     Professional pet policy contracts in minutes.
-  promoBtnUrl: https://ourpetpolicy.com/landlords/
+  promoBtnUrl: https://landlordtech.com/products/
 ---
 ![OurPetPolicy was awarded by NARPM as the 2022 Affiliate of the Year](/assets/narpm_affiliate_of_the_year-2-.png)
 

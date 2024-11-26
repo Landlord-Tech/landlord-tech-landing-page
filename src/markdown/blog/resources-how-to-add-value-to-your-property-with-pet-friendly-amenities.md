@@ -31,7 +31,7 @@ This can mean a wide variety of amenities, including dog parks, pet grooming sta
 
 > There’s been a growing need for property managers to provide pet-friendly options to cater to the increasing demographic.
 
-In addition, pet-friendly amenities can [increase the overall value of a property](https://www.canr.msu.edu/news/the_pros_and_cons_of_renting_to_pet_owners_part_1). Beyond the increase in rent prices, it can help a property stand out in a competitive marketplace, allowing you to find more potential tenants.
+In addition, pet-friendly amenities can increase the overall value of a property. Beyond the increase in rent prices, it can help a property stand out in a competitive marketplace, allowing you to find more potential tenants.
 
 ### Types of Pet-Friendly Amenities
 
