@@ -24,7 +24,6 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
   canonicalUrl: "https://www.ourpetpolicy.com/post/esa-hud-sting-cost-property-manager"
-  
 ---
 The U.S. Department of Housing and Urban Development (HUD) regulates what property owners and landlords must abide by when it comes to tenants living with disabilities. In particular, the Fair Housing Act requires landlords to allow for reasonable accommodation of assistance animals, including [emotional support animals (ESAs)](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference). HUD specifically states that assistance animals and ESAs are “not pets,” and, as such, they are exempt from most any policies restricting the housing of [animals at rental properties](https://landlordtech.com/resources/animals-in-rentals-in-2023).
 
