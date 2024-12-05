@@ -22,6 +22,8 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 title: the landlords guide to tenants with pets
+canonicalUrl: "https://www.ourpetpolicy.com/post/the-landlords-guide-to-tenants-with-pets"
+
 ---
 As a landlord, you have to determine whether or not your rental properties are going to be pet-friendly. This can be a challenging decision due to the number of pros and cons. On one hand, allowing pets can dramatically increase the number of people interested in your rental. On the other hand, pets can inflict some severe damage to your property. Ultimately, the choice is yours, and we hope that the following guide will help you make your decision.
 
