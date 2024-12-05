@@ -595,6 +595,7 @@ collections:
               widget: boolean,
               required: false,
             }
+      - { name: canonicalUrl, label: Canonical URL, widget: string, required: false }
   - name: blog-list
     label: Blog List
     folder: src/markdown/blog-list
