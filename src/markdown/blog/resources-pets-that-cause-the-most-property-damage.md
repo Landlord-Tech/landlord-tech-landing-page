@@ -25,6 +25,7 @@ promoSection:
     Professional pet policy contracts in minutes.
   promoBtn: Learn More
   promoBtnUrl: /products/
+canonicalUrl: "https://www.ourpetpolicy.com/post/pets-that-cause-the-most-property-damage"
 ---
 ![Manage pets and reduce property damage](/assets/manage-pets-and-reduce-property-damage.png "Manage Pets and Reduce Property Damage")
 
