@@ -22,6 +22,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: www.ourpetpolicy.com/post/pet-management-software-benefits
 ---
 Recently, there has been an increased demand for pet-friendly rental properties across North America. While this is exciting for new pet owners, unfortunately, [property managers are faced with a new set of challenges when pets enter the building](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets). Many new issues appear when a building is pet friendly, from having to screen pets to addressing pet-related incidents. Thankfully, there’s pet management software to help you handle it.
 
