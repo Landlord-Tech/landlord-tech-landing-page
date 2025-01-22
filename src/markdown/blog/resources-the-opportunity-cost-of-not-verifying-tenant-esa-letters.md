@@ -24,6 +24,7 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 title: The Opportunity Cost of Not Verifying Tenant ESA Letters
+canonicalUrl: https://ourpetpolicy.com/post/the-opportunity-cost-of-not-verifying-tenant-esa-letters
 ---
 As a property manager, pet fees and deposits are the best way to protect your property from pet-related damages and unexpected costs. Unfortunately, [pet owners have found a convenient loophole](https://landlordtech.com/resources/seven-ESA-loopholes-commonly-used-by-tenants-and-how-to-close-them) using Emotional Support Animal (ESA) letters to help them get out of paying any pet fees.
 
