@@ -22,6 +22,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/records-every-landlord-should-keep
 ---
 We’ve talked about the [positive benefits](https://landlordtech.com/resources/the-landlords-guide-to-tenants-with-pets/) of renting out to tenants with pets; it widens your tenant pool, tenants stay longer, and it can provide an increase in rent and collected fees. However, that in turn makes the rental property owner responsible for keeping quite a few things in order. The presence of pets adds a layer of consideration as they coexist with other tenants who may or may not have pets of their own. It’s best to arm yourself with information regarding your tenants and their pets, so you can protect yourself from pet-related issues, check if a new tenant is a good fit to the current dynamic, and keep everyone happy.
 
