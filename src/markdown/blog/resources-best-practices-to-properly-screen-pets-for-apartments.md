@@ -24,6 +24,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: www.ourpetpolicy.com/post/practices-to-screen-pets-for-apartments
 ---
 Most landlords know that a generous pet policy that accepts virtually any animal without limitations is a recipe for disaster. While accommodating residents and their furry friends is important, safety and avoiding unnecessary risks should also be a priority.
 
