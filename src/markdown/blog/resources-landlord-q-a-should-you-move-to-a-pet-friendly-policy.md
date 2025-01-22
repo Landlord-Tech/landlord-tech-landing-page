@@ -25,6 +25,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/landlord-pet-friendly-policy
 ---
 The question of whether to have a no-pet policy versus being a pet-friendly residence is an age-old question for most landlords. But in recent years, with the emergence and soaring popularity of [Emotional Support Animals](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESAs), the question is no longer yes or no to being pet-friendly, but when? ESAs are protected by the Fair Housing Act, and individuals with ESAs may request reasonable accommodations to waive a “no pet policy.” Interestingly enough, the number of reports over the recent years regarding the surge of fake ESA letters has increased dramatically, making it a challenge to differentiate legitimate ESAs from fraudulent ESAs.
 
