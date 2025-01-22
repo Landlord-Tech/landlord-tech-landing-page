@@ -22,6 +22,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
 title: Why Pet Fees are an Essential Landlord Strategy
+canonicalUrl: https://www.ourpetpolicy.com/post/pet-fees
 ---
 Pet fees are a sensitive subject among both tenants and landlords. Many renters feel that these fees are an unfair tax that they’re forced to pay for having furry family members. As a landlord, this may cause you to hesitate to include pet rent and fees in your [pet policy](https://landlordtech.com/resources/the-true-cost-of-having-a-bad-pet-policy).
 
