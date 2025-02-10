@@ -22,6 +22,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/pet-screening-process
 ---
 [![L﻿earn more a﻿bout pet management software](/assets/residents_guide_to_pet_ownership-1-.png "L﻿earn more how to properly screen pets for your rental property with OurPetPolicy")](https://landlordtech.com/products)
 
