@@ -26,6 +26,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: https://ourpetpolicy.com/
   promo: true
+canonicalUrl: www.ourpetpolicy.com/post/what-you-need-to-know-as-a-landlord
 ---
 Pets are an increasingly common sight in houses and apartments across the United States. As remote work has taken hold, more of us want furry companions nearby to keep us company. Millennials are also having smaller families and delaying parenthood, allowing dogs and cats to occupy a more important part of their family units. 
 
