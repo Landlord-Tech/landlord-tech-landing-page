@@ -26,6 +26,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/pet-guarantee
 ---
 ![Boost income and cover damage expenses with a pet guarantee](/assets/manage_rental_property_with_pet_guarantee.png "manage_rental_property_with_pet_guarantee")
 
