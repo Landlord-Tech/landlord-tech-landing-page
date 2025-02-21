@@ -25,6 +25,7 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 title: Emotional Support Animals, Service Animals, and Pets. What’s the Difference?
+canonicalUrl: https://www.ourpetpolicy.com/post/esa-service-animals-pets-whats-the-difference
 ---
 Anyone that has a pet knows how significant their role in our lives can be. It’s no wonder that the two most common pets, dogs and cats, [numbered over 130 million in 2020](https://www.avma.org/resources-tools/reports-statistics/us-pet-ownership-statistics) in the US. Over the years, these furry friends have transformed into more than just household pets, they have become an integral part of many people’s physical and mental health. Understanding the differences between an emotional support animal, a service animal, and a pet is essential to understanding how to properly accommodate, manage, and appreciate these animals and those who rely on them.
 
