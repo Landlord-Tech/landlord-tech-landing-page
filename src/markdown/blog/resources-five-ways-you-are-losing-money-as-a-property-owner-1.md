@@ -25,6 +25,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/losing-money-as-a-property-owner
 ---
 As a property owner, you are probably already managing a host of expenses. Between regular inspections, routine repairs, and the unexpected maintenance issue that continues to crop up, it can feel like your costs are out of control sometimes. Unfortunately, many landlords fail to consider the many revenue and cost-savings opportunities that are readily available to them. Among all these opportunities, the best option lies in pet policies. 
 
