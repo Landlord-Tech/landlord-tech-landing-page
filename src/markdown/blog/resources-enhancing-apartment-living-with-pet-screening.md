@@ -23,6 +23,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/pet-screening
 ---
 With more than 70% of renters identifying as pet owners, property managers must consider their animals are part of the overall tenant application process. While resident screening is important, so too is screening for their furry companions. Failure to do so could lead to costly property damage, liability claims, and dissatisfied residents.
 
