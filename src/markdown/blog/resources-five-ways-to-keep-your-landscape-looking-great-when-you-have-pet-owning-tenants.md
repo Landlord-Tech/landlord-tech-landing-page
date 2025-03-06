@@ -22,6 +22,7 @@ promoSection:
     Professional pet policy contracts in minutes.
   promoTitle: We Manage Pets Better​
 title: Five Ways to Keep your Landscape Looking Great When You Have Pet-Owning Tenants
+canonicalUrl: https://www.ourpetpolicy.com/post/landscape-pet-owning-tenants
 ---
 Once you’ve weighed the pros and cons and [decided to allow pet-owning tenant(s)](https://landlordtech.com/resources/landlord-Q&A-should-you-move-to-a-pet-friendly-policy), the next decision tackles the issue of maintaining attractive landscaping and pet-friendly premises. Brown patches and animal waste are just a few of the potential negative side-effects pets can have on grass and landscaping.
 
