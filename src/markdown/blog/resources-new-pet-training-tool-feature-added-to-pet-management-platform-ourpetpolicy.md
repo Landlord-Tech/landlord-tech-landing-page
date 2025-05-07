@@ -22,6 +22,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: www.ourpetpolicy.com/post/new-pet-training-tool-feature
 ---
 ![Pet training tool for apartment management](/assets/pet_training_tool_feature_for_pet_management.png)
 
