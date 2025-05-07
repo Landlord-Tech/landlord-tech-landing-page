@@ -25,6 +25,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/pet-management-platforms-investment
 ---
 Pet adoption rates skyrocketed during the pandemic, and now pet-friendly properties are more in demand than ever. Oftentimes, landlord and property managers only see the perceived hassles that are involved in permitting pets on property. In today’s world, money is only being left on the table by not offering tenants an option to house their furry friends. They’ll just take their pets (and their money) elsewhere.
 
