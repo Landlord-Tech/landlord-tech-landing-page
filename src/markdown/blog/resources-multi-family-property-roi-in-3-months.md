@@ -26,6 +26,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/multi-family-property-sees-roi-in-3-months
 ---
 The Client was struggling with their pet program. There had been fraudulent ESA letters, significant [property damage](/resources/protecting-your-rental-property-from-pet-damage) and serious bit incidents. It had put a tremendous amount of stress on the [property management ](/resources/top-property-management-trends-of-2023)team, and was creating a bad reputation among tenants.
 
