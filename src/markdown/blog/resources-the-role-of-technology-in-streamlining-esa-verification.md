@@ -24,6 +24,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: www.ourpetpolicy.com/post/technology-in-streamlining-esa-verification
 ---
 It’s estimated that nearly a third of Americans who own pets have had a pet certified as an emotional support animal (ESA). As this number grows, landlords and property managers continue to grapple with [regulations protecting ESAs](https://landlordtech.com/resources/what-landlords-need-to-know-about-esas-in-2023/) while doing their best to ensure a positive living environment for all residents on the property.
 
