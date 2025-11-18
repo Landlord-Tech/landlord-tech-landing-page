@@ -26,6 +26,7 @@ promoSection:
   promoBtnUrl: /products/
   promo: true
 title: Protecting Your Rental Property from Pet Damage
+canonicalUrl: https://www.ourpetpolicy.com/post/protecting-your-rental-property-from-pet-damage
 ---
 A vast number of potential renters own pets and consider them part of the family. As a landlord, allowing pets in your properties widens the applicant pool and gives you a better chance of securing long-term, reliable tenants. However, it is also important that you safeguard your rental properties from pet damage. Doing so will save on repairs, extend the life of your property, and create a better renting experience for all of your pet-owning and pet-free tenants alike. Here are some tips on how to better protect your rentals that allow furry friends.
 
