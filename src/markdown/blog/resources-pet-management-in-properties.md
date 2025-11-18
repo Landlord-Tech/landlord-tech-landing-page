@@ -25,6 +25,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: https://ourpetpolicy.com/landlords/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/the-inside-scoop-on-esas
 ---
 As a landlord or property manager, you’ve likely had to review your fair share of [emotional support animal](https://landlordtech.com/resources/emotional-support-animals-service-animals-and-pets-whats-the-difference) (ESA) letters. While many renters do need the assistance that a support animal provides, others have been caught abusing the ESA system as a way to avoid pet deposits, fees, or more stringent pet policies in general. 
 
