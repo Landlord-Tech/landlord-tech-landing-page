@@ -25,6 +25,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/the-benefits-of-pet-management-software
 ---
 When you’re a property manager, pet management can be one of the more frustrating tasks you must handle. When you’re doing it manually, it can be even more daunting: filled with paperwork, miscommunications, and inefficiencies. 
 
