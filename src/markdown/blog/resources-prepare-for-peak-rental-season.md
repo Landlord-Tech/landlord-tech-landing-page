@@ -21,6 +21,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/prepare-for-peak-rental-season
 ---
 Between May and August, rental communities are swamped with prospective tenants (and their pets) seeking new places to live. If you haven’t already, now’s the time to prepare for the influx of interest and activity at your property. Apart from preparing staff and evaluating your inventory, there are some key priorities that property owners should keep in mind.
 
