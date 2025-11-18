@@ -22,6 +22,7 @@ promoSection:
   promoBtn: Learn More
   promoBtnUrl: /products/
   promo: true
+canonicalUrl: https://www.ourpetpolicy.com/post/pet-screening-in-keeping-your-property-safe
 ---
 When it comes to maintaining safety and peace of mind in rental properties, pets are a real risk factor. That’s why pet screening is essential for property owners looking to keep everything running smoothly. Failure to [properly screen and manage pets](https://landlordtech.com/resources/best-practices-to-properly-screen-pets-for-apartments) can lead to various issues, from property damage to increased liability that no one wants to deal with. The following information will help avoid these pitfalls and ultimately lead to better pet-friendly rental properties.
 
